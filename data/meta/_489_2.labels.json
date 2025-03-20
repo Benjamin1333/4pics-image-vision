@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Dress shirt",
+          "mid": "/m/06hwcd",
+          "score": 0.8830415,
+          "topicality": 0.0019482212
+        },
+        {
+          "description": "Clothes iron",
+          "mid": "/m/04jphh9",
+          "score": 0.8276029,
+          "topicality": 0.14316432
+        },
+        {
+          "description": "Pocket",
+          "mid": "/m/025rhd",
+          "score": 0.54616797,
+          "topicality": 0.00083620334
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Urban area",
+          "mid": "/m/039jbq",
+          "score": 0.96368206,
+          "topicality": 0.0028644153
+        },
+        {
+          "description": "City",
+          "mid": "/m/01n32",
+          "score": 0.9628852,
+          "topicality": 0.1696847
+        },
+        {
+          "description": "Neighbourhood",
+          "mid": "/m/0180xr",
+          "score": 0.9339343,
+          "topicality": 0.0020106568
+        },
+        {
+          "description": "Landmark",
+          "mid": "/m/05_5t0l",
+          "score": 0.9166135,
+          "topicality": 0.024006682
+        },
+        {
+          "description": "Human settlement",
+          "mid": "/m/0fpdgl",
+          "score": 0.8870029,
+          "topicality": 0.003103142
+        },
+        {
+          "description": "Tower",
+          "mid": "/m/01fdzj",
+          "score": 0.8588559,
+          "topicality": 0.04445928
+        },
+        {
+          "description": "Cityscape",
+          "mid": "/m/034z7h",
+          "score": 0.72124064,
+          "topicality": 0.010794351
+        },
+        {
+          "description": "Aerial photography",
+          "mid": "/m/01w5c_",
+          "score": 0.58867246,
+          "topicality": 0.05339749
+        },
+        {
+          "description": "Bird's-eye view",
+          "mid": "/m/08863x",
+          "score": 0.54569143,
+          "topicality": 0.10033015
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Handcuffs",
+          "mid": "/m/016h1k",
+          "score": 0.9322649,
+          "topicality": 0.73403686
+        },
+        {
+          "description": "Security",
+          "mid": "/m/0bg2p",
+          "score": 0.83900034,
+          "topicality": 0.24427204
+        },
+        {
+          "description": "Strap",
+          "mid": "/m/04lzmz",
+          "score": 0.7739635,
+          "topicality": 0.010484972
+        },
+        {
+          "description": "Law enforcement",
+          "mid": "/m/0gty6zf",
+          "score": 0.71437776,
+          "topicality": 0.011020624
+        },
+        {
+          "description": "Pocket",
+          "mid": "/m/025rhd",
+          "score": 0.70346177,
+          "topicality": 0.0134347
+        },
+        {
+          "description": "Belt",
+          "mid": "/m/0176mf",
+          "score": 0.6377434,
+          "topicality": 0.014164367
+        },
+        {
+          "description": "Leather",
+          "mid": "/m/04lbp",
+          "score": 0.59640163,
+          "topicality": 0.0456265
+        }
+      ]
+    }
+  ]
+}

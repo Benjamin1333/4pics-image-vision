@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Water",
+          "mid": "/m/0838f",
+          "score": 0.9835357,
+          "topicality": 0.07010728
+        },
+        {
+          "description": "Water resources",
+          "mid": "/m/015s2f",
+          "score": 0.98291653,
+          "topicality": 0.002802653
+        },
+        {
+          "description": "Body of water",
+          "mid": "/m/03ktm1",
+          "score": 0.9795047,
+          "topicality": 0.007080012
+        },
+        {
+          "description": "Coastal and oceanic landforms",
+          "mid": "/m/02c9_23",
+          "score": 0.95861745,
+          "topicality": 0.0013645813
+        },
+        {
+          "description": "Natural landscape",
+          "mid": "/m/03d28y3",
+          "score": 0.95313424,
+          "topicality": 0.0065436875
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.94473505,
+          "topicality": 0.3160343
+        },
+        {
+          "description": "Island",
+          "mid": "/m/03s0c",
+          "score": 0.9330568,
+          "topicality": 0.7713453
+        },
+        {
+          "description": "Coast",
+          "mid": "/m/01lxd",
+          "score": 0.92899466,
+          "topicality": 0.08592456
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.91490847,
+          "topicality": 0.052864563
+        },
+        {
+          "description": "Islet",
+          "mid": "/m/01jyr1",
+          "score": 0.88455796,
+          "topicality": 0.1308275
+        }
+      ]
+    }
+  ]
+}

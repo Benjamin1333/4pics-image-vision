@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Gun",
+          "mid": "/m/032rk",
+          "score": 0.9816046,
+          "topicality": 0.09169665
+        },
+        {
+          "description": "Handgun holster",
+          "mid": "/m/052rln",
+          "score": 0.9810539,
+          "topicality": 0.9942159
+        },
+        {
+          "description": "Firearm",
+          "mid": "/m/034qg",
+          "score": 0.978769,
+          "topicality": 0.08607409
+        },
+        {
+          "description": "Revolver",
+          "mid": "/m/06fk8",
+          "score": 0.96432346,
+          "topicality": 0.11392706
+        },
+        {
+          "description": "Leather",
+          "mid": "/m/04lbp",
+          "score": 0.9083407,
+          "topicality": 0.6866531
+        },
+        {
+          "description": "Air gun",
+          "mid": "/m/012fyw",
+          "score": 0.8631261,
+          "topicality": 0.0011371628
+        },
+        {
+          "description": "Gun barrel",
+          "mid": "/m/02zn54",
+          "score": 0.8134057,
+          "topicality": 0.0072589424
+        },
+        {
+          "description": "Everyday carry",
+          "mid": "/m/03ybby4",
+          "score": 0.61449444,
+          "topicality": 0.012098314
+        },
+        {
+          "description": "Trigger",
+          "mid": "/m/0cdn2d",
+          "score": 0.54514927,
+          "topicality": 0.009649756
+        },
+        {
+          "description": "Starting pistol",
+          "mid": "/m/0ct6hx",
+          "score": 0.5405173,
+          "topicality": 0.0014659032
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bridge",
+          "mid": "/m/015kr",
+          "score": 0.9828271,
+          "topicality": 0.26924172
+        },
+        {
+          "description": "Concrete bridge",
+          "mid": "/m/05mf2t",
+          "score": 0.9374821,
+          "topicality": 0.10871606
+        },
+        {
+          "description": "Overpass",
+          "mid": "/m/02500f",
+          "score": 0.92826253,
+          "topicality": 0.17906007
+        },
+        {
+          "description": "Beam bridge",
+          "mid": "/m/054v5h",
+          "score": 0.9143161,
+          "topicality": 0.043543734
+        },
+        {
+          "description": "Composite material",
+          "mid": "/m/014qzr",
+          "score": 0.8846743,
+          "topicality": 0.0019168558
+        },
+        {
+          "description": "List of nonbuilding structure types",
+          "mid": "/m/0df8xq",
+          "score": 0.8646823,
+          "topicality": 0.00025845453
+        },
+        {
+          "description": "Concrete",
+          "mid": "/m/01mxf",
+          "score": 0.86135,
+          "topicality": 0.05340269
+        },
+        {
+          "description": "Girder bridge",
+          "mid": "/m/0d0h0h",
+          "score": 0.8020381,
+          "topicality": 0.05847482
+        },
+        {
+          "description": "Column",
+          "mid": "/m/01_m7",
+          "score": 0.801045,
+          "topicality": 0.0014660736
+        },
+        {
+          "description": "Segmental bridge",
+          "mid": "/m/08p0zr",
+          "score": 0.73021173,
+          "topicality": 0.030907873
+        }
+      ]
+    }
+  ]
+}

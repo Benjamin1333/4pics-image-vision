@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Aircraft",
+          "mid": "/m/0k5j",
+          "score": 0.99105674,
+          "topicality": 0.14955202
+        },
+        {
+          "description": "Fixed-wing aircraft",
+          "mid": "/m/0cmf2",
+          "score": 0.9850834,
+          "topicality": 0.20674992
+        },
+        {
+          "description": "Vehicle",
+          "mid": "/m/07yv9",
+          "score": 0.98400503,
+          "topicality": 0.0030983135
+        },
+        {
+          "description": "Fighter aircraft",
+          "mid": "/m/02yjc",
+          "score": 0.9692027,
+          "topicality": 0.48587292
+        },
+        {
+          "description": "Military aircraft",
+          "mid": "/m/0f5lx",
+          "score": 0.9641705,
+          "topicality": 0.12263713
+        },
+        {
+          "description": "Aviation",
+          "mid": "/m/0fzyg",
+          "score": 0.93971366,
+          "topicality": 0.13729548
+        },
+        {
+          "description": "Jet aircraft",
+          "mid": "/m/015y8h",
+          "score": 0.927023,
+          "topicality": 0.16328451
+        },
+        {
+          "description": "Wing",
+          "mid": "/m/083s2",
+          "score": 0.9029847,
+          "topicality": 0.028634703
+        },
+        {
+          "description": "Aerospace Engineering",
+          "mid": "/m/0w7s",
+          "score": 0.8956989,
+          "topicality": 0.003089098
+        },
+        {
+          "description": "Attack aircraft",
+          "mid": "/m/018rc1",
+          "score": 0.880147,
+          "topicality": 0.013823729
+        }
+      ]
+    }
+  ]
+}

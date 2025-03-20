@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Incandescent light bulb",
+          "mid": "/m/0cpk7",
+          "score": 0.89615285,
+          "topicality": 0.43975052
+        },
+        {
+          "description": "Light Bulb",
+          "mid": "/m/0h8l4fh",
+          "score": 0.7475776,
+          "topicality": 0.0061030663
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.5953508,
+          "topicality": 0.06154546
+        },
+        {
+          "description": "Lens flare",
+          "mid": "/m/017bm6",
+          "score": 0.5843227,
+          "topicality": 0.002065891
+        },
+        {
+          "description": "Night",
+          "mid": "/m/01d74z",
+          "score": 0.5524509,
+          "topicality": 0.006545592
+        },
+        {
+          "description": "Compact fluorescent lamp",
+          "mid": "/m/04gvd_",
+          "score": 0.50365764,
+          "topicality": 0.093048885
+        }
+      ]
+    }
+  ]
+}

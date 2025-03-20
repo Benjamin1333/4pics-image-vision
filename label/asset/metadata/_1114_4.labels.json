@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Pipe",
+          "mid": "/m/09w9qp",
+          "score": 0.9324559,
+          "topicality": 0.2084211
+        },
+        {
+          "description": "Monochrome photography",
+          "mid": "/m/03d49p1",
+          "score": 0.92478096,
+          "topicality": 0.00538785
+        },
+        {
+          "description": "Monochrome",
+          "mid": "/m/01mwkf",
+          "score": 0.8594637,
+          "topicality": 0.013032143
+        },
+        {
+          "description": "Grey",
+          "mid": "/m/036k5h",
+          "score": 0.8293831,
+          "topicality": 0.0026093104
+        },
+        {
+          "description": "Cylinder",
+          "mid": "/m/03h_4m",
+          "score": 0.81441927,
+          "topicality": 0.008954927
+        },
+        {
+          "description": "Black and white",
+          "mid": "/m/01g6gs",
+          "score": 0.7953635,
+          "topicality": 0.01058383
+        },
+        {
+          "description": "Pipeline transport",
+          "mid": "/m/0dh21",
+          "score": 0.68921864,
+          "topicality": 0.10597116
+        },
+        {
+          "description": "Plumbing Fitting",
+          "mid": "/m/0h8knnb",
+          "score": 0.6442658,
+          "topicality": 0.0010738627
+        },
+        {
+          "description": "Still life photography",
+          "mid": "/m/027_ny3",
+          "score": 0.63695985,
+          "topicality": 8.450531e-05
+        }
+      ]
+    }
+  ]
+}

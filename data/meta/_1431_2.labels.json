@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.93544894,
+          "topicality": 0.034440126
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.90505284,
+          "topicality": 0.013059219
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.89752156,
+          "topicality": 0.0056533366
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.86617327,
+          "topicality": 0.110447966
+        },
+        {
+          "description": "Popcorn",
+          "mid": "/m/01hrv5",
+          "score": 0.71076643,
+          "topicality": 0.15126231
+        },
+        {
+          "description": "Party",
+          "mid": "/m/05_4_",
+          "score": 0.66698134,
+          "topicality": 0.10047927
+        },
+        {
+          "description": "Taste",
+          "mid": "/m/0cp_p",
+          "score": 0.6313041,
+          "topicality": 0.005391536
+        },
+        {
+          "description": "Sunglasses",
+          "mid": "/m/017ftj",
+          "score": 0.62938356,
+          "topicality": 0.0056827078
+        },
+        {
+          "description": "Kettle corn",
+          "mid": "/m/06yjnj",
+          "score": 0.62802225,
+          "topicality": 0.0020677845
+        },
+        {
+          "description": "Comfort food",
+          "mid": "/m/04q6ng",
+          "score": 0.5963866,
+          "topicality": 0.0030234947
+        }
+      ]
+    }
+  ]
+}

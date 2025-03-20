@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Toe",
+          "mid": "/m/01d_ff",
+          "score": 0.9824436,
+          "topicality": 0.43080196
+        },
+        {
+          "description": "Barefoot",
+          "mid": "/m/049lwx",
+          "score": 0.9767492,
+          "topicality": 0.29894823
+        },
+        {
+          "description": "Foot",
+          "mid": "/m/031n1",
+          "score": 0.95754725,
+          "topicality": 0.7974148
+        },
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.9500951,
+          "topicality": 0.020361919
+        },
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.94231886,
+          "topicality": 0.07622959
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.93559206,
+          "topicality": 0.13878584
+        },
+        {
+          "description": "Nail polish",
+          "mid": "/m/04030j",
+          "score": 0.87067825,
+          "topicality": 0.005625696
+        },
+        {
+          "description": "Nail Care",
+          "mid": "/m/0h8nm6p",
+          "score": 0.8636344,
+          "topicality": 0.0021295694
+        },
+        {
+          "description": "Ankle",
+          "mid": "/m/01xlvy",
+          "score": 0.77253157,
+          "topicality": 0.109205246
+        },
+        {
+          "description": "Flesh",
+          "mid": "/m/02p16m6",
+          "score": 0.6476064,
+          "topicality": 0.00072606455
+        }
+      ]
+    }
+  ]
+}

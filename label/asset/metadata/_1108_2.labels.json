@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Big hole bead",
+          "mid": "/m/0g9x9pj",
+          "score": 0.815751,
+          "topicality": 0.085350096
+        },
+        {
+          "description": "Body Jewelry",
+          "mid": "/m/0h8kxbv",
+          "score": 0.8130415,
+          "topicality": 0.00011746927
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.73617154,
+          "topicality": 0.005325893
+        },
+        {
+          "description": "Jewelry Making",
+          "mid": "/m/0h8m0jf",
+          "score": 0.69513327,
+          "topicality": 0.0024999822
+        },
+        {
+          "description": "Natural material",
+          "mid": "/m/07sx2n",
+          "score": 0.6856782,
+          "topicality": 0.00024098544
+        },
+        {
+          "description": "Bead",
+          "mid": "/m/015m2",
+          "score": 0.6409954,
+          "topicality": 0.15216118
+        },
+        {
+          "description": "Nickel",
+          "mid": "/m/025s4r7",
+          "score": 0.55328673,
+          "topicality": 0.00029942158
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/025sf8x",
+          "score": 0.51555884,
+          "topicality": 0.032954082
+        }
+      ]
+    }
+  ]
+}

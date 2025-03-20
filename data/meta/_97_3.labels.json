@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Number",
+          "mid": "/m/05fwb",
+          "score": 0.91731256,
+          "topicality": 0.13317735
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.9007598,
+          "topicality": 0.0031161779
+        },
+        {
+          "description": "Calendar",
+          "mid": "/m/01mzw",
+          "score": 0.76595443,
+          "topicality": 0.20621443
+        },
+        {
+          "description": "Watch",
+          "mid": "/m/0gjkl",
+          "score": 0.76035446,
+          "topicality": 0.004984991
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.69712776,
+          "topicality": 0.00047922457
+        },
+        {
+          "description": "Clock",
+          "mid": "/m/01x3z",
+          "score": 0.68180376,
+          "topicality": 0.33988434
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.67880976,
+          "topicality": 0.0017968626
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.64404404,
+          "topicality": 0.01604748
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.5850714,
+          "topicality": 0.004980029
+        }
+      ]
+    }
+  ]
+}

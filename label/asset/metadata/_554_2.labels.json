@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Weights",
+          "mid": "/m/0hzsv",
+          "score": 0.9154748,
+          "topicality": 0.01020337
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.826981,
+          "topicality": 0.03157118
+        },
+        {
+          "description": "Barbell",
+          "mid": "/m/03_163",
+          "score": 0.651551,
+          "topicality": 0.13269548
+        },
+        {
+          "description": "Exercise equipment",
+          "mid": "/m/090ljv",
+          "score": 0.62053114,
+          "topicality": 0.09068003
+        },
+        {
+          "description": "Animation",
+          "mid": "/m/0hcr",
+          "score": 0.57154584,
+          "topicality": 0.00015986923
+        },
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.5393008,
+          "topicality": 0.17453532
+        },
+        {
+          "description": "Animated cartoon",
+          "mid": "/m/095bb",
+          "score": 0.5385599,
+          "topicality": 0.0002537003
+        },
+        {
+          "description": "Dumbbell",
+          "mid": "/m/04h8sr",
+          "score": 0.53648883,
+          "topicality": 0.10130705
+        },
+        {
+          "description": "Free Weight Bar",
+          "mid": "/m/0h8m4bf",
+          "score": 0.5105324,
+          "topicality": 0.008119252
+        }
+      ]
+    }
+  ]
+}

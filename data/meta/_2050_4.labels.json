@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bag",
+          "mid": "/m/0n5v01m",
+          "score": 0.98405695,
+          "topicality": 0.071216464
+        },
+        {
+          "description": "Military Person",
+          "mid": "/m/02h66g5",
+          "score": 0.9791053,
+          "topicality": 0.0014915313
+        },
+        {
+          "description": "Military camouflage",
+          "mid": "/m/09l63h",
+          "score": 0.9778251,
+          "topicality": 0.20826192
+        },
+        {
+          "description": "Soldier",
+          "mid": "/m/099md",
+          "score": 0.9772068,
+          "topicality": 0.16634478
+        },
+        {
+          "description": "Backpack",
+          "mid": "/m/01940j",
+          "score": 0.96825016,
+          "topicality": 0.3701571
+        },
+        {
+          "description": "Camouflage",
+          "mid": "/m/01x2j",
+          "score": 0.96572596,
+          "topicality": 0.17390692
+        },
+        {
+          "description": "Uniform",
+          "mid": "/m/09jfs",
+          "score": 0.9578704,
+          "topicality": 0.019921986
+        },
+        {
+          "description": "Military uniform",
+          "mid": "/m/03w1r4",
+          "score": 0.954494,
+          "topicality": 0.057745755
+        },
+        {
+          "description": "Army",
+          "mid": "/m/0pd7",
+          "score": 0.9447682,
+          "topicality": 0.112298094
+        },
+        {
+          "description": "Cargo pants",
+          "mid": "/m/08k64l",
+          "score": 0.93953913,
+          "topicality": 0.0132207675
+        }
+      ]
+    }
+  ]
+}

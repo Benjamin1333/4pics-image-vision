@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bottle",
+          "mid": "/m/04dr76w",
+          "score": 0.97367287,
+          "topicality": 0.15460527
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.9213061,
+          "topicality": 0.000731247
+        },
+        {
+          "description": "Alcoholic drink",
+          "mid": "/m/012mj",
+          "score": 0.9208692,
+          "topicality": 0.16309556
+        },
+        {
+          "description": "Glass bottle",
+          "mid": "/m/089mxq",
+          "score": 0.8553778,
+          "topicality": 0.01046222
+        },
+        {
+          "description": "Wine",
+          "mid": "/m/081qc",
+          "score": 0.84880984,
+          "topicality": 0.7553367
+        },
+        {
+          "description": "Dessert wine",
+          "mid": "/m/0fqm_",
+          "score": 0.7777683,
+          "topicality": 0.03103282
+        },
+        {
+          "description": "Red Wine",
+          "mid": "/m/02wsb20",
+          "score": 0.75543606,
+          "topicality": 0.30384967
+        },
+        {
+          "description": "Wine bottle",
+          "mid": "/m/020p1v",
+          "score": 0.75158286,
+          "topicality": 0.24654675
+        },
+        {
+          "description": "Alcohol",
+          "mid": "/m/0lqk",
+          "score": 0.7394872,
+          "topicality": 0.053748846
+        },
+        {
+          "description": "Liquor",
+          "mid": "/m/04shl0",
+          "score": 0.71101063,
+          "topicality": 0.0318225
+        }
+      ]
+    }
+  ]
+}

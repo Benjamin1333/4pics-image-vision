@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Piggy bank",
+          "mid": "/m/01j9jk",
+          "score": 0.94767183,
+          "topicality": 0.7957122
+        },
+        {
+          "description": "Suidae",
+          "mid": "/m/020bgr",
+          "score": 0.9366623,
+          "topicality": 0.010382054
+        },
+        {
+          "description": "Domestic pig",
+          "mid": "/m/078qb0",
+          "score": 0.9205905,
+          "topicality": 0.1556584
+        },
+        {
+          "description": "Saving",
+          "mid": "/m/0hbm6",
+          "score": 0.9189965,
+          "topicality": 0.49819905
+        },
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.91836536,
+          "topicality": 0.08290161
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.7943463,
+          "topicality": 0.00013362797
+        },
+        {
+          "description": "Money Handling",
+          "mid": "/m/0h8n2s1",
+          "score": 0.73736256,
+          "topicality": 0.00021847607
+        },
+        {
+          "description": "Money",
+          "mid": "/m/04_x4",
+          "score": 0.7368245,
+          "topicality": 0.08757544
+        },
+        {
+          "description": "Cash",
+          "mid": "/m/0fd6q",
+          "score": 0.7276549,
+          "topicality": 0.0036000845
+        },
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.5949657,
+          "topicality": 0.060757495
+        }
+      ]
+    }
+  ]
+}

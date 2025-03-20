@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Peace symbols",
+          "mid": "/m/01psxn",
+          "score": 0.9354921,
+          "topicality": 0.9808113
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.68616635,
+          "topicality": 0.0266562
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.66681075,
+          "topicality": 0.009441331
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.652808,
+          "topicality": 0.036578137
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.5522018,
+          "topicality": 0.0033237825
+        }
+      ]
+    }
+  ]
+}

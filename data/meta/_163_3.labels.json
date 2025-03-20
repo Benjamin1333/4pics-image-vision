@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Astronomical object",
+          "mid": "/m/01d9ll",
+          "score": 0.9620438,
+          "topicality": 0.11919717
+        },
+        {
+          "description": "Star",
+          "mid": "/m/06ngk",
+          "score": 0.95329213,
+          "topicality": 0.80405635
+        },
+        {
+          "description": "Night",
+          "mid": "/m/01d74z",
+          "score": 0.9399702,
+          "topicality": 0.100672126
+        },
+        {
+          "description": "Astronomy",
+          "mid": "/m/0dc_v",
+          "score": 0.9080373,
+          "topicality": 0.26153776
+        },
+        {
+          "description": "Constellation",
+          "mid": "/m/01m3b",
+          "score": 0.88559806,
+          "topicality": 0.8174423
+        },
+        {
+          "description": "Universe",
+          "mid": "/m/07v7c",
+          "score": 0.85607183,
+          "topicality": 0.29190528
+        },
+        {
+          "description": "Outer space",
+          "mid": "/m/01833w",
+          "score": 0.79013693,
+          "topicality": 0.10896178
+        },
+        {
+          "description": "Galaxy",
+          "mid": "/m/039b5",
+          "score": 0.7431269,
+          "topicality": 0.16085291
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.70573485,
+          "topicality": 0.004089528
+        },
+        {
+          "description": "Midnight",
+          "mid": "/m/01kv7h",
+          "score": 0.68719095,
+          "topicality": 0.001526473
+        }
+      ]
+    }
+  ]
+}

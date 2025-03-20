@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.97453463,
+          "topicality": 0.10674165
+        },
+        {
+          "description": "Paper",
+          "mid": "/m/0641k",
+          "score": 0.7967283,
+          "topicality": 0.30757976
+        },
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.7651606,
+          "topicality": 0.0009637994
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.6644742,
+          "topicality": 0.016568895
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6211552,
+          "topicality": 0.0021080687
+        }
+      ]
+    }
+  ]
+}

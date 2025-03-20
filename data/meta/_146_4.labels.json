@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Decorative Fan",
+          "mid": "/m/0hgs0wq",
+          "score": 0.9719176,
+          "topicality": 0.021441136
+        },
+        {
+          "description": "Hand fan",
+          "mid": "/m/02p0_8y",
+          "score": 0.9565674,
+          "topicality": 0.83058214
+        },
+        {
+          "description": "Money",
+          "mid": "/m/04_x4",
+          "score": 0.7503694,
+          "topicality": 0.11062418
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.68541294,
+          "topicality": 0.013574466
+        },
+        {
+          "description": "Cash",
+          "mid": "/m/0fd6q",
+          "score": 0.6390245,
+          "topicality": 0.040682543
+        },
+        {
+          "description": "Currency",
+          "mid": "/m/01q7l",
+          "score": 0.62061256,
+          "topicality": 0.010904094
+        }
+      ]
+    }
+  ]
+}

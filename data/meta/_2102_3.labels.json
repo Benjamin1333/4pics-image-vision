@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.98595476,
+          "topicality": 0.15806626
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.94764626,
+          "topicality": 0.07501448
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.930333,
+          "topicality": 0.00046253725
+        },
+        {
+          "description": "Retail",
+          "mid": "/m/0191_7",
+          "score": 0.9158817,
+          "topicality": 0.0007264691
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.9027692,
+          "topicality": 0.006113848
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.8541416,
+          "topicality": 0.003685681
+        },
+        {
+          "description": "Food group",
+          "mid": "/m/08fw1g",
+          "score": 0.81062585,
+          "topicality": 0.0014381824
+        },
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.79339415,
+          "topicality": 0.042815506
+        },
+        {
+          "description": "Market",
+          "mid": "/m/09y4pm",
+          "score": 0.79074675,
+          "topicality": 0.16231836
+        },
+        {
+          "description": "Greengrocer",
+          "mid": "/m/03hk59",
+          "score": 0.77296865,
+          "topicality": 0.16843869
+        }
+      ]
+    }
+  ]
+}

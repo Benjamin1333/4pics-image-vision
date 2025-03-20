@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.9727572,
+          "topicality": 0.6514073
+        },
+        {
+          "description": "Hand",
+          "mid": "/m/0k65p",
+          "score": 0.96906626,
+          "topicality": 0.77972156
+        },
+        {
+          "description": "Wrist",
+          "mid": "/m/01j48b",
+          "score": 0.8882926,
+          "topicality": 0.14841089
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.8825304,
+          "topicality": 0.3593807
+        },
+        {
+          "description": "Thumb",
+          "mid": "/m/01bmhj",
+          "score": 0.85522234,
+          "topicality": 0.56130445
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.74418366,
+          "topicality": 0.008950862
+        },
+        {
+          "description": "Sign language",
+          "mid": "/m/06x0q",
+          "score": 0.58580565,
+          "topicality": 0.17893724
+        }
+      ]
+    }
+  ]
+}

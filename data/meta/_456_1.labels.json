@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Land vehicle",
+          "mid": "/m/01prls",
+          "score": 0.98613,
+          "topicality": 0.0022265883
+        },
+        {
+          "description": "Car",
+          "mid": "/m/0k4j",
+          "score": 0.9833142,
+          "topicality": 0.1304244
+        },
+        {
+          "description": "Motor vehicle",
+          "mid": "/m/012f08",
+          "score": 0.97058326,
+          "topicality": 0.0076832203
+        },
+        {
+          "description": "Automotive Tire",
+          "mid": "/m/0h8pb3l",
+          "score": 0.9307554,
+          "topicality": 1.38543255e-05
+        },
+        {
+          "description": "Scrap",
+          "mid": "/m/043520",
+          "score": 0.91663533,
+          "topicality": 0.12254617
+        },
+        {
+          "description": "Traffic collision",
+          "mid": "/m/08q1tg",
+          "score": 0.83825076,
+          "topicality": 0.33061036
+        },
+        {
+          "description": "Car door",
+          "mid": "/m/02q2kc3",
+          "score": 0.8205206,
+          "topicality": 0.00010801652
+        },
+        {
+          "description": "Hood",
+          "mid": "/m/02df64",
+          "score": 0.7755915,
+          "topicality": 0.0023418365
+        },
+        {
+          "description": "Bumper",
+          "mid": "/m/02mnkq",
+          "score": 0.76679534,
+          "topicality": 0.00020800543
+        },
+        {
+          "description": "Rust",
+          "mid": "/m/06lml",
+          "score": 0.5231714,
+          "topicality": 0.017672867
+        }
+      ]
+    }
+  ]
+}

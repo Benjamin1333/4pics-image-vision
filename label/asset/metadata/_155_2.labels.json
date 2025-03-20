@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Audio equipment",
+          "mid": "/m/01yttv",
+          "score": 0.98733526,
+          "topicality": 0.00512767
+        },
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.97313845,
+          "topicality": 0.0020343107
+        },
+        {
+          "description": "Microphone",
+          "mid": "/m/0hg7b",
+          "score": 0.96074736,
+          "topicality": 0.7459958
+        },
+        {
+          "description": "Entertainment",
+          "mid": "/m/02jjt",
+          "score": 0.8532511,
+          "topicality": 0.0026662066
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.83644164,
+          "topicality": 0.0038447971
+        },
+        {
+          "description": "Public address system",
+          "mid": "/m/02jf2p",
+          "score": 0.8211261,
+          "topicality": 0.018469326
+        },
+        {
+          "description": "Singing",
+          "mid": "/m/015lz1",
+          "score": 0.76766825,
+          "topicality": 0.24736804
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.7518864,
+          "topicality": 0.02355551
+        },
+        {
+          "description": "Performance",
+          "mid": "/m/01gq53",
+          "score": 0.71309733,
+          "topicality": 0.0018038631
+        },
+        {
+          "description": "Song",
+          "mid": "/m/074ft",
+          "score": 0.669271,
+          "topicality": 0.039071735
+        }
+      ]
+    }
+  ]
+}

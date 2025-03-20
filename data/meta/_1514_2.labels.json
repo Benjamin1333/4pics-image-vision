@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.9894955,
+          "topicality": 0.02002137
+        },
+        {
+          "description": "Sky",
+          "mid": "/m/01bqvp",
+          "score": 0.98947746,
+          "topicality": 0.032564655
+        },
+        {
+          "description": "Water",
+          "mid": "/m/0838f",
+          "score": 0.985324,
+          "topicality": 0.21748707
+        },
+        {
+          "description": "Water resources",
+          "mid": "/m/015s2f",
+          "score": 0.98194736,
+          "topicality": 0.08873728
+        },
+        {
+          "description": "Body of water",
+          "mid": "/m/03ktm1",
+          "score": 0.9811114,
+          "topicality": 0.046504006
+        },
+        {
+          "description": "Cloud",
+          "mid": "/m/0csby",
+          "score": 0.9807337,
+          "topicality": 0.044835374
+        },
+        {
+          "description": "Nature",
+          "mid": "/m/05h0n",
+          "score": 0.9788878,
+          "topicality": 0.31975868
+        },
+        {
+          "description": "Green",
+          "mid": "/m/038hg",
+          "score": 0.97596455,
+          "topicality": 0.0075024003
+        },
+        {
+          "description": "Natural landscape",
+          "mid": "/m/03d28y3",
+          "score": 0.9746055,
+          "topicality": 0.14180765
+        },
+        {
+          "description": "Reflection",
+          "mid": "/m/02l215",
+          "score": 0.9454518,
+          "topicality": 0.42023414
+        }
+      ]
+    }
+  ]
+}

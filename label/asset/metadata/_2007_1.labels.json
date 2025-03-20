@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Personal care",
+          "mid": "/m/02w3_ws",
+          "score": 0.8925039,
+          "topicality": 0.017359946
+        },
+        {
+          "description": "Cream",
+          "mid": "/m/08p92x",
+          "score": 0.890827,
+          "topicality": 0.5996551
+        },
+        {
+          "description": "Chamomile",
+          "mid": "/m/011bc8hg",
+          "score": 0.7895087,
+          "topicality": 0.471042
+        },
+        {
+          "description": "Skin Care",
+          "mid": "/m/0h8nrxj",
+          "score": 0.72548896,
+          "topicality": 0.0032889561
+        },
+        {
+          "description": "Cosmetics",
+          "mid": "/m/014trl",
+          "score": 0.7248028,
+          "topicality": 0.043340236
+        },
+        {
+          "description": "Dairy product",
+          "mid": "/m/0284d",
+          "score": 0.70730406,
+          "topicality": 0.0019921798
+        },
+        {
+          "description": "Cream",
+          "mid": "/m/01tv9",
+          "score": 0.6427931,
+          "topicality": 0.0178448
+        },
+        {
+          "description": "Roman chamomile",
+          "mid": "/m/05cmcg",
+          "score": 0.63465923,
+          "topicality": 0.11883424
+        },
+        {
+          "description": "Lotion",
+          "mid": "/m/0cf417",
+          "score": 0.5938943,
+          "topicality": 0.021569569
+        },
+        {
+          "description": "Thickening agent",
+          "mid": "/m/07kfhk",
+          "score": 0.5829428,
+          "topicality": 0.0032728778
+        }
+      ]
+    }
+  ]
+}

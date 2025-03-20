@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.96722245,
+          "topicality": 0.001567874
+        },
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.94120616,
+          "topicality": 0.038009856
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.93709123,
+          "topicality": 0.024177859
+        },
+        {
+          "description": "Telephony",
+          "mid": "/m/0bhmh",
+          "score": 0.9247644,
+          "topicality": 0.06586415
+        },
+        {
+          "description": "Mobile phone",
+          "mid": "/m/050k8",
+          "score": 0.92379194,
+          "topicality": 0.13553731
+        },
+        {
+          "description": "Communication Device",
+          "mid": "/m/0glmwd6",
+          "score": 0.8939103,
+          "topicality": 0.00041304497
+        },
+        {
+          "description": "Eyelash",
+          "mid": "/m/03f52z",
+          "score": 0.8682293,
+          "topicality": 0.0050352123
+        },
+        {
+          "description": "Mobile device",
+          "mid": "/m/030swj",
+          "score": 0.8545919,
+          "topicality": 0.01628474
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8469951,
+          "topicality": 0.01883365
+        },
+        {
+          "description": "Blond",
+          "mid": "/m/0294jb",
+          "score": 0.8441557,
+          "topicality": 0.019217294
+        }
+      ]
+    }
+  ]
+}

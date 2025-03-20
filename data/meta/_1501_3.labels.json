@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electrophone",
+          "mid": "/m/0121tl",
+          "score": 0.8597726,
+          "topicality": 0.00010220364
+        },
+        {
+          "description": "Electronic musical instrument",
+          "mid": "/m/02qjv",
+          "score": 0.79795307,
+          "topicality": 0.0036335
+        },
+        {
+          "description": "Guitar amplifier",
+          "mid": "/m/01vfsf",
+          "score": 0.795521,
+          "topicality": 0.9490887
+        },
+        {
+          "description": "Musical instrument",
+          "mid": "/m/04szw",
+          "score": 0.73078763,
+          "topicality": 0.04515807
+        },
+        {
+          "description": "Chordophone",
+          "mid": "/m/011_f4",
+          "score": 0.5742518,
+          "topicality": 0.0002298262
+        },
+        {
+          "description": "Guitar",
+          "mid": "/m/0342h",
+          "score": 0.51332843,
+          "topicality": 0.22392516
+        }
+      ]
+    }
+  ]
+}

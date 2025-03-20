@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Water resources",
+          "mid": "/m/015s2f",
+          "score": 0.9848735,
+          "topicality": 0.0034323672
+        },
+        {
+          "description": "Water",
+          "mid": "/m/0838f",
+          "score": 0.9834642,
+          "topicality": 0.21574284
+        },
+        {
+          "description": "Wave",
+          "mid": "/m/02p0sll",
+          "score": 0.9821755,
+          "topicality": 0.60125345
+        },
+        {
+          "description": "Body of water",
+          "mid": "/m/03ktm1",
+          "score": 0.9795404,
+          "topicality": 0.003444396
+        },
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9684712,
+          "topicality": 0.0023720923
+        },
+        {
+          "description": "Wind wave",
+          "mid": "/m/034srq",
+          "score": 0.9676926,
+          "topicality": 0.60908467
+        },
+        {
+          "description": "Fluid",
+          "mid": "/m/02yfx",
+          "score": 0.95600575,
+          "topicality": 0.0033205631
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.9537743,
+          "topicality": 0.3008786
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.92159635,
+          "topicality": 0.0010115857
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.8978943,
+          "topicality": 0.20073865
+        }
+      ]
+    }
+  ]
+}

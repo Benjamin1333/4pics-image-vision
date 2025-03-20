@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.9886082,
+          "topicality": 0.025135705
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.8748432,
+          "topicality": 0.352077
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.8049409,
+          "topicality": 0.1634047
+        },
+        {
+          "description": "Palm trees",
+          "mid": "/m/0cdl1",
+          "score": 0.7227262,
+          "topicality": 0.08286895
+        },
+        {
+          "description": "Beach",
+          "mid": "/m/0b3yr",
+          "score": 0.6703314,
+          "topicality": 0.2879722
+        },
+        {
+          "description": "Tropics",
+          "mid": "/m/0hl08",
+          "score": 0.6610962,
+          "topicality": 0.09646106
+        },
+        {
+          "description": "Sailboat",
+          "mid": "/m/0hsrw",
+          "score": 0.6215403,
+          "topicality": 0.22668505
+        },
+        {
+          "description": "Wind",
+          "mid": "/m/03m9d0z",
+          "score": 0.60706073,
+          "topicality": 0.052552555
+        },
+        {
+          "description": "Caribbean",
+          "mid": "/m/0261m",
+          "score": 0.58171684,
+          "topicality": 0.053452343
+        },
+        {
+          "description": "Mast",
+          "mid": "/m/03psdn",
+          "score": 0.5756955,
+          "topicality": 0.009199805
+        }
+      ]
+    }
+  ]
+}

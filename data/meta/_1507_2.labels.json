@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Drinking water",
+          "mid": "/m/01c6xf",
+          "score": 0.9600616,
+          "topicality": 0.40098268
+        },
+        {
+          "description": "Fluid",
+          "mid": "/m/02yfx",
+          "score": 0.95598334,
+          "topicality": 0.04523779
+        },
+        {
+          "description": "Drinkware",
+          "mid": "/m/050h26",
+          "score": 0.9413525,
+          "topicality": 0.0041530654
+        },
+        {
+          "description": "Glass",
+          "mid": "/m/039jq",
+          "score": 0.9307084,
+          "topicality": 0.38586116
+        },
+        {
+          "description": "Mineral water",
+          "mid": "/m/02267z",
+          "score": 0.92393965,
+          "topicality": 0.13154982
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.921628,
+          "topicality": 0.15179257
+        },
+        {
+          "description": "Tableware",
+          "mid": "/m/04brg2",
+          "score": 0.9166506,
+          "topicality": 0.0017794097
+        },
+        {
+          "description": "Highball glass",
+          "mid": "/m/049wwj",
+          "score": 0.8425499,
+          "topicality": 0.00640724
+        },
+        {
+          "description": "Barware",
+          "mid": "/m/0h8nvcj",
+          "score": 0.8276956,
+          "topicality": 7.0435046e-05
+        },
+        {
+          "description": "Distilled water",
+          "mid": "/m/0qlx1",
+          "score": 0.82063586,
+          "topicality": 0.0324043
+        }
+      ]
+    }
+  ]
+}

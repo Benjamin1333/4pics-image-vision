@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Silo",
+          "mid": "/m/0911jt",
+          "score": 0.9527152,
+          "topicality": 0.15293278
+        },
+        {
+          "description": "Industry",
+          "mid": "/m/03rnh",
+          "score": 0.9374536,
+          "topicality": 0.20180619
+        },
+        {
+          "description": "Storage tank",
+          "mid": "/m/0ck43n",
+          "score": 0.9128272,
+          "topicality": 0.3840154
+        },
+        {
+          "description": "Brewery",
+          "mid": "/m/0159gt",
+          "score": 0.89958894,
+          "topicality": 0.3363718
+        },
+        {
+          "description": "Composite material",
+          "mid": "/m/014qzr",
+          "score": 0.8790559,
+          "topicality": 0.0071198833
+        },
+        {
+          "description": "Cylinder",
+          "mid": "/m/03h_4m",
+          "score": 0.8524818,
+          "topicality": 0.014466114
+        },
+        {
+          "description": "Engineering",
+          "mid": "/m/02ky346",
+          "score": 0.8421239,
+          "topicality": 0.009740556
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.8418109,
+          "topicality": 0.07069165
+        },
+        {
+          "description": "Metal",
+          "mid": "/m/04t7l",
+          "score": 0.8403982,
+          "topicality": 0.017218374
+        },
+        {
+          "description": "Factory",
+          "mid": "/m/0168g6",
+          "score": 0.8287246,
+          "topicality": 0.24093091
+        }
+      ]
+    }
+  ]
+}

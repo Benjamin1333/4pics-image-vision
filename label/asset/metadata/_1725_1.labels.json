@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Artificial fly",
+          "mid": "/m/03qcc_v",
+          "score": 0.755768,
+          "topicality": 0.81690377
+        },
+        {
+          "description": "Fishing lure",
+          "mid": "/m/039j4m",
+          "score": 0.7071719,
+          "topicality": 0.0046461676
+        },
+        {
+          "description": "Fishing bait",
+          "mid": "/m/04d__1z",
+          "score": 0.63856834,
+          "topicality": 0.0021792394
+        },
+        {
+          "description": "Bait",
+          "mid": "/m/02qrrb",
+          "score": 0.5821794,
+          "topicality": 0.01216327
+        }
+      ]
+    }
+  ]
+}

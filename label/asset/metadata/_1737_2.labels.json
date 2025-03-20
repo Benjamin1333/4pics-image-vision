@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9738275,
+          "topicality": 0.013176933
+        },
+        {
+          "description": "Gemstone",
+          "mid": "/m/03c4j",
+          "score": 0.9426999,
+          "topicality": 0.57361346
+        },
+        {
+          "description": "Crystal",
+          "mid": "/m/01t4h",
+          "score": 0.918045,
+          "topicality": 0.24432284
+        },
+        {
+          "description": "Diamond",
+          "mid": "/m/03c6dyk",
+          "score": 0.87270147,
+          "topicality": 0.20564164
+        },
+        {
+          "description": "Natural material",
+          "mid": "/m/07sx2n",
+          "score": 0.7972903,
+          "topicality": 2.306644e-05
+        },
+        {
+          "description": "Sapphire",
+          "mid": "/m/0797j",
+          "score": 0.7278885,
+          "topicality": 0.16177984
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9708288,
+          "topicality": 0.0058730724
+        },
+        {
+          "description": "Input device",
+          "mid": "/m/02dwgb",
+          "score": 0.88164896,
+          "topicality": 0.19220665
+        },
+        {
+          "description": "Peripheral",
+          "mid": "/m/0ggnq",
+          "score": 0.7701815,
+          "topicality": 0.10781253
+        },
+        {
+          "description": "Computer hardware",
+          "mid": "/m/01mfj",
+          "score": 0.6919563,
+          "topicality": 0.023675825
+        },
+        {
+          "description": "Line art",
+          "mid": "/m/0919rx",
+          "score": 0.60342807,
+          "topicality": 0.004732558
+        }
+      ]
+    }
+  ]
+}

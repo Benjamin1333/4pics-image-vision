@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Steering wheel",
+          "mid": "/m/03b6_4",
+          "score": 0.9287865,
+          "topicality": 0.0048696552
+        },
+        {
+          "description": "Automotive Mirror",
+          "mid": "/m/0h8lk4b",
+          "score": 0.8503406,
+          "topicality": 0.0011220332
+        },
+        {
+          "description": "Driving",
+          "mid": "/m/0kw6d",
+          "score": 0.8490157,
+          "topicality": 0.2681186
+        },
+        {
+          "description": "Glass",
+          "mid": "/m/039jq",
+          "score": 0.7674631,
+          "topicality": 6.7113874e-06
+        },
+        {
+          "description": "Windshield",
+          "mid": "/m/01lrnl",
+          "score": 0.74532413,
+          "topicality": 0.00012296136
+        },
+        {
+          "description": "Sunglasses",
+          "mid": "/m/017ftj",
+          "score": 0.7437498,
+          "topicality": 0.0014876979
+        },
+        {
+          "description": "Travel",
+          "mid": "/m/014dsx",
+          "score": 0.74208206,
+          "topicality": 0.022389041
+        },
+        {
+          "description": "Goggles",
+          "mid": "/m/02_n6y",
+          "score": 0.7305653,
+          "topicality": 0.00039273588
+        },
+        {
+          "description": "Bus driver",
+          "mid": "/m/0bk5m9",
+          "score": 0.708832,
+          "topicality": 0.81908864
+        },
+        {
+          "description": "Passenger",
+          "mid": "/m/0cb0xm",
+          "score": 0.61881274,
+          "topicality": 0.019931126
+        }
+      ]
+    }
+  ]
+}

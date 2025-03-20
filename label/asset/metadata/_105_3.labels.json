@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Primate",
+          "mid": "/m/05qsj",
+          "score": 0.9914424,
+          "topicality": 0.3110289
+        },
+        {
+          "description": "Skin",
+          "mid": "/m/06z04",
+          "score": 0.9801977,
+          "topicality": 0.0016993016
+        },
+        {
+          "description": "Vertebrate",
+          "mid": "/m/09686",
+          "score": 0.9625453,
+          "topicality": 0.005894647
+        },
+        {
+          "description": "Rhesus macaque",
+          "mid": "/m/026swd",
+          "score": 0.95809954,
+          "topicality": 0.19551724
+        },
+        {
+          "description": "Macaque",
+          "mid": "/m/01jsqj",
+          "score": 0.93415886,
+          "topicality": 0.6752384
+        },
+        {
+          "description": "Wildlife",
+          "mid": "/m/01280g",
+          "score": 0.8992811,
+          "topicality": 0.027876837
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.8923184,
+          "topicality": 0.0013740826
+        },
+        {
+          "description": "Terrestrial animal",
+          "mid": "/m/0fbf1m",
+          "score": 0.8887445,
+          "topicality": 0.0016131812
+        },
+        {
+          "description": "Fur",
+          "mid": "/m/0cnmr",
+          "score": 0.8459948,
+          "topicality": 0.0004903261
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.97700375,
+          "topicality": 0.0025554297
+        },
+        {
+          "description": "Display device",
+          "mid": "/m/029zz6",
+          "score": 0.9463745,
+          "topicality": 0.054867506
+        },
+        {
+          "description": "LED-backlit LCD",
+          "mid": "/m/05p37dx",
+          "score": 0.89959425,
+          "topicality": 0.014951411
+        },
+        {
+          "description": "Television set",
+          "mid": "/m/0bx_y3w",
+          "score": 0.89788073,
+          "topicality": 0.01629588
+        },
+        {
+          "description": "Television",
+          "mid": "/m/07c52",
+          "score": 0.89413345,
+          "topicality": 0.0844587
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8679043,
+          "topicality": 0.06647179
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.85184884,
+          "topicality": 0.0076660663
+        },
+        {
+          "description": "LCD television",
+          "mid": "/m/09dx1f8",
+          "score": 0.81518257,
+          "topicality": 0.0037360732
+        },
+        {
+          "description": "Flat-panel display",
+          "mid": "/m/01qwsw",
+          "score": 0.8112834,
+          "topicality": 0.016033746
+        },
+        {
+          "description": "Computer monitor",
+          "mid": "/m/02522",
+          "score": 0.764439,
+          "topicality": 0.03284385
+        }
+      ]
+    }
+  ]
+}

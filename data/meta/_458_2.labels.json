@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.9670761,
+          "topicality": 0.021358784
+        },
+        {
+          "description": "Ribbon",
+          "mid": "/m/01s77c",
+          "score": 0.8394582,
+          "topicality": 0.7582701
+        },
+        {
+          "description": "Party Supply",
+          "mid": "/m/0cmqr_4",
+          "score": 0.73545694,
+          "topicality": 0.0011558634
+        },
+        {
+          "description": "Ribbon",
+          "mid": "/m/081w3j",
+          "score": 0.5604442,
+          "topicality": 0.19678754
+        }
+      ]
+    }
+  ]
+}

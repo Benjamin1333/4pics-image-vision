@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Laboratory flask",
+          "mid": "/m/05hw3k",
+          "score": 0.9650379,
+          "topicality": 0.63198125
+        },
+        {
+          "description": "Fluid",
+          "mid": "/m/02yfx",
+          "score": 0.9549648,
+          "topicality": 0.041909132
+        },
+        {
+          "description": "Laboratory equipment",
+          "mid": "/m/03_5sv",
+          "score": 0.9326537,
+          "topicality": 0.01851946
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.920603,
+          "topicality": 0.38816455
+        },
+        {
+          "description": "Chemistry",
+          "mid": "/m/01lj9",
+          "score": 0.91288054,
+          "topicality": 0.7211585
+        },
+        {
+          "description": "Beaker",
+          "mid": "/m/0d20w4",
+          "score": 0.8872782,
+          "topicality": 0.5335778
+        },
+        {
+          "description": "Test tube",
+          "mid": "/m/0qlzq",
+          "score": 0.8018861,
+          "topicality": 0.32002255
+        },
+        {
+          "description": "Flask",
+          "mid": "/m/0h8j_21",
+          "score": 0.73988414,
+          "topicality": 0.00251237
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.7168712,
+          "topicality": 0.05020102
+        },
+        {
+          "description": "Scientific instrument",
+          "mid": "/m/04n4dpy",
+          "score": 0.70316947,
+          "topicality": 0.0025641392
+        }
+      ]
+    }
+  ]
+}

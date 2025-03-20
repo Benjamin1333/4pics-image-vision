@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.98644495,
+          "topicality": 0.004643337
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.9736499,
+          "topicality": 0.042538952
+        },
+        {
+          "description": "Display device",
+          "mid": "/m/029zz6",
+          "score": 0.96465063,
+          "topicality": 0.06835058
+        },
+        {
+          "description": "Mobile device",
+          "mid": "/m/030swj",
+          "score": 0.9457291,
+          "topicality": 0.1099257
+        },
+        {
+          "description": "Communication Device",
+          "mid": "/m/0glmwd6",
+          "score": 0.9305035,
+          "topicality": 0.0003384261
+        },
+        {
+          "description": "Tablet computer",
+          "mid": "/m/0bh9flk",
+          "score": 0.92411155,
+          "topicality": 0.34636652
+        },
+        {
+          "description": "Portable communications device",
+          "mid": "/m/020fsy",
+          "score": 0.90674037,
+          "topicality": 0.0013978059
+        },
+        {
+          "description": "Electronics",
+          "mid": "/m/02mrp",
+          "score": 0.8790174,
+          "topicality": 0.032987263
+        },
+        {
+          "description": "Telephony",
+          "mid": "/m/0bhmh",
+          "score": 0.8785426,
+          "topicality": 0.010713047
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.87228376,
+          "topicality": 0.020557605
+        }
+      ]
+    }
+  ]
+}

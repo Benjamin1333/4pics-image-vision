@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.8845473,
+          "topicality": 0.47318074
+        },
+        {
+          "description": "Craft",
+          "mid": "/m/01mrgs",
+          "score": 0.7954455,
+          "topicality": 0.071352415
+        },
+        {
+          "description": "Creative arts",
+          "mid": "/m/0dw9f6",
+          "score": 0.75038826,
+          "topicality": 2.7843666e-05
+        },
+        {
+          "description": "Wool",
+          "mid": "/m/09kxp",
+          "score": 0.6988238,
+          "topicality": 0.014081316
+        },
+        {
+          "description": "Woolen",
+          "mid": "/m/01yh65",
+          "score": 0.68183196,
+          "topicality": 0.0020163064
+        },
+        {
+          "description": "Puppet",
+          "mid": "/m/0fmtd",
+          "score": 0.65466654,
+          "topicality": 0.3632088
+        },
+        {
+          "description": "Baby toys",
+          "mid": "/m/0cm3fq4",
+          "score": 0.6326322,
+          "topicality": 0.0012030395
+        },
+        {
+          "description": "Plush",
+          "mid": "/m/025rgl",
+          "score": 0.58773696,
+          "topicality": 0.06401802
+        }
+      ]
+    }
+  ]
+}

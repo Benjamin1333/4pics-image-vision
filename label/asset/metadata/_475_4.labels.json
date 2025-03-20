@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Amphibians",
+          "mid": "/m/0hjf",
+          "score": 0.964955,
+          "topicality": 0.22318064
+        },
+        {
+          "description": "Frog",
+          "mid": "/m/09ld4",
+          "score": 0.95814604,
+          "topicality": 0.86675924
+        },
+        {
+          "description": "True frog",
+          "mid": "/m/021csx",
+          "score": 0.9275351,
+          "topicality": 0.31033558
+        },
+        {
+          "description": "Toad",
+          "mid": "/m/09ldn",
+          "score": 0.8171545,
+          "topicality": 0.122546196
+        },
+        {
+          "description": "Reptile",
+          "mid": "/m/06bt6",
+          "score": 0.53951377,
+          "topicality": 0.01926703
+        }
+      ]
+    }
+  ]
+}

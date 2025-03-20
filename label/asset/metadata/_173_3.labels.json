@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Rodent",
+          "mid": "/m/06hps",
+          "score": 0.90258217,
+          "topicality": 0.034375746
+        },
+        {
+          "description": "Muroids",
+          "mid": "/m/02h9rm",
+          "score": 0.80058724,
+          "topicality": 0.017237987
+        },
+        {
+          "description": "Murids",
+          "mid": "/m/04k_6h",
+          "score": 0.7508619,
+          "topicality": 0.016482932
+        },
+        {
+          "description": "Hardwood",
+          "mid": "/m/020g49",
+          "score": 0.7013617,
+          "topicality": 0.003510082
+        },
+        {
+          "description": "Rat",
+          "mid": "/m/06lk1",
+          "score": 0.66647214,
+          "topicality": 0.050240416
+        },
+        {
+          "description": "Plank",
+          "mid": "/m/0fq0fnf",
+          "score": 0.642513,
+          "topicality": 0.0054698107
+        },
+        {
+          "description": "Hamster",
+          "mid": "/m/03qrc",
+          "score": 0.5847571,
+          "topicality": 0.3221763
+        },
+        {
+          "description": "Plywood",
+          "mid": "/m/0jh8w",
+          "score": 0.5759313,
+          "topicality": 0.0048864926
+        },
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.56364864,
+          "topicality": 0.10303264
+        },
+        {
+          "description": "Pest",
+          "mid": "/m/01dqkc",
+          "score": 0.52454185,
+          "topicality": 0.0026334275
+        }
+      ]
+    }
+  ]
+}

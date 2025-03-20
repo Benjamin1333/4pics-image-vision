@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sunset",
+          "mid": "/m/01b2w5",
+          "score": 0.9715257,
+          "topicality": 0.56101835
+        },
+        {
+          "description": "Working animal",
+          "mid": "/m/07_gml",
+          "score": 0.96004295,
+          "topicality": 0.0033234286
+        },
+        {
+          "description": "Horse and buggy",
+          "mid": "/m/02j091",
+          "score": 0.9600172,
+          "topicality": 0.17007333
+        },
+        {
+          "description": "Carriage",
+          "mid": "/m/01hffk",
+          "score": 0.9573307,
+          "topicality": 0.24319947
+        },
+        {
+          "description": "Dusk",
+          "mid": "/m/01b3l7",
+          "score": 0.95297027,
+          "topicality": 0.14454852
+        },
+        {
+          "description": "Afterglow",
+          "mid": "/m/013vs",
+          "score": 0.9452601,
+          "topicality": 0.022827683
+        },
+        {
+          "description": "Orange",
+          "mid": "/m/0jc_p",
+          "score": 0.9435708,
+          "topicality": 0.00025526085
+        },
+        {
+          "description": "Horse",
+          "mid": "/m/03k3r",
+          "score": 0.934725,
+          "topicality": 0.17286603
+        },
+        {
+          "description": "Sunrise",
+          "mid": "/m/01b2q6",
+          "score": 0.9334999,
+          "topicality": 0.15741825
+        },
+        {
+          "description": "Silhouette",
+          "mid": "/m/03thgk",
+          "score": 0.9300271,
+          "topicality": 0.224282
+        }
+      ]
+    }
+  ]
+}

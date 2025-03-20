@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.98765296,
+          "topicality": 0.06286426
+        },
+        {
+          "description": "Shoulder",
+          "mid": "/m/01ssh5",
+          "score": 0.9734502,
+          "topicality": 0.00875765
+        },
+        {
+          "description": "Fashion",
+          "mid": "/m/032tl",
+          "score": 0.9567703
+        },
+        {
+          "description": "Dress",
+          "mid": "/m/01d40f",
+          "score": 0.9307253,
+          "topicality": 0.31416452
+        },
+        {
+          "description": "Bag",
+          "mid": "/m/0n5v01m",
+          "score": 0.91298467,
+          "topicality": 0.058190398
+        },
+        {
+          "description": "Formal wear",
+          "mid": "/m/02w3_2",
+          "score": 0.88392425,
+          "topicality": 0.014689493
+        },
+        {
+          "description": "Wrist",
+          "mid": "/m/01j48b",
+          "score": 0.87916255,
+          "topicality": 0.0023302513
+        },
+        {
+          "description": "Waist",
+          "mid": "/m/031974",
+          "score": 0.8744655,
+          "topicality": 0.0055927592
+        },
+        {
+          "description": "Day Dress",
+          "mid": "/m/0hgsb5g",
+          "score": 0.8561881,
+          "topicality": 0.0020105813
+        },
+        {
+          "description": "One-piece garment",
+          "mid": "/m/0142sg",
+          "score": 0.8502857,
+          "topicality": 0.00057095813
+        }
+      ]
+    }
+  ]
+}

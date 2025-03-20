@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bird",
+          "mid": "/m/015p6",
+          "score": 0.9935147,
+          "topicality": 0.40970686
+        },
+        {
+          "description": "Rock dove",
+          "mid": "/m/01c08f",
+          "score": 0.96766514,
+          "topicality": 0.32886258
+        },
+        {
+          "description": "Beak",
+          "mid": "/m/01c4rd",
+          "score": 0.96756595,
+          "topicality": 0.008132903
+        },
+        {
+          "description": "Pigeons and doves",
+          "mid": "/m/0h0rv",
+          "score": 0.9651591,
+          "topicality": 0.5580514
+        },
+        {
+          "description": "Vertebrate",
+          "mid": "/m/09686",
+          "score": 0.9612178,
+          "topicality": 0.00036427702
+        },
+        {
+          "description": "Wing",
+          "mid": "/m/083s2",
+          "score": 0.9340217,
+          "topicality": 0.0018177001
+        },
+        {
+          "description": "Stock dove",
+          "mid": "/m/01c09k",
+          "score": 0.9255004,
+          "topicality": 0.030653093
+        },
+        {
+          "description": "Feather",
+          "mid": "/m/0dfgf",
+          "score": 0.88266766,
+          "topicality": 0.0003354716
+        },
+        {
+          "description": "Grey",
+          "mid": "/m/036k5h",
+          "score": 0.8293831,
+          "topicality": 0.018508315
+        },
+        {
+          "description": "Tail",
+          "mid": "/m/06z_nw",
+          "score": 0.5521524,
+          "topicality": 0.0023835308
+        }
+      ]
+    }
+  ]
+}

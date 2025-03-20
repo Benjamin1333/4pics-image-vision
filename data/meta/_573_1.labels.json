@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Car",
+          "mid": "/m/0k4j",
+          "score": 0.9487577,
+          "topicality": 0.07729319
+        },
+        {
+          "description": "Automotive Tire",
+          "mid": "/m/0h8pb3l",
+          "score": 0.93325925,
+          "topicality": 0.00013717025
+        },
+        {
+          "description": "Rallying",
+          "mid": "/m/0dr19",
+          "score": 0.92844176,
+          "topicality": 0.54792666
+        },
+        {
+          "description": "Dust",
+          "mid": "/m/015l_t",
+          "score": 0.92831993,
+          "topicality": 0.09359808
+        },
+        {
+          "description": "Rallycross",
+          "mid": "/m/040kqv",
+          "score": 0.9032933,
+          "topicality": 0.3425067
+        },
+        {
+          "description": "Racing",
+          "mid": "/m/0dfbw",
+          "score": 0.87855566,
+          "topicality": 0.08466203
+        },
+        {
+          "description": "Motorsport",
+          "mid": "/m/0410tth",
+          "score": 0.86850595,
+          "topicality": 0.079880595
+        },
+        {
+          "description": "Off-road racing",
+          "mid": "/m/0466kx",
+          "score": 0.8577023,
+          "topicality": 0.008257581
+        },
+        {
+          "description": "Bumper",
+          "mid": "/m/02mnkq",
+          "score": 0.82908416,
+          "topicality": 0.0011604788
+        },
+        {
+          "description": "World Rally Championship",
+          "mid": "/m/01j0xm",
+          "score": 0.8287127,
+          "topicality": 0.23091304
+        }
+      ]
+    }
+  ]
+}

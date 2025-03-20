@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Lens flare",
+          "mid": "/m/017bm6",
+          "score": 0.8102629,
+          "topicality": 0.39226207
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.67574674,
+          "topicality": 0.0045625106
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6645999,
+          "topicality": 0.001820101
+        },
+        {
+          "description": "Stage is empty",
+          "mid": "/j/gm7zd_",
+          "score": 0.5410126,
+          "topicality": 0.0025876823
+        }
+      ]
+    }
+  ]
+}

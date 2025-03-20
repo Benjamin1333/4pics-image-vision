@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Mechanic",
+          "mid": "/m/03f_s3",
+          "score": 0.9651797,
+          "topicality": 0.5659382
+        },
+        {
+          "description": "Automobile repair shop",
+          "mid": "/m/0dgc3t",
+          "score": 0.96059823,
+          "topicality": 0.5167112
+        },
+        {
+          "description": "Auto mechanic",
+          "mid": "/m/081pl8",
+          "score": 0.93479013,
+          "topicality": 0.7741252
+        },
+        {
+          "description": "Engine",
+          "mid": "/m/02mk9",
+          "score": 0.8206368,
+          "topicality": 0.10428903
+        },
+        {
+          "description": "Panel beater",
+          "mid": "/m/07rgnq",
+          "score": 0.8107422,
+          "topicality": 0.024739787
+        },
+        {
+          "description": "Blue-collar worker",
+          "mid": "/m/01kq3f",
+          "score": 0.80542266,
+          "topicality": 0.0028021268
+        },
+        {
+          "description": "Automotive Care",
+          "mid": "/m/0h8nz9n",
+          "score": 0.7695026,
+          "topicality": 0.0073337485
+        },
+        {
+          "description": "Workshop",
+          "mid": "/m/026zs_",
+          "score": 0.75951415,
+          "topicality": 0.098071136
+        },
+        {
+          "description": "Tread",
+          "mid": "/m/04tkfx",
+          "score": 0.7125855,
+          "topicality": 0.00035123623
+        },
+        {
+          "description": "Workwear",
+          "mid": "/m/026lc7w",
+          "score": 0.69620794,
+          "topicality": 0.0005829659
+        }
+      ]
+    }
+  ]
+}

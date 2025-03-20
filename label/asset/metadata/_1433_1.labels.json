@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9724036,
+          "topicality": 0.003510572
+        },
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.9550567,
+          "topicality": 0.12397268
+        },
+        {
+          "description": "Purple",
+          "mid": "/m/09ggk",
+          "score": 0.9047362,
+          "topicality": 0.08958935
+        },
+        {
+          "description": "Unicorn",
+          "mid": "/m/0bvpg",
+          "score": 0.8927409,
+          "topicality": 0.76775795
+        },
+        {
+          "description": "Cartoon",
+          "mid": "/m/0215n",
+          "score": 0.83305,
+          "topicality": 0.17249088
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.83278036,
+          "topicality": 0.047125597
+        },
+        {
+          "description": "Mythical creature",
+          "mid": "/m/05cfj6x",
+          "score": 0.8087188,
+          "topicality": 0.01957637
+        },
+        {
+          "description": "Fictional character",
+          "mid": "/m/02h7lkt",
+          "score": 0.79337436,
+          "topicality": 0.021223893
+        },
+        {
+          "description": "Horse",
+          "mid": "/m/03k3r",
+          "score": 0.7393768,
+          "topicality": 0.025768368
+        },
+        {
+          "description": "Pony",
+          "mid": "/m/01fzz2",
+          "score": 0.73369634,
+          "topicality": 0.19999865
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9832154,
+          "topicality": 0.28225625
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94494545,
+          "topicality": 0.0025506134
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.9132083,
+          "topicality": 0.06674937
+        },
+        {
+          "description": "Spring",
+          "mid": "/m/01txr2",
+          "score": 0.87209713,
+          "topicality": 0.08796951
+        },
+        {
+          "description": "People in nature",
+          "mid": "/j/3gbwgn",
+          "score": 0.86101085,
+          "topicality": 0.021728382
+        },
+        {
+          "description": "Meadow",
+          "mid": "/m/025st_8",
+          "score": 0.82959294,
+          "topicality": 0.06972382
+        },
+        {
+          "description": "Blond",
+          "mid": "/m/0294jb",
+          "score": 0.80400676,
+          "topicality": 0.0027853395
+        },
+        {
+          "description": "Portrait photography",
+          "mid": "/m/0chml9",
+          "score": 0.71744233,
+          "topicality": 0.0031380348
+        },
+        {
+          "description": "Wildflower",
+          "mid": "/m/03f35r",
+          "score": 0.7165061,
+          "topicality": 0.00061682105
+        },
+        {
+          "description": "Laughter",
+          "mid": "/m/01j3sz",
+          "score": 0.6300516,
+          "topicality": 0.07877439
+        }
+      ]
+    }
+  ]
+}

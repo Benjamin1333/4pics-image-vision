@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Pipe",
+          "mid": "/m/09w9qp",
+          "score": 0.96475327,
+          "topicality": 0.18496986
+        },
+        {
+          "description": "Plumbing",
+          "mid": "/m/0b_zf",
+          "score": 0.8810234,
+          "topicality": 0.030768864
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.8469671,
+          "topicality": 0.03443498
+        },
+        {
+          "description": "Cylinder",
+          "mid": "/m/03h_4m",
+          "score": 0.8123348,
+          "topicality": 0.009847423
+        },
+        {
+          "description": "Engineering",
+          "mid": "/m/02ky346",
+          "score": 0.79604006,
+          "topicality": 0.046418156
+        },
+        {
+          "description": "Metal",
+          "mid": "/m/04t7l",
+          "score": 0.7864462,
+          "topicality": 0.0069610905
+        },
+        {
+          "description": "Industry",
+          "mid": "/m/03rnh",
+          "score": 0.7755071,
+          "topicality": 0.15102643
+        },
+        {
+          "description": "Plumbing Valve",
+          "mid": "/m/0h8lhls",
+          "score": 0.73571366,
+          "topicality": 0.00089449075
+        },
+        {
+          "description": "Steel",
+          "mid": "/m/06qqb",
+          "score": 0.6494426,
+          "topicality": 0.028803043
+        },
+        {
+          "description": "Valve",
+          "mid": "/m/080t7",
+          "score": 0.5832678,
+          "topicality": 0.16797672
+        }
+      ]
+    }
+  ]
+}

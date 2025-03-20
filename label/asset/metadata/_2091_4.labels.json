@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Game controller",
+          "mid": "/m/0q56v",
+          "score": 0.9869636,
+          "topicality": 0.62828887
+        },
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.967544,
+          "topicality": 0.009495436
+        },
+        {
+          "description": "Input device",
+          "mid": "/m/02dwgb",
+          "score": 0.96700376,
+          "topicality": 0.013966864
+        },
+        {
+          "description": "Joystick",
+          "mid": "/m/044fq",
+          "score": 0.96240056,
+          "topicality": 0.6473284
+        },
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.9519043,
+          "topicality": 0.0008978778
+        },
+        {
+          "description": "Video game console",
+          "mid": "/m/07_tb",
+          "score": 0.94583285,
+          "topicality": 0.30740973
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.9326976,
+          "topicality": 0.0022572493
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.88509756,
+          "topicality": 0.0006692371
+        },
+        {
+          "description": "Peripheral",
+          "mid": "/m/0ggnq",
+          "score": 0.87641346,
+          "topicality": 0.011728321
+        },
+        {
+          "description": "Remote control",
+          "mid": "/m/0qjjc",
+          "score": 0.82815194,
+          "topicality": 0.0076253945
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Wallet",
+          "mid": "/m/02_vjy",
+          "score": 0.9168287,
+          "topicality": 0.3947374
+        },
+        {
+          "description": "Leather",
+          "mid": "/m/04lbp",
+          "score": 0.8195485,
+          "topicality": 0.59306633
+        },
+        {
+          "description": "Pocket",
+          "mid": "/m/025rhd",
+          "score": 0.7170775,
+          "topicality": 0.18149897
+        },
+        {
+          "description": "Bag",
+          "mid": "/m/0n5v01m",
+          "score": 0.70986587,
+          "topicality": 0.11462512
+        },
+        {
+          "description": "Zipper",
+          "mid": "/m/01s0vc",
+          "score": 0.6811044,
+          "topicality": 0.17487293
+        },
+        {
+          "description": "Coin purse",
+          "mid": "/m/080jpd1",
+          "score": 0.6047135,
+          "topicality": 0.02762852
+        }
+      ]
+    }
+  ]
+}

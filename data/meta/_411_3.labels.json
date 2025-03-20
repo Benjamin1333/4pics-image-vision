@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.97099507,
+          "topicality": 0.0085454555
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6952966,
+          "topicality": 0.03568439
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.53360635,
+          "topicality": 0.01033944
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.5236385,
+          "topicality": 0.04300499
+        },
+        {
+          "description": "Line art",
+          "mid": "/m/0919rx",
+          "score": 0.51127964,
+          "topicality": 0.0066743987
+        }
+      ]
+    }
+  ]
+}

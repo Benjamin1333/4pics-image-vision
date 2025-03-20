@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.97347504,
+          "topicality": 0.020255895
+        },
+        {
+          "description": "Writing implement",
+          "mid": "/m/06wybl",
+          "score": 0.6235227,
+          "topicality": 0.0022093875
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.5930927,
+          "topicality": 0.0018093068
+        },
+        {
+          "description": "Office Instrument",
+          "mid": "/m/0h8m01z",
+          "score": 0.517486,
+          "topicality": 0.00047115664
+        }
+      ]
+    }
+  ]
+}

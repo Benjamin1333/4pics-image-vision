@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.9917246,
+          "topicality": 0.19633771
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.97800356,
+          "topicality": 0.029583167
+        },
+        {
+          "description": "Tableware",
+          "mid": "/m/04brg2",
+          "score": 0.9707575,
+          "topicality": 0.0037923187
+        },
+        {
+          "description": "Alcoholic drink",
+          "mid": "/m/012mj",
+          "score": 0.9494605,
+          "topicality": 0.021451753
+        },
+        {
+          "description": "Bottle",
+          "mid": "/m/04dr76w",
+          "score": 0.92596483,
+          "topicality": 0.013454557
+        },
+        {
+          "description": "Cheese",
+          "mid": "/m/01nkt",
+          "score": 0.9218753,
+          "topicality": 0.7588397
+        },
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.92071486,
+          "topicality": 0.021500342
+        },
+        {
+          "description": "Wine",
+          "mid": "/m/081qc",
+          "score": 0.8938673,
+          "topicality": 0.6468185
+        },
+        {
+          "description": "Grape",
+          "mid": "/m/0388q",
+          "score": 0.8767581,
+          "topicality": 0.32700506
+        },
+        {
+          "description": "Dairy product",
+          "mid": "/m/0284d",
+          "score": 0.86089236,
+          "topicality": 0.009233878
+        }
+      ]
+    }
+  ]
+}

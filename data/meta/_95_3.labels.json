@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Gauge",
+          "mid": "/m/05kc0j",
+          "score": 0.86941385,
+          "topicality": 0.31340265
+        },
+        {
+          "description": "Measuring instrument",
+          "mid": "/m/056hv",
+          "score": 0.8609921,
+          "topicality": 0.028990611
+        },
+        {
+          "description": "Speedometer",
+          "mid": "/m/02rs44",
+          "score": 0.8153732,
+          "topicality": 0.79604286
+        },
+        {
+          "description": "Tachometer",
+          "mid": "/m/01hyhj",
+          "score": 0.65179557,
+          "topicality": 0.4920554
+        },
+        {
+          "description": "Odometer",
+          "mid": "/m/0jmbc",
+          "score": 0.5116416,
+          "topicality": 0.25166798
+        }
+      ]
+    }
+  ]
+}

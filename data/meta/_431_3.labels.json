@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.994162,
+          "topicality": 0.32803673
+        },
+        {
+          "description": "French fries",
+          "mid": "/m/02y6n",
+          "score": 0.9803187,
+          "topicality": 0.57461935
+        },
+        {
+          "description": "Fried food",
+          "mid": "/m/0bp3f6m",
+          "score": 0.9749309,
+          "topicality": 0.0017743133
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9532211,
+          "topicality": 0.008742386
+        },
+        {
+          "description": "Fast food",
+          "mid": "/m/01_bhs",
+          "score": 0.95002836,
+          "topicality": 0.37325656
+        },
+        {
+          "description": "Tableware",
+          "mid": "/m/04brg2",
+          "score": 0.9436891,
+          "topicality": 0.0006548519
+        },
+        {
+          "description": "Hamburger",
+          "mid": "/m/0cdn1",
+          "score": 0.93909466,
+          "topicality": 0.60448176
+        },
+        {
+          "description": "Junk food",
+          "mid": "/m/0h55b",
+          "score": 0.92681813,
+          "topicality": 0.15521626
+        },
+        {
+          "description": "Finger food",
+          "mid": "/m/0b3dyl",
+          "score": 0.91534865,
+          "topicality": 0.00016523708
+        },
+        {
+          "description": "Meat",
+          "mid": "/m/04scj",
+          "score": 0.91439855,
+          "topicality": 0.084988505
+        }
+      ]
+    }
+  ]
+}

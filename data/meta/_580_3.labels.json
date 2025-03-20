@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Track",
+          "mid": "/m/01vk9q",
+          "score": 0.98459077,
+          "topicality": 0.87344867
+        },
+        {
+          "description": "Mode of transport",
+          "mid": "/m/079bkr",
+          "score": 0.9800749,
+          "topicality": 0.0018384684
+        },
+        {
+          "description": "Brown",
+          "mid": "/m/09q2t",
+          "score": 0.9165557,
+          "topicality": 1.004265e-05
+        },
+        {
+          "description": "Rubble",
+          "mid": "/m/08qrwn",
+          "score": 0.896479,
+          "topicality": 0.0010239512
+        },
+        {
+          "description": "Iron",
+          "mid": "/m/025rw19",
+          "score": 0.87947726,
+          "topicality": 0.006182833
+        },
+        {
+          "description": "Metal",
+          "mid": "/m/04t7l",
+          "score": 0.8452629,
+          "topicality": 0.00087915745
+        },
+        {
+          "description": "Pebble",
+          "mid": "/m/01tp0c",
+          "score": 0.80276775,
+          "topicality": 0.00014728929
+        },
+        {
+          "description": "Engineering",
+          "mid": "/m/02ky346",
+          "score": 0.7731983,
+          "topicality": 0.001831841
+        },
+        {
+          "description": "Gravel",
+          "mid": "/m/016b3m",
+          "score": 0.7549125,
+          "topicality": 0.0073006535
+        },
+        {
+          "description": "Rail transport",
+          "mid": "/m/06d_3",
+          "score": 0.7452774,
+          "topicality": 0.41616654
+        }
+      ]
+    }
+  ]
+}

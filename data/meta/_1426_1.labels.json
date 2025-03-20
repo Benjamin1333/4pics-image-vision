@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.9351599,
+          "topicality": 0.018540328
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.92971367,
+          "topicality": 0.003513062
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.85528505,
+          "topicality": 0.011195425
+        },
+        {
+          "description": "Student",
+          "mid": "/m/014cnc",
+          "score": 0.8049158,
+          "topicality": 0.076680645
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.7685691,
+          "topicality": 0.0047200997
+        },
+        {
+          "description": "Scholar",
+          "mid": "/m/05km25g",
+          "score": 0.75284433,
+          "topicality": 0.0012911187
+        },
+        {
+          "description": "Flight attendant",
+          "mid": "/m/017cv5",
+          "score": 0.72932297,
+          "topicality": 0.3588789
+        },
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.7124762,
+          "topicality": 0.06410734
+        },
+        {
+          "description": "Academic institution",
+          "mid": "/m/06bdpk",
+          "score": 0.6262569,
+          "topicality": 0.00015340916
+        },
+        {
+          "description": "Management",
+          "mid": "/m/04_tv",
+          "score": 0.56399155,
+          "topicality": 0.07245217
+        }
+      ]
+    }
+  ]
+}

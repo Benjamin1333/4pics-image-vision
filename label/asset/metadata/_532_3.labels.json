@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Potter's wheel",
+          "mid": "/m/042x3v",
+          "score": 0.96083933,
+          "topicality": 0.8531379
+        },
+        {
+          "description": "Pottery",
+          "mid": "/m/064rk",
+          "score": 0.9209545,
+          "topicality": 0.7798039
+        },
+        {
+          "description": "Clay",
+          "mid": "/m/0975t",
+          "score": 0.91978997,
+          "topicality": 0.63596094
+        },
+        {
+          "description": "Artisan",
+          "mid": "/m/027337",
+          "score": 0.90666246,
+          "topicality": 0.07998267
+        },
+        {
+          "description": "Stoneware",
+          "mid": "/m/03q7p08",
+          "score": 0.83749086,
+          "topicality": 0.05211211
+        },
+        {
+          "description": "Craft",
+          "mid": "/m/01mrgs",
+          "score": 0.8335023,
+          "topicality": 0.017874729
+        },
+        {
+          "description": "Creative arts",
+          "mid": "/m/0dw9f6",
+          "score": 0.8038574,
+          "topicality": 0.00056185195
+        },
+        {
+          "description": "Serveware",
+          "mid": "/m/0h8n22v",
+          "score": 0.78103155,
+          "topicality": 0.00227963
+        },
+        {
+          "description": "Ceramic",
+          "mid": "/m/01x5q",
+          "score": 0.7702416,
+          "topicality": 0.35276163
+        },
+        {
+          "description": "Building material",
+          "mid": "/m/02cr01",
+          "score": 0.73437834,
+          "topicality": 0.00060273975
+        }
+      ]
+    }
+  ]
+}

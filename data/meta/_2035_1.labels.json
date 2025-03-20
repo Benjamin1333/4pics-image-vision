@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Locker",
+          "mid": "/m/03cxnw7",
+          "score": 0.8701488,
+          "topicality": 0.042262368
+        },
+        {
+          "description": "Drawer",
+          "mid": "/m/0fqfqc",
+          "score": 0.86601245,
+          "topicality": 0.2606822
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.7712349,
+          "topicality": 0.040690996
+        },
+        {
+          "description": "Office Equipment",
+          "mid": "/m/03qtgjk",
+          "score": 0.76275426,
+          "topicality": 0.0015495281
+        },
+        {
+          "description": "Chest of drawers",
+          "mid": "/m/05kyg_",
+          "score": 0.74985427,
+          "topicality": 0.009769275
+        },
+        {
+          "description": "Filing cabinet",
+          "mid": "/m/047j0r",
+          "score": 0.7363406,
+          "topicality": 0.6031741
+        },
+        {
+          "description": "Cabinetry",
+          "mid": "/m/01s105",
+          "score": 0.6855702,
+          "topicality": 0.00045846088
+        },
+        {
+          "description": "Dresser",
+          "mid": "/m/03qgtcd",
+          "score": 0.5174557,
+          "topicality": 4.156925e-05
+        }
+      ]
+    }
+  ]
+}

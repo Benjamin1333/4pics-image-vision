@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Egg",
+          "mid": "/m/02g387",
+          "score": 0.9844494,
+          "topicality": 0.58039546
+        },
+        {
+          "description": "Egg",
+          "mid": "/m/033cnk",
+          "score": 0.97770596,
+          "topicality": 0.759375
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.959596,
+          "topicality": 0.027155606
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.8911289,
+          "topicality": 0.122855306
+        },
+        {
+          "description": "Yolk",
+          "mid": "/m/02dmz4",
+          "score": 0.8396589,
+          "topicality": 0.68863493
+        },
+        {
+          "description": "Serveware",
+          "mid": "/m/0h8n22v",
+          "score": 0.81454957,
+          "topicality": 0.00011740175
+        },
+        {
+          "description": "Egg white",
+          "mid": "/m/01zvtl",
+          "score": 0.66753834,
+          "topicality": 0.29720747
+        },
+        {
+          "description": "Dishware",
+          "mid": "/m/0h8nvk9",
+          "score": 0.6628121,
+          "topicality": 4.9411516e-05
+        },
+        {
+          "description": "Mixing bowl",
+          "mid": "/m/03hj559",
+          "score": 0.6040391,
+          "topicality": 0.00019000561
+        },
+        {
+          "description": "Animal product",
+          "mid": "/m/0ckdlq",
+          "score": 0.5070568,
+          "topicality": 2.212284e-05
+        }
+      ]
+    }
+  ]
+}

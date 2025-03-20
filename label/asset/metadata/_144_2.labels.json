@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Mallet",
+          "mid": "/m/02_b95",
+          "score": 0.8633022,
+          "topicality": 0.3282882
+        },
+        {
+          "description": "Hammer",
+          "mid": "/m/03l9g",
+          "score": 0.8251849,
+          "topicality": 0.21411096
+        },
+        {
+          "description": "Court",
+          "mid": "/m/0k05r",
+          "score": 0.8061829,
+          "topicality": 0.52228314
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.5329015,
+          "topicality": 0.00074497383
+        }
+      ]
+    }
+  ]
+}

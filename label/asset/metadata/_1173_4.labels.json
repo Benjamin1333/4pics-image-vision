@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Barrel",
+          "mid": "/m/02zn6n",
+          "score": 0.8960044,
+          "topicality": 0.74815667
+        },
+        {
+          "description": "Cylinder",
+          "mid": "/m/03h_4m",
+          "score": 0.72777873,
+          "topicality": 0.014605935
+        },
+        {
+          "description": "Hardwood",
+          "mid": "/m/020g49",
+          "score": 0.64687014,
+          "topicality": 0.0008740032
+        },
+        {
+          "description": "Keg",
+          "mid": "/m/04mwqs",
+          "score": 0.56262124,
+          "topicality": 0.16488467
+        }
+      ]
+    }
+  ]
+}

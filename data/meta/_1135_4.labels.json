@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Snow",
+          "mid": "/m/06_dn",
+          "score": 0.9894719,
+          "topicality": 0.14183557
+        },
+        {
+          "description": "Footwear",
+          "mid": "/m/09j5n",
+          "score": 0.9816578,
+          "topicality": 0.019457875
+        },
+        {
+          "description": "Shoe",
+          "mid": "/m/06rrc",
+          "score": 0.9762357,
+          "topicality": 0.12313459
+        },
+        {
+          "description": "Winter",
+          "mid": "/m/086mh",
+          "score": 0.97456527,
+          "topicality": 0.11090593
+        },
+        {
+          "description": "Ski Equipment",
+          "mid": "/m/0cl9t3p",
+          "score": 0.9247995,
+          "topicality": 0.0022327837
+        },
+        {
+          "description": "Winter sports",
+          "mid": "/m/09qf5",
+          "score": 0.9116183,
+          "topicality": 0.040658
+        },
+        {
+          "description": "geological phenomenon",
+          "mid": "/m/07sn5gn",
+          "score": 0.90095377,
+          "topicality": 1.4006543e-05
+        },
+        {
+          "description": "Freezing",
+          "mid": "/m/01c791",
+          "score": 0.8712134,
+          "topicality": 0.0009166259
+        },
+        {
+          "description": "Glacial landform",
+          "mid": "/m/055s40",
+          "score": 0.8504025,
+          "topicality": 0.00023683503
+        },
+        {
+          "description": "Ice cap",
+          "mid": "/m/04b966",
+          "score": 0.8458483,
+          "topicality": 0.00061285426
+        }
+      ]
+    }
+  ]
+}

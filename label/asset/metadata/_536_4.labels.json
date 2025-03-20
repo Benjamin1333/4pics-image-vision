@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bridge",
+          "mid": "/m/015kr",
+          "score": 0.9886107,
+          "topicality": 0.45630002
+        },
+        {
+          "description": "Dusk",
+          "mid": "/m/01b3l7",
+          "score": 0.919693,
+          "topicality": 0.07471745
+        },
+        {
+          "description": "Arch bridge",
+          "mid": "/m/01v4lt",
+          "score": 0.88426894,
+          "topicality": 0.030345095
+        },
+        {
+          "description": "Evening",
+          "mid": "/m/04mx32",
+          "score": 0.8797142,
+          "topicality": 0.14603402
+        },
+        {
+          "description": "Channel",
+          "mid": "/m/03h5wy",
+          "score": 0.8755316,
+          "topicality": 0.00313338
+        },
+        {
+          "description": "Tourist attraction",
+          "mid": "/m/0pgl9",
+          "score": 0.85955596,
+          "topicality": 0.057648823
+        },
+        {
+          "description": "Reflection",
+          "mid": "/m/02l215",
+          "score": 0.8447339,
+          "topicality": 0.034258787
+        },
+        {
+          "description": "River",
+          "mid": "/m/06cnp",
+          "score": 0.8367358,
+          "topicality": 0.08636821
+        },
+        {
+          "description": "Bridge–tunnel",
+          "mid": "/m/051gs3",
+          "score": 0.8120689,
+          "topicality": 0.00050604023
+        },
+        {
+          "description": "Concrete bridge",
+          "mid": "/m/05mf2t",
+          "score": 0.80980325,
+          "topicality": 0.0024358933
+        }
+      ]
+    }
+  ]
+}

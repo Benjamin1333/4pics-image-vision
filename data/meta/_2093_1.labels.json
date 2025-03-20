@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.9885274,
+          "topicality": 0.0039024665
+        },
+        {
+          "description": "Uniform",
+          "mid": "/m/09jfs",
+          "score": 0.97367424,
+          "topicality": 0.2085689
+        },
+        {
+          "description": "Medal",
+          "mid": "/m/020yd1",
+          "score": 0.87677735,
+          "topicality": 0.03750969
+        },
+        {
+          "description": "Badge",
+          "mid": "/m/03cny9",
+          "score": 0.8516284,
+          "topicality": 0.038404513
+        },
+        {
+          "description": "Military uniform",
+          "mid": "/m/03w1r4",
+          "score": 0.8096555,
+          "topicality": 0.060769126
+        },
+        {
+          "description": "Flag",
+          "mid": "/m/03120",
+          "score": 0.7120621,
+          "topicality": 0.02770196
+        },
+        {
+          "description": "Military rank",
+          "mid": "/m/013bml",
+          "score": 0.66971856,
+          "topicality": 0.10240174
+        },
+        {
+          "description": "Military Officer",
+          "mid": "/m/012qdp",
+          "score": 0.61881554,
+          "topicality": 0.1450694
+        },
+        {
+          "description": "Colonel",
+          "mid": "/m/08j25g",
+          "score": 0.613543,
+          "topicality": 0.06401668
+        }
+      ]
+    }
+  ]
+}

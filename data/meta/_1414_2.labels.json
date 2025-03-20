@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Footwear",
+          "mid": "/m/09j5n",
+          "score": 0.976057,
+          "topicality": 0.0036509014
+        },
+        {
+          "description": "Shoe",
+          "mid": "/m/06rrc",
+          "score": 0.97410995,
+          "topicality": 0.015693562
+        },
+        {
+          "description": "Denim",
+          "mid": "/m/0hgr6",
+          "score": 0.9729836,
+          "topicality": 0.00370952
+        },
+        {
+          "description": "Leg",
+          "mid": "/m/035r7c",
+          "score": 0.9608808,
+          "topicality": 0.108385846
+        },
+        {
+          "description": "Trousers",
+          "mid": "/m/07mhn",
+          "score": 0.9600416,
+          "topicality": 0.008172438
+        },
+        {
+          "description": "Thigh",
+          "mid": "/m/01j04m",
+          "score": 0.95632064,
+          "topicality": 0.020358285
+        },
+        {
+          "description": "Knee",
+          "mid": "/m/019swr",
+          "score": 0.906874,
+          "topicality": 0.050920743
+        },
+        {
+          "description": "High-heeled shoe",
+          "mid": "/m/06k2mb",
+          "score": 0.86597264,
+          "topicality": 0.020405026
+        },
+        {
+          "description": "Foot",
+          "mid": "/m/031n1",
+          "score": 0.80160666,
+          "topicality": 0.02016789
+        },
+        {
+          "description": "Sandal",
+          "mid": "/m/03nfch",
+          "score": 0.77747864,
+          "topicality": 0.0008216676
+        }
+      ]
+    }
+  ]
+}

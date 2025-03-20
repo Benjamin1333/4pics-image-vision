@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bicycle",
+          "mid": "/m/0199g",
+          "score": 0.9904606,
+          "topicality": 0.74050283
+        },
+        {
+          "description": "Bicycle frame",
+          "mid": "/m/01bqgn",
+          "score": 0.9898711,
+          "topicality": 0.09722978
+        },
+        {
+          "description": "Land vehicle",
+          "mid": "/m/01prls",
+          "score": 0.9864781,
+          "topicality": 0.0043146983
+        },
+        {
+          "description": "Bicycle tire",
+          "mid": "/m/0c3vfpc",
+          "score": 0.98599917,
+          "topicality": 0.009680935
+        },
+        {
+          "description": "Bicycle wheel",
+          "mid": "/m/01bqk0",
+          "score": 0.98517126,
+          "topicality": 0.025009586
+        },
+        {
+          "description": "Bicycle handlebar",
+          "mid": "/m/02rqv26",
+          "score": 0.9829853,
+          "topicality": 0.027977178
+        },
+        {
+          "description": "Wheel",
+          "mid": "/m/083wq",
+          "score": 0.9787702,
+          "topicality": 0.033590253
+        },
+        {
+          "description": "Tire",
+          "mid": "/m/0h9mv",
+          "score": 0.97621965,
+          "topicality": 0.03656452
+        },
+        {
+          "description": "Bicycle fork",
+          "mid": "/m/03pyqb",
+          "score": 0.97345304,
+          "topicality": 0.06297028
+        },
+        {
+          "description": "Cycling",
+          "mid": "/m/03hs7k",
+          "score": 0.96671635,
+          "topicality": 0.013305606
+        }
+      ]
+    }
+  ]
+}

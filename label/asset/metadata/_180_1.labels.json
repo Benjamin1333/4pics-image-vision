@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.97263074,
+          "topicality": 0.19452462
+        },
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9690424,
+          "topicality": 0.18127477
+        },
+        {
+          "description": "Paper",
+          "mid": "/m/0641k",
+          "score": 0.9530659,
+          "topicality": 0.66612995
+        },
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.9460684,
+          "topicality": 0.00055612175
+        },
+        {
+          "description": "Paper bag",
+          "mid": "/m/01x86j",
+          "score": 0.9208489,
+          "topicality": 0.1547847
+        },
+        {
+          "description": "Ribbon",
+          "mid": "/m/01s77c",
+          "score": 0.7963935,
+          "topicality": 0.23263514
+        },
+        {
+          "description": "Shopping bag",
+          "mid": "/m/02p4mnq",
+          "score": 0.7610298,
+          "topicality": 0.0494263
+        },
+        {
+          "description": "Gift",
+          "mid": "/m/0d84n",
+          "score": 0.731178,
+          "topicality": 0.19925502
+        },
+        {
+          "description": "Gift wrapping",
+          "mid": "/m/03gt__t",
+          "score": 0.5813394,
+          "topicality": 0.07938937
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.5740388,
+          "topicality": 0.0023224202
+        }
+      ]
+    }
+  ]
+}

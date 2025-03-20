@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Tent",
+          "mid": "/m/01j61q",
+          "score": 0.9832854,
+          "topicality": 0.47994158
+        },
+        {
+          "description": "Camping",
+          "mid": "/m/01h6d4",
+          "score": 0.9684927,
+          "topicality": 0.4667373
+        },
+        {
+          "description": "Winter",
+          "mid": "/m/086mh",
+          "score": 0.9200312,
+          "topicality": 0.08103875
+        },
+        {
+          "description": "Aurora",
+          "mid": "/m/0d61m",
+          "score": 0.89957464,
+          "topicality": 0.86449444
+        },
+        {
+          "description": "Snow",
+          "mid": "/m/06_dn",
+          "score": 0.8801383,
+          "topicality": 0.05597971
+        },
+        {
+          "description": "Tarpaulin",
+          "mid": "/m/02w3fc",
+          "score": 0.8664023,
+          "topicality": 0.0035493153
+        },
+        {
+          "description": "Ice cap",
+          "mid": "/m/04b966",
+          "score": 0.8538829,
+          "topicality": 0.008939755
+        },
+        {
+          "description": "geological phenomenon",
+          "mid": "/m/07sn5gn",
+          "score": 0.83161706,
+          "topicality": 0.00014969918
+        },
+        {
+          "description": "Arctic",
+          "mid": "/m/09738",
+          "score": 0.8003569,
+          "topicality": 0.30418238
+        },
+        {
+          "description": "Freezing",
+          "mid": "/m/01c791",
+          "score": 0.7942061,
+          "topicality": 0.009354747
+        }
+      ]
+    }
+  ]
+}

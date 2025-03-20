@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.974762,
+          "topicality": 0.16686721
+        },
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9705144,
+          "topicality": 0.037340958
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.68228096,
+          "topicality": 0.04022496
+        }
+      ]
+    }
+  ]
+}

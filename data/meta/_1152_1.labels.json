@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.9847855,
+          "topicality": 0.008342534
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.97743577,
+          "topicality": 0.15360142
+        },
+        {
+          "description": "Orange",
+          "mid": "/m/0jc_p",
+          "score": 0.94660157,
+          "topicality": 0.11817882
+        },
+        {
+          "description": "Red hair",
+          "mid": "/m/01ntt3",
+          "score": 0.94491476,
+          "topicality": 0.89211166
+        },
+        {
+          "description": "Wig",
+          "mid": "/m/01hzl4",
+          "score": 0.888504,
+          "topicality": 0.015961878
+        },
+        {
+          "description": "Eyelash",
+          "mid": "/m/03f52z",
+          "score": 0.8846249,
+          "topicality": 0.0012894117
+        },
+        {
+          "description": "Long hair",
+          "mid": "/m/02pd__z",
+          "score": 0.85106397,
+          "topicality": 0.029959617
+        },
+        {
+          "description": "Hair coloring",
+          "mid": "/m/028mzr",
+          "score": 0.81944996,
+          "topicality": 0.27015832
+        },
+        {
+          "description": "Artificial hair integrations",
+          "mid": "/m/07fnvh",
+          "score": 0.7992227,
+          "topicality": 0.0022921984
+        },
+        {
+          "description": "Brown hair",
+          "mid": "/m/02ksmb",
+          "score": 0.78885823,
+          "topicality": 0.013146215
+        }
+      ]
+    }
+  ]
+}

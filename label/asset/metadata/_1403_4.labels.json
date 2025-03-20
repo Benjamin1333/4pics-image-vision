@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "City",
+          "mid": "/m/01n32",
+          "score": 0.9709808,
+          "topicality": 0.46797147
+        },
+        {
+          "description": "Metropolitan area",
+          "mid": "/m/0j_s4",
+          "score": 0.96878123,
+          "topicality": 0.090729356
+        },
+        {
+          "description": "Urban area",
+          "mid": "/m/039jbq",
+          "score": 0.9678983,
+          "topicality": 0.023474043
+        },
+        {
+          "description": "Skyscraper",
+          "mid": "/m/079cl",
+          "score": 0.95746905,
+          "topicality": 0.38456511
+        },
+        {
+          "description": "Horizon",
+          "mid": "/m/0d1n2",
+          "score": 0.95227236,
+          "topicality": 0.00914536
+        },
+        {
+          "description": "Bird's-eye view",
+          "mid": "/m/08863x",
+          "score": 0.94983375,
+          "topicality": 0.2222193
+        },
+        {
+          "description": "Landscape",
+          "mid": "/m/025s3q0",
+          "score": 0.946825,
+          "topicality": 0.017208245
+        },
+        {
+          "description": "Aerial photography",
+          "mid": "/m/01w5c_",
+          "score": 0.94109446,
+          "topicality": 0.16978376
+        },
+        {
+          "description": "High-rise building",
+          "mid": "/m/0vlys",
+          "score": 0.937136,
+          "topicality": 0.16564102
+        },
+        {
+          "description": "Metropolis",
+          "mid": "/m/056mk",
+          "score": 0.93525606,
+          "topicality": 0.32165575
+        }
+      ]
+    }
+  ]
+}

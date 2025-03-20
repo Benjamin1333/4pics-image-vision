@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Leather jacket",
+          "mid": "/m/0dly90",
+          "score": 0.8838564,
+          "topicality": 0.08477598
+        },
+        {
+          "description": "Leather",
+          "mid": "/m/04lbp",
+          "score": 0.787892,
+          "topicality": 0.16986963
+        },
+        {
+          "description": "Denim",
+          "mid": "/m/0hgr6",
+          "score": 0.73595893,
+          "topicality": 0.00064461655
+        },
+        {
+          "description": "Dress shoe",
+          "mid": "/m/0bcl4q",
+          "score": 0.51784956,
+          "topicality": 0.00017538761
+        }
+      ]
+    }
+  ]
+}

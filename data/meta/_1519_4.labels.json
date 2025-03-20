@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sphere",
+          "mid": "/m/06y47",
+          "score": 0.9317271,
+          "topicality": 0.5839387
+        },
+        {
+          "description": "Earth",
+          "mid": "/m/02j71",
+          "score": 0.8076512,
+          "topicality": 0.38761646
+        },
+        {
+          "description": "Globe",
+          "mid": "/m/01q_cy",
+          "score": 0.8007128,
+          "topicality": 0.8664572
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.6825514,
+          "topicality": 0.003891152
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6315052,
+          "topicality": 0.0066892235
+        },
+        {
+          "description": "Ball",
+          "mid": "/m/018xm",
+          "score": 0.57728875,
+          "topicality": 0.31362993
+        },
+        {
+          "description": "Puzzle",
+          "mid": "/m/0lvmz",
+          "score": 0.57169396,
+          "topicality": 0.042357106
+        }
+      ]
+    }
+  ]
+}

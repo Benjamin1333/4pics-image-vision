@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Tableware",
+          "mid": "/m/04brg2",
+          "score": 0.973632,
+          "topicality": 0.007906356
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.9654817,
+          "topicality": 0.13023767
+        },
+        {
+          "description": "Furniture",
+          "mid": "/m/0c_jw",
+          "score": 0.96192306,
+          "topicality": 0.0043130475
+        },
+        {
+          "description": "Table",
+          "mid": "/m/04bcr3",
+          "score": 0.9473593,
+          "topicality": 0.045256417
+        },
+        {
+          "description": "Restaurant",
+          "mid": "/m/06l8d",
+          "score": 0.88479555,
+          "topicality": 0.5059217
+        },
+        {
+          "description": "Customer",
+          "mid": "/m/01j0mk",
+          "score": 0.88434035,
+          "topicality": 0.09748009
+        },
+        {
+          "description": "Dishware",
+          "mid": "/m/0h8nvk9",
+          "score": 0.8736011,
+          "topicality": 0.00018703078
+        },
+        {
+          "description": "Plate",
+          "mid": "/m/050gv4",
+          "score": 0.84282196,
+          "topicality": 0.007905383
+        },
+        {
+          "description": "Serveware",
+          "mid": "/m/0h8n22v",
+          "score": 0.82952046,
+          "topicality": 0.000609634
+        },
+        {
+          "description": "Drinkware",
+          "mid": "/m/050h26",
+          "score": 0.8282569,
+          "topicality": 0.0004383196
+        }
+      ]
+    }
+  ]
+}

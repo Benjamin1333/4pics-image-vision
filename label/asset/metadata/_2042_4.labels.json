@@ -1,0 +1,14 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Caravan",
+          "mid": "/m/01_5hj",
+          "score": 0.5085877,
+          "topicality": 0.9118659
+        }
+      ]
+    }
+  ]
+}

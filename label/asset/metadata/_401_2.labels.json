@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Daytime",
+          "mid": "/m/02q7ylj",
+          "score": 0.9814281,
+          "topicality": 0.034185432
+        },
+        {
+          "description": "Urban area",
+          "mid": "/m/039jbq",
+          "score": 0.9814214,
+          "topicality": 0.030157
+        },
+        {
+          "description": "Building",
+          "mid": "/m/0cgh4",
+          "score": 0.97942793,
+          "topicality": 0.16318198
+        },
+        {
+          "description": "City",
+          "mid": "/m/01n32",
+          "score": 0.97601104,
+          "topicality": 0.33028346
+        },
+        {
+          "description": "Metropolitan area",
+          "mid": "/m/0j_s4",
+          "score": 0.96241593,
+          "topicality": 0.03540794
+        },
+        {
+          "description": "Tower",
+          "mid": "/m/01fdzj",
+          "score": 0.95255595,
+          "topicality": 0.21794054
+        },
+        {
+          "description": "Landmark",
+          "mid": "/m/05_5t0l",
+          "score": 0.9339878,
+          "topicality": 0.11195044
+        },
+        {
+          "description": "Skyscraper",
+          "mid": "/m/079cl",
+          "score": 0.9165036,
+          "topicality": 0.1466529
+        },
+        {
+          "description": "Metropolis",
+          "mid": "/m/056mk",
+          "score": 0.9125849,
+          "topicality": 0.16627038
+        },
+        {
+          "description": "Cityscape",
+          "mid": "/m/034z7h",
+          "score": 0.8972502,
+          "topicality": 0.13429789
+        }
+      ]
+    }
+  ]
+}

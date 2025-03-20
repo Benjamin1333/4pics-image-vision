@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Drinkware",
+          "mid": "/m/050h26",
+          "score": 0.89604914,
+          "topicality": 0.002797004
+        },
+        {
+          "description": "Cylinder",
+          "mid": "/m/03h_4m",
+          "score": 0.8490321,
+          "topicality": 0.006925397
+        },
+        {
+          "description": "Cup",
+          "mid": "/m/08gqpm",
+          "score": 0.8029522,
+          "topicality": 0.026176998
+        },
+        {
+          "description": "Cup",
+          "mid": "/m/07ptj3n",
+          "score": 0.7804386,
+          "topicality": 0.0016728699
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.7338557,
+          "topicality": 0.1920114
+        },
+        {
+          "description": "Serveware",
+          "mid": "/m/0h8n22v",
+          "score": 0.70992255,
+          "topicality": 0.0014701742
+        },
+        {
+          "description": "Lid",
+          "mid": "/m/074cq5",
+          "score": 0.7074103,
+          "topicality": 0.06700632
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.6479441,
+          "topicality": 0.037615545
+        },
+        {
+          "description": "Bucket",
+          "mid": "/m/01zfyk",
+          "score": 0.6090373,
+          "topicality": 0.23304136
+        },
+        {
+          "description": "Coffee cup sleeve",
+          "mid": "/m/0405wrv",
+          "score": 0.5117271,
+          "topicality": 0.021943197
+        }
+      ]
+    }
+  ]
+}

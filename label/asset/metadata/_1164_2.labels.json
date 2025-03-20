@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.9610707,
+          "topicality": 0.03195045
+        },
+        {
+          "description": "Honey",
+          "mid": "/m/03qmh",
+          "score": 0.8038399,
+          "topicality": 0.8932427
+        },
+        {
+          "description": "Marigolds",
+          "mid": "/m/0jpy5",
+          "score": 0.78259355,
+          "topicality": 0.16574666
+        },
+        {
+          "description": "Sugar substitute",
+          "mid": "/m/0g24k",
+          "score": 0.7488157,
+          "topicality": 0.017965587
+        },
+        {
+          "description": "Daisy family",
+          "mid": "/m/0l5r",
+          "score": 0.72097164,
+          "topicality": 0.0053039286
+        },
+        {
+          "description": "Pollinator",
+          "mid": "/m/0ql23",
+          "score": 0.7197437,
+          "topicality": 0.0007916872
+        },
+        {
+          "description": "Common sunflower",
+          "mid": "/m/0ftb8",
+          "score": 0.65351766,
+          "topicality": 0.05510654
+        },
+        {
+          "description": "Sunflowers",
+          "mid": "/m/03h54r",
+          "score": 0.6290849,
+          "topicality": 0.022822438
+        },
+        {
+          "description": "Insect",
+          "mid": "/m/03vt0",
+          "score": 0.6062558,
+          "topicality": 0.0013841524
+        },
+        {
+          "description": "Asterales",
+          "mid": "/m/0jv7",
+          "score": 0.58554703,
+          "topicality": 0.000122053825
+        }
+      ]
+    }
+  ]
+}

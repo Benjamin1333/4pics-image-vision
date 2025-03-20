@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9729017,
+          "topicality": 0.11101548
+        },
+        {
+          "description": "Movie theater",
+          "mid": "/m/0kcc7",
+          "score": 0.7883351,
+          "topicality": 0.96212214
+        },
+        {
+          "description": "Auditorium",
+          "mid": "/m/039l3v",
+          "score": 0.778418,
+          "topicality": 0.14698222
+        },
+        {
+          "description": "Theatre",
+          "mid": "/m/03qsdpk",
+          "score": 0.63042897,
+          "topicality": 0.42037383
+        },
+        {
+          "description": "Movie palace",
+          "mid": "/m/05b9mj",
+          "score": 0.6136913,
+          "topicality": 0.0061937296
+        },
+        {
+          "description": "Projection screen",
+          "mid": "/m/06ycgh",
+          "score": 0.5592433,
+          "topicality": 0.5997564
+        },
+        {
+          "description": "Theater drapes and stage curtains",
+          "mid": "/m/0d7fvd",
+          "score": 0.54476446,
+          "topicality": 0.03390034
+        },
+        {
+          "description": "Conference hall",
+          "mid": "/m/02q60ls",
+          "score": 0.5266017,
+          "topicality": 0.0023240594
+        },
+        {
+          "description": "Stage is empty",
+          "mid": "/j/gm7zd_",
+          "score": 0.5265136,
+          "topicality": 0.0013195773
+        }
+      ]
+    }
+  ]
+}

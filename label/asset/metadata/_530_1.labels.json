@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Footwear",
+          "mid": "/m/09j5n",
+          "score": 0.98199034,
+          "topicality": 0.05470797
+        },
+        {
+          "description": "Dress shoe",
+          "mid": "/m/0bcl4q",
+          "score": 0.95938194,
+          "topicality": 0.018385207
+        },
+        {
+          "description": "Shoe",
+          "mid": "/m/06rrc",
+          "score": 0.95758516,
+          "topicality": 0.49895406
+        },
+        {
+          "description": "Black",
+          "mid": "/m/019sc",
+          "score": 0.9079334,
+          "topicality": 0.026723063
+        },
+        {
+          "description": "Dancing Shoe",
+          "mid": "/m/0h8mz41",
+          "score": 0.89546394,
+          "topicality": 0.051180527
+        },
+        {
+          "description": "High-heeled shoe",
+          "mid": "/m/06k2mb",
+          "score": 0.85687166,
+          "topicality": 0.23156677
+        },
+        {
+          "description": "Purple",
+          "mid": "/m/09ggk",
+          "score": 0.80812275,
+          "topicality": 0.03023151
+        },
+        {
+          "description": "Basic Pump",
+          "mid": "/m/0hgscdg",
+          "score": 0.8025628,
+          "topicality": 0.0014373213
+        },
+        {
+          "description": "Foot",
+          "mid": "/m/031n1",
+          "score": 0.79951,
+          "topicality": 0.03258249
+        },
+        {
+          "description": "Leather",
+          "mid": "/m/04lbp",
+          "score": 0.7833809,
+          "topicality": 0.048552226
+        }
+      ]
+    }
+  ]
+}

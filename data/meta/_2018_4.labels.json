@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bone",
+          "mid": "/m/01b92",
+          "score": 0.9815767,
+          "topicality": 0.45983827
+        },
+        {
+          "description": "Knee",
+          "mid": "/m/019swr",
+          "score": 0.94330955,
+          "topicality": 0.60371697
+        },
+        {
+          "description": "Medical",
+          "mid": "/m/02xht4g",
+          "score": 0.88141775,
+          "topicality": 5.712006e-05
+        },
+        {
+          "description": "Human anatomy",
+          "mid": "/m/03gg9",
+          "score": 0.8695249,
+          "topicality": 0.035846334
+        },
+        {
+          "description": "Ankle",
+          "mid": "/m/01xlvy",
+          "score": 0.8005896,
+          "topicality": 0.034874074
+        },
+        {
+          "description": "Radiography",
+          "mid": "/m/0nqm4",
+          "score": 0.7926987,
+          "topicality": 0.025537502
+        },
+        {
+          "description": "X-ray",
+          "mid": "/m/087gx",
+          "score": 0.77516747,
+          "topicality": 0.052748572
+        },
+        {
+          "description": "Medical imaging",
+          "mid": "/m/01j3br",
+          "score": 0.75956744,
+          "topicality": 0.0013145828
+        },
+        {
+          "description": "Calf",
+          "mid": "/m/0715t2",
+          "score": 0.7151869,
+          "topicality": 0.005972306
+        },
+        {
+          "description": "Foot",
+          "mid": "/m/031n1",
+          "score": 0.6921023,
+          "topicality": 0.045003954
+        }
+      ]
+    }
+  ]
+}

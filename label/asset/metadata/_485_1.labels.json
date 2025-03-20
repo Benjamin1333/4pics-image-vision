@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bird",
+          "mid": "/m/015p6",
+          "score": 0.9941149,
+          "topicality": 0.324743
+        },
+        {
+          "description": "Accipitridae",
+          "mid": "/m/0m15h",
+          "score": 0.9773111,
+          "topicality": 0.025113864
+        },
+        {
+          "description": "Vertebrate",
+          "mid": "/m/09686",
+          "score": 0.96234435,
+          "topicality": 0.0010449556
+        },
+        {
+          "description": "Bird of prey",
+          "mid": "/m/0f6x8",
+          "score": 0.9551693,
+          "topicality": 0.16145797
+        },
+        {
+          "description": "Wing",
+          "mid": "/m/083s2",
+          "score": 0.94685084,
+          "topicality": 0.044370607
+        },
+        {
+          "description": "Beak",
+          "mid": "/m/01c4rd",
+          "score": 0.93581814,
+          "topicality": 0.007182131
+        },
+        {
+          "description": "Eagle",
+          "mid": "/m/09csl",
+          "score": 0.92859846,
+          "topicality": 0.69986343
+        },
+        {
+          "description": "Accipitriformes",
+          "mid": "/m/01d64p",
+          "score": 0.92277807,
+          "topicality": 0.039980493
+        },
+        {
+          "description": "Flight",
+          "mid": "/m/01515d",
+          "score": 0.8985581,
+          "topicality": 0.4214708
+        },
+        {
+          "description": "Wildlife",
+          "mid": "/m/01280g",
+          "score": 0.8882798,
+          "topicality": 0.007668015
+        }
+      ]
+    }
+  ]
+}

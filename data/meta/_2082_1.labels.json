@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.8996979,
+          "topicality": 0.0024254746
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.5859587,
+          "topicality": 0.02970298
+        },
+        {
+          "description": "Document",
+          "mid": "/m/015bv3",
+          "score": 0.5110508,
+          "topicality": 0.024446858
+        }
+      ]
+    }
+  ]
+}

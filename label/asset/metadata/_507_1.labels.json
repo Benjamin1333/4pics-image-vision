@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.98792315,
+          "topicality": 0.0027041305
+        },
+        {
+          "description": "Wall",
+          "mid": "/m/09qqq",
+          "score": 0.97531044,
+          "topicality": 0.02219064
+        },
+        {
+          "description": "Art",
+          "mid": "/m/0jjw",
+          "score": 0.9531818,
+          "topicality": 0.4532067
+        },
+        {
+          "description": "Mural",
+          "mid": "/m/04rd7",
+          "score": 0.9501883,
+          "topicality": 0.24497828
+        },
+        {
+          "description": "Visual arts",
+          "mid": "/m/0p9xx",
+          "score": 0.9377052,
+          "topicality": 0.027689049
+        },
+        {
+          "description": "Artist",
+          "mid": "/m/0n1h",
+          "score": 0.9237323,
+          "topicality": 0.18176024
+        },
+        {
+          "description": "Graffiti",
+          "mid": "/m/034wh",
+          "score": 0.9148512,
+          "topicality": 0.5758917
+        },
+        {
+          "description": "Street art",
+          "mid": "/m/07vwy6",
+          "score": 0.90445,
+          "topicality": 0.35271728
+        },
+        {
+          "description": "Orange",
+          "mid": "/m/0jc_p",
+          "score": 0.9026153,
+          "topicality": 7.683979e-05
+        },
+        {
+          "description": "Paint",
+          "mid": "/m/05y4t",
+          "score": 0.90087193,
+          "topicality": 0.07615179
+        }
+      ]
+    }
+  ]
+}

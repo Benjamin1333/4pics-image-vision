@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Water",
+          "mid": "/m/0838f",
+          "score": 0.98613006,
+          "topicality": 0.93746704
+        },
+        {
+          "description": "Fluid",
+          "mid": "/m/02yfx",
+          "score": 0.95600134,
+          "topicality": 0.07007158
+        },
+        {
+          "description": "Drinking water",
+          "mid": "/m/01c6xf",
+          "score": 0.94908446,
+          "topicality": 0.59928745
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.9216305,
+          "topicality": 0.19216739
+        },
+        {
+          "description": "Mineral water",
+          "mid": "/m/02267z",
+          "score": 0.9168941,
+          "topicality": 0.1574003
+        },
+        {
+          "description": "Drop",
+          "mid": "/m/0b7z1",
+          "score": 0.88931644,
+          "topicality": 0.35248265
+        },
+        {
+          "description": "Close-up",
+          "mid": "/m/02cqfm",
+          "score": 0.85180277,
+          "topicality": 0.015085034
+        },
+        {
+          "description": "Bubble",
+          "mid": "/m/0g91zf",
+          "score": 0.7860135,
+          "topicality": 0.24600379
+        },
+        {
+          "description": "Glass",
+          "mid": "/m/039jq",
+          "score": 0.76794404,
+          "topicality": 0.05449938
+        },
+        {
+          "description": "Solvent in chemical reactions",
+          "mid": "/m/09bkb",
+          "score": 0.6158429,
+          "topicality": 0.0019068008
+        }
+      ]
+    }
+  ]
+}

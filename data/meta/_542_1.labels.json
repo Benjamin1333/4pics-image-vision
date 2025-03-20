@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Shoulder",
+          "mid": "/m/01ssh5",
+          "score": 0.9743634,
+          "topicality": 0.011084696
+        },
+        {
+          "description": "Shorts",
+          "mid": "/m/01bfm9",
+          "score": 0.9635308,
+          "topicality": 0.00026188281
+        },
+        {
+          "description": "Exercise equipment",
+          "mid": "/m/090ljv",
+          "score": 0.95801336,
+          "topicality": 0.019021181
+        },
+        {
+          "description": "Exercise machine",
+          "mid": "/m/097wsh",
+          "score": 0.94674927,
+          "topicality": 0.012311408
+        },
+        {
+          "description": "Exercise",
+          "mid": "/m/019w6h",
+          "score": 0.936565,
+          "topicality": 0.41781288
+        },
+        {
+          "description": "Physical fitness",
+          "mid": "/m/027x7n",
+          "score": 0.91864365,
+          "topicality": 0.28397226
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.90831697,
+          "topicality": 0.0027455213
+        },
+        {
+          "description": "Muscle",
+          "mid": "/m/04_fs",
+          "score": 0.90813065,
+          "topicality": 0.010855452
+        },
+        {
+          "description": "Gym",
+          "mid": "/m/016yx7",
+          "score": 0.9020074,
+          "topicality": 0.13551931
+        },
+        {
+          "description": "Knee",
+          "mid": "/m/019swr",
+          "score": 0.85295326,
+          "topicality": 0.009293807
+        }
+      ]
+    }
+  ]
+}

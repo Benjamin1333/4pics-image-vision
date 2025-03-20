@@ -1,0 +1,43 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Leather jacket",
+          "mid": "/m/0dly90",
+          "score": 0.97845834,
+          "topicality": 0.93668395
+        },
+        {
+          "description": "Fashion",
+          "mid": "/m/032tl",
+          "score": 0.9483317
+        },
+        {
+          "description": "Leather",
+          "mid": "/m/04lbp",
+          "score": 0.9220739,
+          "topicality": 0.39905715
+        },
+        {
+          "description": "Jacket",
+          "mid": "/m/032b3c",
+          "score": 0.87831247,
+          "topicality": 0.6876637
+        },
+        {
+          "description": "Zipper",
+          "mid": "/m/01s0vc",
+          "score": 0.6477976,
+          "topicality": 0.005695874
+        },
+        {
+          "description": "Pocket",
+          "mid": "/m/025rhd",
+          "score": 0.55657303,
+          "topicality": 0.0028822199
+        }
+      ]
+    }
+  ]
+}

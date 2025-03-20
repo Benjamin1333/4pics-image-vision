@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Formal wear",
+          "mid": "/m/02w3_2",
+          "score": 0.9716107,
+          "topicality": 0.0062499284
+        },
+        {
+          "description": "Dress",
+          "mid": "/m/01d40f",
+          "score": 0.9682825,
+          "topicality": 0.051055294
+        },
+        {
+          "description": "Fashion",
+          "mid": "/m/032tl",
+          "score": 0.9576072
+        },
+        {
+          "description": "Little black dress",
+          "mid": "/m/02jt0t",
+          "score": 0.944633,
+          "topicality": 0.20110786
+        },
+        {
+          "description": "One-piece garment",
+          "mid": "/m/0142sg",
+          "score": 0.91935074,
+          "topicality": 0.00011908194
+        },
+        {
+          "description": "Day Dress",
+          "mid": "/m/0hgsb5g",
+          "score": 0.9127681,
+          "topicality": 0.00015293276
+        },
+        {
+          "description": "Fashion Model",
+          "mid": "/m/02hqr87",
+          "score": 0.9001387,
+          "topicality": 0.022245342
+        },
+        {
+          "description": "Cocktail dress",
+          "mid": "/m/05sfw_",
+          "score": 0.8903813,
+          "topicality": 0.012839651
+        },
+        {
+          "description": "Sheath dress",
+          "mid": "/m/02x4gxs",
+          "score": 0.8795747,
+          "topicality": 0.00046462088
+        },
+        {
+          "description": "Waist",
+          "mid": "/m/031974",
+          "score": 0.86793584,
+          "topicality": 0.00029250846
+        }
+      ]
+    }
+  ]
+}

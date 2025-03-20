@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Car door",
+          "mid": "/m/02q2kc3",
+          "score": 0.92535007,
+          "topicality": 0.028927464
+        },
+        {
+          "description": "Driving",
+          "mid": "/m/0kw6d",
+          "score": 0.86549824,
+          "topicality": 0.2037576
+        },
+        {
+          "description": "Luxury vehicle",
+          "mid": "/m/01lcwm",
+          "score": 0.8200797,
+          "topicality": 0.0039593545
+        },
+        {
+          "description": "Automotive Mirror",
+          "mid": "/m/0h8lk4b",
+          "score": 0.81014085,
+          "topicality": 7.5207165e-05
+        },
+        {
+          "description": "Steering wheel",
+          "mid": "/m/03b6_4",
+          "score": 0.80641955,
+          "topicality": 0.016873358
+        },
+        {
+          "description": "Personal luxury car",
+          "mid": "/m/01w71f",
+          "score": 0.7609096,
+          "topicality": 0.00096839253
+        },
+        {
+          "description": "Family car",
+          "mid": "/m/088l6h",
+          "score": 0.72409123,
+          "topicality": 0.0018406593
+        },
+        {
+          "description": "Automotive Side-View Mirror",
+          "mid": "/m/0h8n616",
+          "score": 0.7009112,
+          "topicality": 0.00017449487
+        },
+        {
+          "description": "Rear-view mirror",
+          "mid": "/m/05j11x",
+          "score": 0.64389527,
+          "topicality": 0.003755933
+        },
+        {
+          "description": "Car seat",
+          "mid": "/m/0268t21",
+          "score": 0.6404649,
+          "topicality": 0.008394411
+        }
+      ]
+    }
+  ]
+}

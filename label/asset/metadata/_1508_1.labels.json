@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94492495,
+          "topicality": 0.008498972
+        },
+        {
+          "description": "Screaming",
+          "mid": "/m/03qc9zr",
+          "score": 0.8178275,
+          "topicality": 0.07480936
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.7314226,
+          "topicality": 0.008486456
+        },
+        {
+          "description": "Laughter",
+          "mid": "/m/01j3sz",
+          "score": 0.551801,
+          "topicality": 0.0026302433
+        },
+        {
+          "description": "Fear",
+          "mid": "/m/02xrl",
+          "score": 0.51780456,
+          "topicality": 0.095217615
+        },
+        {
+          "description": "Tongue",
+          "mid": "/m/0fjkt",
+          "score": 0.5166984,
+          "topicality": 0.0011320178
+        },
+        {
+          "description": "Tissue paper",
+          "mid": "/m/06g3fd",
+          "score": 0.50396854,
+          "topicality": 0.0041346927
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hairstyle",
+          "mid": "/m/0ds4x",
+          "score": 0.9699715,
+          "topicality": 0.001949839
+        },
+        {
+          "description": "Costume",
+          "mid": "/m/0250x",
+          "score": 0.82223076,
+          "topicality": 0.006846284
+        },
+        {
+          "description": "Costume design",
+          "mid": "/m/04s5jq",
+          "score": 0.8195272,
+          "topicality": 0.0053141806
+        },
+        {
+          "description": "Long hair",
+          "mid": "/m/02pd__z",
+          "score": 0.7693072,
+          "topicality": 0.0014749672
+        },
+        {
+          "description": "Vintage clothing",
+          "mid": "/m/08v4gh",
+          "score": 0.76382995,
+          "topicality": 0.00014784792
+        },
+        {
+          "description": "Victorian fashion",
+          "mid": "/m/0133pl",
+          "score": 0.7605433,
+          "topicality": 0.0046160365
+        },
+        {
+          "description": "Portrait",
+          "mid": "/m/01dv4h",
+          "score": 0.6216172,
+          "topicality": 0.030902706
+        },
+        {
+          "description": "Ringlet",
+          "mid": "/m/0dqs43",
+          "score": 0.5585779,
+          "topicality": 0.00070005213
+        },
+        {
+          "description": "Self-portrait",
+          "mid": "/m/0266180",
+          "score": 0.5387943
+        },
+        {
+          "description": "Monarch",
+          "mid": "/m/04syw",
+          "score": 0.51848817,
+          "topicality": 0.514287
+        }
+      ]
+    }
+  ]
+}

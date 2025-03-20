@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.9847901,
+          "topicality": 0.2703191
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94461757,
+          "topicality": 0.0041712904
+        },
+        {
+          "description": "Close-up",
+          "mid": "/m/02cqfm",
+          "score": 0.9116267,
+          "topicality": 0.098855175
+        },
+        {
+          "description": "Facial hair",
+          "mid": "/m/0ds5b",
+          "score": 0.84654886,
+          "topicality": 0.03287341
+        },
+        {
+          "description": "Macro photography",
+          "mid": "/m/03rbf6",
+          "score": 0.6438625,
+          "topicality": 0.0013654211
+        },
+        {
+          "description": "Beard",
+          "mid": "/m/015h_t",
+          "score": 0.6385714,
+          "topicality": 0.0264257
+        },
+        {
+          "description": "Wrinkle",
+          "mid": "/m/02_x63",
+          "score": 0.63488394,
+          "topicality": 0.011217161
+        },
+        {
+          "description": "Flesh",
+          "mid": "/m/02p16m6",
+          "score": 0.6202196,
+          "topicality": 0.00040157413
+        }
+      ]
+    }
+  ]
+}

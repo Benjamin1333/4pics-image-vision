@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.95561546,
+          "topicality": 0.00018514467
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8793893,
+          "topicality": 0.014487347
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.8483209,
+          "topicality": 0.3521508
+        },
+        {
+          "description": "Engineering",
+          "mid": "/m/02ky346",
+          "score": 0.805604,
+          "topicality": 0.02589692
+        },
+        {
+          "description": "Electronics",
+          "mid": "/m/02mrp",
+          "score": 0.7908698,
+          "topicality": 0.0073911566
+        },
+        {
+          "description": "Control panel",
+          "mid": "/m/0d99pf",
+          "score": 0.7152321,
+          "topicality": 0.022938719
+        },
+        {
+          "description": "Factory",
+          "mid": "/m/0168g6",
+          "score": 0.70697093,
+          "topicality": 0.03820846
+        },
+        {
+          "description": "Machine tool",
+          "mid": "/m/01b5w1",
+          "score": 0.68862927,
+          "topicality": 0.070771985
+        },
+        {
+          "description": "Workshop",
+          "mid": "/m/026zs_",
+          "score": 0.6344759,
+          "topicality": 0.0663823
+        },
+        {
+          "description": "Office Equipment",
+          "mid": "/m/03qtgjk",
+          "score": 0.62112314,
+          "topicality": 0.00026120825
+        }
+      ]
+    }
+  ]
+}

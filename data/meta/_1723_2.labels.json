@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9752375,
+          "topicality": 0.024295598
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.73424566,
+          "topicality": 0.16593616
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.72315615,
+          "topicality": 0.12216808
+        },
+        {
+          "description": "Sign",
+          "mid": "/m/06zsq",
+          "score": 0.71125674,
+          "topicality": 0.035049003
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.68991506,
+          "topicality": 0.012171207
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Cloud",
+          "mid": "/m/0csby",
+          "score": 0.9673857,
+          "topicality": 0.0033658554
+        },
+        {
+          "description": "Adventure",
+          "mid": "/m/0h_m",
+          "score": 0.9412802,
+          "topicality": 0.28808966
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.89137137,
+          "topicality": 0.047611654
+        },
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.876401,
+          "topicality": 0.017336715
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.87150985,
+          "topicality": 0.024276687
+        },
+        {
+          "description": "People in nature",
+          "mid": "/j/3gbwgn",
+          "score": 0.8479683,
+          "topicality": 0.0042793825
+        },
+        {
+          "description": "Travel",
+          "mid": "/m/014dsx",
+          "score": 0.823264,
+          "topicality": 0.48018909
+        },
+        {
+          "description": "Vacation",
+          "mid": "/m/02jwqh",
+          "score": 0.7841946,
+          "topicality": 0.089453764
+        },
+        {
+          "description": "Backpack",
+          "mid": "/m/01940j",
+          "score": 0.76827675,
+          "topicality": 0.014921552
+        },
+        {
+          "description": "Cumulus",
+          "mid": "/m/0csh5",
+          "score": 0.72839546,
+          "topicality": 0.00017101846
+        }
+      ]
+    }
+  ]
+}

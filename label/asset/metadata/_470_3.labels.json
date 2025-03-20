@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Cake",
+          "mid": "/m/0fszt",
+          "score": 0.9891371,
+          "topicality": 0.7008373
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.9827325,
+          "topicality": 0.03783139
+        },
+        {
+          "description": "Dessert",
+          "mid": "/m/0270h",
+          "score": 0.9459995,
+          "topicality": 0.1867872
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9455254,
+          "topicality": 0.0022712415
+        },
+        {
+          "description": "Pastry",
+          "mid": "/m/0hnyx",
+          "score": 0.89079,
+          "topicality": 0.22667418
+        },
+        {
+          "description": "Baking",
+          "mid": "/m/0dv34",
+          "score": 0.88997346,
+          "topicality": 0.0703928
+        },
+        {
+          "description": "Chocolate cake",
+          "mid": "/m/079dl7",
+          "score": 0.88364786,
+          "topicality": 0.19072652
+        },
+        {
+          "description": "Sponge cake",
+          "mid": "/m/02w6jk",
+          "score": 0.8630039,
+          "topicality": 0.17479411
+        },
+        {
+          "description": "German chocolate cake",
+          "mid": "/m/04bhvm",
+          "score": 0.85704595,
+          "topicality": 0.01002573
+        },
+        {
+          "description": "Kuchen",
+          "mid": "/m/04yfd1",
+          "score": 0.85369986,
+          "topicality": 0.02538072
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Train",
+          "mid": "/m/07jdr",
+          "score": 0.9910523,
+          "topicality": 0.83881474
+        },
+        {
+          "description": "Mode of transport",
+          "mid": "/m/079bkr",
+          "score": 0.98815775,
+          "topicality": 0.061753724
+        },
+        {
+          "description": "Transport",
+          "mid": "/m/07bsy",
+          "score": 0.9849639,
+          "topicality": 0.23826742
+        },
+        {
+          "description": "Rolling stock",
+          "mid": "/m/025s53m",
+          "score": 0.9769242,
+          "topicality": 0.023529386
+        },
+        {
+          "description": "Rail transport",
+          "mid": "/m/06d_3",
+          "score": 0.97475165,
+          "topicality": 0.549798
+        },
+        {
+          "description": "Public transport",
+          "mid": "/m/05zdp",
+          "score": 0.96176845,
+          "topicality": 0.062538765
+        },
+        {
+          "description": "Track",
+          "mid": "/m/01vk9q",
+          "score": 0.9500657,
+          "topicality": 0.2541909
+        },
+        {
+          "description": "Train station",
+          "mid": "/m/0py27",
+          "score": 0.94539464,
+          "topicality": 0.38980398
+        },
+        {
+          "description": "Passenger car",
+          "mid": "/m/0467y7",
+          "score": 0.9131471,
+          "topicality": 0.027291274
+        },
+        {
+          "description": "Windscreen wiper",
+          "mid": "/m/02417f",
+          "score": 0.8718199,
+          "topicality": 4.3808577e-05
+        }
+      ]
+    }
+  ]
+}

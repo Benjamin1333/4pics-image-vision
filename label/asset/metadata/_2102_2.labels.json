@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.98257923,
+          "topicality": 0.009995901
+        },
+        {
+          "description": "Seasoning",
+          "mid": "/m/0dwpk",
+          "score": 0.97231984,
+          "topicality": 0.051450938
+        },
+        {
+          "description": "Powder",
+          "mid": "/m/0gzznm",
+          "score": 0.96098524,
+          "topicality": 0.05038733
+        },
+        {
+          "description": "Spice",
+          "mid": "/m/06p35",
+          "score": 0.96083146,
+          "topicality": 0.78722966
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.945502,
+          "topicality": 0.21033144
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.9119296,
+          "topicality": 0.0030135515
+        },
+        {
+          "description": "Masala",
+          "mid": "/m/02nyrg",
+          "score": 0.9066888,
+          "topicality": 0.0498439
+        },
+        {
+          "description": "Condiment",
+          "mid": "/m/0gtdm",
+          "score": 0.88028675,
+          "topicality": 0.11787861
+        },
+        {
+          "description": "Curry powder",
+          "mid": "/m/01vsvd",
+          "score": 0.8755415,
+          "topicality": 0.15515293
+        },
+        {
+          "description": "Market",
+          "mid": "/m/09y4pm",
+          "score": 0.86837894,
+          "topicality": 0.14833175
+        }
+      ]
+    }
+  ]
+}

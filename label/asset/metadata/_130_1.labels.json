@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.9012844,
+          "topicality": 0.0009184946
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8378941,
+          "topicality": 0.087968655
+        }
+      ]
+    }
+  ]
+}

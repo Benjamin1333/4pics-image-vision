@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Shoe",
+          "mid": "/m/06rrc",
+          "score": 0.9824857,
+          "topicality": 0.71689916
+        },
+        {
+          "description": "Footwear",
+          "mid": "/m/09j5n",
+          "score": 0.98202527,
+          "topicality": 0.18122816
+        },
+        {
+          "description": "Dress shoe",
+          "mid": "/m/0bcl4q",
+          "score": 0.92428267,
+          "topicality": 0.07257139
+        },
+        {
+          "description": "Walking Shoe",
+          "mid": "/m/0hgs9bq",
+          "score": 0.7250634,
+          "topicality": 0.00039077396
+        },
+        {
+          "description": "Leather",
+          "mid": "/m/04lbp",
+          "score": 0.6857132,
+          "topicality": 0.10986423
+        },
+        {
+          "description": "Shoe store",
+          "mid": "/m/0h62vyn",
+          "score": 0.66529095,
+          "topicality": 0.032978587
+        },
+        {
+          "description": "Foot",
+          "mid": "/m/031n1",
+          "score": 0.5185315,
+          "topicality": 0.018459555
+        }
+      ]
+    }
+  ]
+}

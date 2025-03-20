@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Eyewear",
+          "mid": "/m/0j272k5",
+          "score": 0.995212,
+          "topicality": 0.002085246
+        },
+        {
+          "description": "Glasses",
+          "mid": "/m/0jyfg",
+          "score": 0.98553103,
+          "topicality": 0.2673055
+        },
+        {
+          "description": "Vision Care",
+          "mid": "/m/0h8jxfl",
+          "score": 0.9845296,
+          "topicality": 0.00045405357
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94493926,
+          "topicality": 0.053130593
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.84731644,
+          "topicality": 0.047348917
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.7689579,
+          "topicality": 0.056973502
+        },
+        {
+          "description": "Surprise",
+          "mid": "/m/0cfrhj",
+          "score": 0.69469196,
+          "topicality": 0.1390447
+        },
+        {
+          "description": "Varnish",
+          "mid": "/m/01ffcg",
+          "score": 0.6185058,
+          "topicality": 6.473866e-05
+        },
+        {
+          "description": "Pleased",
+          "mid": "/j/4kr7kk",
+          "score": 0.5696666,
+          "topicality": 0.00010776055
+        },
+        {
+          "description": "Screaming",
+          "mid": "/m/03qc9zr",
+          "score": 0.5572503,
+          "topicality": 0.071838275
+        }
+      ]
+    }
+  ]
+}

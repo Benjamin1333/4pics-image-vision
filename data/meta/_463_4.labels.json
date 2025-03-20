@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Fashion show",
+          "mid": "/m/02pdvpt",
+          "score": 0.9847464,
+          "topicality": 0.64199823
+        },
+        {
+          "description": "Runway",
+          "mid": "/m/03bxt6z",
+          "score": 0.97297055,
+          "topicality": 0.18007664
+        },
+        {
+          "description": "Fashion Model",
+          "mid": "/m/02hqr87",
+          "score": 0.9616765,
+          "topicality": 0.0828737
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.9568878,
+          "topicality": 0.0001863783
+        },
+        {
+          "description": "Fashion",
+          "mid": "/m/032tl",
+          "score": 0.95269847
+        },
+        {
+          "description": "One-piece garment",
+          "mid": "/m/0142sg",
+          "score": 0.94741285,
+          "topicality": 0.0021522162
+        },
+        {
+          "description": "Textile",
+          "mid": "/m/0dnr7",
+          "score": 0.94723105,
+          "topicality": 0.008628046
+        },
+        {
+          "description": "Dress",
+          "mid": "/m/01d40f",
+          "score": 0.9134652,
+          "topicality": 0.10906593
+        },
+        {
+          "description": "Public event",
+          "mid": "/g/116c3n66l",
+          "score": 0.90390253,
+          "topicality": 1.1906577e-05
+        },
+        {
+          "description": "Day Dress",
+          "mid": "/m/0hgsb5g",
+          "score": 0.89788616,
+          "topicality": 0.000631204
+        }
+      ]
+    }
+  ]
+}

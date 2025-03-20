@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Dog",
+          "mid": "/m/0bt9lr",
+          "score": 0.92130214,
+          "topicality": 0.20960717
+        },
+        {
+          "description": "Pet Supply",
+          "mid": "/m/0h8ks17",
+          "score": 0.733326,
+          "topicality": 0.0011341717
+        },
+        {
+          "description": "Tray",
+          "mid": "/m/01nn4f",
+          "score": 0.7228061,
+          "topicality": 0.09048375
+        },
+        {
+          "description": "Toy dog",
+          "mid": "/m/036hyn",
+          "score": 0.6615336,
+          "topicality": 0.009011675
+        },
+        {
+          "description": "Dog Supply",
+          "mid": "/m/0h8nm96",
+          "score": 0.64685,
+          "topicality": 0.005435056
+        },
+        {
+          "description": "Dishware",
+          "mid": "/m/0h8nvk9",
+          "score": 0.6380562,
+          "topicality": 9.866643e-05
+        },
+        {
+          "description": "Serveware",
+          "mid": "/m/0h8n22v",
+          "score": 0.6316586,
+          "topicality": 0.015806898
+        },
+        {
+          "description": "Canidae",
+          "mid": "/m/01z5f",
+          "score": 0.60901767,
+          "topicality": 0.0012401656
+        },
+        {
+          "description": "Puppy",
+          "mid": "/m/0d7s3w",
+          "score": 0.5646915,
+          "topicality": 0.0130880065
+        },
+        {
+          "description": "Dog Bed",
+          "mid": "/m/0h8n6f9",
+          "score": 0.5455373,
+          "topicality": 0.0570701
+        }
+      ]
+    }
+  ]
+}

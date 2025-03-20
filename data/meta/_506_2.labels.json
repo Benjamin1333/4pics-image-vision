@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Eyebrow",
+          "mid": "/m/027n3_",
+          "score": 0.9857908,
+          "topicality": 0.02558116
+        },
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.984795,
+          "topicality": 0.013089367
+        },
+        {
+          "description": "Skin",
+          "mid": "/m/06z04",
+          "score": 0.9812898,
+          "topicality": 0.06091475
+        },
+        {
+          "description": "Forehead",
+          "mid": "/m/025kyy",
+          "score": 0.98048747,
+          "topicality": 0.03581372
+        },
+        {
+          "description": "Hairstyle",
+          "mid": "/m/0ds4x",
+          "score": 0.97031343,
+          "topicality": 0.09300106
+        },
+        {
+          "description": "Beauty",
+          "mid": "/m/01f43",
+          "score": 0.9606922,
+          "topicality": 0.11296984
+        },
+        {
+          "description": "Neck",
+          "mid": "/m/0dzd8",
+          "score": 0.9564107,
+          "topicality": 0.030964505
+        },
+        {
+          "description": "Eyelash",
+          "mid": "/m/03f52z",
+          "score": 0.9559011,
+          "topicality": 0.0016064103
+        },
+        {
+          "description": "Jewellery",
+          "mid": "/m/0404d",
+          "score": 0.942219,
+          "topicality": 0.09507134
+        },
+        {
+          "description": "Brown",
+          "mid": "/m/09q2t",
+          "score": 0.9152968,
+          "topicality": 0.05475318
+        }
+      ]
+    }
+  ]
+}

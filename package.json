@@ -1,0 +1,15 @@
+{
+  "name": "4pics-image-vision",
+  "version": "1.0.0",
+  "description": "",
+  "main": "label/index.js",
+  "scripts": {
+    "serve:label": "npx serve label",
+    "generate": "node bin/generate.mjs",
+    "generate:clean": "node bin/generate.mjs --clean"
+  },
+  "private": true,
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}

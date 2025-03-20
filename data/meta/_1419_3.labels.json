@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.944489,
+          "topicality": 0.0014805192
+        },
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.9282479,
+          "topicality": 0.009416855
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.8040004,
+          "topicality": 0.0013312656
+        },
+        {
+          "description": "Moustache",
+          "mid": "/m/0bby24z",
+          "score": 0.6342161,
+          "topicality": 8.9517765e-05
+        }
+      ]
+    }
+  ]
+}

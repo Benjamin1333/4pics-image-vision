@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Wood",
+          "mid": "/m/083vt",
+          "score": 0.9691278,
+          "topicality": 0.23710583
+        },
+        {
+          "description": "Brown",
+          "mid": "/m/09q2t",
+          "score": 0.9153777,
+          "topicality": 0.003804648
+        },
+        {
+          "description": "Wood stain",
+          "mid": "/m/05t06b",
+          "score": 0.8075653,
+          "topicality": 0.008419266
+        },
+        {
+          "description": "Hardwood",
+          "mid": "/m/020g49",
+          "score": 0.79154223,
+          "topicality": 0.003949079
+        },
+        {
+          "description": "Natural material",
+          "mid": "/m/07sx2n",
+          "score": 0.7273948,
+          "topicality": 0.0015628607
+        },
+        {
+          "description": "Plank",
+          "mid": "/m/0fq0fnf",
+          "score": 0.65942156,
+          "topicality": 0.0014887125
+        },
+        {
+          "description": "Plywood",
+          "mid": "/m/0jh8w",
+          "score": 0.62900805,
+          "topicality": 0.003185253
+        },
+        {
+          "description": "Lumber",
+          "mid": "/m/025tnyc",
+          "score": 0.551928,
+          "topicality": 0.0036690542
+        }
+      ]
+    }
+  ]
+}

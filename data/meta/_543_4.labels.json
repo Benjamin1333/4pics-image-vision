@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8752618,
+          "topicality": 0.25332344
+        },
+        {
+          "description": "Electronic component",
+          "mid": "/m/063syt",
+          "score": 0.86600894,
+          "topicality": 0.08934086
+        },
+        {
+          "description": "Electronics",
+          "mid": "/m/02mrp",
+          "score": 0.8631123,
+          "topicality": 0.40163246
+        },
+        {
+          "description": "Computer hardware",
+          "mid": "/m/01mfj",
+          "score": 0.7837389,
+          "topicality": 0.12269727
+        },
+        {
+          "description": "Engineering",
+          "mid": "/m/02ky346",
+          "score": 0.770034,
+          "topicality": 0.060658153
+        },
+        {
+          "description": "Electronic engineering",
+          "mid": "/m/01g1rg",
+          "score": 0.7594857,
+          "topicality": 0.098123275
+        },
+        {
+          "description": "Circuit Component",
+          "mid": "/m/0h8mv94",
+          "score": 0.74398446,
+          "topicality": 0.00075993186
+        },
+        {
+          "description": "Central processing unit",
+          "mid": "/m/01lr2",
+          "score": 0.5535344,
+          "topicality": 0.61652607
+        },
+        {
+          "description": "Computer",
+          "mid": "/m/01m3v",
+          "score": 0.5378458,
+          "topicality": 0.16716285
+        },
+        {
+          "description": "Hardware Programmer",
+          "mid": "/m/03x851",
+          "score": 0.5260869,
+          "topicality": 0.00026653404
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Audio equipment",
+          "mid": "/m/01yttv",
+          "score": 0.9739571,
+          "topicality": 0.0053589507
+        },
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.9442755,
+          "topicality": 0.019648148
+        },
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.93343437,
+          "topicality": 0.0017199684
+        },
+        {
+          "description": "Microphone",
+          "mid": "/m/0hg7b",
+          "score": 0.93280345,
+          "topicality": 0.7401186
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.80113214,
+          "topicality": 0.035558794
+        },
+        {
+          "description": "Entertainment",
+          "mid": "/m/02jjt",
+          "score": 0.7800791,
+          "topicality": 0.0014135921
+        },
+        {
+          "description": "Speech",
+          "mid": "/m/09x0r",
+          "score": 0.54982466,
+          "topicality": 0.23296277
+        }
+      ]
+    }
+  ]
+}

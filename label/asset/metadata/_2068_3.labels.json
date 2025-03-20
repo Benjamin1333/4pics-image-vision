@@ -1,0 +1,14 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Home appliance",
+          "mid": "/m/019dx1",
+          "score": 0.5028065,
+          "topicality": 0.0050690398
+        }
+      ]
+    }
+  ]
+}

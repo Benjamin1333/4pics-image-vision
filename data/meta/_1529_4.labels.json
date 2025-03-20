@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Performing Arts",
+          "mid": "/m/05qjc",
+          "score": 0.98291343,
+          "topicality": 0.0142257875
+        },
+        {
+          "description": "Entertainment",
+          "mid": "/m/02jjt",
+          "score": 0.97413856,
+          "topicality": 0.0032178005
+        },
+        {
+          "description": "Dance",
+          "mid": "/m/026bk",
+          "score": 0.9430519,
+          "topicality": 0.710945
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.94101685,
+          "topicality": 5.1073504e-05
+        },
+        {
+          "description": "Street dance",
+          "mid": "/m/020d_t",
+          "score": 0.93092257,
+          "topicality": 0.31075802
+        },
+        {
+          "description": "Athletic dance move",
+          "mid": "/j/23l6xl",
+          "score": 0.91434956,
+          "topicality": 0.00037366644
+        },
+        {
+          "description": "Breakdancing",
+          "mid": "/m/017g5",
+          "score": 0.8955724,
+          "topicality": 0.78029865
+        },
+        {
+          "description": "Choreography",
+          "mid": "/m/018rn4",
+          "score": 0.8885636,
+          "topicality": 0.04719194
+        },
+        {
+          "description": "Hip-hop dance",
+          "mid": "/m/06fxvg",
+          "score": 0.87290764,
+          "topicality": 0.26617542
+        },
+        {
+          "description": "Performance",
+          "mid": "/m/01gq53",
+          "score": 0.87251323,
+          "topicality": 0.010219679
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bird",
+          "mid": "/m/015p6",
+          "score": 0.9731492,
+          "topicality": 0.08479628
+        },
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9656477,
+          "topicality": 0.20931236
+        },
+        {
+          "description": "Beak",
+          "mid": "/m/01c4rd",
+          "score": 0.9479744,
+          "topicality": 0.0018854969
+        },
+        {
+          "description": "Wing",
+          "mid": "/m/083s2",
+          "score": 0.9332589,
+          "topicality": 0.009892957
+        },
+        {
+          "description": "Pigeons and doves",
+          "mid": "/m/0h0rv",
+          "score": 0.895631,
+          "topicality": 0.46879178
+        },
+        {
+          "description": "Feather",
+          "mid": "/m/0dfgf",
+          "score": 0.83720297,
+          "topicality": 0.00039758533
+        },
+        {
+          "description": "Peace",
+          "mid": "/m/065jp",
+          "score": 0.757163
+        },
+        {
+          "description": "Peace symbols",
+          "mid": "/m/01psxn",
+          "score": 0.74857587,
+          "topicality": 0.024537947
+        },
+        {
+          "description": "Tail",
+          "mid": "/m/06z_nw",
+          "score": 0.59150004,
+          "topicality": 7.9867124e-05
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.58116716,
+          "topicality": 0.005241381
+        }
+      ]
+    }
+  ]
+}

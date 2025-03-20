@@ -1,0 +1,66 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "People",
+          "mid": "/m/09g5pq",
+          "score": 0.9943579,
+          "topicality": 0.021012446
+        },
+        {
+          "description": "Leg",
+          "mid": "/m/035r7c",
+          "score": 0.9527051,
+          "topicality": 0.012166512
+        },
+        {
+          "description": "Fashion",
+          "mid": "/m/032tl",
+          "score": 0.9433662
+        },
+        {
+          "description": "Standing",
+          "mid": "/m/02wzbmj",
+          "score": 0.9362943
+        },
+        {
+          "description": "Pedestrian",
+          "mid": "/m/017r8p",
+          "score": 0.9266565,
+          "topicality": 0.16672708
+        },
+        {
+          "description": "Luggage & bags",
+          "mid": "/m/0hf58v5",
+          "score": 0.8758651,
+          "topicality": 0.011374971
+        },
+        {
+          "description": "Bag",
+          "mid": "/m/0n5v01m",
+          "score": 0.8756112,
+          "topicality": 0.015336503
+        },
+        {
+          "description": "Walking",
+          "mid": "/m/083mg",
+          "score": 0.79212916,
+          "topicality": 0.12447529
+        },
+        {
+          "description": "Crowd",
+          "mid": "/m/03qtwd",
+          "score": 0.7860323,
+          "topicality": 0.063975774
+        },
+        {
+          "description": "Travel",
+          "mid": "/m/014dsx",
+          "score": 0.7391728,
+          "topicality": 0.02400763
+        }
+      ]
+    }
+  ]
+}

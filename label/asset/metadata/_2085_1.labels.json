@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Child art",
+          "mid": "/m/06h5_j",
+          "score": 0.9413696,
+          "topicality": 0.7045879
+        },
+        {
+          "description": "Drawing",
+          "mid": "/m/02csf",
+          "score": 0.89742863,
+          "topicality": 0.5407113
+        },
+        {
+          "description": "Illustration",
+          "mid": "/m/01kr8f",
+          "score": 0.82113147,
+          "topicality": 0.19109751
+        },
+        {
+          "description": "Paint",
+          "mid": "/m/05y4t",
+          "score": 0.7018759,
+          "topicality": 0.009562387
+        },
+        {
+          "description": "Creative arts",
+          "mid": "/m/0dw9f6",
+          "score": 0.692723,
+          "topicality": 0.000799088
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.6896547,
+          "topicality": 0.017155372
+        },
+        {
+          "description": "Sketch",
+          "mid": "/m/07glzq",
+          "score": 0.66947037,
+          "topicality": 0.14544699
+        },
+        {
+          "description": "Watercolor painting",
+          "mid": "/m/018ktp",
+          "score": 0.5102584,
+          "topicality": 0.0579404
+        },
+        {
+          "description": "Line art",
+          "mid": "/m/0919rx",
+          "score": 0.5096044,
+          "topicality": 0.0052467287
+        },
+        {
+          "description": "Animation",
+          "mid": "/m/0hcr",
+          "score": 0.50495994,
+          "topicality": 0.0024316506
+        }
+      ]
+    }
+  ]
+}

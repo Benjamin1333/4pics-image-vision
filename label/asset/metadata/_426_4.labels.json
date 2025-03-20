@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.97530377,
+          "topicality": 0.11892741
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.7393667,
+          "topicality": 0.027283512
+        },
+        {
+          "description": "Fictional character",
+          "mid": "/m/02h7lkt",
+          "score": 0.7256267,
+          "topicality": 0.0012549827
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.7001175,
+          "topicality": 0.007876494
+        },
+        {
+          "description": "Animation",
+          "mid": "/m/0hcr",
+          "score": 0.6098346,
+          "topicality": 0.002169656
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.57984,
+          "topicality": 0.0011764431
+        }
+      ]
+    }
+  ]
+}

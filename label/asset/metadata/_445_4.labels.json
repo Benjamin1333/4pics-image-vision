@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Dishware",
+          "mid": "/m/0h8nvk9",
+          "score": 0.7568548,
+          "topicality": 0.00011544601
+        },
+        {
+          "description": "Hardwood",
+          "mid": "/m/020g49",
+          "score": 0.641969,
+          "topicality": 0.0074782693
+        },
+        {
+          "description": "Plywood",
+          "mid": "/m/0jh8w",
+          "score": 0.5725937,
+          "topicality": 0.0026672808
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.559653,
+          "topicality": 0.028887544
+        },
+        {
+          "description": "Oval",
+          "mid": "/m/06g58b",
+          "score": 0.53502244,
+          "topicality": 0.038429793
+        }
+      ]
+    }
+  ]
+}

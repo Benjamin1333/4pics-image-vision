@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sleeve",
+          "mid": "/m/062581",
+          "score": 0.9847516,
+          "topicality": 0.0037341055
+        },
+        {
+          "description": "Shoulder",
+          "mid": "/m/01ssh5",
+          "score": 0.9735963,
+          "topicality": 0.02643851
+        },
+        {
+          "description": "Neck",
+          "mid": "/m/0dzd8",
+          "score": 0.9564422,
+          "topicality": 0.025649492
+        },
+        {
+          "description": "Collar",
+          "mid": "/m/091410",
+          "score": 0.95183897,
+          "topicality": 0.0026512884
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9448994,
+          "topicality": 0.031372998
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.94189954,
+          "topicality": 0.11945981
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.93689996,
+          "topicality": 0.08028022
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.90122336,
+          "topicality": 0.21654381
+        },
+        {
+          "description": "Dress shirt",
+          "mid": "/m/06hwcd",
+          "score": 0.88677555,
+          "topicality": 0.0038232612
+        },
+        {
+          "description": "Elbow",
+          "mid": "/m/01vm1p",
+          "score": 0.8833755,
+          "topicality": 0.0074179177
+        }
+      ]
+    }
+  ]
+}

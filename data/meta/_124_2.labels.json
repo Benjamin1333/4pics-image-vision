@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Green",
+          "mid": "/m/038hg",
+          "score": 0.97529036,
+          "topicality": 0.034022335
+        },
+        {
+          "description": "Grasses",
+          "mid": "/m/0fkrk",
+          "score": 0.8604796,
+          "topicality": 0.006694054
+        },
+        {
+          "description": "Herbaceous plant",
+          "mid": "/m/01j03x",
+          "score": 0.7071268,
+          "topicality": 0.020546617
+        },
+        {
+          "description": "Serveware",
+          "mid": "/m/0h8n22v",
+          "score": 0.68183494,
+          "topicality": 7.715017e-06
+        },
+        {
+          "description": "Cylinder",
+          "mid": "/m/03h_4m",
+          "score": 0.59916425,
+          "topicality": 0.00036461037
+        },
+        {
+          "description": "Watering can",
+          "mid": "/m/02x0x5",
+          "score": 0.5475177,
+          "topicality": 0.035439275
+        },
+        {
+          "description": "Kettle",
+          "mid": "/m/03s_tn",
+          "score": 0.5289707,
+          "topicality": 0.001006431
+        },
+        {
+          "description": "Stock photography",
+          "mid": "/m/036jvk",
+          "score": 0.5037817,
+          "topicality": 0.031124106
+        }
+      ]
+    }
+  ]
+}

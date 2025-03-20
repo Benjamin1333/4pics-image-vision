@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sky",
+          "mid": "/m/01bqvp",
+          "score": 0.9895307,
+          "topicality": 0.050908208
+        },
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.98931664,
+          "topicality": 0.0066232253
+        },
+        {
+          "description": "Beach",
+          "mid": "/m/0b3yr",
+          "score": 0.9809823,
+          "topicality": 0.7493184
+        },
+        {
+          "description": "Body of water",
+          "mid": "/m/03ktm1",
+          "score": 0.9803917,
+          "topicality": 0.0006354579
+        },
+        {
+          "description": "Cloud",
+          "mid": "/m/0csby",
+          "score": 0.9580787,
+          "topicality": 0.021109272
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.94183093,
+          "topicality": 0.36246464
+        },
+        {
+          "description": "Coastal and oceanic landforms",
+          "mid": "/m/02c9_23",
+          "score": 0.9373441,
+          "topicality": 0.00012164112
+        },
+        {
+          "description": "Summer",
+          "mid": "/m/078qz",
+          "score": 0.9372268,
+          "topicality": 0.1798903
+        },
+        {
+          "description": "Coast",
+          "mid": "/m/01lxd",
+          "score": 0.9308109,
+          "topicality": 0.07174771
+        },
+        {
+          "description": "Shore",
+          "mid": "/m/02fm9k",
+          "score": 0.9245773,
+          "topicality": 0.05456213
+        }
+      ]
+    }
+  ]
+}

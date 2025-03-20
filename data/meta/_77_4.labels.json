@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.98873764,
+          "topicality": 0.16308174
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.94222546,
+          "topicality": 0.013126636
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.91673726,
+          "topicality": 0.00020467564
+        },
+        {
+          "description": "Vegetable",
+          "mid": "/m/0f4s2w",
+          "score": 0.8861676,
+          "topicality": 0.07255512
+        },
+        {
+          "description": "Baked potato",
+          "mid": "/m/039blp",
+          "score": 0.88461196,
+          "topicality": 0.9229062
+        },
+        {
+          "description": "Potato",
+          "mid": "/m/05vtc",
+          "score": 0.8162577,
+          "topicality": 0.2223919
+        },
+        {
+          "description": "Recipe",
+          "mid": "/m/0p57p",
+          "score": 0.7936687,
+          "topicality": 0.3997287
+        },
+        {
+          "description": "Garnish",
+          "mid": "/m/06gpzn",
+          "score": 0.77813166,
+          "topicality": 0.026983626
+        },
+        {
+          "description": "Side dish",
+          "mid": "/m/07l8p5",
+          "score": 0.7544163,
+          "topicality": 0.09065228
+        },
+        {
+          "description": "Cooking",
+          "mid": "/m/01mtb",
+          "score": 0.7407943,
+          "topicality": 0.04849439
+        }
+      ]
+    }
+  ]
+}

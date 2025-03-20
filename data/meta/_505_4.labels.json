@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.9099124,
+          "topicality": 0.019931652
+        },
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.894456,
+          "topicality": 0.11361369
+        },
+        {
+          "description": "Conversation",
+          "mid": "/m/01h8n0",
+          "score": 0.8519274,
+          "topicality": 0.058612656
+        },
+        {
+          "description": "Receptionist",
+          "mid": "/m/02p9kh",
+          "score": 0.8383999,
+          "topicality": 0.1460807
+        },
+        {
+          "description": "Meeting",
+          "mid": "/m/01h6cb",
+          "score": 0.8153731,
+          "topicality": 0.063270025
+        },
+        {
+          "description": "Customer",
+          "mid": "/m/01j0mk",
+          "score": 0.8040855,
+          "topicality": 0.037182655
+        },
+        {
+          "description": "Clinic",
+          "mid": "/m/03fk5c",
+          "score": 0.76379657,
+          "topicality": 0.052043274
+        },
+        {
+          "description": "Management",
+          "mid": "/m/04_tv",
+          "score": 0.75942767,
+          "topicality": 0.08812636
+        },
+        {
+          "description": "Physician",
+          "mid": "/m/05t4q",
+          "score": 0.715556,
+          "topicality": 0.10939055
+        },
+        {
+          "description": "Collaboration",
+          "mid": "/m/01s560",
+          "score": 0.6932425,
+          "topicality": 0.016580593
+        }
+      ]
+    }
+  ]
+}

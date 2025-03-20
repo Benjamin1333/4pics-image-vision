@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.9219698,
+          "topicality": 0.022574263
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.9015403,
+          "topicality": 0.051375564
+        },
+        {
+          "description": "Elbow",
+          "mid": "/m/01vm1p",
+          "score": 0.8730169,
+          "topicality": 0.0015004445
+        },
+        {
+          "description": "People in nature",
+          "mid": "/j/3gbwgn",
+          "score": 0.8582188,
+          "topicality": 0.00020363207
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.7849341,
+          "topicality": 0.0049656522
+        },
+        {
+          "description": "Folding chair",
+          "mid": "/m/0bvn8w",
+          "score": 0.76721287,
+          "topicality": 0.04459188
+        },
+        {
+          "description": "Lawn",
+          "mid": "/m/01v327",
+          "score": 0.76154673,
+          "topicality": 0.046620045
+        },
+        {
+          "description": "Vacation",
+          "mid": "/m/02jwqh",
+          "score": 0.69042516,
+          "topicality": 0.009974482
+        },
+        {
+          "description": "Lap",
+          "mid": "/m/09fwz6",
+          "score": 0.6203597,
+          "topicality": 0.0006645992
+        },
+        {
+          "description": "Bermuda shorts",
+          "mid": "/m/0bk_y7",
+          "score": 0.518117,
+          "topicality": 0.00012983858
+        }
+      ]
+    }
+  ]
+}

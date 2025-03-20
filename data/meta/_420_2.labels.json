@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.95795006,
+          "topicality": 0.026653787
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94494694,
+          "topicality": 0.039238036
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.92850626,
+          "topicality": 0.03396318
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.9020516,
+          "topicality": 0.013874349
+        },
+        {
+          "description": "Blackboard",
+          "mid": "/m/02kdvj",
+          "score": 0.845956,
+          "topicality": 0.0023308985
+        },
+        {
+          "description": "Thumb",
+          "mid": "/m/01bmhj",
+          "score": 0.7843842,
+          "topicality": 0.01175678
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.7727491,
+          "topicality": 0.021911835
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.7454074,
+          "topicality": 0.20604143
+        },
+        {
+          "description": "Necktie",
+          "mid": "/m/01rkbr",
+          "score": 0.7197987,
+          "topicality": 0.0013912583
+        },
+        {
+          "description": "Pleased",
+          "mid": "/j/4kr7kk",
+          "score": 0.70578444,
+          "topicality": 0.0010067938
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Dog",
+          "mid": "/m/0bt9lr",
+          "score": 0.995566,
+          "topicality": 0.7018306
+        },
+        {
+          "description": "Carnivores",
+          "mid": "/m/01lrl",
+          "score": 0.97498816,
+          "topicality": 0.008368588
+        },
+        {
+          "description": "Vertebrate",
+          "mid": "/m/09686",
+          "score": 0.9606617,
+          "topicality": 0.004109504
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.92930096,
+          "topicality": 0.05016278
+        },
+        {
+          "description": "Scent hound",
+          "mid": "/m/017zl6",
+          "score": 0.9146855,
+          "topicality": 0.07037583
+        },
+        {
+          "description": "Hound",
+          "mid": "/m/0gzt5",
+          "score": 0.89141005,
+          "topicality": 0.3904627
+        },
+        {
+          "description": "Beagle",
+          "mid": "/m/01dj7",
+          "score": 0.87446815,
+          "topicality": 0.784377
+        },
+        {
+          "description": "Tongue",
+          "mid": "/m/0fjkt",
+          "score": 0.8684099,
+          "topicality": 0.02111123
+        },
+        {
+          "description": "Working animal",
+          "mid": "/m/07_gml",
+          "score": 0.85793537,
+          "topicality": 0.00031556413
+        },
+        {
+          "description": "Canidae",
+          "mid": "/m/01z5f",
+          "score": 0.8199496,
+          "topicality": 0.039559983
+        }
+      ]
+    }
+  ]
+}

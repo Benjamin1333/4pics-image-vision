@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.9033145,
+          "topicality": 0.05928252
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.87729096,
+          "topicality": 0.00950326
+        },
+        {
+          "description": "Toddler",
+          "mid": "/m/01bgsw",
+          "score": 0.77618706,
+          "topicality": 0.05174542
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.7733517,
+          "topicality": 0.002149281
+        },
+        {
+          "description": "Infant",
+          "mid": "/m/0jnvp",
+          "score": 0.7078685,
+          "topicality": 0.41591132
+        },
+        {
+          "description": "Love",
+          "mid": "/m/048knlz",
+          "score": 0.69716305,
+          "topicality": 0.006007686
+        },
+        {
+          "description": "Baby & Toddler Clothing",
+          "mid": "/m/0h8q07j",
+          "score": 0.69008,
+          "topicality": 0.00022911034
+        },
+        {
+          "description": "Family",
+          "mid": "/m/09dhj",
+          "score": 0.57417303,
+          "topicality": 0.07417297
+        },
+        {
+          "description": "Playing with kids",
+          "mid": "/j/fplffb",
+          "score": 0.52565026,
+          "topicality": 0.0006989995
+        },
+        {
+          "description": "Baby Products",
+          "mid": "/g/1261x0jn3",
+          "score": 0.5117934,
+          "topicality": 0.0055092215
+        }
+      ]
+    }
+  ]
+}

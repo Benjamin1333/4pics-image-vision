@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Camera",
+          "mid": "/m/0dv5r",
+          "score": 0.9886891,
+          "topicality": 0.36755005
+        },
+        {
+          "description": "Cameras & optics",
+          "mid": "/m/0ggjh_8",
+          "score": 0.98679876,
+          "topicality": 0.001964908
+        },
+        {
+          "description": "Hand",
+          "mid": "/m/0k65p",
+          "score": 0.97185415,
+          "topicality": 0.043697212
+        },
+        {
+          "description": "Lens",
+          "mid": "/m/04n4x",
+          "score": 0.94579434,
+          "topicality": 0.14583334
+        },
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.94370645,
+          "topicality": 0.00341647
+        },
+        {
+          "description": "Camera lens",
+          "mid": "/m/01bjxx",
+          "score": 0.9222158,
+          "topicality": 0.07310818
+        },
+        {
+          "description": "Photographer",
+          "mid": "/m/0lgw7",
+          "score": 0.90983033,
+          "topicality": 0.47664884
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.89015585,
+          "topicality": 0.0001644645
+        },
+        {
+          "description": "Digital camera",
+          "mid": "/m/0dw7n",
+          "score": 0.8836546,
+          "topicality": 0.044444326
+        },
+        {
+          "description": "Reflex camera",
+          "mid": "/m/0118ms9c",
+          "score": 0.85551,
+          "topicality": 0.057436824
+        }
+      ]
+    }
+  ]
+}

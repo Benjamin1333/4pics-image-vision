@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sleeve",
+          "mid": "/m/062581",
+          "score": 0.9840302,
+          "topicality": 0.07674643
+        },
+        {
+          "description": "Uniform",
+          "mid": "/m/09jfs",
+          "score": 0.9487263,
+          "topicality": 0.6283897
+        },
+        {
+          "description": "Waist",
+          "mid": "/m/031974",
+          "score": 0.8752914,
+          "topicality": 0.013168062
+        },
+        {
+          "description": "Police officer",
+          "mid": "/m/01t2ln",
+          "score": 0.8326156,
+          "topicality": 0.33088723
+        },
+        {
+          "description": "Police",
+          "mid": "/m/05ws7",
+          "score": 0.8298597,
+          "topicality": 0.33964378
+        },
+        {
+          "description": "Belt",
+          "mid": "/m/0176mf",
+          "score": 0.8096989,
+          "topicality": 0.01949596
+        },
+        {
+          "description": "Law enforcement",
+          "mid": "/m/0gty6zf",
+          "score": 0.77752864,
+          "topicality": 0.036836546
+        },
+        {
+          "description": "Cap",
+          "mid": "/m/02d46y",
+          "score": 0.7648826,
+          "topicality": 0.003705897
+        },
+        {
+          "description": "Security",
+          "mid": "/m/0bg2p",
+          "score": 0.73306334,
+          "topicality": 0.22629465
+        },
+        {
+          "description": "Security guard",
+          "mid": "/m/0gt4z",
+          "score": 0.70683783,
+          "topicality": 0.5022098
+        }
+      ]
+    }
+  ]
+}

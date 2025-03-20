@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Horse",
+          "mid": "/m/03k3r",
+          "score": 0.9882973,
+          "topicality": 0.6314618
+        },
+        {
+          "description": "Racing",
+          "mid": "/m/0dfbw",
+          "score": 0.95666337,
+          "topicality": 0.32734084
+        },
+        {
+          "description": "Jockey",
+          "mid": "/m/01pvc5",
+          "score": 0.9468091,
+          "topicality": 0.34280297
+        },
+        {
+          "description": "Bridle",
+          "mid": "/m/04jkpd",
+          "score": 0.9380383,
+          "topicality": 0.0007624816
+        },
+        {
+          "description": "Horse tack",
+          "mid": "/m/03pgm",
+          "score": 0.9380349,
+          "topicality": 0.002102742
+        },
+        {
+          "description": "Sports",
+          "mid": "/m/06ntj",
+          "score": 0.9309855,
+          "topicality": 0.057700604
+        },
+        {
+          "description": "Halter",
+          "mid": "/m/04pzb_",
+          "score": 0.927374,
+          "topicality": 0.0003064104
+        },
+        {
+          "description": "Animal sports",
+          "mid": "/m/0wfrc8w",
+          "score": 0.924641,
+          "topicality": 0.0013017214
+        },
+        {
+          "description": "equestrian sport",
+          "mid": "/m/07s053t",
+          "score": 0.91909593,
+          "topicality": 0.006079069
+        },
+        {
+          "description": "Race track",
+          "mid": "/m/01r_pn",
+          "score": 0.90664935,
+          "topicality": 0.0199153
+        }
+      ]
+    }
+  ]
+}

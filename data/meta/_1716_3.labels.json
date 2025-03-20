@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Astronomical object",
+          "mid": "/m/01d9ll",
+          "score": 0.94310933,
+          "topicality": 0.07191997
+        },
+        {
+          "description": "Planet",
+          "mid": "/m/05qc_",
+          "score": 0.90213394,
+          "topicality": 0.22033228
+        },
+        {
+          "description": "Universe",
+          "mid": "/m/07v7c",
+          "score": 0.89201343,
+          "topicality": 0.14180009
+        },
+        {
+          "description": "Outer space",
+          "mid": "/m/01833w",
+          "score": 0.89136356,
+          "topicality": 0.018586075
+        },
+        {
+          "description": "Sphere",
+          "mid": "/m/06y47",
+          "score": 0.8608042,
+          "topicality": 0.019521736
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.8299796,
+          "topicality": 0.057752833
+        },
+        {
+          "description": "Earth",
+          "mid": "/m/02j71",
+          "score": 0.82543594,
+          "topicality": 0.17468736
+        },
+        {
+          "description": "Astronomy",
+          "mid": "/m/0dc_v",
+          "score": 0.82513374,
+          "topicality": 0.017605437
+        },
+        {
+          "description": "Star",
+          "mid": "/m/06ngk",
+          "score": 0.7999683,
+          "topicality": 0.15696411
+        },
+        {
+          "description": "Globe",
+          "mid": "/m/01q_cy",
+          "score": 0.7556177,
+          "topicality": 0.003510115
+        }
+      ]
+    }
+  ]
+}

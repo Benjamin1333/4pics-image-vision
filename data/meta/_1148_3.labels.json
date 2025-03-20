@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9645506,
+          "topicality": 0.020398729
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.6697159,
+          "topicality": 0.027641915
+        },
+        {
+          "description": "Ribbon",
+          "mid": "/m/01s77c",
+          "score": 0.5657856,
+          "topicality": 0.16003187
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.5531357,
+          "topicality": 0.12434393
+        }
+      ]
+    }
+  ]
+}

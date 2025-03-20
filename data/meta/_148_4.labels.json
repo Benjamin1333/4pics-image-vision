@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.9715266,
+          "topicality": 0.3958887
+        },
+        {
+          "description": "Thumb signal",
+          "mid": "/m/0bss51",
+          "score": 0.9621984,
+          "topicality": 0.89307714
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9447654,
+          "topicality": 0.010862987
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9342852,
+          "topicality": 0.08079775
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.9194259,
+          "topicality": 0.5041928
+        },
+        {
+          "description": "Thumb",
+          "mid": "/m/01bmhj",
+          "score": 0.87552327,
+          "topicality": 0.8820628
+        },
+        {
+          "description": "OK",
+          "mid": "/m/016b0y",
+          "score": 0.8038216,
+          "topicality": 0.226585
+        },
+        {
+          "description": "Sign language",
+          "mid": "/m/06x0q",
+          "score": 0.72318864,
+          "topicality": 0.0953713
+        },
+        {
+          "description": "Sign",
+          "mid": "/m/06zsq",
+          "score": 0.5332196,
+          "topicality": 0.017286012
+        }
+      ]
+    }
+  ]
+}

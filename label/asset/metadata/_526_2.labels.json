@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Green",
+          "mid": "/m/038hg",
+          "score": 0.9826659,
+          "topicality": 0.6363921
+        },
+        {
+          "description": "Leaf",
+          "mid": "/m/09t49",
+          "score": 0.98233455,
+          "topicality": 0.74359584
+        },
+        {
+          "description": "Branch",
+          "mid": "/m/0b5gs",
+          "score": 0.96916455,
+          "topicality": 0.2114627
+        },
+        {
+          "description": "Twig",
+          "mid": "/m/016nqt",
+          "score": 0.8588111,
+          "topicality": 0.04880481
+        },
+        {
+          "description": "Woody plant",
+          "mid": "/m/02hnx9",
+          "score": 0.81371224,
+          "topicality": 0.017966157
+        }
+      ]
+    }
+  ]
+}

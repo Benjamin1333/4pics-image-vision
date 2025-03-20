@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.99211156,
+          "topicality": 0.11036323
+        },
+        {
+          "description": "Barbecue",
+          "mid": "/m/0983v",
+          "score": 0.96649027,
+          "topicality": 0.36054242
+        },
+        {
+          "description": "Meat",
+          "mid": "/m/04scj",
+          "score": 0.9648661,
+          "topicality": 0.29201084
+        },
+        {
+          "description": "Grilling",
+          "mid": "/m/0dxlf",
+          "score": 0.9630248,
+          "topicality": 0.6347117
+        },
+        {
+          "description": "Roasting",
+          "mid": "/m/0dxn2",
+          "score": 0.95558304,
+          "topicality": 0.1215445
+        },
+        {
+          "description": "Cooking",
+          "mid": "/m/01mtb",
+          "score": 0.9478602,
+          "topicality": 0.14268823
+        },
+        {
+          "description": "Beef",
+          "mid": "/m/0971v",
+          "score": 0.9163932,
+          "topicality": 0.15545972
+        },
+        {
+          "description": "Steak",
+          "mid": "/m/0grtl",
+          "score": 0.89478356,
+          "topicality": 0.55921155
+        },
+        {
+          "description": "Pork steak",
+          "mid": "/m/09mp53",
+          "score": 0.87112594,
+          "topicality": 0.013473629
+        },
+        {
+          "description": "Mixed grill",
+          "mid": "/m/025v9kj",
+          "score": 0.8621691,
+          "topicality": 0.003789745
+        }
+      ]
+    }
+  ]
+}

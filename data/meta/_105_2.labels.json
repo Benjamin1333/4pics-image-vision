@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hand",
+          "mid": "/m/0k65p",
+          "score": 0.9760919,
+          "topicality": 0.06598884
+        },
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.96242654,
+          "topicality": 0.018845908
+        },
+        {
+          "description": "Wrist",
+          "mid": "/m/01j48b",
+          "score": 0.91578686,
+          "topicality": 0.0063304943
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.882661,
+          "topicality": 0.007088085
+        },
+        {
+          "description": "Thumb",
+          "mid": "/m/01bmhj",
+          "score": 0.8465937,
+          "topicality": 0.010070813
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.75866044,
+          "topicality": 0.01647699
+        },
+        {
+          "description": "Thorax",
+          "mid": "/m/0dzdr",
+          "score": 0.7229734,
+          "topicality": 0.005422148
+        },
+        {
+          "description": "Tattoo",
+          "mid": "/m/07j2f",
+          "score": 0.71623147,
+          "topicality": 0.027264291
+        },
+        {
+          "description": "Model",
+          "mid": "/m/0d1pc",
+          "score": 0.6735528,
+          "topicality": 0.019144565
+        },
+        {
+          "description": "Photo shoot",
+          "mid": "/m/02qbl1m",
+          "score": 0.63218075,
+          "topicality": 0.005184862
+        }
+      ]
+    }
+  ]
+}

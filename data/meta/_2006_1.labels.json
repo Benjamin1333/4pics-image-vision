@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Floor",
+          "mid": "/m/0l7_8",
+          "score": 0.940545,
+          "topicality": 0.05751769
+        },
+        {
+          "description": "Flooring",
+          "mid": "/m/01c34b",
+          "score": 0.897773,
+          "topicality": 0.012728494
+        },
+        {
+          "description": "Composite material",
+          "mid": "/m/014qzr",
+          "score": 0.8802834,
+          "topicality": 0.022793276
+        },
+        {
+          "description": "Concrete",
+          "mid": "/m/01mxf",
+          "score": 0.8578609,
+          "topicality": 0.5463146
+        },
+        {
+          "description": "Grey",
+          "mid": "/m/036k5h",
+          "score": 0.8293831,
+          "topicality": 0.019734396
+        },
+        {
+          "description": "Building material",
+          "mid": "/m/02cr01",
+          "score": 0.7739192,
+          "topicality": 0.037153307
+        },
+        {
+          "description": "Walkway",
+          "mid": "/m/01jm2n",
+          "score": 0.6695827,
+          "topicality": 0.02457511
+        },
+        {
+          "description": "Cement",
+          "mid": "/m/01ynw",
+          "score": 0.5588733,
+          "topicality": 0.24209635
+        }
+      ]
+    }
+  ]
+}

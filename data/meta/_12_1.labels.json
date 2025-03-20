@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Woolen",
+          "mid": "/m/01yh65",
+          "score": 0.9722648,
+          "topicality": 0.10553687
+        },
+        {
+          "description": "Knit cap",
+          "mid": "/m/021_yc",
+          "score": 0.9639915,
+          "topicality": 0.6350458
+        },
+        {
+          "description": "Beauty",
+          "mid": "/m/01f43",
+          "score": 0.9635125,
+          "topicality": 0.0048180763
+        },
+        {
+          "description": "Headgear",
+          "mid": "/m/01443y",
+          "score": 0.9582683,
+          "topicality": 0.08147365
+        },
+        {
+          "description": "Winter",
+          "mid": "/m/086mh",
+          "score": 0.9565446,
+          "topicality": 0.4220115
+        },
+        {
+          "description": "Wool",
+          "mid": "/m/09kxp",
+          "score": 0.9558844,
+          "topicality": 0.31760675
+        },
+        {
+          "description": "Fashion",
+          "mid": "/m/032tl",
+          "score": 0.9552971
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.9524117,
+          "topicality": 0.00929332
+        },
+        {
+          "description": "Textile",
+          "mid": "/m/0dnr7",
+          "score": 0.9498759,
+          "topicality": 0.008805391
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9448506,
+          "topicality": 0.0005570927
+        }
+      ]
+    }
+  ]
+}

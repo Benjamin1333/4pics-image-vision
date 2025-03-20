@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Eyewear",
+          "mid": "/m/0j272k5",
+          "score": 0.99532884,
+          "topicality": 0.002425964
+        },
+        {
+          "description": "Glasses",
+          "mid": "/m/0jyfg",
+          "score": 0.9868618,
+          "topicality": 0.13023719
+        },
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.9847916,
+          "topicality": 0.0141090425
+        },
+        {
+          "description": "Vision Care",
+          "mid": "/m/0h8jxfl",
+          "score": 0.9839537,
+          "topicality": 0.00048880227
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.97315925,
+          "topicality": 0.12364995
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9449443,
+          "topicality": 0.13929042
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.94416314,
+          "topicality": 0.0026641819
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.9305846,
+          "topicality": 0.030980136
+        },
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.9144117,
+          "topicality": 0.030321429
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.9008149,
+          "topicality": 0.11945505
+        }
+      ]
+    }
+  ]
+}

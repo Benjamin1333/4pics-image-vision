@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Measuring instrument",
+          "mid": "/m/056hv",
+          "score": 0.8582712,
+          "topicality": 0.017045612
+        },
+        {
+          "description": "Weighing scale",
+          "mid": "/m/03txqz",
+          "score": 0.8277914,
+          "topicality": 0.9120815
+        },
+        {
+          "description": "Antique",
+          "mid": "/m/01ys2s",
+          "score": 0.6603709,
+          "topicality": 0.25575757
+        },
+        {
+          "description": "Kitchen Scale",
+          "mid": "/m/0h8mkm8",
+          "score": 0.6047131,
+          "topicality": 0.042065244
+        },
+        {
+          "description": "Balance",
+          "mid": "/m/03gs8b2",
+          "score": 0.5973237,
+          "topicality": 0.0005663215
+        },
+        {
+          "description": "Collectable",
+          "mid": "/m/0ggr_",
+          "score": 0.5542526,
+          "topicality": 0.0033073083
+        },
+        {
+          "description": "Small appliance",
+          "mid": "/m/017z18",
+          "score": 0.52380836,
+          "topicality": 0.004220046
+        }
+      ]
+    }
+  ]
+}

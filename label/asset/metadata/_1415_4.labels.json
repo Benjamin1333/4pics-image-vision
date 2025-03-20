@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Headgear",
+          "mid": "/m/01443y",
+          "score": 0.94976395,
+          "topicality": 0.101736985
+        },
+        {
+          "description": "Cap",
+          "mid": "/m/02d46y",
+          "score": 0.81451887,
+          "topicality": 0.6208949
+        },
+        {
+          "description": "Badge",
+          "mid": "/m/03cny9",
+          "score": 0.7176341,
+          "topicality": 0.065377824
+        },
+        {
+          "description": "Costume Hat",
+          "mid": "/m/0hgs54_",
+          "score": 0.62339336,
+          "topicality": 0.00014854317
+        },
+        {
+          "description": "Peaked cap",
+          "mid": "/m/049_wy",
+          "score": 0.54846615,
+          "topicality": 0.72099996
+        }
+      ]
+    }
+  ]
+}

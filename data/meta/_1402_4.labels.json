@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Squirrel",
+          "mid": "/m/071qp",
+          "score": 0.9931543,
+          "topicality": 0.8043303
+        },
+        {
+          "description": "Rodent",
+          "mid": "/m/06hps",
+          "score": 0.9858834,
+          "topicality": 0.052032515
+        },
+        {
+          "description": "Vertebrate",
+          "mid": "/m/09686",
+          "score": 0.96168447,
+          "topicality": 0.0017888931
+        },
+        {
+          "description": "Terrestrial animal",
+          "mid": "/m/0fbf1m",
+          "score": 0.90559113,
+          "topicality": 0.00064962934
+        },
+        {
+          "description": "Red squirrel",
+          "mid": "/m/02zf0n",
+          "score": 0.90379906,
+          "topicality": 0.86146253
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.8881437,
+          "topicality": 0.0007518728
+        },
+        {
+          "description": "Tail",
+          "mid": "/m/06z_nw",
+          "score": 0.864201,
+          "topicality": 0.048912637
+        },
+        {
+          "description": "Wildlife",
+          "mid": "/m/01280g",
+          "score": 0.8641433,
+          "topicality": 0.021156972
+        },
+        {
+          "description": "Fox squirrel",
+          "mid": "/m/06s908",
+          "score": 0.86403894,
+          "topicality": 0.057451405
+        },
+        {
+          "description": "Trunk",
+          "mid": "/m/02tcwp",
+          "score": 0.8559989,
+          "topicality": 0.039766893
+        }
+      ]
+    }
+  ]
+}

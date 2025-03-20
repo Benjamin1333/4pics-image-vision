@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Thigh",
+          "mid": "/m/01j04m",
+          "score": 0.9705454,
+          "topicality": 0.25038683
+        },
+        {
+          "description": "Undergarment",
+          "mid": "/m/09j1x",
+          "score": 0.94759923,
+          "topicality": 0.023410011
+        },
+        {
+          "description": "Abdomen",
+          "mid": "/m/08y7p8",
+          "score": 0.9454996,
+          "topicality": 0.5839774
+        },
+        {
+          "description": "Swimsuit Bottom",
+          "mid": "/m/0hgs8s2",
+          "score": 0.89716226,
+          "topicality": 0.00025020444
+        },
+        {
+          "description": "Underpants",
+          "mid": "/m/0cp1w6l",
+          "score": 0.8949023,
+          "topicality": 0.0078301085
+        },
+        {
+          "description": "Active Undergarment",
+          "mid": "/m/0hgp2z7",
+          "score": 0.8937814,
+          "topicality": 0.0010220786
+        },
+        {
+          "description": "Waist",
+          "mid": "/m/031974",
+          "score": 0.8785664,
+          "topicality": 0.5392507
+        },
+        {
+          "description": "Stomach",
+          "mid": "/m/09x8z",
+          "score": 0.87392443,
+          "topicality": 0.1393282
+        },
+        {
+          "description": "Swimsuit",
+          "mid": "/m/01gkx_",
+          "score": 0.8736891,
+          "topicality": 0.008333326
+        },
+        {
+          "description": "Briefs",
+          "mid": "/m/01ll1r",
+          "score": 0.8520366,
+          "topicality": 0.0058216397
+        }
+      ]
+    }
+  ]
+}

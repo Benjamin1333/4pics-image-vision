@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Paper",
+          "mid": "/m/0641k",
+          "score": 0.949424,
+          "topicality": 0.3491853
+        },
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.93047374,
+          "topicality": 0.0038491134
+        },
+        {
+          "description": "Publication",
+          "mid": "/m/01h1dd",
+          "score": 0.7196857,
+          "topicality": 0.008033975
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.6642925,
+          "topicality": 0.0036210176
+        },
+        {
+          "description": "Photographic paper",
+          "mid": "/m/01d07t",
+          "score": 0.5966509,
+          "topicality": 0.1692696
+        }
+      ]
+    }
+  ]
+}

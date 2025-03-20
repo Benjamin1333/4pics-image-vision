@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "People",
+          "mid": "/m/09g5pq",
+          "score": 0.994371,
+          "topicality": 0.0017286624
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9782633,
+          "topicality": 0.024178967
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.9206152,
+          "topicality": 0.059276983
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.89078575,
+          "topicality": 0.005063847
+        },
+        {
+          "description": "Sitting",
+          "mid": "/m/015c4z",
+          "score": 0.8728835,
+          "topicality": 0.008505911
+        },
+        {
+          "description": "Family",
+          "mid": "/m/09dhj",
+          "score": 0.84614366,
+          "topicality": 0.33793986
+        },
+        {
+          "description": "Lap",
+          "mid": "/m/09fwz6",
+          "score": 0.82468385,
+          "topicality": 0.019177055
+        },
+        {
+          "description": "Living room",
+          "mid": "/m/03f6tq",
+          "score": 0.80924046,
+          "topicality": 0.0011395131
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.79698354,
+          "topicality": 0.0040412433
+        },
+        {
+          "description": "Holiday",
+          "mid": "/m/03gkl",
+          "score": 0.73836565,
+          "topicality": 0.018901246
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hair",
+          "mid": "/m/03q69",
+          "score": 0.991495,
+          "topicality": 0.25837454
+        },
+        {
+          "description": "Head",
+          "mid": "/m/04hgtk",
+          "score": 0.98579955,
+          "topicality": 0.08250424
+        },
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.9847957,
+          "topicality": 0.015315622
+        },
+        {
+          "description": "Hairstyle",
+          "mid": "/m/0ds4x",
+          "score": 0.9703506,
+          "topicality": 0.088851586
+        },
+        {
+          "description": "Beauty",
+          "mid": "/m/01f43",
+          "score": 0.96820116,
+          "topicality": 0.14549553
+        },
+        {
+          "description": "Red hair",
+          "mid": "/m/01ntt3",
+          "score": 0.9576206,
+          "topicality": 0.9052145
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94494736,
+          "topicality": 0.009723744
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.94255805,
+          "topicality": 0.032026656
+        },
+        {
+          "description": "Brown",
+          "mid": "/m/09q2t",
+          "score": 0.9148052,
+          "topicality": 0.01465221
+        },
+        {
+          "description": "Brown hair",
+          "mid": "/m/02ksmb",
+          "score": 0.90792185,
+          "topicality": 0.031043462
+        }
+      ]
+    }
+  ]
+}

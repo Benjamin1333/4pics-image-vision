@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9849985,
+          "topicality": 0.0950571
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.98448527,
+          "topicality": 0.2814128
+        },
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.96949553,
+          "topicality": 0.044946346
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.9460521,
+          "topicality": 0.0053013614
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9449496,
+          "topicality": 0.018894648
+        },
+        {
+          "description": "Apple",
+          "mid": "/m/014j1m",
+          "score": 0.9347876,
+          "topicality": 0.38142014
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.9333798,
+          "topicality": 0.035323504
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.9212268,
+          "topicality": 0.004636898
+        },
+        {
+          "description": "Granny Smith",
+          "mid": "/m/01_12b",
+          "score": 0.8206247,
+          "topicality": 0.19175968
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.76189065,
+          "topicality": 0.08095246
+        }
+      ]
+    }
+  ]
+}

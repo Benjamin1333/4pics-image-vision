@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Brown",
+          "mid": "/m/09q2t",
+          "score": 0.91795766,
+          "topicality": 0.034836713
+        },
+        {
+          "description": "Trunk",
+          "mid": "/m/02tcwp",
+          "score": 0.8712035,
+          "topicality": 0.44142437
+        },
+        {
+          "description": "Close-up",
+          "mid": "/m/02cqfm",
+          "score": 0.85039026,
+          "topicality": 0.017609566
+        },
+        {
+          "description": "Woody plant",
+          "mid": "/m/02hnx9",
+          "score": 0.8092554,
+          "topicality": 0.020681055
+        },
+        {
+          "description": "Natural material",
+          "mid": "/m/07sx2n",
+          "score": 0.69992626,
+          "topicality": 0.0049447534
+        }
+      ]
+    }
+  ]
+}

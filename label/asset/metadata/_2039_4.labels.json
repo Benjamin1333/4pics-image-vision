@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.99504715,
+          "topicality": 0.10500771
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9756546,
+          "topicality": 0.12502705
+        },
+        {
+          "description": "Tableware",
+          "mid": "/m/04brg2",
+          "score": 0.975415,
+          "topicality": 0.0007837646
+        },
+        {
+          "description": "Recipe",
+          "mid": "/m/0p57p",
+          "score": 0.8558269,
+          "topicality": 0.44899505
+        },
+        {
+          "description": "Dairy product",
+          "mid": "/m/0284d",
+          "score": 0.8187326,
+          "topicality": 0.02111636
+        },
+        {
+          "description": "Bowl",
+          "mid": "/m/04kkgm",
+          "score": 0.8104166,
+          "topicality": 0.015310977
+        },
+        {
+          "description": "Dessert",
+          "mid": "/m/0270h",
+          "score": 0.75210774,
+          "topicality": 0.028688546
+        },
+        {
+          "description": "Cheese",
+          "mid": "/m/01nkt",
+          "score": 0.7473894,
+          "topicality": 0.17972183
+        },
+        {
+          "description": "Kitchen utensil",
+          "mid": "/m/03hlz0c",
+          "score": 0.70988023,
+          "topicality": 0.0001920536
+        },
+        {
+          "description": "Finger food",
+          "mid": "/m/0b3dyl",
+          "score": 0.6977784,
+          "topicality": 0.0014606382
+        }
+      ]
+    }
+  ]
+}

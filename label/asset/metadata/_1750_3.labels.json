@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Wallet",
+          "mid": "/m/02_vjy",
+          "score": 0.96623486,
+          "topicality": 0.901367
+        },
+        {
+          "description": "Leather",
+          "mid": "/m/04lbp",
+          "score": 0.9147887,
+          "topicality": 0.83182585
+        },
+        {
+          "description": "Pocket",
+          "mid": "/m/025rhd",
+          "score": 0.8101724,
+          "topicality": 0.06646288
+        },
+        {
+          "description": "Zipper",
+          "mid": "/m/01s0vc",
+          "score": 0.79168946,
+          "topicality": 0.1203798
+        },
+        {
+          "description": "Denim",
+          "mid": "/m/0hgr6",
+          "score": 0.7797971,
+          "topicality": 0.024216697
+        },
+        {
+          "description": "Hide",
+          "mid": "/m/02rn9n",
+          "score": 0.714687,
+          "topicality": 0.13188173
+        },
+        {
+          "description": "Coin purse",
+          "mid": "/m/080jpd1",
+          "score": 0.6899823,
+          "topicality": 0.33820346
+        },
+        {
+          "description": "Stitch",
+          "mid": "/m/0c3ynbd",
+          "score": 0.62385553,
+          "topicality": 0.0026379465
+        },
+        {
+          "description": "Everyday carry",
+          "mid": "/m/03ybby4",
+          "score": 0.5615137,
+          "topicality": 0.0013868388
+        }
+      ]
+    }
+  ]
+}

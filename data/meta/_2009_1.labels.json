@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Cingulata",
+          "mid": "/m/0w1fg0y",
+          "score": 0.9732066,
+          "topicality": 0.4474389
+        },
+        {
+          "description": "Armadillo",
+          "mid": "/m/0xfy",
+          "score": 0.90063995,
+          "topicality": 0.9644087
+        },
+        {
+          "description": "Parasitism",
+          "mid": "/m/0b_l7",
+          "score": 0.53470266,
+          "topicality": 0.020523867
+        },
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.5030427,
+          "topicality": 0.06779823
+        }
+      ]
+    }
+  ]
+}

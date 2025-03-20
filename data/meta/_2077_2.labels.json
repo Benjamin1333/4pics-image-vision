@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.97889334,
+          "topicality": 0.08679156
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.95610255,
+          "topicality": 0.0015031591
+        },
+        {
+          "description": "Dessert",
+          "mid": "/m/0270h",
+          "score": 0.9360394,
+          "topicality": 0.112401925
+        },
+        {
+          "description": "Giri choco",
+          "mid": "/m/02vy_6k",
+          "score": 0.91244715,
+          "topicality": 0.0063312347
+        },
+        {
+          "description": "Chocolate",
+          "mid": "/m/020vl",
+          "score": 0.9028822,
+          "topicality": 0.60600966
+        },
+        {
+          "description": "Bonbon",
+          "mid": "/m/05hxf1",
+          "score": 0.881909,
+          "topicality": 0.17912516
+        },
+        {
+          "description": "Chocolate truffle",
+          "mid": "/m/0cfk35",
+          "score": 0.8315492,
+          "topicality": 0.052495427
+        },
+        {
+          "description": "Honmei choco",
+          "mid": "/m/03ns47m",
+          "score": 0.82488084,
+          "topicality": 0.010882738
+        },
+        {
+          "description": "Delicacy",
+          "mid": "/m/0bh9q8s",
+          "score": 0.7470443,
+          "topicality": 0.007005539
+        },
+        {
+          "description": "Cocoa solids",
+          "mid": "/m/02vxqxj",
+          "score": 0.7309029,
+          "topicality": 0.0074168006
+        }
+      ]
+    }
+  ]
+}

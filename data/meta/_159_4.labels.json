@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Chordophone",
+          "mid": "/m/011_f4",
+          "score": 0.97753304,
+          "topicality": 0.0045620585
+        },
+        {
+          "description": "Wood",
+          "mid": "/m/083vt",
+          "score": 0.96528196,
+          "topicality": 0.11421943
+        },
+        {
+          "description": "String instrument",
+          "mid": "/m/0d8lm",
+          "score": 0.93636847,
+          "topicality": 0.109066874
+        },
+        {
+          "description": "Violin family",
+          "mid": "/m/08wxk8",
+          "score": 0.8753974,
+          "topicality": 0.085748754
+        },
+        {
+          "description": "Fiddle",
+          "mid": "/m/02w3w",
+          "score": 0.83118033,
+          "topicality": 0.09273397
+        },
+        {
+          "description": "Musical instrument",
+          "mid": "/m/04szw",
+          "score": 0.8220543,
+          "topicality": 0.34907398
+        },
+        {
+          "description": "Bowed string instrument",
+          "mid": "/m/0l14_3",
+          "score": 0.81984377,
+          "topicality": 0.056919985
+        },
+        {
+          "description": "Viola",
+          "mid": "/m/07_l6",
+          "score": 0.7273396,
+          "topicality": 0.26740554
+        },
+        {
+          "description": "Hardwood",
+          "mid": "/m/020g49",
+          "score": 0.713423,
+          "topicality": 0.0012341521
+        },
+        {
+          "description": "Wood stain",
+          "mid": "/m/05t06b",
+          "score": 0.65911347,
+          "topicality": 0.0007154545
+        }
+      ]
+    }
+  ]
+}

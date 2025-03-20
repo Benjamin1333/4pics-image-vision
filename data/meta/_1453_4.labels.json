@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Dog",
+          "mid": "/m/0bt9lr",
+          "score": 0.9954789,
+          "topicality": 0.75695574
+        },
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.965483,
+          "topicality": 0.023487192
+        },
+        {
+          "description": "Vertebrate",
+          "mid": "/m/09686",
+          "score": 0.96177506,
+          "topicality": 0.004615358
+        },
+        {
+          "description": "Carnivores",
+          "mid": "/m/01lrl",
+          "score": 0.92087626,
+          "topicality": 0.00131271
+        },
+        {
+          "description": "Dachshund",
+          "mid": "/m/02cj3",
+          "score": 0.9126269,
+          "topicality": 0.9810459
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.9008284,
+          "topicality": 0.010792178
+        },
+        {
+          "description": "Hound",
+          "mid": "/m/0gzt5",
+          "score": 0.8535739,
+          "topicality": 0.23540656
+        },
+        {
+          "description": "Scent hound",
+          "mid": "/m/017zl6",
+          "score": 0.84460723,
+          "topicality": 0.041641504
+        },
+        {
+          "description": "Puppy",
+          "mid": "/m/0d7s3w",
+          "score": 0.7922189,
+          "topicality": 0.35089058
+        },
+        {
+          "description": "Canidae",
+          "mid": "/m/01z5f",
+          "score": 0.7540037,
+          "topicality": 0.0105845
+        }
+      ]
+    }
+  ]
+}

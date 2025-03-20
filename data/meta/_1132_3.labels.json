@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Water",
+          "mid": "/m/0838f",
+          "score": 0.9819104,
+          "topicality": 0.26209256
+        },
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.94352555,
+          "topicality": 0.014791097
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.87228173,
+          "topicality": 0.0018455255
+        },
+        {
+          "description": "Goggles",
+          "mid": "/m/02_n6y",
+          "score": 0.8659804,
+          "topicality": 0.0058402424
+        },
+        {
+          "description": "Muscle",
+          "mid": "/m/04_fs",
+          "score": 0.83581895,
+          "topicality": 0.0027264857
+        },
+        {
+          "description": "Water sport",
+          "mid": "/m/02fhdf",
+          "score": 0.8227836,
+          "topicality": 0.02073857
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.8194,
+          "topicality": 0.0074977498
+        },
+        {
+          "description": "Lake",
+          "mid": "/m/04h4w",
+          "score": 0.81713355,
+          "topicality": 0.053529248
+        },
+        {
+          "description": "Endurance sports",
+          "mid": "/m/0bpxlzj",
+          "score": 0.77731663,
+          "topicality": 0.03849349
+        },
+        {
+          "description": "Cap",
+          "mid": "/m/02d46y",
+          "score": 0.7746619,
+          "topicality": 0.004446847
+        }
+      ]
+    }
+  ]
+}

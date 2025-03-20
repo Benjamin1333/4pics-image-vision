@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.8250013,
+          "topicality": 0.018720837
+        },
+        {
+          "description": "Paint",
+          "mid": "/m/05y4t",
+          "score": 0.6877553,
+          "topicality": 0.008966444
+        },
+        {
+          "description": "Sign",
+          "mid": "/m/06zsq",
+          "score": 0.6616037,
+          "topicality": 0.18163596
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6028943,
+          "topicality": 0.004285988
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.5978293,
+          "topicality": 0.0038692756
+        },
+        {
+          "description": "Shadow",
+          "mid": "/m/01ft8k",
+          "score": 0.59129477,
+          "topicality": 0.03510437
+        },
+        {
+          "description": "Cleanliness",
+          "mid": "/m/020s4p",
+          "score": 0.55700785,
+          "topicality": 0.0023205734
+        }
+      ]
+    }
+  ]
+}

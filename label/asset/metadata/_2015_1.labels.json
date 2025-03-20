@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9449162,
+          "topicality": 0.012897735
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.92274,
+          "topicality": 0.06130629
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.75163984,
+          "topicality": 0.0003700885
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.7438304,
+          "topicality": 0.025225457
+        },
+        {
+          "description": "Writing",
+          "mid": "/m/081rb",
+          "score": 0.6595729,
+          "topicality": 0.10322585
+        },
+        {
+          "description": "Handwriting",
+          "mid": "/m/0gkxy13",
+          "score": 0.64884317,
+          "topicality": 0.011445702
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.5903339,
+          "topicality": 0.042877443
+        },
+        {
+          "description": "Laughter",
+          "mid": "/m/01j3sz",
+          "score": 0.53680044,
+          "topicality": 0.0055804723
+        }
+      ]
+    }
+  ]
+}

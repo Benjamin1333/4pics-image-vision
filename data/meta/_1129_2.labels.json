@@ -1,0 +1,14 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Ring binder",
+          "mid": "/m/04zwwv",
+          "score": 0.6837443,
+          "topicality": 0.46005535
+        }
+      ]
+    }
+  ]
+}

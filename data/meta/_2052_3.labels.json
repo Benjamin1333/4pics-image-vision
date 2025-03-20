@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.7747654,
+          "topicality": 0.018574765
+        },
+        {
+          "description": "Management",
+          "mid": "/m/04_tv",
+          "score": 0.7737713,
+          "topicality": 0.14933
+        },
+        {
+          "description": "Conversation",
+          "mid": "/m/01h8n0",
+          "score": 0.77310276,
+          "topicality": 0.0062415884
+        },
+        {
+          "description": "Collaboration",
+          "mid": "/m/01s560",
+          "score": 0.75551194,
+          "topicality": 0.09029958
+        },
+        {
+          "description": "Meeting",
+          "mid": "/m/01h6cb",
+          "score": 0.74312586,
+          "topicality": 0.1903484
+        },
+        {
+          "description": "Chair",
+          "mid": "/m/01mzpv",
+          "score": 0.7307398,
+          "topicality": 0.0017135281
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.6723051,
+          "topicality": 0.033207837
+        },
+        {
+          "description": "Conference hall",
+          "mid": "/m/02q60ls",
+          "score": 0.64968634,
+          "topicality": 0.030074032
+        },
+        {
+          "description": "Company",
+          "mid": "/m/03bxgrp",
+          "score": 0.6092097,
+          "topicality": 0.06989177
+        },
+        {
+          "description": "Seminar",
+          "mid": "/m/03233l",
+          "score": 0.57447964,
+          "topicality": 0.09762221
+        }
+      ]
+    }
+  ]
+}

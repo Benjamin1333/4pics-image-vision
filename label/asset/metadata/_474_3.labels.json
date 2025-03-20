@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.9851348,
+          "topicality": 0.09066148
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.98422,
+          "topicality": 0.005547199
+        },
+        {
+          "description": "Grape",
+          "mid": "/m/0388q",
+          "score": 0.97939545,
+          "topicality": 0.9478081
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.97372437,
+          "topicality": 0.039392643
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.9711931,
+          "topicality": 0.00095895305
+        },
+        {
+          "description": "Seedless fruit",
+          "mid": "/m/0bvv45",
+          "score": 0.93756413,
+          "topicality": 0.20787345
+        },
+        {
+          "description": "Grapes",
+          "mid": "/m/0d_4s",
+          "score": 0.914399,
+          "topicality": 0.017228536
+        },
+        {
+          "description": "Grape leaves",
+          "mid": "/m/05fc9y1",
+          "score": 0.88174075,
+          "topicality": 0.0652262
+        },
+        {
+          "description": "Vineyard",
+          "mid": "/m/016btq",
+          "score": 0.86343676,
+          "topicality": 0.12809677
+        },
+        {
+          "description": "Grapevines",
+          "mid": "/m/02vwksk",
+          "score": 0.7881576,
+          "topicality": 0.4895743
+        }
+      ]
+    }
+  ]
+}

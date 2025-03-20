@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Wheel",
+          "mid": "/m/083wq",
+          "score": 0.97716874,
+          "topicality": 0.044431772
+        },
+        {
+          "description": "Bicycle tire",
+          "mid": "/m/0c3vfpc",
+          "score": 0.9758052,
+          "topicality": 0.10885395
+        },
+        {
+          "description": "Bicycle",
+          "mid": "/m/0199g",
+          "score": 0.9650286,
+          "topicality": 0.54092973
+        },
+        {
+          "description": "Bicycle Wheel Rim",
+          "mid": "/m/0h8n90g",
+          "score": 0.9621234,
+          "topicality": 0.0028864865
+        },
+        {
+          "description": "Bicycle wheel",
+          "mid": "/m/01bqk0",
+          "score": 0.9478884,
+          "topicality": 0.052635435
+        },
+        {
+          "description": "Spoke",
+          "mid": "/m/016xt7",
+          "score": 0.9263432,
+          "topicality": 0.01695114
+        },
+        {
+          "description": "Bicycle frame",
+          "mid": "/m/01bqgn",
+          "score": 0.8997561,
+          "topicality": 0.04967462
+        },
+        {
+          "description": "Chain",
+          "mid": "/m/0269r2s",
+          "score": 0.8805914,
+          "topicality": 0.2348584
+        },
+        {
+          "description": "Carbon fibers",
+          "mid": "/m/0155hn",
+          "score": 0.8485291,
+          "topicality": 0.0020720782
+        },
+        {
+          "description": "Metal",
+          "mid": "/m/04t7l",
+          "score": 0.84182626,
+          "topicality": 0.03214686
+        }
+      ]
+    }
+  ]
+}

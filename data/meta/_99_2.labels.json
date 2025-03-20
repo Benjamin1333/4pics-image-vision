@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Washing machine",
+          "mid": "/m/0174k2",
+          "score": 0.9912169,
+          "topicality": 0.80526406
+        },
+        {
+          "description": "Clothes dryer",
+          "mid": "/m/01v2xz",
+          "score": 0.9867719,
+          "topicality": 0.21262929
+        },
+        {
+          "description": "Laundry room",
+          "mid": "/m/03d2zy",
+          "score": 0.97845846,
+          "topicality": 0.22060883
+        },
+        {
+          "description": "Laundry",
+          "mid": "/m/012x6l",
+          "score": 0.9777491,
+          "topicality": 0.81256807
+        },
+        {
+          "description": "Major appliance",
+          "mid": "/m/017_cz",
+          "score": 0.97365844,
+          "topicality": 0.022588208
+        },
+        {
+          "description": "Laundry Supply",
+          "mid": "/m/0h8nt51",
+          "score": 0.91619474,
+          "topicality": 0.021818522
+        },
+        {
+          "description": "Home appliance",
+          "mid": "/m/019dx1",
+          "score": 0.8160327,
+          "topicality": 0.058091152
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.81395507,
+          "topicality": 0.12312422
+        },
+        {
+          "description": "Homemaking",
+          "mid": "/m/0f75y",
+          "score": 0.7615252,
+          "topicality": 0.04501707
+        },
+        {
+          "description": "Washing",
+          "mid": "/m/01ln6f",
+          "score": 0.6507389,
+          "topicality": 0.8103812
+        }
+      ]
+    }
+  ]
+}

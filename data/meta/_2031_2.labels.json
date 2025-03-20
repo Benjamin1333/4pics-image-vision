@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.8145357,
+          "topicality": 0.02435584
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.7471908,
+          "topicality": 0.035374667
+        },
+        {
+          "description": "Lawn",
+          "mid": "/m/01v327",
+          "score": 0.7179454,
+          "topicality": 0.0017510604
+        },
+        {
+          "description": "Campus",
+          "mid": "/m/01_x9",
+          "score": 0.66371727,
+          "topicality": 0.0078599965
+        },
+        {
+          "description": "Park",
+          "mid": "/m/0166ls",
+          "score": 0.61033225,
+          "topicality": 0.01569845
+        },
+        {
+          "description": "Walking",
+          "mid": "/m/083mg",
+          "score": 0.5497482,
+          "topicality": 0.022243043
+        }
+      ]
+    }
+  ]
+}

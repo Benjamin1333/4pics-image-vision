@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Vegetable",
+          "mid": "/m/0f4s2w",
+          "score": 0.90370107,
+          "topicality": 0.4696337
+        },
+        {
+          "description": "Summer squash",
+          "mid": "/m/0dv0b7",
+          "score": 0.8660861,
+          "topicality": 0.17330338
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.84289986,
+          "topicality": 0.029443445
+        },
+        {
+          "description": "Squash",
+          "mid": "/m/012c4n",
+          "score": 0.83679974,
+          "topicality": 0.2363943
+        },
+        {
+          "description": "Cucumber",
+          "mid": "/m/015x4r",
+          "score": 0.8157724,
+          "topicality": 0.15007131
+        },
+        {
+          "description": "Zucchini",
+          "mid": "/m/027pcv",
+          "score": 0.75318605,
+          "topicality": 0.9406896
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.7335315,
+          "topicality": 0.00035436888
+        },
+        {
+          "description": "Cucurbits",
+          "mid": "/m/01wdp",
+          "score": 0.7246755,
+          "topicality": 0.016141312
+        },
+        {
+          "description": "Cucumis",
+          "mid": "/m/040dsb",
+          "score": 0.6197999,
+          "topicality": 0.01349571
+        },
+        {
+          "description": "Gourd",
+          "mid": "/m/011jbn",
+          "score": 0.5279767,
+          "topicality": 0.03932146
+        }
+      ]
+    }
+  ]
+}

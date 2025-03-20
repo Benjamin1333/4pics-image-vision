@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sock",
+          "mid": "/m/01nq26",
+          "score": 0.942931,
+          "topicality": 0.9493478
+        },
+        {
+          "description": "Ankle",
+          "mid": "/m/01xlvy",
+          "score": 0.86044466,
+          "topicality": 0.03887004
+        },
+        {
+          "description": "Foot",
+          "mid": "/m/031n1",
+          "score": 0.8446367,
+          "topicality": 0.15193646
+        },
+        {
+          "description": "Woolen",
+          "mid": "/m/01yh65",
+          "score": 0.8139656,
+          "topicality": 0.008822662
+        },
+        {
+          "description": "Wool",
+          "mid": "/m/09kxp",
+          "score": 0.7536325,
+          "topicality": 0.015412754
+        },
+        {
+          "description": "Toe",
+          "mid": "/m/01d_ff",
+          "score": 0.70033085,
+          "topicality": 0.13199228
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.6636662,
+          "topicality": 0.0026046338
+        },
+        {
+          "description": "Cleanliness",
+          "mid": "/m/020s4p",
+          "score": 0.5499611,
+          "topicality": 0.0028778904
+        },
+        {
+          "description": "Balance",
+          "mid": "/m/03gs8b2",
+          "score": 0.5246382,
+          "topicality": 0.0010794003
+        }
+      ]
+    }
+  ]
+}

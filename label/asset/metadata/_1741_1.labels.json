@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.91980433,
+          "topicality": 0.16128393
+        },
+        {
+          "description": "Hair removal",
+          "mid": "/m/0149qc",
+          "score": 0.8995356,
+          "topicality": 0.031881534
+        },
+        {
+          "description": "Personal care",
+          "mid": "/m/02w3_ws",
+          "score": 0.89228165,
+          "topicality": 0.005520191
+        },
+        {
+          "description": "Razor",
+          "mid": "/m/02g901",
+          "score": 0.873325,
+          "topicality": 0.04966502
+        },
+        {
+          "description": "Facial hair",
+          "mid": "/m/0ds5b",
+          "score": 0.8621957,
+          "topicality": 0.028575366
+        },
+        {
+          "description": "Shaving",
+          "mid": "/m/0149w3",
+          "score": 0.8088995,
+          "topicality": 0.66530645
+        },
+        {
+          "description": "Personal grooming",
+          "mid": "/m/02m1vq",
+          "score": 0.78406626,
+          "topicality": 0.047753457
+        },
+        {
+          "description": "Moustache",
+          "mid": "/m/0bby24z",
+          "score": 0.773352,
+          "topicality": 0.016222272
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.73318154,
+          "topicality": 0.0025036533
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.59749955,
+          "topicality": 0.030640792
+        }
+      ]
+    }
+  ]
+}

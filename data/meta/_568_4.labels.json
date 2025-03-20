@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.85427743,
+          "topicality": 0.007810618
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.8079102,
+          "topicality": 0.006343093
+        },
+        {
+          "description": "Electronics",
+          "mid": "/m/02mrp",
+          "score": 0.7823871,
+          "topicality": 0.08292217
+        },
+        {
+          "description": "Wire",
+          "mid": "/m/083kv",
+          "score": 0.7090684,
+          "topicality": 0.020980164
+        },
+        {
+          "description": "Electrical cable",
+          "mid": "/m/0bmz2",
+          "score": 0.7077386,
+          "topicality": 0.018194938
+        },
+        {
+          "description": "Electrical contractor",
+          "mid": "/m/04yg3yn",
+          "score": 0.67168784,
+          "topicality": 0.14842409
+        },
+        {
+          "description": "Electrician",
+          "mid": "/m/01bw9x",
+          "score": 0.656208,
+          "topicality": 0.88785213
+        },
+        {
+          "description": "Electronic engineering",
+          "mid": "/m/01g1rg",
+          "score": 0.6189195,
+          "topicality": 0.005338247
+        },
+        {
+          "description": "Electrical Supply",
+          "mid": "/m/0cmsl0l",
+          "score": 0.61359715,
+          "topicality": 0.008620793
+        },
+        {
+          "description": "Electrical wiring",
+          "mid": "/m/046glt",
+          "score": 0.58810514,
+          "topicality": 0.23763604
+        }
+      ]
+    }
+  ]
+}

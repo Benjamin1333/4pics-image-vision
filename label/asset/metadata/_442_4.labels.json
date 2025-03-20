@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Calculator",
+          "mid": "/m/024d2",
+          "score": 0.9851424,
+          "topicality": 0.7172329
+        },
+        {
+          "description": "Office Equipment",
+          "mid": "/m/03qtgjk",
+          "score": 0.9786648,
+          "topicality": 0.0021358426
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.9684951,
+          "topicality": 0.011407561
+        },
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.92864746,
+          "topicality": 1.7564362e-05
+        },
+        {
+          "description": "Paper",
+          "mid": "/m/0641k",
+          "score": 0.8809684,
+          "topicality": 0.012747647
+        },
+        {
+          "description": "Number",
+          "mid": "/m/05fwb",
+          "score": 0.87216955,
+          "topicality": 0.0289289
+        },
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.8557534,
+          "topicality": 6.536427e-05
+        },
+        {
+          "description": "Office Instrument",
+          "mid": "/m/0h8m01z",
+          "score": 0.8490966,
+          "topicality": 0.00033235762
+        },
+        {
+          "description": "Writing implement",
+          "mid": "/m/06wybl",
+          "score": 0.84670275,
+          "topicality": 0.00069945457
+        },
+        {
+          "description": "Pen",
+          "mid": "/m/0k1tl",
+          "score": 0.8195191,
+          "topicality": 0.014002692
+        }
+      ]
+    }
+  ]
+}

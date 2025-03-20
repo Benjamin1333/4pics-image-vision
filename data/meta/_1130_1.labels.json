@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Headgear",
+          "mid": "/m/01443y",
+          "score": 0.95225936,
+          "topicality": 0.0061370833
+        },
+        {
+          "description": "Fashion",
+          "mid": "/m/032tl",
+          "score": 0.9413559
+        },
+        {
+          "description": "Victorian fashion",
+          "mid": "/m/0133pl",
+          "score": 0.9346628,
+          "topicality": 0.20340967
+        },
+        {
+          "description": "Dress",
+          "mid": "/m/01d40f",
+          "score": 0.92393655,
+          "topicality": 0.06893607
+        },
+        {
+          "description": "Costume",
+          "mid": "/m/0250x",
+          "score": 0.9021067,
+          "topicality": 0.23621601
+        },
+        {
+          "description": "Costume design",
+          "mid": "/m/04s5jq",
+          "score": 0.8470523,
+          "topicality": 0.3535904
+        },
+        {
+          "description": "Gown",
+          "mid": "/m/0bp_2p",
+          "score": 0.84178257,
+          "topicality": 0.005316832
+        },
+        {
+          "description": "Vintage clothing",
+          "mid": "/m/08v4gh",
+          "score": 0.7991659,
+          "topicality": 0.0049751257
+        },
+        {
+          "description": "Fontange",
+          "mid": "/m/03qkynf",
+          "score": 0.73435026,
+          "topicality": 0.17873983
+        },
+        {
+          "description": "Headpiece",
+          "mid": "/m/02fbqn",
+          "score": 0.7268587,
+          "topicality": 0.0007491689
+        }
+      ]
+    }
+  ]
+}

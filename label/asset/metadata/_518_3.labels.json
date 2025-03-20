@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Piano",
+          "mid": "/m/05r5c",
+          "score": 0.96703804,
+          "topicality": 0.96339077
+        },
+        {
+          "description": "Keyboard",
+          "mid": "/m/05148p4",
+          "score": 0.96628106,
+          "topicality": 0.4025828
+        },
+        {
+          "description": "Musical instrument",
+          "mid": "/m/04szw",
+          "score": 0.9514257,
+          "topicality": 0.19865203
+        },
+        {
+          "description": "Musical keyboard",
+          "mid": "/m/057cc",
+          "score": 0.860448,
+          "topicality": 0.24864173
+        },
+        {
+          "description": "Electronic musical instrument",
+          "mid": "/m/02qjv",
+          "score": 0.826219,
+          "topicality": 0.02667625
+        },
+        {
+          "description": "Stool",
+          "mid": "/m/0fqt361",
+          "score": 0.6851707,
+          "topicality": 0.011313655
+        },
+        {
+          "description": "Classical music",
+          "mid": "/m/0ggq0m",
+          "score": 0.6708962,
+          "topicality": 0.03452966
+        },
+        {
+          "description": "Digital piano",
+          "mid": "/m/01pmyz",
+          "score": 0.6293325,
+          "topicality": 0.25788534
+        },
+        {
+          "description": "Spinet",
+          "mid": "/m/01zs85",
+          "score": 0.6042378,
+          "topicality": 0.022779798
+        },
+        {
+          "description": "Fortepiano",
+          "mid": "/m/02wfc4",
+          "score": 0.5259528,
+          "topicality": 0.01573985
+        }
+      ]
+    }
+  ]
+}

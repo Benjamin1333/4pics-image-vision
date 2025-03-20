@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9764162,
+          "topicality": 0.058983143
+        },
+        {
+          "description": "Diagram",
+          "mid": "/m/02v0m2",
+          "score": 0.85155755,
+          "topicality": 0.09300203
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.6821423,
+          "topicality": 0.043815073
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6067262,
+          "topicality": 0.031846795
+        }
+      ]
+    }
+  ]
+}

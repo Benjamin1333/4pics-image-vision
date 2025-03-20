@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.8364891,
+          "topicality": 0.011663634
+        },
+        {
+          "description": "Court",
+          "mid": "/m/0k05r",
+          "score": 0.812554,
+          "topicality": 0.16964181
+        },
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.77679807,
+          "topicality": 0.05362218
+        },
+        {
+          "description": "Receptionist",
+          "mid": "/m/02p9kh",
+          "score": 0.7461112,
+          "topicality": 0.046320036
+        },
+        {
+          "description": "Teacher",
+          "mid": "/m/01d30f",
+          "score": 0.7035911,
+          "topicality": 0.021010462
+        },
+        {
+          "description": "Management",
+          "mid": "/m/04_tv",
+          "score": 0.68827736,
+          "topicality": 0.050506327
+        },
+        {
+          "description": "Lawyer",
+          "mid": "/m/04gc2",
+          "score": 0.68591774,
+          "topicality": 0.37181833
+        },
+        {
+          "description": "Student",
+          "mid": "/m/014cnc",
+          "score": 0.65647596,
+          "topicality": 0.013350328
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.6044228,
+          "topicality": 0.056678727
+        },
+        {
+          "description": "Meeting",
+          "mid": "/m/01h6cb",
+          "score": 0.58053887,
+          "topicality": 0.01670771
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.9847956,
+          "topicality": 0.1513337
+        },
+        {
+          "description": "Skin",
+          "mid": "/m/06z04",
+          "score": 0.9813332,
+          "topicality": 0.21051365
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9449495,
+          "topicality": 0.007309616
+        },
+        {
+          "description": "Close-up",
+          "mid": "/m/02cqfm",
+          "score": 0.9407103,
+          "topicality": 0.08303374
+        },
+        {
+          "description": "Eyelash",
+          "mid": "/m/03f52z",
+          "score": 0.93397725,
+          "topicality": 0.0064013707
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.91865253,
+          "topicality": 0.06923993
+        },
+        {
+          "description": "Infant",
+          "mid": "/m/0jnvp",
+          "score": 0.74243283,
+          "topicality": 0.46608084
+        },
+        {
+          "description": "Macro photography",
+          "mid": "/m/03rbf6",
+          "score": 0.70764923,
+          "topicality": 0.0032786743
+        },
+        {
+          "description": "Toddler",
+          "mid": "/m/01bgsw",
+          "score": 0.6781001,
+          "topicality": 0.082902394
+        },
+        {
+          "description": "Flesh",
+          "mid": "/m/02p16m6",
+          "score": 0.5965781,
+          "topicality": 0.0003865892
+        }
+      ]
+    }
+  ]
+}

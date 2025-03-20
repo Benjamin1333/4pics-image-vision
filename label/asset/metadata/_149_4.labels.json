@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Muscle",
+          "mid": "/m/04_fs",
+          "score": 0.8788592,
+          "topicality": 0.24488343
+        },
+        {
+          "description": "Waist",
+          "mid": "/m/031974",
+          "score": 0.8685794,
+          "topicality": 0.016058609
+        },
+        {
+          "description": "Thorax",
+          "mid": "/m/0dzdr",
+          "score": 0.8411644,
+          "topicality": 0.24404417
+        },
+        {
+          "description": "Torso",
+          "mid": "/m/031vtq",
+          "score": 0.8211749,
+          "topicality": 0.44049752
+        },
+        {
+          "description": "Abdomen",
+          "mid": "/m/08y7p8",
+          "score": 0.8202571,
+          "topicality": 0.07365509
+        },
+        {
+          "description": "Bodybuilder",
+          "mid": "/m/02h6dmm",
+          "score": 0.703589,
+          "topicality": 0.025893552
+        },
+        {
+          "description": "Model",
+          "mid": "/m/0d1pc",
+          "score": 0.67207307,
+          "topicality": 0.09317864
+        },
+        {
+          "description": "Stomach",
+          "mid": "/m/09x8z",
+          "score": 0.6716507,
+          "topicality": 0.018851433
+        },
+        {
+          "description": "Bodybuilding",
+          "mid": "/m/01ddm",
+          "score": 0.5791354,
+          "topicality": 0.054412443
+        },
+        {
+          "description": "Photo shoot",
+          "mid": "/m/02qbl1m",
+          "score": 0.5580871,
+          "topicality": 0.0065185707
+        }
+      ]
+    }
+  ]
+}

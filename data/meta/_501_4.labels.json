@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Flame",
+          "mid": "/m/01f415",
+          "score": 0.98511994,
+          "topicality": 0.14410174
+        },
+        {
+          "description": "Fire",
+          "mid": "/m/02_41",
+          "score": 0.977486,
+          "topicality": 0.59336597
+        },
+        {
+          "description": "Wood",
+          "mid": "/m/083vt",
+          "score": 0.96890265,
+          "topicality": 0.045266543
+        },
+        {
+          "description": "Bonfire",
+          "mid": "/m/012ckm",
+          "score": 0.95038116,
+          "topicality": 0.6346761
+        },
+        {
+          "description": "Heat",
+          "mid": "/m/03k2v",
+          "score": 0.92736423,
+          "topicality": 0.04410104
+        },
+        {
+          "description": "Campfire",
+          "mid": "/m/019mk7",
+          "score": 0.85666,
+          "topicality": 0.6330077
+        },
+        {
+          "description": "Forest",
+          "mid": "/m/02zr8",
+          "score": 0.8487088,
+          "topicality": 0.24965312
+        },
+        {
+          "description": "People in nature",
+          "mid": "/j/3gbwgn",
+          "score": 0.83281267,
+          "topicality": 0.0001993338
+        },
+        {
+          "description": "Woodland",
+          "mid": "/m/0hnc1",
+          "score": 0.70383483,
+          "topicality": 0.006167513
+        },
+        {
+          "description": "Jungle",
+          "mid": "/m/01y3fy",
+          "score": 0.68608695,
+          "topicality": 0.00089798163
+        }
+      ]
+    }
+  ]
+}

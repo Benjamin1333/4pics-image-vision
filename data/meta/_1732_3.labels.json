@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Entertainment",
+          "mid": "/m/02jjt",
+          "score": 0.9753826,
+          "topicality": 0.01278097
+        },
+        {
+          "description": "Disc jockey",
+          "mid": "/m/02dsz",
+          "score": 0.9544885,
+          "topicality": 0.79939127
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8741447,
+          "topicality": 0.023042804
+        },
+        {
+          "description": "Performing Arts",
+          "mid": "/m/05qjc",
+          "score": 0.840119,
+          "topicality": 0.00077619083
+        },
+        {
+          "description": "Music venue",
+          "mid": "/m/07b2m8",
+          "score": 0.77597785,
+          "topicality": 0.0019498887
+        },
+        {
+          "description": "Disco",
+          "mid": "/m/026z9",
+          "score": 0.769388,
+          "topicality": 0.37958252
+        },
+        {
+          "description": "Electronics",
+          "mid": "/m/02mrp",
+          "score": 0.70423925,
+          "topicality": 0.014651562
+        },
+        {
+          "description": "CDJ",
+          "mid": "/m/0f9qdc",
+          "score": 0.70036995,
+          "topicality": 0.0044074375
+        },
+        {
+          "description": "Electronic musical instrument",
+          "mid": "/m/02qjv",
+          "score": 0.6472426,
+          "topicality": 0.000602848
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.64472735,
+          "topicality": 0.0028592593
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Photo shoot",
+          "mid": "/m/02qbl1m",
+          "score": 0.5301678,
+          "topicality": 0.001860507
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Personal protective equipment",
+          "mid": "/m/0ffjr",
+          "score": 0.9733731,
+          "topicality": 0.00079482986
+        },
+        {
+          "description": "Helmet",
+          "mid": "/m/0zvk5",
+          "score": 0.9724492,
+          "topicality": 0.04238481
+        },
+        {
+          "description": "Headgear",
+          "mid": "/m/01443y",
+          "score": 0.9475537,
+          "topicality": 0.00029846482
+        },
+        {
+          "description": "Aerospace Engineering",
+          "mid": "/m/0w7s",
+          "score": 0.8282141,
+          "topicality": 0.027104916
+        },
+        {
+          "description": "Goggles",
+          "mid": "/m/02_n6y",
+          "score": 0.81922317,
+          "topicality": 0.0030201403
+        },
+        {
+          "description": "Headphones",
+          "mid": "/m/01b7fy",
+          "score": 0.81563824,
+          "topicality": 0.004786298
+        },
+        {
+          "description": "Headset",
+          "mid": "/m/03mb156",
+          "score": 0.81384504,
+          "topicality": 0.0046089133
+        },
+        {
+          "description": "Aviation",
+          "mid": "/m/0fzyg",
+          "score": 0.7909196,
+          "topicality": 0.11271
+        },
+        {
+          "description": "Aircraft pilot",
+          "mid": "/m/0hltv",
+          "score": 0.7363748,
+          "topicality": 0.7903971
+        },
+        {
+          "description": "Hearing",
+          "mid": "/m/01wymn",
+          "score": 0.7171768,
+          "topicality": 0.0028598509
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Outer space",
+          "mid": "/m/01833w",
+          "score": 0.9791483,
+          "topicality": 0.4889375
+        },
+        {
+          "description": "Astronomical object",
+          "mid": "/m/01d9ll",
+          "score": 0.9642214,
+          "topicality": 0.15557703
+        },
+        {
+          "description": "Universe",
+          "mid": "/m/07v7c",
+          "score": 0.9362121,
+          "topicality": 0.644493
+        },
+        {
+          "description": "Planet",
+          "mid": "/m/05qc_",
+          "score": 0.9231766,
+          "topicality": 0.58865225
+        },
+        {
+          "description": "Astronomy",
+          "mid": "/m/0dc_v",
+          "score": 0.9067852,
+          "topicality": 0.1163732
+        },
+        {
+          "description": "atmospheric phenomenon",
+          "mid": "/m/07pw27b",
+          "score": 0.8745211,
+          "topicality": 0.00027430424
+        },
+        {
+          "description": "Night",
+          "mid": "/m/01d74z",
+          "score": 0.8633546,
+          "topicality": 0.05866198
+        },
+        {
+          "description": "Star",
+          "mid": "/m/06ngk",
+          "score": 0.8631169,
+          "topicality": 0.46994603
+        },
+        {
+          "description": "Galaxy",
+          "mid": "/m/039b5",
+          "score": 0.8592291,
+          "topicality": 0.4326922
+        },
+        {
+          "description": "Moon",
+          "mid": "/m/04wv_",
+          "score": 0.81600374,
+          "topicality": 0.04976032
+        }
+      ]
+    }
+  ]
+}

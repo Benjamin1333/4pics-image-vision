@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Snow",
+          "mid": "/m/06_dn",
+          "score": 0.9814908,
+          "topicality": 0.16005091
+        },
+        {
+          "description": "Mountainous landforms",
+          "mid": "/g/11jxkqbpp",
+          "score": 0.97473776,
+          "topicality": 4.5420857e-05
+        },
+        {
+          "description": "Ski Equipment",
+          "mid": "/m/0cl9t3p",
+          "score": 0.96309817,
+          "topicality": 0.005222203
+        },
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.9554962,
+          "topicality": 0.004449923
+        },
+        {
+          "description": "Winter sports",
+          "mid": "/m/09qf5",
+          "score": 0.95455855,
+          "topicality": 0.042632572
+        },
+        {
+          "description": "Adventure",
+          "mid": "/m/0h_m",
+          "score": 0.9523094,
+          "topicality": 0.065539
+        },
+        {
+          "description": "Backpack",
+          "mid": "/m/01940j",
+          "score": 0.95021236,
+          "topicality": 0.002885323
+        },
+        {
+          "description": "Mountaineer",
+          "mid": "/m/04_2qtd",
+          "score": 0.94046766,
+          "topicality": 0.016876476
+        },
+        {
+          "description": "geological phenomenon",
+          "mid": "/m/07sn5gn",
+          "score": 0.9355502,
+          "topicality": 3.8555067e-05
+        },
+        {
+          "description": "Outdoor recreation",
+          "mid": "/m/05b0n7k",
+          "score": 0.9354904,
+          "topicality": 0.014620472
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.8393334,
+          "topicality": 0.07779182
+        },
+        {
+          "description": "Heavy equipment",
+          "mid": "/m/02gx17",
+          "score": 0.8321039,
+          "topicality": 0.0075929444
+        },
+        {
+          "description": "Soil",
+          "mid": "/m/09dv7",
+          "score": 0.81208044,
+          "topicality": 0.019186854
+        },
+        {
+          "description": "Construction",
+          "mid": "/m/01jnzj",
+          "score": 0.7586537,
+          "topicality": 0.029237527
+        },
+        {
+          "description": "Engineering",
+          "mid": "/m/02ky346",
+          "score": 0.7544001,
+          "topicality": 0.1724446
+        },
+        {
+          "description": "Bulldozer",
+          "mid": "/m/01tkqg",
+          "score": 0.7517852,
+          "topicality": 0.0024562553
+        },
+        {
+          "description": "Building material",
+          "mid": "/m/02cr01",
+          "score": 0.6844094,
+          "topicality": 0.014892736
+        },
+        {
+          "description": "Blue-collar worker",
+          "mid": "/m/01kq3f",
+          "score": 0.6624215,
+          "topicality": 0.0009531875
+        },
+        {
+          "description": "Engineer",
+          "mid": "/m/09j9h",
+          "score": 0.5388552,
+          "topicality": 0.0073684203
+        },
+        {
+          "description": "Hard hat",
+          "mid": "/m/01n5_8",
+          "score": 0.5249558,
+          "topicality": 3.5716937e-05
+        }
+      ]
+    }
+  ]
+}

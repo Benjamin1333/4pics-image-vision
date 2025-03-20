@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Car",
+          "mid": "/m/0k4j",
+          "score": 0.9916137,
+          "topicality": 0.11341469
+        },
+        {
+          "description": "Land vehicle",
+          "mid": "/m/01prls",
+          "score": 0.9890151,
+          "topicality": 0.0005804967
+        },
+        {
+          "description": "Vehicle",
+          "mid": "/m/07yv9",
+          "score": 0.9836152,
+          "topicality": 0.08221883
+        },
+        {
+          "description": "Tire",
+          "mid": "/m/0h9mv",
+          "score": 0.9737096,
+          "topicality": 0.007785068
+        },
+        {
+          "description": "Desert",
+          "mid": "/m/0284w",
+          "score": 0.94659406,
+          "topicality": 0.4440799
+        },
+        {
+          "description": "Automotive Tire",
+          "mid": "/m/0h8pb3l",
+          "score": 0.94297117,
+          "topicality": 0.0001267581
+        },
+        {
+          "description": "Aeolian landform",
+          "mid": "/m/04gvhhy",
+          "score": 0.93766993,
+          "topicality": 0.00597025
+        },
+        {
+          "description": "Sport utility vehicle",
+          "mid": "/m/0ctrp",
+          "score": 0.9250742,
+          "topicality": 0.19075364
+        },
+        {
+          "description": "Erg",
+          "mid": "/m/0d79jq",
+          "score": 0.9188212,
+          "topicality": 0.5367556
+        },
+        {
+          "description": "Compact sport utility vehicle",
+          "mid": "/m/0539n0",
+          "score": 0.8867588,
+          "topicality": 0.0071162833
+        }
+      ]
+    }
+  ]
+}

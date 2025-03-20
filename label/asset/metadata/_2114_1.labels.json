@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Ring",
+          "mid": "/m/09l0j_",
+          "score": 0.965999,
+          "topicality": 0.51386136
+        },
+        {
+          "description": "Wedding ring",
+          "mid": "/m/015rvg",
+          "score": 0.93052465,
+          "topicality": 0.694879
+        },
+        {
+          "description": "Wedding Ceremony Supply",
+          "mid": "/m/0hgq063",
+          "score": 0.9043139,
+          "topicality": 0.13579662
+        },
+        {
+          "description": "Pre-engagement ring",
+          "mid": "/m/02_f_b",
+          "score": 0.8913932,
+          "topicality": 0.0827722
+        },
+        {
+          "description": "Engagement ring",
+          "mid": "/m/09t19",
+          "score": 0.8846361,
+          "topicality": 0.11771106
+        },
+        {
+          "description": "Metal",
+          "mid": "/m/04t7l",
+          "score": 0.8146789,
+          "topicality": 0.0017306509
+        },
+        {
+          "description": "Body Jewelry",
+          "mid": "/m/0h8kxbv",
+          "score": 0.81388545,
+          "topicality": 3.9187304e-05
+        },
+        {
+          "description": "Gold",
+          "mid": "/m/025rs2z",
+          "score": 0.8059232,
+          "topicality": 0.59406775
+        },
+        {
+          "description": "Natural material",
+          "mid": "/m/07sx2n",
+          "score": 0.76309353,
+          "topicality": 7.064965e-05
+        },
+        {
+          "description": "Brass",
+          "mid": "/m/01504",
+          "score": 0.7090733,
+          "topicality": 0.0015696642
+        }
+      ]
+    }
+  ]
+}

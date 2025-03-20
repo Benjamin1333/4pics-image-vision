@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Card game",
+          "mid": "/m/01mtt",
+          "score": 0.8257948,
+          "topicality": 0.36596137
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.81742626,
+          "topicality": 0.0059374296
+        },
+        {
+          "description": "Game",
+          "mid": "/m/03bt1gh",
+          "score": 0.811818,
+          "topicality": 0.024766985
+        },
+        {
+          "description": "Thumb",
+          "mid": "/m/01bmhj",
+          "score": 0.7916424,
+          "topicality": 0.004541462
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.7628617,
+          "topicality": 0.015499978
+        },
+        {
+          "description": "Triangle",
+          "mid": "/m/07jx7",
+          "score": 0.56627727,
+          "topicality": 0.0026116497
+        }
+      ]
+    }
+  ]
+}

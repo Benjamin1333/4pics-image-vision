@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Musical instrument",
+          "mid": "/m/04szw",
+          "score": 0.9885322,
+          "topicality": 0.11608994
+        },
+        {
+          "description": "Keyboard",
+          "mid": "/m/05148p4",
+          "score": 0.96671456,
+          "topicality": 0.081796646
+        },
+        {
+          "description": "Piano",
+          "mid": "/m/05r5c",
+          "score": 0.94732726,
+          "topicality": 0.080231585
+        },
+        {
+          "description": "Musical keyboard",
+          "mid": "/m/057cc",
+          "score": 0.93222696,
+          "topicality": 0.029275555
+        },
+        {
+          "description": "Electronic musical instrument",
+          "mid": "/m/02qjv",
+          "score": 0.864546,
+          "topicality": 0.004738419
+        },
+        {
+          "description": "Electrophone",
+          "mid": "/m/0121tl",
+          "score": 0.67454207,
+          "topicality": 0.0005568061
+        },
+        {
+          "description": "Hardwood",
+          "mid": "/m/020g49",
+          "score": 0.6363421,
+          "topicality": 5.233315e-05
+        },
+        {
+          "description": "Organ",
+          "mid": "/m/013y1f",
+          "score": 0.60854095,
+          "topicality": 0.90799546
+        },
+        {
+          "description": "Spinet",
+          "mid": "/m/01zs85",
+          "score": 0.5098902,
+          "topicality": 0.008768503
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Crown",
+          "mid": "/m/0nl46",
+          "score": 0.7695998,
+          "topicality": 0.7729134
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.6506495,
+          "topicality": 0.003095946
+        },
+        {
+          "description": "Tiara",
+          "mid": "/m/01krhy",
+          "score": 0.59595007,
+          "topicality": 0.019955892
+        },
+        {
+          "description": "Brass",
+          "mid": "/m/01504",
+          "score": 0.58082646,
+          "topicality": 0.042353082
+        },
+        {
+          "description": "Gold",
+          "mid": "/m/025rs2z",
+          "score": 0.52233213,
+          "topicality": 0.22771145
+        }
+      ]
+    }
+  ]
+}

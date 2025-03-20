@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Audio equipment",
+          "mid": "/m/01yttv",
+          "score": 0.9913379,
+          "topicality": 0.25130716
+        },
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.9681432,
+          "topicality": 0.0011821617
+        },
+        {
+          "description": "Public address system",
+          "mid": "/m/02jf2p",
+          "score": 0.9442739,
+          "topicality": 0.81409377
+        },
+        {
+          "description": "Loudspeaker",
+          "mid": "/m/0cfpc",
+          "score": 0.884117,
+          "topicality": 0.8849221
+        },
+        {
+          "description": "Stereophonic sound",
+          "mid": "/m/04xbg2",
+          "score": 0.87252456,
+          "topicality": 0.13463697
+        },
+        {
+          "description": "Studio monitor",
+          "mid": "/m/0fjs0v",
+          "score": 0.8494674,
+          "topicality": 0.03017592
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8367113,
+          "topicality": 0.0016775012
+        },
+        {
+          "description": "Sound box",
+          "mid": "/m/01js0w",
+          "score": 0.8011244,
+          "topicality": 0.08142343
+        },
+        {
+          "description": "Home Theater System",
+          "mid": "/m/0h8lgj0",
+          "score": 0.7884419,
+          "topicality": 0.011107782
+        },
+        {
+          "description": "Electronics",
+          "mid": "/m/02mrp",
+          "score": 0.7808746,
+          "topicality": 0.053581405
+        }
+      ]
+    }
+  ]
+}

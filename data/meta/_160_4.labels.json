@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Furniture",
+          "mid": "/m/0c_jw",
+          "score": 0.96729,
+          "topicality": 0.05252033
+        },
+        {
+          "description": "Sitting",
+          "mid": "/m/015c4z",
+          "score": 0.9560809,
+          "topicality": 0.4854766
+        },
+        {
+          "description": "Comfort",
+          "mid": "/m/08xgn7",
+          "score": 0.94724345,
+          "topicality": 0.029689116
+        },
+        {
+          "description": "Flowerpot",
+          "mid": "/m/0fm3zh",
+          "score": 0.8891142,
+          "topicality": 0.0018573112
+        },
+        {
+          "description": "Lap",
+          "mid": "/m/09fwz6",
+          "score": 0.883266,
+          "topicality": 0.23076384
+        },
+        {
+          "description": "Publication",
+          "mid": "/m/01h1dd",
+          "score": 0.8603457,
+          "topicality": 0.0014529015
+        },
+        {
+          "description": "Houseplant",
+          "mid": "/m/03fp41",
+          "score": 0.82292575,
+          "topicality": 0.016149396
+        },
+        {
+          "description": "Outdoor furniture",
+          "mid": "/m/0cp2d4k",
+          "score": 0.74862427,
+          "topicality": 0.0011545413
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.74791616,
+          "topicality": 0.008319221
+        },
+        {
+          "description": "Living room",
+          "mid": "/m/03f6tq",
+          "score": 0.72446203,
+          "topicality": 0.010981123
+        }
+      ]
+    }
+  ]
+}

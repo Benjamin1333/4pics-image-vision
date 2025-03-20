@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sign",
+          "mid": "/m/06zsq",
+          "score": 0.7926943,
+          "topicality": 0.2598069
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.7865768,
+          "topicality": 0.04957856
+        },
+        {
+          "description": "Traffic sign",
+          "mid": "/m/01mqdt",
+          "score": 0.66696274,
+          "topicality": 0.4001936
+        },
+        {
+          "description": "Triangle",
+          "mid": "/m/07jx7",
+          "score": 0.63846445,
+          "topicality": 0.00944378
+        }
+      ]
+    }
+  ]
+}

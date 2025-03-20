@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hat",
+          "mid": "/m/02dl1y",
+          "score": 0.9851606,
+          "topicality": 0.2868641
+        },
+        {
+          "description": "Nose",
+          "mid": "/m/0k0pj",
+          "score": 0.9764914,
+          "topicality": 0.0011654855
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.963036,
+          "topicality": 0.066902764
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9600162,
+          "topicality": 0.010153019
+        },
+        {
+          "description": "Headgear",
+          "mid": "/m/01443y",
+          "score": 0.9587736,
+          "topicality": 0.013015147
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9448801,
+          "topicality": 0.00016163099
+        },
+        {
+          "description": "Sun hat",
+          "mid": "/m/02wbtzl",
+          "score": 0.9362814,
+          "topicality": 0.029618362
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.89557105,
+          "topicality": 0.035796
+        },
+        {
+          "description": "Costume Hat",
+          "mid": "/m/0hgs54_",
+          "score": 0.87995833,
+          "topicality": 0.011857101
+        },
+        {
+          "description": "Cowboy hat",
+          "mid": "/m/025rp__",
+          "score": 0.8175944,
+          "topicality": 0.0929885
+        }
+      ]
+    }
+  ]
+}

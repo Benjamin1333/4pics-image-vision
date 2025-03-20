@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "atmospheric phenomenon",
+          "mid": "/m/07pw27b",
+          "score": 0.95624256,
+          "topicality": 0.0021522366
+        },
+        {
+          "description": "Forest",
+          "mid": "/m/02zr8",
+          "score": 0.9143673,
+          "topicality": 0.4183138
+        },
+        {
+          "description": "Woodland",
+          "mid": "/m/0hnc1",
+          "score": 0.78895444,
+          "topicality": 0.035665236
+        },
+        {
+          "description": "Old-growth forest",
+          "mid": "/m/042g2h",
+          "score": 0.7665332,
+          "topicality": 0.022451239
+        },
+        {
+          "description": "Jungle",
+          "mid": "/m/01y3fy",
+          "score": 0.7257749,
+          "topicality": 0.012660262
+        },
+        {
+          "description": "Mist",
+          "mid": "/m/01bqwh",
+          "score": 0.7239125,
+          "topicality": 0.1661942
+        },
+        {
+          "description": "Fog",
+          "mid": "/m/0g2z8",
+          "score": 0.7112497,
+          "topicality": 0.2753021
+        },
+        {
+          "description": "Rainforest",
+          "mid": "/m/0d8cn",
+          "score": 0.51655376,
+          "topicality": 0.006132846
+        },
+        {
+          "description": "Northern hardwood forest",
+          "mid": "/m/03d3zqn",
+          "score": 0.5096,
+          "topicality": 0.00067935954
+        }
+      ]
+    }
+  ]
+}

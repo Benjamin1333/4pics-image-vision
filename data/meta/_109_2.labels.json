@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Footwear",
+          "mid": "/m/09j5n",
+          "score": 0.9722548,
+          "topicality": 0.0032610027
+        },
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.898431,
+          "topicality": 0.005948324
+        },
+        {
+          "description": "Elbow",
+          "mid": "/m/01vm1p",
+          "score": 0.87535477,
+          "topicality": 0.019677265
+        },
+        {
+          "description": "Sneakers",
+          "mid": "/m/09kjlm",
+          "score": 0.8567021,
+          "topicality": 0.0017798431
+        },
+        {
+          "description": "Jumping",
+          "mid": "/m/0by3w",
+          "score": 0.8483421,
+          "topicality": 0.060419638
+        },
+        {
+          "description": "Knee",
+          "mid": "/m/019swr",
+          "score": 0.82547164,
+          "topicality": 0.021623759
+        },
+        {
+          "description": "Sports",
+          "mid": "/m/06ntj",
+          "score": 0.7882221,
+          "topicality": 0.26207644
+        },
+        {
+          "description": "Physical fitness",
+          "mid": "/m/027x7n",
+          "score": 0.6839179,
+          "topicality": 0.035288595
+        },
+        {
+          "description": "Walking Shoe",
+          "mid": "/m/0hgs9bq",
+          "score": 0.66430795,
+          "topicality": 0.00020501646
+        },
+        {
+          "description": "Training",
+          "mid": "/m/014jg3",
+          "score": 0.65907544,
+          "topicality": 0.085795335
+        }
+      ]
+    }
+  ]
+}

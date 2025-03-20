@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Automotive Wheel System",
+          "mid": "/m/0h8ly30",
+          "score": 0.8442837,
+          "topicality": 8.881646e-05
+        },
+        {
+          "description": "Tread",
+          "mid": "/m/04tkfx",
+          "score": 0.7042632,
+          "topicality": 0.00023190764
+        },
+        {
+          "description": "Hubcap",
+          "mid": "/m/01sdr3",
+          "score": 0.5803123,
+          "topicality": 6.836644e-05
+        },
+        {
+          "description": "Tire Care",
+          "mid": "/m/0h8lsmh",
+          "score": 0.56286275,
+          "topicality": 0.00016078448
+        }
+      ]
+    }
+  ]
+}

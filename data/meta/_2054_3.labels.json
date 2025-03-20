@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Tea",
+          "mid": "/m/07clx",
+          "score": 0.7931269,
+          "topicality": 0.8997412
+        },
+        {
+          "description": "Green tea",
+          "mid": "/m/01mzvs",
+          "score": 0.782122,
+          "topicality": 0.6982747
+        },
+        {
+          "description": "Serveware",
+          "mid": "/m/0h8n22v",
+          "score": 0.70699364,
+          "topicality": 1.418882e-05
+        },
+        {
+          "description": "Teacup",
+          "mid": "/m/03q5fj",
+          "score": 0.6405664,
+          "topicality": 0.08005492
+        },
+        {
+          "description": "Herbal",
+          "mid": "/m/02kdzb",
+          "score": 0.5892686,
+          "topicality": 0.0005146061
+        },
+        {
+          "description": "Chinese herb tea",
+          "mid": "/m/092f7p",
+          "score": 0.5748529,
+          "topicality": 0.0030213036
+        },
+        {
+          "description": "Cup",
+          "mid": "/m/07ptj3n",
+          "score": 0.5645355,
+          "topicality": 0.00018568547
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.5529767,
+          "topicality": 0.024678417
+        },
+        {
+          "description": "White tea",
+          "mid": "/m/026vr7",
+          "score": 0.50991297,
+          "topicality": 0.12236357
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Ice cube",
+          "mid": "/m/03vk79",
+          "score": 0.842228,
+          "topicality": 0.87243396
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.69828933,
+          "topicality": 0.012682383
+        }
+      ]
+    }
+  ]
+}

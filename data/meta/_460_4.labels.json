@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Beach",
+          "mid": "/m/0b3yr",
+          "score": 0.9552792,
+          "topicality": 0.5295044
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.94965523,
+          "topicality": 0.18164796
+        },
+        {
+          "description": "Coast",
+          "mid": "/m/01lxd",
+          "score": 0.9122084,
+          "topicality": 0.012717509
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.91100246,
+          "topicality": 0.0256112
+        },
+        {
+          "description": "Wave",
+          "mid": "/m/02p0sll",
+          "score": 0.90962005,
+          "topicality": 0.01170074
+        },
+        {
+          "description": "Coastal and oceanic landforms",
+          "mid": "/m/02c9_23",
+          "score": 0.9089346,
+          "topicality": 4.3103064e-05
+        },
+        {
+          "description": "Shore",
+          "mid": "/m/02fm9k",
+          "score": 0.8849268,
+          "topicality": 0.028468126
+        },
+        {
+          "description": "Wind wave",
+          "mid": "/m/034srq",
+          "score": 0.87438154,
+          "topicality": 0.014261849
+        },
+        {
+          "description": "Sand",
+          "mid": "/m/099fz",
+          "score": 0.86889094,
+          "topicality": 0.41619354
+        },
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.8304938,
+          "topicality": 0.026172837
+        }
+      ]
+    }
+  ]
+}

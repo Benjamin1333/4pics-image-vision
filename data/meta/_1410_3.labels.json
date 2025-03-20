@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bird",
+          "mid": "/m/015p6",
+          "score": 0.99224377,
+          "topicality": 0.18154348
+        },
+        {
+          "description": "Grass",
+          "mid": "/m/08t9c_",
+          "score": 0.9779631,
+          "topicality": 0.021928733
+        },
+        {
+          "description": "Beak",
+          "mid": "/m/01c4rd",
+          "score": 0.9671775,
+          "topicality": 0.014112432
+        },
+        {
+          "description": "Ducks",
+          "mid": "/m/01c_0l",
+          "score": 0.9618873,
+          "topicality": 0.12008965
+        },
+        {
+          "description": "Vertebrate",
+          "mid": "/m/09686",
+          "score": 0.9594283,
+          "topicality": 0.0013576766
+        },
+        {
+          "description": "Water bird",
+          "mid": "/m/02p0_xl",
+          "score": 0.93111783,
+          "topicality": 0.03852519
+        },
+        {
+          "description": "Grassland",
+          "mid": "/m/01c7cq",
+          "score": 0.91290015,
+          "topicality": 0.0029003439
+        },
+        {
+          "description": "Duck",
+          "mid": "/m/09ddx",
+          "score": 0.90406245,
+          "topicality": 0.5010315
+        },
+        {
+          "description": "Grasses",
+          "mid": "/m/0fkrk",
+          "score": 0.8670191,
+          "topicality": 0.0021039718
+        },
+        {
+          "description": "Wildlife",
+          "mid": "/m/01280g",
+          "score": 0.8625035,
+          "topicality": 0.0043958193
+        }
+      ]
+    }
+  ]
+}

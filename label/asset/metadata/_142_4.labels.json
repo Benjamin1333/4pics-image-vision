@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.8909358,
+          "topicality": 0.028165318
+        },
+        {
+          "description": "Formal wear",
+          "mid": "/m/02w3_2",
+          "score": 0.88296205,
+          "topicality": 0.0028689064
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.73303974,
+          "topicality": 0.29821345
+        },
+        {
+          "description": "Suit trousers",
+          "mid": "/m/03cvmmd",
+          "score": 0.7086123,
+          "topicality": 0.000117572396
+        },
+        {
+          "description": "Publication",
+          "mid": "/m/01h1dd",
+          "score": 0.6062199,
+          "topicality": 0.008772408
+        },
+        {
+          "description": "Pocket",
+          "mid": "/m/025rhd",
+          "score": 0.6028363,
+          "topicality": 0.0015674402
+        },
+        {
+          "description": "Reading",
+          "mid": "/m/04yclrg",
+          "score": 0.6002072,
+          "topicality": 0.24984069
+        }
+      ]
+    }
+  ]
+}

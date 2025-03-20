@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94494104,
+          "topicality": 0.15905109
+        },
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.9411825,
+          "topicality": 0.08920652
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.91544896,
+          "topicality": 0.17040195
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.9032256,
+          "topicality": 0.017531889
+        },
+        {
+          "description": "Blond",
+          "mid": "/m/0294jb",
+          "score": 0.78274524,
+          "topicality": 0.014273544
+        },
+        {
+          "description": "Tongue",
+          "mid": "/m/0fjkt",
+          "score": 0.71765673,
+          "topicality": 0.12432519
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.6712584,
+          "topicality": 0.104876116
+        },
+        {
+          "description": "Sign language",
+          "mid": "/m/06x0q",
+          "score": 0.64032036,
+          "topicality": 0.021301953
+        },
+        {
+          "description": "Screaming",
+          "mid": "/m/03qc9zr",
+          "score": 0.5895753,
+          "topicality": 0.2599631
+        },
+        {
+          "description": "Surprise",
+          "mid": "/m/0cfrhj",
+          "score": 0.52533364,
+          "topicality": 0.23648599
+        }
+      ]
+    }
+  ]
+}

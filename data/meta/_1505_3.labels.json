@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Map",
+          "mid": "/m/04_tb",
+          "score": 0.8213621,
+          "topicality": 0.72985387
+        },
+        {
+          "description": "Atlas",
+          "mid": "/m/0crnf",
+          "score": 0.7115612,
+          "topicality": 0.1352028
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sauna",
+          "mid": "/m/0k0_z",
+          "score": 0.9509741,
+          "topicality": 0.9863109
+        },
+        {
+          "description": "Hardwood",
+          "mid": "/m/020g49",
+          "score": 0.7931845,
+          "topicality": 0.0006210929
+        },
+        {
+          "description": "Spa",
+          "mid": "/m/05jh_c",
+          "score": 0.7874664,
+          "topicality": 0.45005736
+        },
+        {
+          "description": "Wood stain",
+          "mid": "/m/05t06b",
+          "score": 0.7400833,
+          "topicality": 7.792889e-05
+        },
+        {
+          "description": "Towel",
+          "mid": "/m/0162_1",
+          "score": 0.6957922,
+          "topicality": 0.047046866
+        },
+        {
+          "description": "Varnish",
+          "mid": "/m/01ffcg",
+          "score": 0.5857629,
+          "topicality": 0.00023162724
+        },
+        {
+          "description": "Wood flooring",
+          "mid": "/m/027xhm0",
+          "score": 0.50578976,
+          "topicality": 0.0001925661
+        }
+      ]
+    }
+  ]
+}

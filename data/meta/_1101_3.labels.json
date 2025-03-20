@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Long hair",
+          "mid": "/m/02pd__z",
+          "score": 0.8397046,
+          "topicality": 0.03257453
+        },
+        {
+          "description": "Blond",
+          "mid": "/m/0294jb",
+          "score": 0.8279695,
+          "topicality": 0.051317472
+        },
+        {
+          "description": "Comb",
+          "mid": "/m/020sdj",
+          "score": 0.79921764,
+          "topicality": 0.6136843
+        },
+        {
+          "description": "Makeover",
+          "mid": "/m/02qp_b",
+          "score": 0.76358134,
+          "topicality": 0.008229643
+        },
+        {
+          "description": "Brown hair",
+          "mid": "/m/02ksmb",
+          "score": 0.7590087,
+          "topicality": 0.003523519
+        },
+        {
+          "description": "Hair care",
+          "mid": "/m/07hsg5",
+          "score": 0.7160609,
+          "topicality": 0.10296312
+        },
+        {
+          "description": "Layered hair",
+          "mid": "/m/09spj9",
+          "score": 0.71465456,
+          "topicality": 0.028285865
+        },
+        {
+          "description": "Hair coloring",
+          "mid": "/m/028mzr",
+          "score": 0.6765681,
+          "topicality": 0.042076975
+        },
+        {
+          "description": "Step cutting",
+          "mid": "/m/026mhtg",
+          "score": 0.6653024,
+          "topicality": 0.002483747
+        },
+        {
+          "description": "Personal grooming",
+          "mid": "/m/02m1vq",
+          "score": 0.66222286,
+          "topicality": 0.053953998
+        }
+      ]
+    }
+  ]
+}

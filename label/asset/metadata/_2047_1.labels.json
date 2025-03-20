@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.97746193,
+          "topicality": 0.19507217
+        },
+        {
+          "description": "Sandal",
+          "mid": "/m/03nfch",
+          "score": 0.9088683,
+          "topicality": 0.4405419
+        },
+        {
+          "description": "High-heeled shoe",
+          "mid": "/m/06k2mb",
+          "score": 0.8978312,
+          "topicality": 0.1722477
+        },
+        {
+          "description": "Basic Pump",
+          "mid": "/m/0hgscdg",
+          "score": 0.7480521,
+          "topicality": 0.0028787581
+        },
+        {
+          "description": "Dancing Shoe",
+          "mid": "/m/0h8mz41",
+          "score": 0.6199696,
+          "topicality": 0.0001335603
+        },
+        {
+          "description": "Strap",
+          "mid": "/m/04lzmz",
+          "score": 0.5411658,
+          "topicality": 0.017506817
+        }
+      ]
+    }
+  ]
+}

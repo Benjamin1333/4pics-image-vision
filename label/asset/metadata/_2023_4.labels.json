@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Cat",
+          "mid": "/m/01yrx",
+          "score": 0.99463964,
+          "topicality": 0.8058176
+        },
+        {
+          "description": "Felidae",
+          "mid": "/m/0307l",
+          "score": 0.9717048,
+          "topicality": 0.06271505
+        },
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9716274,
+          "topicality": 0.0026426401
+        },
+        {
+          "description": "Whiskers",
+          "mid": "/m/01l7qd",
+          "score": 0.9668207,
+          "topicality": 0.33161792
+        },
+        {
+          "description": "Vertebrate",
+          "mid": "/m/09686",
+          "score": 0.9595639,
+          "topicality": 0.017545512
+        },
+        {
+          "description": "Felinae",
+          "mid": "/m/07k6w8",
+          "score": 0.95916665,
+          "topicality": 0.0054093106
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94447976,
+          "topicality": 0.0019027686
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.93960124,
+          "topicality": 0.612024
+        },
+        {
+          "description": "Cartoon",
+          "mid": "/m/0215n",
+          "score": 0.90748686,
+          "topicality": 0.41920513
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.9058319,
+          "topicality": 0.020418251
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Pipe",
+          "mid": "/m/09w9qp",
+          "score": 0.88406944,
+          "topicality": 0.756604
+        },
+        {
+          "description": "Metal",
+          "mid": "/m/04t7l",
+          "score": 0.80551934,
+          "topicality": 0.25894183
+        },
+        {
+          "description": "Titanium",
+          "mid": "/m/025sk56",
+          "score": 0.69337213,
+          "topicality": 0.11429509
+        },
+        {
+          "description": "Steel",
+          "mid": "/m/06qqb",
+          "score": 0.6355033,
+          "topicality": 0.5194319
+        },
+        {
+          "description": "Nickel",
+          "mid": "/m/025s4r7",
+          "score": 0.61480695,
+          "topicality": 0.08609512
+        },
+        {
+          "description": "Aluminium",
+          "mid": "/m/027vj2v",
+          "score": 0.5966619,
+          "topicality": 0.24610749
+        },
+        {
+          "description": "Tin",
+          "mid": "/m/025sk5n",
+          "score": 0.51641995,
+          "topicality": 0.01136939
+        }
+      ]
+    }
+  ]
+}

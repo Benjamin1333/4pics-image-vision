@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Head",
+          "mid": "/m/04hgtk",
+          "score": 0.9859067,
+          "topicality": 0.030024821
+        },
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.9847942,
+          "topicality": 0.006550946
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94468564,
+          "topicality": 0.03353827
+        },
+        {
+          "description": "Eyelash",
+          "mid": "/m/03f52z",
+          "score": 0.88894343,
+          "topicality": 0.0032628058
+        },
+        {
+          "description": "Makeover",
+          "mid": "/m/02qp_b",
+          "score": 0.7806895,
+          "topicality": 0.009379862
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.7671307,
+          "topicality": 0.020837672
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.74186796,
+          "topicality": 0.030896675
+        },
+        {
+          "description": "Lipstick",
+          "mid": "/m/06c7f7",
+          "score": 0.6938969,
+          "topicality": 0.0010117567
+        },
+        {
+          "description": "Costume",
+          "mid": "/m/0250x",
+          "score": 0.6883102,
+          "topicality": 0.019889344
+        },
+        {
+          "description": "Wig",
+          "mid": "/m/01hzl4",
+          "score": 0.6779293,
+          "topicality": 0.029269645
+        }
+      ]
+    }
+  ]
+}

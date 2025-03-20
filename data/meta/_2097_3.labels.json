@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.98800784,
+          "topicality": 0.02078109
+        },
+        {
+          "description": "Balloon",
+          "mid": "/m/01j51",
+          "score": 0.98168683,
+          "topicality": 0.9588916
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.97786885,
+          "topicality": 0.07249961
+        },
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.9696441,
+          "topicality": 0.014016635
+        },
+        {
+          "description": "Party Supply",
+          "mid": "/m/0cmqr_4",
+          "score": 0.9695068,
+          "topicality": 0.026437325
+        },
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9683499,
+          "topicality": 0.0057685375
+        },
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.9287566,
+          "topicality": 0.009733566
+        },
+        {
+          "description": "Orange",
+          "mid": "/m/0jc_p",
+          "score": 0.90811294,
+          "topicality": 0.0132721625
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.64840484,
+          "topicality": 0.021277905
+        },
+        {
+          "description": "Stock photography",
+          "mid": "/m/036jvk",
+          "score": 0.5133134,
+          "topicality": 0.0047027236
+        }
+      ]
+    }
+  ]
+}

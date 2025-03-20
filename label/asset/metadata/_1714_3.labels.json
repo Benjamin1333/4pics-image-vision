@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Arch",
+          "mid": "/m/0dpvm",
+          "score": 0.9515036,
+          "topicality": 0.050840527
+        },
+        {
+          "description": "Arcade",
+          "mid": "/m/01jf71",
+          "score": 0.7847134,
+          "topicality": 0.16498622
+        },
+        {
+          "description": "Symmetry",
+          "mid": "/m/0f28m",
+          "score": 0.73073685,
+          "topicality": 0.001514379
+        },
+        {
+          "description": "Courtyard",
+          "mid": "/m/0lf0n",
+          "score": 0.6618771,
+          "topicality": 0.06305936
+        },
+        {
+          "description": "Hacienda",
+          "mid": "/m/01rlnn",
+          "score": 0.5918704,
+          "topicality": 0.031205364
+        },
+        {
+          "description": "Plaster",
+          "mid": "/m/01w_gm",
+          "score": 0.55394,
+          "topicality": 0.0025736461
+        }
+      ]
+    }
+  ]
+}

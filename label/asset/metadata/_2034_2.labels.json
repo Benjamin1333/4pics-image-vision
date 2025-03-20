@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Animation",
+          "mid": "/m/0hcr",
+          "score": 0.6657679,
+          "topicality": 0.0047513335
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6231317,
+          "topicality": 0.004836193
+        }
+      ]
+    }
+  ]
+}

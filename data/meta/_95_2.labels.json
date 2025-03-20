@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sports venue",
+          "mid": "/m/0bmgjqz",
+          "score": 0.98136514,
+          "topicality": 0.00083506625
+        },
+        {
+          "description": "Footwear",
+          "mid": "/m/09j5n",
+          "score": 0.9789908,
+          "topicality": 0.0017784737
+        },
+        {
+          "description": "Track and field athletics",
+          "mid": "/m/0bynt",
+          "score": 0.9789005,
+          "topicality": 0.31576598
+        },
+        {
+          "description": "Athlete",
+          "mid": "/m/01445t",
+          "score": 0.9760567,
+          "topicality": 0.2127874
+        },
+        {
+          "description": "Shoe",
+          "mid": "/m/06rrc",
+          "score": 0.9750777,
+          "topicality": 0.0021477386
+        },
+        {
+          "description": "Running",
+          "mid": "/m/06h7j",
+          "score": 0.9733317,
+          "topicality": 0.2099531
+        },
+        {
+          "description": "Racing",
+          "mid": "/m/0dfbw",
+          "score": 0.97239864,
+          "topicality": 0.046342477
+        },
+        {
+          "description": "Individual sport",
+          "mid": "/m/08t0vy",
+          "score": 0.966521,
+          "topicality": 0.003038564
+        },
+        {
+          "description": "Sports",
+          "mid": "/m/06ntj",
+          "score": 0.95451826,
+          "topicality": 0.19381078
+        },
+        {
+          "description": "Leg",
+          "mid": "/m/035r7c",
+          "score": 0.95318395,
+          "topicality": 0.0047859754
+        }
+      ]
+    }
+  ]
+}

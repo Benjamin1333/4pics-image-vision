@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "People",
+          "mid": "/m/09g5pq",
+          "score": 0.99432784,
+          "topicality": 0.013321449
+        },
+        {
+          "description": "Entertainment",
+          "mid": "/m/02jjt",
+          "score": 0.97199446,
+          "topicality": 0.040861644
+        },
+        {
+          "description": "Crowd",
+          "mid": "/m/03qtwd",
+          "score": 0.95545864,
+          "topicality": 0.5263824
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.93944955,
+          "topicality": 0.0035353587
+        },
+        {
+          "description": "Audience",
+          "mid": "/m/033lpr",
+          "score": 0.90745664,
+          "topicality": 0.22492126
+        },
+        {
+          "description": "Cheering",
+          "mid": "/m/053hz1",
+          "score": 0.86091626,
+          "topicality": 0.27006492
+        },
+        {
+          "description": "Performing Arts",
+          "mid": "/m/05qjc",
+          "score": 0.8529236,
+          "topicality": 0.0078398185
+        },
+        {
+          "description": "Public event",
+          "mid": "/g/116c3n66l",
+          "score": 0.84746605,
+          "topicality": 0.00506545
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.8142859,
+          "topicality": 0.00043817805
+        },
+        {
+          "description": "Concert",
+          "mid": "/m/01jddz",
+          "score": 0.809821,
+          "topicality": 0.587276
+        }
+      ]
+    }
+  ]
+}

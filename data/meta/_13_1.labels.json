@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Dog",
+          "mid": "/m/0bt9lr",
+          "score": 0.9954093,
+          "topicality": 0.67171586
+        },
+        {
+          "description": "Carnivores",
+          "mid": "/m/01lrl",
+          "score": 0.93153244,
+          "topicality": 0.0023607758
+        },
+        {
+          "description": "Leash",
+          "mid": "/m/03011x",
+          "score": 0.8703441,
+          "topicality": 0.1349793
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.8640807,
+          "topicality": 0.03402434
+        },
+        {
+          "description": "Security",
+          "mid": "/m/0bg2p",
+          "score": 0.8564106,
+          "topicality": 0.06887939
+        },
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.8044337,
+          "topicality": 0.092055775
+        },
+        {
+          "description": "Pet Supply",
+          "mid": "/m/0h8ks17",
+          "score": 0.77593154,
+          "topicality": 0.00027853588
+        },
+        {
+          "description": "Dog Supply",
+          "mid": "/m/0h8nm96",
+          "score": 0.7650373,
+          "topicality": 0.0028639452
+        },
+        {
+          "description": "Robot",
+          "mid": "/m/06fgw",
+          "score": 0.7616795,
+          "topicality": 0.026642373
+        },
+        {
+          "description": "Canidae",
+          "mid": "/m/01z5f",
+          "score": 0.7610819,
+          "topicality": 0.024111757
+        }
+      ]
+    }
+  ]
+}

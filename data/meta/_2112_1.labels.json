@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Flower",
+          "mid": "/m/0c9ph5",
+          "score": 0.9879444,
+          "topicality": 0.6666817
+        },
+        {
+          "description": "Garden roses",
+          "mid": "/m/0fpjlj9",
+          "score": 0.9797939,
+          "topicality": 0.65078
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.97813004,
+          "topicality": 0.5351077
+        },
+        {
+          "description": "Petal",
+          "mid": "/m/016q19",
+          "score": 0.9719958,
+          "topicality": 0.1442822
+        },
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.9086013,
+          "topicality": 0.12743321
+        },
+        {
+          "description": "Rose family",
+          "mid": "/m/06dmh",
+          "score": 0.8903009,
+          "topicality": 0.12275286
+        },
+        {
+          "description": "Rose",
+          "mid": "/m/06m11",
+          "score": 0.88168865,
+          "topicality": 0.95040244
+        },
+        {
+          "description": "Flowering plant",
+          "mid": "/m/04sjm",
+          "score": 0.8725208,
+          "topicality": 0.036611024
+        },
+        {
+          "description": "Hybrid tea rose",
+          "mid": "/m/0bqzm_",
+          "score": 0.85843515,
+          "topicality": 0.39565298
+        },
+        {
+          "description": "Close-up",
+          "mid": "/m/02cqfm",
+          "score": 0.8537477,
+          "topicality": 0.0747201
+        }
+      ]
+    }
+  ]
+}

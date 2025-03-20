@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Corset",
+          "mid": "/m/012hvb",
+          "score": 0.7820035,
+          "topicality": 0.88760376
+        },
+        {
+          "description": "Pattern",
+          "mid": "/m/06g1w2",
+          "score": 0.58120507,
+          "topicality": 0.019415911
+        },
+        {
+          "description": "Human back",
+          "mid": "/m/09jc2n",
+          "score": 0.56360877,
+          "topicality": 0.01159725
+        },
+        {
+          "description": "Embellishment",
+          "mid": "/m/0btc6_",
+          "score": 0.5039028,
+          "topicality": 0.0008838683
+        }
+      ]
+    }
+  ]
+}

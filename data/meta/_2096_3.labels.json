@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.8865641,
+          "topicality": 0.004853293
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.6445863,
+          "topicality": 0.03171501
+        },
+        {
+          "description": "Package delivery",
+          "mid": "/m/01d743",
+          "score": 0.56398165,
+          "topicality": 0.009532925
+        }
+      ]
+    }
+  ]
+}

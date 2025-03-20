@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Combat vehicle",
+          "mid": "/m/0gvss07",
+          "score": 0.9876174,
+          "topicality": 0.18102926
+        },
+        {
+          "description": "Tank",
+          "mid": "/m/07cmd",
+          "score": 0.98109114,
+          "topicality": 0.81154853
+        },
+        {
+          "description": "Self-propelled artillery",
+          "mid": "/m/0728h",
+          "score": 0.96322423,
+          "topicality": 0.011081163
+        },
+        {
+          "description": "Military vehicle",
+          "mid": "/m/0g54v5d",
+          "score": 0.9427896,
+          "topicality": 0.1104122
+        },
+        {
+          "description": "Soldier",
+          "mid": "/m/099md",
+          "score": 0.9421534,
+          "topicality": 0.026793234
+        },
+        {
+          "description": "Military",
+          "mid": "/m/01h6rj",
+          "score": 0.93141115,
+          "topicality": 0.23142308
+        },
+        {
+          "description": "Army",
+          "mid": "/m/0pd7",
+          "score": 0.9091567,
+          "topicality": 0.11362455
+        },
+        {
+          "description": "Military Person",
+          "mid": "/m/02h66g5",
+          "score": 0.87789595,
+          "topicality": 0.00013471312
+        },
+        {
+          "description": "Military organization",
+          "mid": "/m/0gjwxv",
+          "score": 0.852365,
+          "topicality": 0.00657685
+        },
+        {
+          "description": "Dust",
+          "mid": "/m/015l_t",
+          "score": 0.8415575,
+          "topicality": 0.024973879
+        }
+      ]
+    }
+  ]
+}

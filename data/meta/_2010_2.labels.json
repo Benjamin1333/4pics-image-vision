@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Number",
+          "mid": "/m/05fwb",
+          "score": 0.9001348,
+          "topicality": 0.030722734
+        },
+        {
+          "description": "Paper",
+          "mid": "/m/0641k",
+          "score": 0.86702263,
+          "topicality": 0.024906812
+        },
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.82631695,
+          "topicality": 0.00022066839
+        },
+        {
+          "description": "Document",
+          "mid": "/m/015bv3",
+          "score": 0.71133953,
+          "topicality": 0.09958039
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Baby & Toddler Clothing",
+          "mid": "/m/0h8q07j",
+          "score": 0.9808007,
+          "topicality": 0.018802281
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.9589754,
+          "topicality": 0.07907013
+        },
+        {
+          "description": "Toddler",
+          "mid": "/m/01bgsw",
+          "score": 0.88704985,
+          "topicality": 0.29257604
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.8085024,
+          "topicality": 0.0100268135
+        },
+        {
+          "description": "Goggles",
+          "mid": "/m/02_n6y",
+          "score": 0.67690986,
+          "topicality": 0.0019923686
+        },
+        {
+          "description": "Infant",
+          "mid": "/m/0jnvp",
+          "score": 0.6731445,
+          "topicality": 0.51639944
+        },
+        {
+          "description": "Sunglasses",
+          "mid": "/m/017ftj",
+          "score": 0.6650012,
+          "topicality": 0.006048718
+        },
+        {
+          "description": "Foot",
+          "mid": "/m/031n1",
+          "score": 0.61124665,
+          "topicality": 0.0030035283
+        },
+        {
+          "description": "Child model",
+          "mid": "/m/0bgmt1",
+          "score": 0.59885526,
+          "topicality": 0.04038749
+        },
+        {
+          "description": "Play",
+          "mid": "/m/06wtgq",
+          "score": 0.5918584,
+          "topicality": 5.15676e-05
+        }
+      ]
+    }
+  ]
+}

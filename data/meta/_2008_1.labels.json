@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.962788,
+          "topicality": 0.00058573316
+        },
+        {
+          "description": "Medical equipment",
+          "mid": "/m/01xgg_",
+          "score": 0.92008686,
+          "topicality": 0.016308313
+        },
+        {
+          "description": "Health Care",
+          "mid": "/m/01mw2x",
+          "score": 0.8739524,
+          "topicality": 0.0978808
+        },
+        {
+          "description": "Electrical cable",
+          "mid": "/m/0bmz2",
+          "score": 0.8668682,
+          "topicality": 0.0017830494
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8663673,
+          "topicality": 0.013025195
+        },
+        {
+          "description": "Electronics",
+          "mid": "/m/02mrp",
+          "score": 0.8656945,
+          "topicality": 0.028993035
+        },
+        {
+          "description": "Medical",
+          "mid": "/m/02xht4g",
+          "score": 0.85730773,
+          "topicality": 0.001817568
+        },
+        {
+          "description": "Display device",
+          "mid": "/m/029zz6",
+          "score": 0.8487256,
+          "topicality": 0.002183682
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.8184164,
+          "topicality": 0.006961647
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.8054469,
+          "topicality": 0.0038501502
+        }
+      ]
+    }
+  ]
+}

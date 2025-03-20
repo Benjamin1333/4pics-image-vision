@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Money",
+          "mid": "/m/04_x4",
+          "score": 0.97718906,
+          "topicality": 0.3918818
+        },
+        {
+          "description": "Currency",
+          "mid": "/m/01q7l",
+          "score": 0.97169566,
+          "topicality": 0.032611314
+        },
+        {
+          "description": "Cash",
+          "mid": "/m/0fd6q",
+          "score": 0.9703859,
+          "topicality": 0.19116242
+        },
+        {
+          "description": "Saving",
+          "mid": "/m/0hbm6",
+          "score": 0.8914018,
+          "topicality": 0.28865036
+        },
+        {
+          "description": "Money Handling",
+          "mid": "/m/0h8n2s1",
+          "score": 0.87266046,
+          "topicality": 0.0015578624
+        },
+        {
+          "description": "Banknote",
+          "mid": "/m/01dl3j",
+          "score": 0.85477465,
+          "topicality": 0.023306713
+        },
+        {
+          "description": "Dollar",
+          "mid": "/m/0285v",
+          "score": 0.8234755,
+          "topicality": 0.068563975
+        }
+      ]
+    }
+  ]
+}

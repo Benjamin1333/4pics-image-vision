@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Composite material",
+          "mid": "/m/014qzr",
+          "score": 0.87586015,
+          "topicality": 0.021696499
+        },
+        {
+          "description": "Commercial building",
+          "mid": "/m/05hg54",
+          "score": 0.8629982,
+          "topicality": 0.014554382
+        },
+        {
+          "description": "Headquarters",
+          "mid": "/m/037rzs",
+          "score": 0.7873944,
+          "topicality": 0.1430053
+        },
+        {
+          "description": "Corporate headquarters",
+          "mid": "/m/03c8phm",
+          "score": 0.63536227,
+          "topicality": 0.07563334
+        },
+        {
+          "description": "Company",
+          "mid": "/m/03bxgrp",
+          "score": 0.55229276,
+          "topicality": 0.20797013
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "People",
+          "mid": "/m/09g5pq",
+          "score": 0.99432445,
+          "topicality": 0.013678047
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.981187,
+          "topicality": 0.04134197
+        },
+        {
+          "description": "Summer",
+          "mid": "/m/078qz",
+          "score": 0.93145984,
+          "topicality": 0.057479925
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.9234241,
+          "topicality": 0.02472497
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.89349264,
+          "topicality": 0.012933286
+        },
+        {
+          "description": "Sunglasses",
+          "mid": "/m/017ftj",
+          "score": 0.8925513,
+          "topicality": 0.005770094
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.87978363,
+          "topicality": 0.045764517
+        },
+        {
+          "description": "Friendship",
+          "mid": "/m/019_nn",
+          "score": 0.87708145,
+          "topicality": 0.24788646
+        },
+        {
+          "description": "People in nature",
+          "mid": "/j/3gbwgn",
+          "score": 0.84936136,
+          "topicality": 0.0014228858
+        },
+        {
+          "description": "Chordophone",
+          "mid": "/m/011_f4",
+          "score": 0.8487627,
+          "topicality": 6.959241e-05
+        }
+      ]
+    }
+  ]
+}

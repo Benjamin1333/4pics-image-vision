@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.8019783,
+          "topicality": 0.13697566
+        },
+        {
+          "description": "Animation",
+          "mid": "/m/0hcr",
+          "score": 0.7571262,
+          "topicality": 0.01235834
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.7400524,
+          "topicality": 0.011909705
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.7368668,
+          "topicality": 0.026015082
+        },
+        {
+          "description": "Security",
+          "mid": "/m/0bg2p",
+          "score": 0.55454373,
+          "topicality": 0.0056702276
+        }
+      ]
+    }
+  ]
+}

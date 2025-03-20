@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.9189584,
+          "topicality": 0.24140818
+        },
+        {
+          "description": "Interaction",
+          "mid": "/m/01ckgp",
+          "score": 0.9158183,
+          "topicality": 0.020901151
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.9113006,
+          "topicality": 0.036209136
+        },
+        {
+          "description": "Meeting",
+          "mid": "/m/01h6cb",
+          "score": 0.9009397,
+          "topicality": 0.1734647
+        },
+        {
+          "description": "Conversation",
+          "mid": "/m/01h8n0",
+          "score": 0.872269,
+          "topicality": 0.09590742
+        },
+        {
+          "description": "Management",
+          "mid": "/m/04_tv",
+          "score": 0.86742425,
+          "topicality": 0.27985442
+        },
+        {
+          "description": "Learning",
+          "mid": "/m/0191f8",
+          "score": 0.8392893,
+          "topicality": 0.018827267
+        },
+        {
+          "description": "Student",
+          "mid": "/m/014cnc",
+          "score": 0.8367859,
+          "topicality": 0.0561494
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.80267733,
+          "topicality": 0.0037111242
+        },
+        {
+          "description": "Collaboration",
+          "mid": "/m/01s560",
+          "score": 0.79216903,
+          "topicality": 0.06439289
+        }
+      ]
+    }
+  ]
+}

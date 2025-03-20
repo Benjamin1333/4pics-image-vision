@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Pole dance",
+          "mid": "/m/03ppgp",
+          "score": 0.96458995,
+          "topicality": 0.9914158
+        },
+        {
+          "description": "Thigh",
+          "mid": "/m/01j04m",
+          "score": 0.8999935,
+          "topicality": 0.005892993
+        },
+        {
+          "description": "Performing Arts",
+          "mid": "/m/05qjc",
+          "score": 0.8576461,
+          "topicality": 0.0016400559
+        },
+        {
+          "description": "Entertainment",
+          "mid": "/m/02jjt",
+          "score": 0.7984712,
+          "topicality": 0.00086323963
+        },
+        {
+          "description": "Calf",
+          "mid": "/m/0715t2",
+          "score": 0.7964898,
+          "topicality": 0.0043037967
+        },
+        {
+          "description": "Physical fitness",
+          "mid": "/m/027x7n",
+          "score": 0.73574686,
+          "topicality": 0.35580158
+        },
+        {
+          "description": "Acrobatics",
+          "mid": "/m/01dd1s",
+          "score": 0.694123,
+          "topicality": 0.07778538
+        },
+        {
+          "description": "Balance",
+          "mid": "/m/03gs8b2",
+          "score": 0.6937164,
+          "topicality": 0.003221285
+        },
+        {
+          "description": "Dance",
+          "mid": "/m/026bk",
+          "score": 0.6648519,
+          "topicality": 0.8527622
+        },
+        {
+          "description": "Athletic dance move",
+          "mid": "/j/23l6xl",
+          "score": 0.64773905,
+          "topicality": 0.0011450878
+        }
+      ]
+    }
+  ]
+}

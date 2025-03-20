@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Map",
+          "mid": "/m/04_tb",
+          "score": 0.9559937,
+          "topicality": 0.06413772
+        },
+        {
+          "description": "Diagram",
+          "mid": "/m/02v0m2",
+          "score": 0.6566475,
+          "topicality": 0.0024146873
+        },
+        {
+          "description": "Plan",
+          "mid": "/m/018jrr",
+          "score": 0.5188358,
+          "topicality": 0.00042331743
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Map",
+          "mid": "/m/04_tb",
+          "score": 0.9523684,
+          "topicality": 0.4341858
+        },
+        {
+          "description": "Orange",
+          "mid": "/m/0jc_p",
+          "score": 0.9129284,
+          "topicality": 0.0016670207
+        },
+        {
+          "description": "Atlas",
+          "mid": "/m/0crnf",
+          "score": 0.73427194,
+          "topicality": 0.016177597
+        },
+        {
+          "description": "Diagram",
+          "mid": "/m/02v0m2",
+          "score": 0.5527972,
+          "topicality": 0.0007466505
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.5329917,
+          "topicality": 0.0010024613
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.5014115,
+          "topicality": 0.006799258
+        }
+      ]
+    }
+  ]
+}

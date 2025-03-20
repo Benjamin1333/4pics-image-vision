@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Court",
+          "mid": "/m/0k05r",
+          "score": 0.85456496,
+          "topicality": 0.4729697
+        },
+        {
+          "description": "Mallet",
+          "mid": "/m/02_b95",
+          "score": 0.607161,
+          "topicality": 0.07177152
+        },
+        {
+          "description": "Government",
+          "mid": "/m/036nz",
+          "score": 0.5672081,
+          "topicality": 0.009633866
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.51870745,
+          "topicality": 0.0014957613
+        },
+        {
+          "description": "Document",
+          "mid": "/m/015bv3",
+          "score": 0.5170288,
+          "topicality": 0.024139846
+        }
+      ]
+    }
+  ]
+}

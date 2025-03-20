@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.98634255,
+          "topicality": 0.21939488
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9445322,
+          "topicality": 0.0011472524
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.87986654,
+          "topicality": 0.020199781
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.8672219,
+          "topicality": 0.013960528
+        },
+        {
+          "description": "Rejoicing",
+          "mid": "/j/6sm44l",
+          "score": 0.85889584,
+          "topicality": 0.13740353
+        },
+        {
+          "description": "People in nature",
+          "mid": "/j/3gbwgn",
+          "score": 0.85345393,
+          "topicality": 0.0016479291
+        },
+        {
+          "description": "Waist",
+          "mid": "/m/031974",
+          "score": 0.83506906,
+          "topicality": 0.0007350986
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.8171925,
+          "topicality": 0.012853244
+        },
+        {
+          "description": "Physical fitness",
+          "mid": "/m/027x7n",
+          "score": 0.76711434,
+          "topicality": 0.019818716
+        },
+        {
+          "description": "Wind",
+          "mid": "/m/03m9d0z",
+          "score": 0.75671965,
+          "topicality": 0.0120292995
+        }
+      ]
+    }
+  ]
+}

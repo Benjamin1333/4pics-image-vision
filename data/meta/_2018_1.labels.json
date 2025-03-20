@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Shorts",
+          "mid": "/m/01bfm9",
+          "score": 0.958514,
+          "topicality": 0.014146129
+        },
+        {
+          "description": "Calf",
+          "mid": "/m/0715t2",
+          "score": 0.95101947,
+          "topicality": 0.3088864
+        },
+        {
+          "description": "Thigh",
+          "mid": "/m/01j04m",
+          "score": 0.9236498,
+          "topicality": 0.08718265
+        },
+        {
+          "description": "Wrist",
+          "mid": "/m/01j48b",
+          "score": 0.87340075,
+          "topicality": 0.006227121
+        },
+        {
+          "description": "Knee",
+          "mid": "/m/019swr",
+          "score": 0.8532939,
+          "topicality": 0.25094488
+        },
+        {
+          "description": "Muscle",
+          "mid": "/m/04_fs",
+          "score": 0.8468283,
+          "topicality": 0.049544763
+        },
+        {
+          "description": "Active Shorts",
+          "mid": "/m/0hgpbgq",
+          "score": 0.7981521,
+          "topicality": 0.0013810903
+        },
+        {
+          "description": "Foot",
+          "mid": "/m/031n1",
+          "score": 0.759459,
+          "topicality": 0.04202989
+        },
+        {
+          "description": "Ankle",
+          "mid": "/m/01xlvy",
+          "score": 0.7560974,
+          "topicality": 0.029167505
+        },
+        {
+          "description": "Trunks",
+          "mid": "/m/04tmrv",
+          "score": 0.60072124,
+          "topicality": 0.0007927634
+        }
+      ]
+    }
+  ]
+}

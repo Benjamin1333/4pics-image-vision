@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Petal",
+          "mid": "/m/016q19",
+          "score": 0.93936133,
+          "topicality": 0.008665774
+        },
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.89912033,
+          "topicality": 0.037077475
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.7906221,
+          "topicality": 0.071201056
+        },
+        {
+          "description": "Creative arts",
+          "mid": "/m/0dw9f6",
+          "score": 0.75054246,
+          "topicality": 0.00012438571
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.67607987,
+          "topicality": 0.007265967
+        },
+        {
+          "description": "Floral design",
+          "mid": "/m/06gjp9",
+          "score": 0.67585474,
+          "topicality": 0.022903627
+        },
+        {
+          "description": "Coloring book",
+          "mid": "/m/05h7rm",
+          "score": 0.6700566,
+          "topicality": 0.5265676
+        },
+        {
+          "description": "Motif",
+          "mid": "/m/09m6nf",
+          "score": 0.53569114,
+          "topicality": 0.05180514
+        }
+      ]
+    }
+  ]
+}

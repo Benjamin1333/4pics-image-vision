@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.97826344,
+          "topicality": 0.112683676
+        },
+        {
+          "description": "Finger food",
+          "mid": "/m/0b3dyl",
+          "score": 0.9423727,
+          "topicality": 0.00020454297
+        },
+        {
+          "description": "Bread",
+          "mid": "/m/09728",
+          "score": 0.9282443,
+          "topicality": 0.59894466
+        },
+        {
+          "description": "Toast",
+          "mid": "/m/017z0v",
+          "score": 0.86709964,
+          "topicality": 0.6644949
+        },
+        {
+          "description": "Baking",
+          "mid": "/m/0dv34",
+          "score": 0.7856777,
+          "topicality": 0.070168875
+        },
+        {
+          "description": "Sliced bread",
+          "mid": "/m/01l99n",
+          "score": 0.7751572,
+          "topicality": 0.1948206
+        },
+        {
+          "description": "Gluten",
+          "mid": "/m/03fw2",
+          "score": 0.7496391,
+          "topicality": 0.02725708
+        },
+        {
+          "description": "Staple food",
+          "mid": "/m/022tld",
+          "score": 0.7146695,
+          "topicality": 0.00055821
+        },
+        {
+          "description": "Breakfast",
+          "mid": "/m/0hz4q",
+          "score": 0.70220554,
+          "topicality": 0.012514883
+        },
+        {
+          "description": "Recipe",
+          "mid": "/m/0p57p",
+          "score": 0.69328535,
+          "topicality": 0.059044648
+        }
+      ]
+    }
+  ]
+}

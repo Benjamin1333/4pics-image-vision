@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sculpture",
+          "mid": "/m/06msq",
+          "score": 0.98320293,
+          "topicality": 0.4010742
+        },
+        {
+          "description": "Statue",
+          "mid": "/m/013_1c",
+          "score": 0.9794177,
+          "topicality": 0.71612364
+        },
+        {
+          "description": "Lawn ornament",
+          "mid": "/m/05hhk_",
+          "score": 0.9621796,
+          "topicality": 0.019734647
+        },
+        {
+          "description": "Temple",
+          "mid": "/m/08g_yr",
+          "score": 0.95645493,
+          "topicality": 0.00051203027
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94472235,
+          "topicality": 0.0002415053
+        },
+        {
+          "description": "Bronze sculpture",
+          "mid": "/m/01yx86",
+          "score": 0.8950202,
+          "topicality": 0.24309197
+        },
+        {
+          "description": "Artifact",
+          "mid": "/m/02skpt",
+          "score": 0.8067165,
+          "topicality": 0.014589857
+        },
+        {
+          "description": "Bronze",
+          "mid": "/m/01brf",
+          "score": 0.80041087,
+          "topicality": 0.11309675
+        },
+        {
+          "description": "Carving",
+          "mid": "/m/0jwzhtg",
+          "score": 0.78580475,
+          "topicality": 0.036725976
+        },
+        {
+          "description": "Monument",
+          "mid": "/m/02ljgl",
+          "score": 0.7590489,
+          "topicality": 0.017036555
+        }
+      ]
+    }
+  ]
+}

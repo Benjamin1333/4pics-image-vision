@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Watch",
+          "mid": "/m/0gjkl",
+          "score": 0.9953947,
+          "topicality": 0.64083266
+        },
+        {
+          "description": "Clock",
+          "mid": "/m/01x3z",
+          "score": 0.9295851,
+          "topicality": 0.6205002
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.89397085,
+          "topicality": 0.0009473243
+        },
+        {
+          "description": "Pocket watch",
+          "mid": "/m/039w5w",
+          "score": 0.884018,
+          "topicality": 0.6964957
+        },
+        {
+          "description": "Analog watch",
+          "mid": "/m/031pr7",
+          "score": 0.8791085,
+          "topicality": 0.0018418872
+        },
+        {
+          "description": "Metal",
+          "mid": "/m/04t7l",
+          "score": 0.84674275,
+          "topicality": 0.02044946
+        },
+        {
+          "description": "Close-up",
+          "mid": "/m/02cqfm",
+          "score": 0.8228539,
+          "topicality": 0.0029200418
+        },
+        {
+          "description": "Everyday carry",
+          "mid": "/m/03ybby4",
+          "score": 0.78581893,
+          "topicality": 0.00013992428
+        },
+        {
+          "description": "Natural material",
+          "mid": "/m/07sx2n",
+          "score": 0.77611995,
+          "topicality": 2.5067508e-05
+        },
+        {
+          "description": "Antique",
+          "mid": "/m/01ys2s",
+          "score": 0.6931588,
+          "topicality": 0.10984206
+        }
+      ]
+    }
+  ]
+}

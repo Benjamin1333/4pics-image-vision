@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bicycle",
+          "mid": "/m/0199g",
+          "score": 0.9919074,
+          "topicality": 0.55380785
+        },
+        {
+          "description": "Bicycle wheel",
+          "mid": "/m/01bqk0",
+          "score": 0.9893126,
+          "topicality": 0.006998429
+        },
+        {
+          "description": "Land vehicle",
+          "mid": "/m/01prls",
+          "score": 0.98618394,
+          "topicality": 0.0021337538
+        },
+        {
+          "description": "Wheel",
+          "mid": "/m/083wq",
+          "score": 0.9846847,
+          "topicality": 0.019762153
+        },
+        {
+          "description": "Bicycle tire",
+          "mid": "/m/0c3vfpc",
+          "score": 0.9843266,
+          "topicality": 0.0013276594
+        },
+        {
+          "description": "Bicycle handlebar",
+          "mid": "/m/02rqv26",
+          "score": 0.98411566,
+          "topicality": 0.0017299192
+        },
+        {
+          "description": "Cycling",
+          "mid": "/m/03hs7k",
+          "score": 0.98406976,
+          "topicality": 0.050754532
+        },
+        {
+          "description": "Bicycle frame",
+          "mid": "/m/01bqgn",
+          "score": 0.98353493,
+          "topicality": 0.0021167614
+        },
+        {
+          "description": "Tire",
+          "mid": "/m/0h9mv",
+          "score": 0.9817923,
+          "topicality": 0.0062542446
+        },
+        {
+          "description": "Bicycles--Equipment and supplies",
+          "mid": "/m/0bpnmk0",
+          "score": 0.97849846,
+          "topicality": 0.00018292997
+        }
+      ]
+    }
+  ]
+}

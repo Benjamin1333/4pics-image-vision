@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.95815253,
+          "topicality": 0.007065482
+        },
+        {
+          "description": "Crown",
+          "mid": "/m/0nl46",
+          "score": 0.9009474,
+          "topicality": 0.8611572
+        },
+        {
+          "description": "Tiara",
+          "mid": "/m/01krhy",
+          "score": 0.85795337,
+          "topicality": 0.020517021
+        },
+        {
+          "description": "Headpiece",
+          "mid": "/m/02fbqn",
+          "score": 0.7747914,
+          "topicality": 0.00020196874
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.6525776,
+          "topicality": 0.120513916
+        },
+        {
+          "description": "Gold",
+          "mid": "/m/025rs2z",
+          "score": 0.6486444,
+          "topicality": 0.5136599
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.5294895,
+          "topicality": 0.094982564
+        }
+      ]
+    }
+  ]
+}

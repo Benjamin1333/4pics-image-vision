@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Formal wear",
+          "mid": "/m/02w3_2",
+          "score": 0.9776045,
+          "topicality": 0.002313095
+        },
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.9768704,
+          "topicality": 0.089310184
+        },
+        {
+          "description": "Collar",
+          "mid": "/m/091410",
+          "score": 0.9725205,
+          "topicality": 0.002194069
+        },
+        {
+          "description": "Hand",
+          "mid": "/m/0k65p",
+          "score": 0.9721403,
+          "topicality": 0.12913795
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94475347,
+          "topicality": 0.0033752546
+        },
+        {
+          "description": "Necktie",
+          "mid": "/m/01rkbr",
+          "score": 0.941514,
+          "topicality": 0.025662178
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.9381593,
+          "topicality": 0.20840657
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.9116147,
+          "topicality": 0.035706174
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.91074073,
+          "topicality": 0.01082661
+        },
+        {
+          "description": "Thumb",
+          "mid": "/m/01bmhj",
+          "score": 0.89758635,
+          "topicality": 0.30231908
+        }
+      ]
+    }
+  ]
+}

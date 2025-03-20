@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9715935,
+          "topicality": 0.036722276
+        },
+        {
+          "description": "Goal",
+          "mid": "/m/023t5p",
+          "score": 0.8806201,
+          "topicality": 0.20670235
+        },
+        {
+          "description": "Net",
+          "mid": "/m/02qdwbp",
+          "score": 0.8678203,
+          "topicality": 0.050076693
+        },
+        {
+          "description": "Line art",
+          "mid": "/m/0919rx",
+          "score": 0.8294912,
+          "topicality": 0.082371935
+        },
+        {
+          "description": "Football",
+          "mid": "/m/02vx4",
+          "score": 0.7979039,
+          "topicality": 0.42991954
+        },
+        {
+          "description": "Soccer ball",
+          "mid": "/m/0dpm1v",
+          "score": 0.5319125,
+          "topicality": 0.23504277
+        }
+      ]
+    }
+  ]
+}

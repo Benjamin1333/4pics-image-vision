@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Flower",
+          "mid": "/m/0c9ph5",
+          "score": 0.9887088,
+          "topicality": 0.11609136
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.9801528,
+          "topicality": 0.015798384
+        },
+        {
+          "description": "Cupcake",
+          "mid": "/m/03p1r4",
+          "score": 0.9794316,
+          "topicality": 0.9277031
+        },
+        {
+          "description": "Buttercream",
+          "mid": "/m/0b6w2z",
+          "score": 0.96669984,
+          "topicality": 0.3596166
+        },
+        {
+          "description": "Garden roses",
+          "mid": "/m/0fpjlj9",
+          "score": 0.9610296,
+          "topicality": 0.0052263644
+        },
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.9583774,
+          "topicality": 0.39073345
+        },
+        {
+          "description": "Cake decorating",
+          "mid": "/m/02r_57s",
+          "score": 0.95769536,
+          "topicality": 0.18544923
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.95640135,
+          "topicality": 0.00097091956
+        },
+        {
+          "description": "Dessert",
+          "mid": "/m/0270h",
+          "score": 0.9547153,
+          "topicality": 0.12879959
+        },
+        {
+          "description": "Baking Cup",
+          "mid": "/m/0h8n6rz",
+          "score": 0.9483092,
+          "topicality": 0.0011779683
+        }
+      ]
+    }
+  ]
+}

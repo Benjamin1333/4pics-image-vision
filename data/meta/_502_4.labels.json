@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.97517174,
+          "topicality": 0.16953307
+        },
+        {
+          "description": "Cooking",
+          "mid": "/m/01mtb",
+          "score": 0.95850706,
+          "topicality": 0.41777596
+        },
+        {
+          "description": "Barbecue",
+          "mid": "/m/0983v",
+          "score": 0.88982755,
+          "topicality": 0.261297
+        },
+        {
+          "description": "Cookware and bakeware",
+          "mid": "/m/01mr6j",
+          "score": 0.87555194,
+          "topicality": 0.005262037
+        },
+        {
+          "description": "Meat",
+          "mid": "/m/04scj",
+          "score": 0.8502499,
+          "topicality": 0.10348728
+        },
+        {
+          "description": "Outdoor Grill",
+          "mid": "/m/0h8lynm",
+          "score": 0.82059234,
+          "topicality": 0.0048496737
+        },
+        {
+          "description": "Roasting",
+          "mid": "/m/0dxn2",
+          "score": 0.81606567,
+          "topicality": 0.06879399
+        },
+        {
+          "description": "Recipe",
+          "mid": "/m/0p57p",
+          "score": 0.79441684,
+          "topicality": 0.043717217
+        },
+        {
+          "description": "Grilling",
+          "mid": "/m/0dxlf",
+          "score": 0.78749096,
+          "topicality": 0.28575554
+        },
+        {
+          "description": "Heat",
+          "mid": "/m/03k2v",
+          "score": 0.7645963,
+          "topicality": 0.013014344
+        }
+      ]
+    }
+  ]
+}

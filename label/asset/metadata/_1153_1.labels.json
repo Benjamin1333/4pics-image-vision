@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.98479337,
+          "topicality": 0.013633025
+        },
+        {
+          "description": "Tobacco products",
+          "mid": "/m/04gvstg",
+          "score": 0.9644518,
+          "topicality": 0.053444766
+        },
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.96028477,
+          "topicality": 0.046706986
+        },
+        {
+          "description": "Smoking",
+          "mid": "/m/02vxs3q",
+          "score": 0.9476417,
+          "topicality": 0.8203048
+        },
+        {
+          "description": "Cigarette",
+          "mid": "/m/09k76",
+          "score": 0.9374558,
+          "topicality": 0.6975713
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.8770913,
+          "topicality": 0.044610497
+        },
+        {
+          "description": "Tobacco",
+          "mid": "/m/07ly_",
+          "score": 0.7900396,
+          "topicality": 0.24136381
+        },
+        {
+          "description": "Thumb",
+          "mid": "/m/01bmhj",
+          "score": 0.77556086,
+          "topicality": 0.007050689
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.7574106,
+          "topicality": 0.0068070204
+        },
+        {
+          "description": "Smoke",
+          "mid": "/m/06q40",
+          "score": 0.7447246,
+          "topicality": 0.028638108
+        }
+      ]
+    }
+  ]
+}

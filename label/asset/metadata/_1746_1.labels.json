@@ -1,0 +1,55 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Pollution",
+          "mid": "/m/066xq",
+          "score": 0.92888016,
+          "topicality": 0.3499723
+        },
+        {
+          "description": "Waste",
+          "mid": "/m/01fnck",
+          "score": 0.8922932
+        },
+        {
+          "description": "Litter",
+          "mid": "/m/03ns2k",
+          "score": 0.7991839,
+          "topicality": 0.18119892
+        },
+        {
+          "description": "Recycling",
+          "mid": "/m/0j6v7",
+          "score": 0.6997117,
+          "topicality": 0.5937509
+        },
+        {
+          "description": "Rubble",
+          "mid": "/m/08qrwn",
+          "score": 0.66806865,
+          "topicality": 0.0039750403
+        },
+        {
+          "description": "Scrap",
+          "mid": "/m/043520",
+          "score": 0.6669722,
+          "topicality": 0.059299257
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.6502707,
+          "topicality": 0.1044012
+        },
+        {
+          "description": "Waste container",
+          "mid": "/m/0bjyj5",
+          "score": 0.6391817,
+          "topicality": 0.08878009
+        }
+      ]
+    }
+  ]
+}

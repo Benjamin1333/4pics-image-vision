@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Chair",
+          "mid": "/m/01mzpv",
+          "score": 0.78510964,
+          "topicality": 0.047780275
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.67154926,
+          "topicality": 0.01902867
+        },
+        {
+          "description": "Learning",
+          "mid": "/m/0191f8",
+          "score": 0.5751882,
+          "topicality": 0.10494187
+        },
+        {
+          "description": "Classroom",
+          "mid": "/m/04hyxm",
+          "score": 0.5370682,
+          "topicality": 0.17741883
+        },
+        {
+          "description": "Collaboration",
+          "mid": "/m/01s560",
+          "score": 0.5189093,
+          "topicality": 0.09590137
+        }
+      ]
+    }
+  ]
+}

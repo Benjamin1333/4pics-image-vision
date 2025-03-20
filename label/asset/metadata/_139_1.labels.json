@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hand",
+          "mid": "/m/0k65p",
+          "score": 0.97186,
+          "topicality": 0.04946489
+        },
+        {
+          "description": "Kitchen",
+          "mid": "/m/0d4wf",
+          "score": 0.95678705,
+          "topicality": 0.25606945
+        },
+        {
+          "description": "Home appliance",
+          "mid": "/m/019dx1",
+          "score": 0.9310322,
+          "topicality": 0.036137853
+        },
+        {
+          "description": "Kitchen Appliance",
+          "mid": "/m/0h99cwc",
+          "score": 0.91770035,
+          "topicality": 0.0030792984
+        },
+        {
+          "description": "Countertop",
+          "mid": "/m/0b3fp9",
+          "score": 0.9103385,
+          "topicality": 0.009400868
+        },
+        {
+          "description": "Plumbing fixture",
+          "mid": "/m/02pkr5",
+          "score": 0.8720697,
+          "topicality": 0.024398614
+        },
+        {
+          "description": "Tap",
+          "mid": "/m/02jz0l",
+          "score": 0.8626379,
+          "topicality": 0.035555776
+        },
+        {
+          "description": "Homemaking",
+          "mid": "/m/0f75y",
+          "score": 0.8385343,
+          "topicality": 0.057923555
+        },
+        {
+          "description": "Sink",
+          "mid": "/m/0130jx",
+          "score": 0.83691514,
+          "topicality": 0.16411644
+        },
+        {
+          "description": "Plumbing",
+          "mid": "/m/0b_zf",
+          "score": 0.8121483,
+          "topicality": 0.07684403
+        }
+      ]
+    }
+  ]
+}

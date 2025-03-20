@@ -1,0 +1,14 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Phonograph record",
+          "mid": "/m/0174nj",
+          "score": 0.867039,
+          "topicality": 0.8358623
+        }
+      ]
+    }
+  ]
+}

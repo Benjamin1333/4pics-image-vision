@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.9477317,
+          "topicality": 0.061705597
+        },
+        {
+          "description": "Comfort",
+          "mid": "/m/08xgn7",
+          "score": 0.94174,
+          "topicality": 0.04693669
+        },
+        {
+          "description": "Infant",
+          "mid": "/m/0jnvp",
+          "score": 0.82768166,
+          "topicality": 0.46694615
+        },
+        {
+          "description": "Toddler",
+          "mid": "/m/01bgsw",
+          "score": 0.8194539,
+          "topicality": 0.13629301
+        },
+        {
+          "description": "Baby & Toddler Clothing",
+          "mid": "/m/0h8q07j",
+          "score": 0.79085946,
+          "topicality": 0.00011025515
+        },
+        {
+          "description": "Lap",
+          "mid": "/m/09fwz6",
+          "score": 0.7057047,
+          "topicality": 0.027853318
+        },
+        {
+          "description": "Love",
+          "mid": "/m/048knlz",
+          "score": 0.641644,
+          "topicality": 0.015115189
+        },
+        {
+          "description": "Linens",
+          "mid": "/m/06httj",
+          "score": 0.601302,
+          "topicality": 0.0031883034
+        },
+        {
+          "description": "Pillow",
+          "mid": "/m/034c16",
+          "score": 0.5781208,
+          "topicality": 0.3594803
+        },
+        {
+          "description": "Nightwear",
+          "mid": "/m/02vzwz",
+          "score": 0.5563015,
+          "topicality": 0.0002579056
+        }
+      ]
+    }
+  ]
+}

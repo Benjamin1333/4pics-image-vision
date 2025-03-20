@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9686347,
+          "topicality": 0.011429913
+        },
+        {
+          "description": "Monochrome photography",
+          "mid": "/m/03d49p1",
+          "score": 0.8621304,
+          "topicality": 0.0019235719
+        },
+        {
+          "description": "Monochrome",
+          "mid": "/m/01mwkf",
+          "score": 0.8097467,
+          "topicality": 0.008768594
+        },
+        {
+          "description": "Blackboard",
+          "mid": "/m/02kdvj",
+          "score": 0.79096174,
+          "topicality": 0.045688335
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.6500645,
+          "topicality": 0.069414265
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.5745531,
+          "topicality": 0.0010310098
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.52159995,
+          "topicality": 0.015669774
+        }
+      ]
+    }
+  ]
+}

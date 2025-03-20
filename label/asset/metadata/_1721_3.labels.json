@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Vertebrate",
+          "mid": "/m/09686",
+          "score": 0.9613632,
+          "topicality": 0.0012495478
+        },
+        {
+          "description": "Marine biology",
+          "mid": "/m/050vn",
+          "score": 0.9336896,
+          "topicality": 0.0040795426
+        },
+        {
+          "description": "Cetaceans",
+          "mid": "/m/084zz",
+          "score": 0.9331416,
+          "topicality": 0.36492506
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.9214713,
+          "topicality": 9.303111e-07
+        },
+        {
+          "description": "Killer whale",
+          "mid": "/m/04bmk",
+          "score": 0.9000004,
+          "topicality": 0.9841627
+        },
+        {
+          "description": "Fin",
+          "mid": "/m/02zg_",
+          "score": 0.89735204,
+          "topicality": 0.012606688
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.8841658,
+          "topicality": 0.15216182
+        },
+        {
+          "description": "Fish",
+          "mid": "/m/0ch_cf",
+          "score": 0.8762736,
+          "topicality": 0.008011688
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.87123036,
+          "topicality": 0.06434271
+        },
+        {
+          "description": "Tail",
+          "mid": "/m/06z_nw",
+          "score": 0.8141311,
+          "topicality": 0.021147463
+        }
+      ]
+    }
+  ]
+}

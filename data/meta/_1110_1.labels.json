@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9447833,
+          "topicality": 0.0846932
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.9090114,
+          "topicality": 0.15498863
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.9079717,
+          "topicality": 0.049316607
+        },
+        {
+          "description": "Blond",
+          "mid": "/m/0294jb",
+          "score": 0.84181166,
+          "topicality": 0.009374613
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.8003266,
+          "topicality": 0.009199556
+        },
+        {
+          "description": "Brown hair",
+          "mid": "/m/02ksmb",
+          "score": 0.79517317,
+          "topicality": 0.00209683
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.7322834,
+          "topicality": 0.0132453935
+        },
+        {
+          "description": "Toddler",
+          "mid": "/m/01bgsw",
+          "score": 0.59141564,
+          "topicality": 0.12345561
+        },
+        {
+          "description": "Bangs",
+          "mid": "/m/0gjxqj",
+          "score": 0.5658023,
+          "topicality": 0.0035161632
+        },
+        {
+          "description": "Portrait photography",
+          "mid": "/m/0chml9",
+          "score": 0.5320022,
+          "topicality": 0.0011455176
+        }
+      ]
+    }
+  ]
+}

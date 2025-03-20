@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9759133,
+          "topicality": 0.019003795
+        },
+        {
+          "description": "Bird",
+          "mid": "/m/015p6",
+          "score": 0.96734536,
+          "topicality": 0.023915501
+        },
+        {
+          "description": "Beak",
+          "mid": "/m/01c4rd",
+          "score": 0.9377262,
+          "topicality": 0.0013601963
+        },
+        {
+          "description": "Wing",
+          "mid": "/m/083s2",
+          "score": 0.9039218,
+          "topicality": 0.0059517683
+        },
+        {
+          "description": "Line art",
+          "mid": "/m/0919rx",
+          "score": 0.8227227,
+          "topicality": 0.2907393
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.7843462,
+          "topicality": 0.13681586
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.71347404,
+          "topicality": 0.2846919
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.67272645,
+          "topicality": 0.029018724
+        },
+        {
+          "description": "Sketch",
+          "mid": "/m/07glzq",
+          "score": 0.6289887,
+          "topicality": 0.024367994
+        },
+        {
+          "description": "Coloring book",
+          "mid": "/m/05h7rm",
+          "score": 0.5775247,
+          "topicality": 0.0073134573
+        }
+      ]
+    }
+  ]
+}

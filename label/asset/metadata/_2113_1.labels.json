@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Opera house",
+          "mid": "/m/01492b",
+          "score": 0.71681786,
+          "topicality": 0.8887222
+        },
+        {
+          "description": "Theater",
+          "mid": "/m/05npqn",
+          "score": 0.6905965,
+          "topicality": 0.6905308
+        },
+        {
+          "description": "Theatre",
+          "mid": "/m/03qsdpk",
+          "score": 0.6787351,
+          "topicality": 0.57325655
+        },
+        {
+          "description": "Movie palace",
+          "mid": "/m/05b9mj",
+          "score": 0.66110456,
+          "topicality": 0.0069338894
+        },
+        {
+          "description": "Night",
+          "mid": "/m/01d74z",
+          "score": 0.66007227,
+          "topicality": 0.0039386633
+        },
+        {
+          "description": "Auditorium",
+          "mid": "/m/039l3v",
+          "score": 0.59926564,
+          "topicality": 0.08594199
+        },
+        {
+          "description": "Performing arts center",
+          "mid": "/m/07l44b",
+          "score": 0.5962327,
+          "topicality": 0.0018079423
+        },
+        {
+          "description": "Concert Hall",
+          "mid": "/m/04dy6qj",
+          "score": 0.53063244,
+          "topicality": 0.09699763
+        },
+        {
+          "description": "Light fixture",
+          "mid": "/m/08jpwt",
+          "score": 0.529379,
+          "topicality": 6.021578e-05
+        }
+      ]
+    }
+  ]
+}

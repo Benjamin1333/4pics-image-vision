@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Wood",
+          "mid": "/m/083vt",
+          "score": 0.97024494,
+          "topicality": 0.5440452
+        },
+        {
+          "description": "Carving",
+          "mid": "/m/0jwzhtg",
+          "score": 0.83282423,
+          "topicality": 0.5881683
+        },
+        {
+          "description": "Craft",
+          "mid": "/m/01mrgs",
+          "score": 0.81107974,
+          "topicality": 0.001512272
+        },
+        {
+          "description": "Artisan",
+          "mid": "/m/027337",
+          "score": 0.8050166,
+          "topicality": 0.01835244
+        },
+        {
+          "description": "Creative arts",
+          "mid": "/m/0dw9f6",
+          "score": 0.80144244,
+          "topicality": 4.8341113e-05
+        },
+        {
+          "description": "Wood stain",
+          "mid": "/m/05t06b",
+          "score": 0.7544643,
+          "topicality": 0.0036637555
+        },
+        {
+          "description": "Stone carving",
+          "mid": "/m/02wtjj",
+          "score": 0.737789,
+          "topicality": 0.0063984417
+        },
+        {
+          "description": "Hardwood",
+          "mid": "/m/020g49",
+          "score": 0.70782495,
+          "topicality": 0.006590082
+        },
+        {
+          "description": "Carpentry",
+          "mid": "/m/019x4f",
+          "score": 0.64388096,
+          "topicality": 0.05704815
+        },
+        {
+          "description": "Plywood",
+          "mid": "/m/0jh8w",
+          "score": 0.6224046,
+          "topicality": 0.0032812043
+        }
+      ]
+    }
+  ]
+}

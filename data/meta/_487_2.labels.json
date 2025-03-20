@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.944552,
+          "topicality": 0.0007695337
+        },
+        {
+          "description": "Entertainment",
+          "mid": "/m/02jjt",
+          "score": 0.93131804,
+          "topicality": 0.006037307
+        },
+        {
+          "description": "Tradition",
+          "mid": "/m/07djv",
+          "score": 0.8682089,
+          "topicality": 0.023856211
+        },
+        {
+          "description": "Public event",
+          "mid": "/g/116c3n66l",
+          "score": 0.84312886,
+          "topicality": 0.001004783
+        },
+        {
+          "description": "Carnival",
+          "mid": "/m/09l9f",
+          "score": 0.83164555,
+          "topicality": 0.73462325
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.8221378,
+          "topicality": 0.00014036297
+        },
+        {
+          "description": "Festival",
+          "mid": "/m/0hr5k",
+          "score": 0.8182931,
+          "topicality": 0.16303864
+        },
+        {
+          "description": "Performing Arts",
+          "mid": "/m/05qjc",
+          "score": 0.79316795,
+          "topicality": 0.0033707856
+        },
+        {
+          "description": "Costume",
+          "mid": "/m/0250x",
+          "score": 0.6672007,
+          "topicality": 0.020044155
+        },
+        {
+          "description": "Parade",
+          "mid": "/m/063r3",
+          "score": 0.63584095,
+          "topicality": 0.28736532
+        }
+      ]
+    }
+  ]
+}

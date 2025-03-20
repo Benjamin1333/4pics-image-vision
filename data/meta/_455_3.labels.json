@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9619695,
+          "topicality": 0.0033527615
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.8408895,
+          "topicality": 0.052565858
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.7184718,
+          "topicality": 0.0026534956
+        },
+        {
+          "description": "Icon",
+          "mid": "/m/03tqj",
+          "score": 0.57773006,
+          "topicality": 2.4223937e-05
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.5473407,
+          "topicality": 0.021650394
+        }
+      ]
+    }
+  ]
+}

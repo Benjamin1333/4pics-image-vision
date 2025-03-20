@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Night",
+          "mid": "/m/01d74z",
+          "score": 0.97181445,
+          "topicality": 0.65934515
+        },
+        {
+          "description": "Astronomical object",
+          "mid": "/m/01d9ll",
+          "score": 0.96430653,
+          "topicality": 0.08181131
+        },
+        {
+          "description": "Star",
+          "mid": "/m/06ngk",
+          "score": 0.9569612,
+          "topicality": 0.8349592
+        },
+        {
+          "description": "Moon",
+          "mid": "/m/04wv_",
+          "score": 0.95665205,
+          "topicality": 0.23767178
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.9501349,
+          "topicality": 7.84046e-05
+        },
+        {
+          "description": "Crescent",
+          "mid": "/m/014kk_",
+          "score": 0.925278,
+          "topicality": 0.44901127
+        },
+        {
+          "description": "Astronomy",
+          "mid": "/m/0dc_v",
+          "score": 0.9003405,
+          "topicality": 0.14085603
+        },
+        {
+          "description": "Outer space",
+          "mid": "/m/01833w",
+          "score": 0.8634605,
+          "topicality": 0.03895554
+        },
+        {
+          "description": "Midnight",
+          "mid": "/m/01kv7h",
+          "score": 0.8595364,
+          "topicality": 0.066697374
+        },
+        {
+          "description": "Constellation",
+          "mid": "/m/01m3b",
+          "score": 0.8574379,
+          "topicality": 0.15396145
+        }
+      ]
+    }
+  ]
+}

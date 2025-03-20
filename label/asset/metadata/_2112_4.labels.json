@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Watering can",
+          "mid": "/m/02x0x5",
+          "score": 0.9891924,
+          "topicality": 0.94281703
+        },
+        {
+          "description": "Flower",
+          "mid": "/m/0c9ph5",
+          "score": 0.98636657,
+          "topicality": 0.70555645
+        },
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.9617702,
+          "topicality": 0.033078574
+        },
+        {
+          "description": "Flower bouquet",
+          "mid": "/m/02p6k8p",
+          "score": 0.9073939,
+          "topicality": 0.1672373
+        },
+        {
+          "description": "Floristry",
+          "mid": "/m/02hcw1",
+          "score": 0.866284,
+          "topicality": 0.025270367
+        },
+        {
+          "description": "Petal",
+          "mid": "/m/016q19",
+          "score": 0.8596532,
+          "topicality": 0.005871122
+        },
+        {
+          "description": "Cut flowers",
+          "mid": "/m/0ds61d1",
+          "score": 0.80886036,
+          "topicality": 0.14014305
+        },
+        {
+          "description": "Flower Arranging",
+          "mid": "/m/0ggjrhd",
+          "score": 0.7503409,
+          "topicality": 0.00077857584
+        },
+        {
+          "description": "Garden tool",
+          "mid": "/m/0dcjfr",
+          "score": 0.69315064,
+          "topicality": 0.047822375
+        },
+        {
+          "description": "Flowerpot",
+          "mid": "/m/0fm3zh",
+          "score": 0.68493265,
+          "topicality": 0.08517336
+        }
+      ]
+    }
+  ]
+}

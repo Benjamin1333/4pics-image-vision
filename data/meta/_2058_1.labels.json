@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "People",
+          "mid": "/m/09g5pq",
+          "score": 0.9943684,
+          "topicality": 0.0033460152
+        },
+        {
+          "description": "Interaction",
+          "mid": "/m/01ckgp",
+          "score": 0.91986495,
+          "topicality": 0.044179153
+        },
+        {
+          "description": "Interior design",
+          "mid": "/m/02rfdq",
+          "score": 0.9064292,
+          "topicality": 0.0015851683
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.9006993,
+          "topicality": 0.044659313
+        },
+        {
+          "description": "Meeting",
+          "mid": "/m/01h6cb",
+          "score": 0.90006393,
+          "topicality": 0.3602628
+        },
+        {
+          "description": "Sitting",
+          "mid": "/m/015c4z",
+          "score": 0.8899012,
+          "topicality": 0.057510283
+        },
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.8666452,
+          "topicality": 0.08188542
+        },
+        {
+          "description": "Conversation",
+          "mid": "/m/01h8n0",
+          "score": 0.8657782,
+          "topicality": 0.22094665
+        },
+        {
+          "description": "Comfort",
+          "mid": "/m/08xgn7",
+          "score": 0.8507752,
+          "topicality": 0.0045569376
+        },
+        {
+          "description": "Customer",
+          "mid": "/m/01j0mk",
+          "score": 0.8174819,
+          "topicality": 0.05751283
+        }
+      ]
+    }
+  ]
+}

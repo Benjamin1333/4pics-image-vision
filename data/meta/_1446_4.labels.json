@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Body of water",
+          "mid": "/m/03ktm1",
+          "score": 0.9784114,
+          "topicality": 0.0065203286
+        },
+        {
+          "description": "Coastal and oceanic landforms",
+          "mid": "/m/02c9_23",
+          "score": 0.95680094,
+          "topicality": 0.0029751
+        },
+        {
+          "description": "Coast",
+          "mid": "/m/01lxd",
+          "score": 0.9566881,
+          "topicality": 0.07286332
+        },
+        {
+          "description": "Rock",
+          "mid": "/m/01cbzq",
+          "score": 0.9401537,
+          "topicality": 0.010388003
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.93450224,
+          "topicality": 0.18393648
+        },
+        {
+          "description": "Cliff",
+          "mid": "/m/018vpr",
+          "score": 0.90805024,
+          "topicality": 0.018574458
+        },
+        {
+          "description": "Geological formation",
+          "mid": "/m/03k5cs",
+          "score": 0.9074354,
+          "topicality": 0.0019249087
+        },
+        {
+          "description": "Shore",
+          "mid": "/m/02fm9k",
+          "score": 0.9024458,
+          "topicality": 0.030719046
+        },
+        {
+          "description": "Terrain",
+          "mid": "/m/025tn5c",
+          "score": 0.8982704,
+          "topicality": 0.0005584957
+        },
+        {
+          "description": "Island",
+          "mid": "/m/03s0c",
+          "score": 0.8973614,
+          "topicality": 0.60898906
+        }
+      ]
+    }
+  ]
+}

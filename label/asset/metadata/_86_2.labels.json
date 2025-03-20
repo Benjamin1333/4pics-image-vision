@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Muscle",
+          "mid": "/m/04_fs",
+          "score": 0.8796316,
+          "topicality": 0.0025833412
+        },
+        {
+          "description": "Abdomen",
+          "mid": "/m/08y7p8",
+          "score": 0.8762774,
+          "topicality": 0.5294694
+        },
+        {
+          "description": "Waist",
+          "mid": "/m/031974",
+          "score": 0.84271306,
+          "topicality": 0.004807279
+        },
+        {
+          "description": "Torso",
+          "mid": "/m/031vtq",
+          "score": 0.7969247,
+          "topicality": 0.0101882005
+        },
+        {
+          "description": "Human back",
+          "mid": "/m/09jc2n",
+          "score": 0.77682686,
+          "topicality": 0.039842073
+        },
+        {
+          "description": "Stomach",
+          "mid": "/m/09x8z",
+          "score": 0.74787444,
+          "topicality": 0.38909477
+        },
+        {
+          "description": "Flesh",
+          "mid": "/m/02p16m6",
+          "score": 0.7103282,
+          "topicality": 0.018187888
+        },
+        {
+          "description": "Hip",
+          "mid": "/m/06_kbr",
+          "score": 0.7083131,
+          "topicality": 0.013193784
+        }
+      ]
+    }
+  ]
+}

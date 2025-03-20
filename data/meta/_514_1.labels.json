@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Shipping Box",
+          "mid": "/m/0h8p55j",
+          "score": 0.92996776,
+          "topicality": 0.022171639
+        },
+        {
+          "description": "Package delivery",
+          "mid": "/m/01d743",
+          "score": 0.9058543,
+          "topicality": 0.05592992
+        },
+        {
+          "description": "Cardboard Packaging",
+          "mid": "/m/033rv2",
+          "score": 0.89640534,
+          "topicality": 0.007195264
+        },
+        {
+          "description": "Box",
+          "mid": "/m/025dyy",
+          "score": 0.8871015,
+          "topicality": 0.21670529
+        },
+        {
+          "description": "Moving",
+          "mid": "/j/20b_h8",
+          "score": 0.88131595,
+          "topicality": 0.029280681
+        },
+        {
+          "description": "cardboard",
+          "mid": "/m/03q7pgh",
+          "score": 0.87870383,
+          "topicality": 0.13300787
+        },
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.8563364,
+          "topicality": 0.000119020624
+        },
+        {
+          "description": "Packaging and labeling",
+          "mid": "/m/02qz80",
+          "score": 0.8375439,
+          "topicality": 0.025603866
+        },
+        {
+          "description": "Relocation",
+          "mid": "/m/043rxy0",
+          "score": 0.7985441,
+          "topicality": 0.8587323
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.7173156,
+          "topicality": 0.01529776
+        }
+      ]
+    }
+  ]
+}

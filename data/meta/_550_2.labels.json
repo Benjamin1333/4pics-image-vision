@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Plants",
+          "mid": "/m/05s2s",
+          "score": 0.9674683,
+          "topicality": 0.008702866
+        },
+        {
+          "description": "Shrub",
+          "mid": "/m/0gqbt",
+          "score": 0.93725294,
+          "topicality": 0.0014457473
+        },
+        {
+          "description": "Garden",
+          "mid": "/m/0bl0l",
+          "score": 0.9180565,
+          "topicality": 0.01476301
+        },
+        {
+          "description": "Landmark",
+          "mid": "/m/05_5t0l",
+          "score": 0.9142092,
+          "topicality": 0.021535203
+        },
+        {
+          "description": "Palace",
+          "mid": "/m/05zp8",
+          "score": 0.90009516,
+          "topicality": 0.07932251
+        },
+        {
+          "description": "Column",
+          "mid": "/m/01_m7",
+          "score": 0.8915315,
+          "topicality": 0.020988628
+        },
+        {
+          "description": "Lawn",
+          "mid": "/m/01v327",
+          "score": 0.8701519,
+          "topicality": 0.009621722
+        },
+        {
+          "description": "Estate",
+          "mid": "/m/038t8_",
+          "score": 0.8697543,
+          "topicality": 0.04022021
+        },
+        {
+          "description": "Fountain",
+          "mid": "/m/0220r2",
+          "score": 0.86478615,
+          "topicality": 0.012620205
+        },
+        {
+          "description": "Mansion",
+          "mid": "/m/02pvbb",
+          "score": 0.8586454,
+          "topicality": 0.21053419
+        }
+      ]
+    }
+  ]
+}

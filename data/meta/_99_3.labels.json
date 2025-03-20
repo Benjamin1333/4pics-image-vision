@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Domestic pig",
+          "mid": "/m/078qb0",
+          "score": 0.9798002,
+          "topicality": 0.79140705
+        },
+        {
+          "description": "Suidae",
+          "mid": "/m/020bgr",
+          "score": 0.97370446,
+          "topicality": 0.26640683
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.9277994,
+          "topicality": 0.005138357
+        },
+        {
+          "description": "Terrestrial animal",
+          "mid": "/m/0fbf1m",
+          "score": 0.8429537,
+          "topicality": 0.00068529195
+        },
+        {
+          "description": "Livestock",
+          "mid": "/m/0ch8v",
+          "score": 0.82231486,
+          "topicality": 0.17508776
+        },
+        {
+          "description": "Flesh",
+          "mid": "/m/02p16m6",
+          "score": 0.62392825,
+          "topicality": 0.00092922023
+        },
+        {
+          "description": "Animal stall",
+          "mid": "/m/0711_5",
+          "score": 0.6163927,
+          "topicality": 0.0030635782
+        }
+      ]
+    }
+  ]
+}

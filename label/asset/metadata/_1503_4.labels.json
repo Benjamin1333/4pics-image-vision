@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.98737955,
+          "topicality": 0.00097247533
+        },
+        {
+          "description": "Office Equipment",
+          "mid": "/m/03qtgjk",
+          "score": 0.97451603,
+          "topicality": 0.0028532294
+        },
+        {
+          "description": "Peripheral",
+          "mid": "/m/0ggnq",
+          "score": 0.95939654,
+          "topicality": 0.015998768
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.92831117,
+          "topicality": 0.079568975
+        },
+        {
+          "description": "Photocopier",
+          "mid": "/m/01gx4y",
+          "score": 0.92450786,
+          "topicality": 0.7489634
+        },
+        {
+          "description": "Electronics",
+          "mid": "/m/02mrp",
+          "score": 0.8951245,
+          "topicality": 0.0134021565
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8929762,
+          "topicality": 0.021246726
+        },
+        {
+          "description": "Printer",
+          "mid": "/m/01m4t",
+          "score": 0.8928038,
+          "topicality": 0.7226099
+        },
+        {
+          "description": "Output device",
+          "mid": "/m/044_87",
+          "score": 0.8870923,
+          "topicality": 0.0060608992
+        },
+        {
+          "description": "Laser printing",
+          "mid": "/m/0dd37",
+          "score": 0.87034696,
+          "topicality": 0.09160819
+        }
+      ]
+    }
+  ]
+}

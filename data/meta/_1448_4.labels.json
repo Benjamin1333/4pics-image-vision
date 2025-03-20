@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Razor",
+          "mid": "/m/02g901",
+          "score": 0.9517095,
+          "topicality": 0.30801386
+        },
+        {
+          "description": "Hair removal",
+          "mid": "/m/0149qc",
+          "score": 0.92702866,
+          "topicality": 0.08737589
+        },
+        {
+          "description": "Brush",
+          "mid": "/m/02chd9",
+          "score": 0.89655834,
+          "topicality": 0.068087645
+        },
+        {
+          "description": "Personal care",
+          "mid": "/m/02w3_ws",
+          "score": 0.8926789,
+          "topicality": 0.03475929
+        },
+        {
+          "description": "Bathroom",
+          "mid": "/m/01j2bj",
+          "score": 0.85594726,
+          "topicality": 0.057417955
+        },
+        {
+          "description": "Shaving",
+          "mid": "/m/0149w3",
+          "score": 0.7783818,
+          "topicality": 0.83055425
+        },
+        {
+          "description": "Personal grooming",
+          "mid": "/m/02m1vq",
+          "score": 0.76281404,
+          "topicality": 0.090544686
+        },
+        {
+          "description": "Foam",
+          "mid": "/m/01nnqh",
+          "score": 0.7530573,
+          "topicality": 0.17389838
+        },
+        {
+          "description": "Toothbrush",
+          "mid": "/m/012xff",
+          "score": 0.71654874,
+          "topicality": 0.02428063
+        },
+        {
+          "description": "Hair care",
+          "mid": "/m/07hsg5",
+          "score": 0.56939024,
+          "topicality": 0.005127903
+        }
+      ]
+    }
+  ]
+}

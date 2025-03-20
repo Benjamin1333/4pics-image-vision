@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.8997942,
+          "topicality": 0.022857165
+        },
+        {
+          "description": "Rope",
+          "mid": "/m/01xc8d",
+          "score": 0.8563984,
+          "topicality": 0.027429465
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.79661655,
+          "topicality": 0.0102133555
+        }
+      ]
+    }
+  ]
+}

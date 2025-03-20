@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.8096057,
+          "topicality": 0.08509778
+        },
+        {
+          "description": "Stapler",
+          "mid": "/m/025fsf",
+          "score": 0.73157597,
+          "topicality": 0.9841618
+        },
+        {
+          "description": "Box",
+          "mid": "/m/025dyy",
+          "score": 0.6733943,
+          "topicality": 0.0067848796
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.6205778,
+          "topicality": 0.004659385
+        }
+      ]
+    }
+  ]
+}

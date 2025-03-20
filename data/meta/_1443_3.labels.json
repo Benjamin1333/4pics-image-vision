@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.97264564,
+          "topicality": 0.32476795
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9326432,
+          "topicality": 0.06706419
+        },
+        {
+          "description": "Salmon",
+          "mid": "/m/0j9qfzr",
+          "score": 0.88547367,
+          "topicality": 0.56859523
+        },
+        {
+          "description": "Seafood",
+          "mid": "/m/06nwz",
+          "score": 0.8798479,
+          "topicality": 0.12177217
+        },
+        {
+          "description": "Fish products",
+          "mid": "/m/03ylp97",
+          "score": 0.8718504,
+          "topicality": 0.018310903
+        },
+        {
+          "description": "Fish",
+          "mid": "/m/0ch_cf",
+          "score": 0.8300316,
+          "topicality": 0.06891651
+        },
+        {
+          "description": "Recipe",
+          "mid": "/m/0p57p",
+          "score": 0.82238704,
+          "topicality": 0.18945752
+        },
+        {
+          "description": "Fish",
+          "mid": "/m/07pbfj",
+          "score": 0.8106936,
+          "topicality": 0.08974994
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.77179855,
+          "topicality": 0.0072853696
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.7560404,
+          "topicality": 0.009007582
+        }
+      ]
+    }
+  ]
+}

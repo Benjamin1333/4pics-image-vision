@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9658813,
+          "topicality": 0.09106629
+        },
+        {
+          "description": "Flooring",
+          "mid": "/m/01c34b",
+          "score": 0.96302044,
+          "topicality": 0.028961763
+        },
+        {
+          "description": "Floor",
+          "mid": "/m/0l7_8",
+          "score": 0.9447198,
+          "topicality": 0.12027658
+        },
+        {
+          "description": "Wood flooring",
+          "mid": "/m/027xhm0",
+          "score": 0.9014624,
+          "topicality": 0.015576355
+        },
+        {
+          "description": "Grey",
+          "mid": "/m/036k5h",
+          "score": 0.8293831,
+          "topicality": 0.14927809
+        },
+        {
+          "description": "Plank",
+          "mid": "/m/0fq0fnf",
+          "score": 0.69835854,
+          "topicality": 0.025945667
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.69502026,
+          "topicality": 0.008424172
+        },
+        {
+          "description": "Laminate flooring",
+          "mid": "/m/04xvs0",
+          "score": 0.6743436,
+          "topicality": 0.0073995884
+        },
+        {
+          "description": "Wallpaper",
+          "mid": "/m/01lnt7",
+          "score": 0.6522638,
+          "topicality": 0.35087734
+        },
+        {
+          "description": "Hardwood",
+          "mid": "/m/020g49",
+          "score": 0.64646,
+          "topicality": 0.0032961203
+        }
+      ]
+    }
+  ]
+}

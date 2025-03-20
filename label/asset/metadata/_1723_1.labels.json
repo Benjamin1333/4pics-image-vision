@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Road surface",
+          "mid": "/m/01k0mv",
+          "score": 0.9660183,
+          "topicality": 0.07060926
+        },
+        {
+          "description": "Asphalt",
+          "mid": "/m/0hr8",
+          "score": 0.9404693,
+          "topicality": 0.057015814
+        },
+        {
+          "description": "Lane",
+          "mid": "/m/033j3c",
+          "score": 0.8334262,
+          "topicality": 0.11100403
+        },
+        {
+          "description": "Tar",
+          "mid": "/m/05by2s",
+          "score": 0.8242925,
+          "topicality": 0.030506782
+        },
+        {
+          "description": "Sidewalk",
+          "mid": "/m/0dnhy",
+          "score": 0.7696933,
+          "topicality": 0.031075148
+        },
+        {
+          "description": "Highway",
+          "mid": "/m/0cz_0",
+          "score": 0.6415624,
+          "topicality": 0.011722619
+        },
+        {
+          "description": "Paint",
+          "mid": "/m/05y4t",
+          "score": 0.61770344,
+          "topicality": 0.00013736123
+        },
+        {
+          "description": "Shoulder",
+          "mid": "/m/02mgm6",
+          "score": 0.52514654,
+          "topicality": 0.0027052753
+        },
+        {
+          "description": "Path",
+          "mid": "/m/02zh30",
+          "score": 0.52359176,
+          "topicality": 0.00027898903
+        }
+      ]
+    }
+  ]
+}

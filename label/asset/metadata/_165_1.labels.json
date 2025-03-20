@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Leaf",
+          "mid": "/m/09t49",
+          "score": 0.98418343,
+          "topicality": 0.35828787
+        },
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.97831476,
+          "topicality": 0.026635224
+        },
+        {
+          "description": "Nature",
+          "mid": "/m/05h0n",
+          "score": 0.97808695,
+          "topicality": 0.13737637
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.97642684,
+          "topicality": 0.04842673
+        },
+        {
+          "description": "Branch",
+          "mid": "/m/0b5gs",
+          "score": 0.9682807,
+          "topicality": 0.041978292
+        },
+        {
+          "description": "Orange",
+          "mid": "/m/0jc_p",
+          "score": 0.95423365,
+          "topicality": 0.02644899
+        },
+        {
+          "description": "Autumn",
+          "mid": "/m/0134l",
+          "score": 0.9251387,
+          "topicality": 0.87959653
+        },
+        {
+          "description": "Brown",
+          "mid": "/m/09q2t",
+          "score": 0.9167419,
+          "topicality": 0.0025661867
+        },
+        {
+          "description": "Trunk",
+          "mid": "/m/02tcwp",
+          "score": 0.8841417,
+          "topicality": 0.030795202
+        },
+        {
+          "description": "Twig",
+          "mid": "/m/016nqt",
+          "score": 0.8720036,
+          "topicality": 0.0061234743
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Fluid",
+          "mid": "/m/02yfx",
+          "score": 0.95341045,
+          "topicality": 0.0058692214
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.92136985,
+          "topicality": 0.039678298
+        },
+        {
+          "description": "Glass",
+          "mid": "/m/039jq",
+          "score": 0.80696166,
+          "topicality": 0.246902
+        },
+        {
+          "description": "Barware",
+          "mid": "/m/0h8nvcj",
+          "score": 0.7490717,
+          "topicality": 0.00055637024
+        },
+        {
+          "description": "Stemware",
+          "mid": "/m/050h0q",
+          "score": 0.648935,
+          "topicality": 0.046285946
+        },
+        {
+          "description": "Champagne glass",
+          "mid": "/m/02q68d8",
+          "score": 0.62149066,
+          "topicality": 0.02826846
+        },
+        {
+          "description": "Still life photography",
+          "mid": "/m/027_ny3",
+          "score": 0.6131574,
+          "topicality": 0.012758233
+        },
+        {
+          "description": "Brass",
+          "mid": "/m/01504",
+          "score": 0.55033576,
+          "topicality": 0.05344531
+        },
+        {
+          "description": "Martini Glass",
+          "mid": "/m/0h8ljlz",
+          "score": 0.51286566,
+          "topicality": 0.0065021813
+        }
+      ]
+    }
+  ]
+}

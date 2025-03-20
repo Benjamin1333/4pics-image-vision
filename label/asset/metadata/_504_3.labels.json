@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9778424,
+          "topicality": 0.02991308
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.9500801,
+          "topicality": 0.12413311
+        },
+        {
+          "description": "Wheat",
+          "mid": "/m/09696",
+          "score": 0.9117992,
+          "topicality": 0.66890097
+        },
+        {
+          "description": "Nuts & seeds",
+          "mid": "/m/0ggk1v7",
+          "score": 0.9096334,
+          "topicality": 5.5282882e-05
+        },
+        {
+          "description": "Whole grain",
+          "mid": "/m/06hs2r",
+          "score": 0.88086414,
+          "topicality": 0.24266395
+        },
+        {
+          "description": "Seed",
+          "mid": "/m/09dh0",
+          "score": 0.8682655,
+          "topicality": 0.11805189
+        },
+        {
+          "description": "Cereal",
+          "mid": "/m/01yyk",
+          "score": 0.84681636,
+          "topicality": 0.44465438
+        },
+        {
+          "description": "Staple food",
+          "mid": "/m/022tld",
+          "score": 0.825315,
+          "topicality": 0.00870876
+        },
+        {
+          "description": "Khorasan wheat",
+          "mid": "/m/04y0z1",
+          "score": 0.8158339,
+          "topicality": 0.017791294
+        },
+        {
+          "description": "Gluten",
+          "mid": "/m/03fw2",
+          "score": 0.80269235,
+          "topicality": 0.17858705
+        }
+      ]
+    }
+  ]
+}

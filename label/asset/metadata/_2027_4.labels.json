@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Lid",
+          "mid": "/m/074cq5",
+          "score": 0.92411226,
+          "topicality": 0.2750615
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.8491468,
+          "topicality": 0.34620467
+        },
+        {
+          "description": "Food storage containers",
+          "mid": "/m/05p0tsj",
+          "score": 0.823607,
+          "topicality": 0.11227042
+        },
+        {
+          "description": "Cooler",
+          "mid": "/m/05v9p8",
+          "score": 0.7094577,
+          "topicality": 0.25776082
+        },
+        {
+          "description": "Waste container",
+          "mid": "/m/0bjyj5",
+          "score": 0.69453394,
+          "topicality": 0.74158156
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.6742851,
+          "topicality": 0.0024827665
+        },
+        {
+          "description": "Handle",
+          "mid": "/m/04x0wb",
+          "score": 0.653085,
+          "topicality": 0.004506176
+        },
+        {
+          "description": "Box",
+          "mid": "/m/025dyy",
+          "score": 0.5805926,
+          "topicality": 0.53561544
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.5456518,
+          "topicality": 0.02358141
+        },
+        {
+          "description": "Household Supply",
+          "mid": "/m/0h8nt1x",
+          "score": 0.540534,
+          "topicality": 0.00033200163
+        }
+      ]
+    }
+  ]
+}

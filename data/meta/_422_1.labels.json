@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Cup",
+          "mid": "/m/07ptj3n",
+          "score": 0.98146874,
+          "topicality": 0.0120172575
+        },
+        {
+          "description": "Drinkware",
+          "mid": "/m/050h26",
+          "score": 0.98051465,
+          "topicality": 0.006562724
+        },
+        {
+          "description": "Coffee cup",
+          "mid": "/m/02p5f1q",
+          "score": 0.98045367,
+          "topicality": 0.22250435
+        },
+        {
+          "description": "Tableware",
+          "mid": "/m/04brg2",
+          "score": 0.975977,
+          "topicality": 0.004511415
+        },
+        {
+          "description": "Drinking",
+          "mid": "/m/0hjbz",
+          "score": 0.9283709,
+          "topicality": 0.41675606
+        },
+        {
+          "description": "Mug",
+          "mid": "/m/02jvh9",
+          "score": 0.9023264,
+          "topicality": 0.38752192
+        },
+        {
+          "description": "Cup",
+          "mid": "/m/08gqpm",
+          "score": 0.89007133,
+          "topicality": 0.0954
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.8784295,
+          "topicality": 0.058870967
+        },
+        {
+          "description": "Serveware",
+          "mid": "/m/0h8n22v",
+          "score": 0.8377134,
+          "topicality": 0.00018373896
+        },
+        {
+          "description": "Conversation",
+          "mid": "/m/01h8n0",
+          "score": 0.7581034,
+          "topicality": 0.12823638
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Stemware",
+          "mid": "/m/050h0q",
+          "score": 0.9804221,
+          "topicality": 0.1083224
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9777693,
+          "topicality": 0.048915803
+        },
+        {
+          "description": "Drinkware",
+          "mid": "/m/050h26",
+          "score": 0.9735217,
+          "topicality": 0.011737825
+        },
+        {
+          "description": "Wine glass",
+          "mid": "/m/09tvcd",
+          "score": 0.9638097,
+          "topicality": 0.5263569
+        },
+        {
+          "description": "Alcoholic drink",
+          "mid": "/m/012mj",
+          "score": 0.9623668,
+          "topicality": 0.21552071
+        },
+        {
+          "description": "Fluid",
+          "mid": "/m/02yfx",
+          "score": 0.95593125,
+          "topicality": 0.002390118
+        },
+        {
+          "description": "Tableware",
+          "mid": "/m/04brg2",
+          "score": 0.95511794,
+          "topicality": 0.0022268384
+        },
+        {
+          "description": "Glass",
+          "mid": "/m/039jq",
+          "score": 0.9535435,
+          "topicality": 0.50478256
+        },
+        {
+          "description": "Red Wine",
+          "mid": "/m/02wsb20",
+          "score": 0.95263875,
+          "topicality": 0.75646836
+        },
+        {
+          "description": "Barware",
+          "mid": "/m/0h8nvcj",
+          "score": 0.95025826,
+          "topicality": 0.0004955881
+        }
+      ]
+    }
+  ]
+}

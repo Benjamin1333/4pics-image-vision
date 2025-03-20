@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Cameras & optics",
+          "mid": "/m/0ggjh_8",
+          "score": 0.9768446,
+          "topicality": 0.00010669318
+        },
+        {
+          "description": "Surveillance Camera",
+          "mid": "/m/0h8mhv3",
+          "score": 0.93763185,
+          "topicality": 0.21251
+        },
+        {
+          "description": "Camera",
+          "mid": "/m/0dv5r",
+          "score": 0.9326364,
+          "topicality": 0.34083176
+        },
+        {
+          "description": "Security",
+          "mid": "/m/0bg2p",
+          "score": 0.84394807,
+          "topicality": 0.6479302
+        },
+        {
+          "description": "Home Security",
+          "mid": "/m/0h8mhff",
+          "score": 0.80935585,
+          "topicality": 0.028652208
+        },
+        {
+          "description": "Video camera",
+          "mid": "/m/025t6n0",
+          "score": 0.7158165,
+          "topicality": 0.07675064
+        },
+        {
+          "description": "Camera lens",
+          "mid": "/m/01bjxx",
+          "score": 0.5293244,
+          "topicality": 0.0011735734
+        },
+        {
+          "description": "Lens",
+          "mid": "/m/04n4x",
+          "score": 0.51804924,
+          "topicality": 0.00046146248
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.50830525,
+          "topicality": 0.00083670905
+        }
+      ]
+    }
+  ]
+}

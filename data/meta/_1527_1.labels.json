@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.97654027,
+          "topicality": 0.34686226
+        },
+        {
+          "description": "Rope",
+          "mid": "/m/01xc8d",
+          "score": 0.8971108,
+          "topicality": 0.7532933
+        },
+        {
+          "description": "Rope (rhythmic gymnastics)",
+          "mid": "/m/081w4k",
+          "score": 0.6817195,
+          "topicality": 0.06625656
+        },
+        {
+          "description": "Wire",
+          "mid": "/m/083kv",
+          "score": 0.6583315,
+          "topicality": 0.00723559
+        },
+        {
+          "description": "Knot",
+          "mid": "/m/04blr",
+          "score": 0.639156,
+          "topicality": 0.89762896
+        }
+      ]
+    }
+  ]
+}

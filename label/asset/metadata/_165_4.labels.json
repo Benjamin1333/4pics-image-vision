@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9141189,
+          "topicality": 0.09085403
+        },
+        {
+          "description": "Trunk",
+          "mid": "/m/02tcwp",
+          "score": 0.84964585,
+          "topicality": 0.047908343
+        },
+        {
+          "description": "Woody plant",
+          "mid": "/m/02hnx9",
+          "score": 0.81401986,
+          "topicality": 0.0042777476
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.75505036,
+          "topicality": 0.09541391
+        }
+      ]
+    }
+  ]
+}

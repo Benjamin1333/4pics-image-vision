@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Car",
+          "mid": "/m/0k4j",
+          "score": 0.9677826,
+          "topicality": 0.033662673
+        },
+        {
+          "description": "Hatchback",
+          "mid": "/m/01cmcs",
+          "score": 0.931876,
+          "topicality": 0.07128383
+        },
+        {
+          "description": "Citroën",
+          "mid": "/m/0h5_4x9",
+          "score": 0.9175522,
+          "topicality": 0.61227447
+        },
+        {
+          "description": "Car door",
+          "mid": "/m/02q2kc3",
+          "score": 0.8748848,
+          "topicality": 0.001037217
+        },
+        {
+          "description": "Automotive Side-View Mirror",
+          "mid": "/m/0h8n616",
+          "score": 0.8644048,
+          "topicality": 5.622666e-05
+        },
+        {
+          "description": "Subcompact car",
+          "mid": "/m/03txxp",
+          "score": 0.83452904,
+          "topicality": 0.016713781
+        },
+        {
+          "description": "Automotive Mirror",
+          "mid": "/m/0h8lk4b",
+          "score": 0.8300053,
+          "topicality": 1.5575206e-05
+        },
+        {
+          "description": "Hubcap",
+          "mid": "/m/01sdr3",
+          "score": 0.82134086,
+          "topicality": 0.00013027064
+        },
+        {
+          "description": "Alloy wheel",
+          "mid": "/m/02q8tbd",
+          "score": 0.8093713,
+          "topicality": 6.2279854e-05
+        },
+        {
+          "description": "Bumper",
+          "mid": "/m/02mnkq",
+          "score": 0.7987575,
+          "topicality": 0.0027995415
+        }
+      ]
+    }
+  ]
+}

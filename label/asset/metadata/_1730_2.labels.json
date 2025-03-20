@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Orange",
+          "mid": "/m/0jc_p",
+          "score": 0.912928,
+          "topicality": 0.0075163627
+        },
+        {
+          "description": "Brown",
+          "mid": "/m/09q2t",
+          "score": 0.91158974,
+          "topicality": 0.10413317
+        },
+        {
+          "description": "Wig",
+          "mid": "/m/01hzl4",
+          "score": 0.84058267,
+          "topicality": 0.014247933
+        },
+        {
+          "description": "Artificial hair integrations",
+          "mid": "/m/07fnvh",
+          "score": 0.8238425,
+          "topicality": 0.14127143
+        },
+        {
+          "description": "Long hair",
+          "mid": "/m/02pd__z",
+          "score": 0.8036204,
+          "topicality": 0.021357423
+        },
+        {
+          "description": "Hair coloring",
+          "mid": "/m/028mzr",
+          "score": 0.78506184,
+          "topicality": 0.59060174
+        },
+        {
+          "description": "Red hair",
+          "mid": "/m/01ntt3",
+          "score": 0.62742954,
+          "topicality": 0.03242794
+        },
+        {
+          "description": "Lace wig",
+          "mid": "/m/09rv68q",
+          "score": 0.6234534,
+          "topicality": 0.0040910626
+        },
+        {
+          "description": "Hair care",
+          "mid": "/m/07hsg5",
+          "score": 0.60760057,
+          "topicality": 0.094008245
+        }
+      ]
+    }
+  ]
+}

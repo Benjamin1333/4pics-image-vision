@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.80471635,
+          "topicality": 0.14664699
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.77244556,
+          "topicality": 0.07634913
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.7606914,
+          "topicality": 0.019753288
+        },
+        {
+          "description": "Cleanliness",
+          "mid": "/m/020s4p",
+          "score": 0.6111893,
+          "topicality": 0.005694421
+        }
+      ]
+    }
+  ]
+}

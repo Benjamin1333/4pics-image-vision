@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Close-up",
+          "mid": "/m/02cqfm",
+          "score": 0.8462931,
+          "topicality": 0.03752137
+        },
+        {
+          "description": "Macro photography",
+          "mid": "/m/03rbf6",
+          "score": 0.66465735,
+          "topicality": 0.0029602991
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9781282,
+          "topicality": 0.67875475
+        },
+        {
+          "description": "Carpet",
+          "mid": "/m/01n5cy",
+          "score": 0.9473307,
+          "topicality": 0.33557412
+        },
+        {
+          "description": "Flooring",
+          "mid": "/m/01c34b",
+          "score": 0.92817014,
+          "topicality": 0.00079794746
+        },
+        {
+          "description": "Floor",
+          "mid": "/m/0l7_8",
+          "score": 0.9165492,
+          "topicality": 0.009636132
+        },
+        {
+          "description": "Red carpet",
+          "mid": "/m/0645zg",
+          "score": 0.90211827,
+          "topicality": 0.99450934
+        },
+        {
+          "description": "Stairs",
+          "mid": "/m/01lynh",
+          "score": 0.88773286,
+          "topicality": 0.48854375
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.67909014,
+          "topicality": 0.013744963
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Head",
+          "mid": "/m/04hgtk",
+          "score": 0.9858371,
+          "topicality": 0.0018364658
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.95725137,
+          "topicality": 0.1852109
+        },
+        {
+          "description": "Baby & Toddler Clothing",
+          "mid": "/m/0h8q07j",
+          "score": 0.92995816,
+          "topicality": 0.0046412195
+        },
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.8750918,
+          "topicality": 0.7053764
+        },
+        {
+          "description": "Nightwear",
+          "mid": "/m/02vzwz",
+          "score": 0.8271363,
+          "topicality": 0.0011759588
+        },
+        {
+          "description": "Toddler",
+          "mid": "/m/01bgsw",
+          "score": 0.81304425,
+          "topicality": 0.28315648
+        },
+        {
+          "description": "Baby playing with toys",
+          "mid": "/j/9hb0mf",
+          "score": 0.8092893,
+          "topicality": 0.009296236
+        },
+        {
+          "description": "Baby toys",
+          "mid": "/m/0cm3fq4",
+          "score": 0.8032162,
+          "topicality": 0.05046916
+        },
+        {
+          "description": "Play",
+          "mid": "/m/06wtgq",
+          "score": 0.7513837,
+          "topicality": 0.0014029618
+        },
+        {
+          "description": "Pajamas",
+          "mid": "/m/0142wf",
+          "score": 0.7309582,
+          "topicality": 0.07999972
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.93653005,
+          "topicality": 0.0025350773
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.89878976,
+          "topicality": 0.17928098
+        },
+        {
+          "description": "Learning",
+          "mid": "/m/0191f8",
+          "score": 0.8962888,
+          "topicality": 0.23810266
+        },
+        {
+          "description": "Writing implement",
+          "mid": "/m/06wybl",
+          "score": 0.88914293,
+          "topicality": 0.013314851
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.8774267,
+          "topicality": 0.006800727
+        },
+        {
+          "description": "Stationery",
+          "mid": "/m/01cndb",
+          "score": 0.78809655,
+          "topicality": 0.014213262
+        },
+        {
+          "description": "Homework",
+          "mid": "/m/01w6nv",
+          "score": 0.7801533,
+          "topicality": 0.31873044
+        },
+        {
+          "description": "Office Instrument",
+          "mid": "/m/0h8m01z",
+          "score": 0.768438,
+          "topicality": 0.00069191883
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.7649162,
+          "topicality": 0.00016392795
+        },
+        {
+          "description": "Play",
+          "mid": "/m/06wtgq",
+          "score": 0.7499046,
+          "topicality": 0.00030132884
+        }
+      ]
+    }
+  ]
+}

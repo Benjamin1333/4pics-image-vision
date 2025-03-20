@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Tape measure",
+          "mid": "/m/02k8bg",
+          "score": 0.93998647,
+          "topicality": 0.2654485
+        },
+        {
+          "description": "Abdomen",
+          "mid": "/m/08y7p8",
+          "score": 0.9283403,
+          "topicality": 0.5481107
+        },
+        {
+          "description": "Waist",
+          "mid": "/m/031974",
+          "score": 0.8782621,
+          "topicality": 0.34713408
+        },
+        {
+          "description": "Denim",
+          "mid": "/m/0hgr6",
+          "score": 0.8252776,
+          "topicality": 0.0027138207
+        },
+        {
+          "description": "Stomach",
+          "mid": "/m/09x8z",
+          "score": 0.814915,
+          "topicality": 0.21498936
+        },
+        {
+          "description": "Pocket",
+          "mid": "/m/025rhd",
+          "score": 0.79802823,
+          "topicality": 0.005524082
+        },
+        {
+          "description": "Torso",
+          "mid": "/m/031vtq",
+          "score": 0.7842858,
+          "topicality": 0.07506531
+        },
+        {
+          "description": "Hip",
+          "mid": "/m/06_kbr",
+          "score": 0.7798103,
+          "topicality": 0.07882653
+        },
+        {
+          "description": "Navel",
+          "mid": "/m/01hnnm",
+          "score": 0.7324125,
+          "topicality": 0.07717076
+        },
+        {
+          "description": "Belt",
+          "mid": "/m/0176mf",
+          "score": 0.71242297,
+          "topicality": 0.0053190547
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9449167,
+          "topicality": 0.00033509987
+        },
+        {
+          "description": "Fictional character",
+          "mid": "/m/02h7lkt",
+          "score": 0.9138669,
+          "topicality": 0.0053905635
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.9023345,
+          "topicality": 0.0024142216
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.89472836,
+          "topicality": 0.20596232
+        },
+        {
+          "description": "Cartoon",
+          "mid": "/m/0215n",
+          "score": 0.8309358,
+          "topicality": 0.12467543
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.7664766,
+          "topicality": 0.00091247115
+        },
+        {
+          "description": "Animation",
+          "mid": "/m/0hcr",
+          "score": 0.7486597,
+          "topicality": 0.002554241
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.7273837,
+          "topicality": 0.0029106785
+        },
+        {
+          "description": "Animated cartoon",
+          "mid": "/m/095bb",
+          "score": 0.6618082,
+          "topicality": 0.0017358033
+        },
+        {
+          "description": "Line art",
+          "mid": "/m/0919rx",
+          "score": 0.59458035,
+          "topicality": 0.0013184011
+        }
+      ]
+    }
+  ]
+}

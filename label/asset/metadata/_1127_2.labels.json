@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Collar",
+          "mid": "/m/091410",
+          "score": 0.97787094,
+          "topicality": 0.0023568608
+        },
+        {
+          "description": "Formal wear",
+          "mid": "/m/02w3_2",
+          "score": 0.97519284,
+          "topicality": 0.012846391
+        },
+        {
+          "description": "Blazer",
+          "mid": "/m/04xz_5",
+          "score": 0.9178765,
+          "topicality": 0.0020180112
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.9108416,
+          "topicality": 0.10540788
+        },
+        {
+          "description": "Dress shirt",
+          "mid": "/m/06hwcd",
+          "score": 0.9078235,
+          "topicality": 0.0010730291
+        },
+        {
+          "description": "Necktie",
+          "mid": "/m/01rkbr",
+          "score": 0.8774947,
+          "topicality": 0.08031683
+        },
+        {
+          "description": "Suit",
+          "mid": "/m/01xyhv",
+          "score": 0.8744578,
+          "topicality": 0.15578169
+        },
+        {
+          "description": "Tuxedo",
+          "mid": "/m/0280yrc",
+          "score": 0.86783504,
+          "topicality": 0.015005363
+        },
+        {
+          "description": "Coat",
+          "mid": "/m/01xygc",
+          "score": 0.8676299,
+          "topicality": 0.0056885327
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.7688744,
+          "topicality": 0.0263525
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9781126,
+          "topicality": 0.051335633
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.9734668,
+          "topicality": 0.07522571
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94494027,
+          "topicality": 0.019925086
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.9305759,
+          "topicality": 0.036452483
+        },
+        {
+          "description": "Blond",
+          "mid": "/m/0294jb",
+          "score": 0.8790361,
+          "topicality": 0.07437543
+        },
+        {
+          "description": "Long hair",
+          "mid": "/m/02pd__z",
+          "score": 0.8434754,
+          "topicality": 0.119544536
+        },
+        {
+          "description": "Laughter",
+          "mid": "/m/01j3sz",
+          "score": 0.7397267,
+          "topicality": 0.032284304
+        },
+        {
+          "description": "Layered hair",
+          "mid": "/m/09spj9",
+          "score": 0.6946714,
+          "topicality": 0.004295191
+        }
+      ]
+    }
+  ]
+}

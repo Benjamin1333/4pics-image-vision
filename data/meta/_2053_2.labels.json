@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.96661067,
+          "topicality": 0.25058046
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.9159354,
+          "topicality": 0.04900274
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6443781,
+          "topicality": 0.015730906
+        },
+        {
+          "description": "Handwriting",
+          "mid": "/m/0gkxy13",
+          "score": 0.54568994,
+          "topicality": 0.061983936
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.5412928,
+          "topicality": 0.0065913117
+        }
+      ]
+    }
+  ]
+}

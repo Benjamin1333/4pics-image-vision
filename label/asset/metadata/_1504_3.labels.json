@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Camera",
+          "mid": "/m/0dv5r",
+          "score": 0.9845382,
+          "topicality": 0.114084974
+        },
+        {
+          "description": "Cameras & optics",
+          "mid": "/m/0ggjh_8",
+          "score": 0.97495395,
+          "topicality": 0.0007978497
+        },
+        {
+          "description": "Hand",
+          "mid": "/m/0k65p",
+          "score": 0.971412,
+          "topicality": 0.010408371
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.8793293,
+          "topicality": 0.0049655125
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.8529055,
+          "topicality": 0.0012531045
+        },
+        {
+          "description": "Photographer",
+          "mid": "/m/0lgw7",
+          "score": 0.85115707,
+          "topicality": 0.12877345
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.828498,
+          "topicality": 0.00021380639
+        },
+        {
+          "description": "Digital camera",
+          "mid": "/m/0dw7n",
+          "score": 0.7937957,
+          "topicality": 0.008984287
+        },
+        {
+          "description": "Blond",
+          "mid": "/m/0294jb",
+          "score": 0.7907302,
+          "topicality": 0.0016589693
+        },
+        {
+          "description": "Crowd",
+          "mid": "/m/03qtwd",
+          "score": 0.75189465,
+          "topicality": 0.07066625
+        }
+      ]
+    }
+  ]
+}

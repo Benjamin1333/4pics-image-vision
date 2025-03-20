@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.85767114,
+          "topicality": 0.05506153
+        },
+        {
+          "description": "Industry",
+          "mid": "/m/03rnh",
+          "score": 0.84939164,
+          "topicality": 0.5157369
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.8374482,
+          "topicality": 0.013129003
+        },
+        {
+          "description": "Factory",
+          "mid": "/m/0168g6",
+          "score": 0.82137656,
+          "topicality": 0.65042156
+        },
+        {
+          "description": "Engineering",
+          "mid": "/m/02ky346",
+          "score": 0.8002791,
+          "topicality": 0.07602698
+        },
+        {
+          "description": "Assembly line",
+          "mid": "/m/0mfz",
+          "score": 0.78003323,
+          "topicality": 0.7993913
+        },
+        {
+          "description": "Mass production",
+          "mid": "/m/0g_k0",
+          "score": 0.67980766,
+          "topicality": 0.30860448
+        },
+        {
+          "description": "Steel",
+          "mid": "/m/06qqb",
+          "score": 0.59558994,
+          "topicality": 0.0025548278
+        },
+        {
+          "description": "Exhibition",
+          "mid": "/m/0fq22vb",
+          "score": 0.5844046,
+          "topicality": 0.003711717
+        },
+        {
+          "description": "Workshop",
+          "mid": "/m/026zs_",
+          "score": 0.569789,
+          "topicality": 0.010907915
+        }
+      ]
+    }
+  ]
+}

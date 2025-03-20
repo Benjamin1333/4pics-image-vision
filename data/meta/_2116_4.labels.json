@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hat",
+          "mid": "/m/02dl1y",
+          "score": 0.96158445,
+          "topicality": 0.090511486
+        },
+        {
+          "description": "Headgear",
+          "mid": "/m/01443y",
+          "score": 0.94138604,
+          "topicality": 0.0029622028
+        },
+        {
+          "description": "Sun hat",
+          "mid": "/m/02wbtzl",
+          "score": 0.89677805,
+          "topicality": 0.004645509
+        },
+        {
+          "description": "Fedora",
+          "mid": "/m/02fq_6",
+          "score": 0.7893118,
+          "topicality": 0.0031577982
+        },
+        {
+          "description": "Steppe",
+          "mid": "/m/0f45l",
+          "score": 0.7168374,
+          "topicality": 0.03119807
+        },
+        {
+          "description": "Livestock",
+          "mid": "/m/0ch8v",
+          "score": 0.6621359,
+          "topicality": 0.006895455
+        },
+        {
+          "description": "Herder",
+          "mid": "/m/01y029",
+          "score": 0.6509505,
+          "topicality": 0.11971159
+        },
+        {
+          "description": "Camelids",
+          "mid": "/m/01v4x4",
+          "score": 0.6051229,
+          "topicality": 0.02116645
+        },
+        {
+          "description": "Sheep",
+          "mid": "/m/07bgp",
+          "score": 0.6004119,
+          "topicality": 0.0063486965
+        },
+        {
+          "description": "Ovis",
+          "mid": "/m/08hhz2",
+          "score": 0.56819636,
+          "topicality": 0.0025211074
+        }
+      ]
+    }
+  ]
+}

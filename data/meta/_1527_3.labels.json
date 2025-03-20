@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bun",
+          "mid": "/m/06q_t_",
+          "score": 0.91911477,
+          "topicality": 0.8955577
+        },
+        {
+          "description": "Wig",
+          "mid": "/m/01hzl4",
+          "score": 0.803108,
+          "topicality": 0.23494007
+        },
+        {
+          "description": "Chignon",
+          "mid": "/m/0cj9q3",
+          "score": 0.72774553,
+          "topicality": 0.67258006
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.87483007,
+          "topicality": 0.0077426373
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.8460762,
+          "topicality": 0.31726915
+        },
+        {
+          "description": "Industry",
+          "mid": "/m/03rnh",
+          "score": 0.8279097,
+          "topicality": 0.122676864
+        },
+        {
+          "description": "Factory",
+          "mid": "/m/0168g6",
+          "score": 0.7688634,
+          "topicality": 0.16010046
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.65353745,
+          "topicality": 0.005380908
+        },
+        {
+          "description": "Cylinder",
+          "mid": "/m/03h_4m",
+          "score": 0.6269574,
+          "topicality": 0.007311751
+        },
+        {
+          "description": "Aluminium",
+          "mid": "/m/027vj2v",
+          "score": 0.54499155,
+          "topicality": 0.009080235
+        },
+        {
+          "description": "Machine tool",
+          "mid": "/m/01b5w1",
+          "score": 0.534241,
+          "topicality": 0.008489209
+        },
+        {
+          "description": "Mass production",
+          "mid": "/m/0g_k0",
+          "score": 0.50571024,
+          "topicality": 0.04048001
+        }
+      ]
+    }
+  ]
+}

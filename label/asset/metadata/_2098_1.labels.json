@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.96086466,
+          "topicality": 0.023412561
+        },
+        {
+          "description": "Egg",
+          "mid": "/m/02g387",
+          "score": 0.9349882,
+          "topicality": 0.70179445
+        },
+        {
+          "description": "Bird",
+          "mid": "/m/015p6",
+          "score": 0.8996293,
+          "topicality": 0.11455356
+        },
+        {
+          "description": "Egg",
+          "mid": "/m/033cnk",
+          "score": 0.89817834,
+          "topicality": 0.6687322
+        },
+        {
+          "description": "Bird nest",
+          "mid": "/m/03bx1ft",
+          "score": 0.89335775,
+          "topicality": 0.11727917
+        },
+        {
+          "description": "Beak",
+          "mid": "/m/01c4rd",
+          "score": 0.83968025,
+          "topicality": 0.010163457
+        },
+        {
+          "description": "Poultry",
+          "mid": "/m/05s0c",
+          "score": 0.77581257,
+          "topicality": 0.15719053
+        },
+        {
+          "description": "Basket",
+          "mid": "/m/01z562",
+          "score": 0.76738304,
+          "topicality": 0.031047655
+        },
+        {
+          "description": "Chicken",
+          "mid": "/m/09b5t",
+          "score": 0.75180435,
+          "topicality": 0.49221823
+        },
+        {
+          "description": "Landfowl",
+          "mid": "/m/01295w",
+          "score": 0.72241455,
+          "topicality": 0.012081628
+        }
+      ]
+    }
+  ]
+}

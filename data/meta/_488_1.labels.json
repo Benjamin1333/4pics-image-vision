@@ -1,0 +1,49 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Watch",
+          "mid": "/m/0gjkl",
+          "score": 0.99365497,
+          "topicality": 0.9450127
+        },
+        {
+          "description": "Orange",
+          "mid": "/m/0jc_p",
+          "score": 0.9555828,
+          "topicality": 0.53469294
+        },
+        {
+          "description": "Fashion",
+          "mid": "/m/032tl",
+          "score": 0.9413444
+        },
+        {
+          "description": "Natural material",
+          "mid": "/m/07sx2n",
+          "score": 0.8318069,
+          "topicality": 2.6228361e-05
+        },
+        {
+          "description": "Analog watch",
+          "mid": "/m/031pr7",
+          "score": 0.82629323,
+          "topicality": 0.55363274
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.72507113,
+          "topicality": 0.029579
+        },
+        {
+          "description": "Strap",
+          "mid": "/m/04lzmz",
+          "score": 0.72279847,
+          "topicality": 0.049542416
+        }
+      ]
+    }
+  ]
+}

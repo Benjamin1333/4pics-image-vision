@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9700261,
+          "topicality": 0.062829085
+        },
+        {
+          "description": "Slipper",
+          "mid": "/m/0216vm",
+          "score": 0.9621729,
+          "topicality": 0.40389946
+        },
+        {
+          "description": "Flip-flops",
+          "mid": "/m/025znc",
+          "score": 0.94010913,
+          "topicality": 0.8978414
+        },
+        {
+          "description": "Sandal",
+          "mid": "/m/03nfch",
+          "score": 0.81138736,
+          "topicality": 0.36540413
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Clothing",
+          "mid": "/m/09j2d",
+          "score": 0.9939648,
+          "topicality": 0.012880015
+        },
+        {
+          "description": "Chin",
+          "mid": "/m/0f9swq",
+          "score": 0.9885253,
+          "topicality": 0.0002873303
+        },
+        {
+          "description": "Audio equipment",
+          "mid": "/m/01yttv",
+          "score": 0.98656416,
+          "topicality": 0.0018117283
+        },
+        {
+          "description": "Head",
+          "mid": "/m/04hgtk",
+          "score": 0.98577553,
+          "topicality": 0.0023096143
+        },
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.98249876,
+          "topicality": 0.0015984033
+        },
+        {
+          "description": "Forehead",
+          "mid": "/m/025kyy",
+          "score": 0.98059875,
+          "topicality": 0.00049151405
+        },
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.9765123,
+          "topicality": 0.0012111014
+        },
+        {
+          "description": "Hand",
+          "mid": "/m/0k65p",
+          "score": 0.97588533,
+          "topicality": 0.005569169
+        },
+        {
+          "description": "Formal wear",
+          "mid": "/m/02w3_2",
+          "score": 0.9698517,
+          "topicality": 0.00030855922
+        },
+        {
+          "description": "Microphone",
+          "mid": "/m/0hg7b",
+          "score": 0.9630494,
+          "topicality": 0.087240696
+        }
+      ]
+    }
+  ]
+}

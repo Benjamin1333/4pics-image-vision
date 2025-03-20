@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Cookie cutter",
+          "mid": "/m/02w92r",
+          "score": 0.8580068,
+          "topicality": 0.3483042
+        },
+        {
+          "description": "Powdered sugar",
+          "mid": "/m/01dk8s",
+          "score": 0.8443121,
+          "topicality": 0.11964635
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.8192621,
+          "topicality": 0.056092035
+        },
+        {
+          "description": "Bredele",
+          "mid": "/m/09q6n_",
+          "score": 0.812955,
+          "topicality": 0.0025403195
+        },
+        {
+          "description": "Recipe",
+          "mid": "/m/0p57p",
+          "score": 0.7122974,
+          "topicality": 0.21080434
+        },
+        {
+          "description": "Baking",
+          "mid": "/m/0dv34",
+          "score": 0.71193546,
+          "topicality": 0.15642434
+        },
+        {
+          "description": "Rice flour",
+          "mid": "/m/027r06p",
+          "score": 0.662796,
+          "topicality": 0.00036050958
+        },
+        {
+          "description": "Finger food",
+          "mid": "/m/0b3dyl",
+          "score": 0.66257507,
+          "topicality": 0.00024110173
+        },
+        {
+          "description": "Cookies and Crackers",
+          "mid": "/m/03qtd73",
+          "score": 0.5830913,
+          "topicality": 0.00012298659
+        },
+        {
+          "description": "Powder",
+          "mid": "/m/0gzznm",
+          "score": 0.5668733,
+          "topicality": 0.0039366917
+        }
+      ]
+    }
+  ]
+}

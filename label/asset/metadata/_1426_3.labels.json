@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Floor",
+          "mid": "/m/0l7_8",
+          "score": 0.9325543,
+          "topicality": 0.0017301621
+        },
+        {
+          "description": "Flooring",
+          "mid": "/m/01c34b",
+          "score": 0.9228033,
+          "topicality": 0.000954534
+        },
+        {
+          "description": "Furniture",
+          "mid": "/m/0c_jw",
+          "score": 0.8943423,
+          "topicality": 0.008306732
+        },
+        {
+          "description": "Glass",
+          "mid": "/m/039jq",
+          "score": 0.8573263,
+          "topicality": 0.0025902188
+        },
+        {
+          "description": "Chair",
+          "mid": "/m/01mzpv",
+          "score": 0.7713731,
+          "topicality": 0.021799982
+        },
+        {
+          "description": "Daylighting",
+          "mid": "/m/0k2n5",
+          "score": 0.70067334,
+          "topicality": 0.0016611797
+        },
+        {
+          "description": "Waiting room",
+          "mid": "/m/025sbr0",
+          "score": 0.66120064,
+          "topicality": 0.18272996
+        },
+        {
+          "description": "Cleanliness",
+          "mid": "/m/020s4p",
+          "score": 0.60158974,
+          "topicality": 0.0001942648
+        },
+        {
+          "description": "Aluminium",
+          "mid": "/m/027vj2v",
+          "score": 0.5630628,
+          "topicality": 0.0003327279
+        },
+        {
+          "description": "Armrest",
+          "mid": "/m/0fy6hp",
+          "score": 0.55125076,
+          "topicality": 0.000121081815
+        }
+      ]
+    }
+  ]
+}

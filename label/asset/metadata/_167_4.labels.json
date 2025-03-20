@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Loudspeaker",
+          "mid": "/m/0cfpc",
+          "score": 0.84277624,
+          "topicality": 0.0088763265
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.8054117,
+          "topicality": 0.051073138
+        },
+        {
+          "description": "Home appliance",
+          "mid": "/m/019dx1",
+          "score": 0.7987931,
+          "topicality": 0.0072802887
+        },
+        {
+          "description": "Security",
+          "mid": "/m/0bg2p",
+          "score": 0.7605094,
+          "topicality": 0.0011943618
+        },
+        {
+          "description": "Cylinder",
+          "mid": "/m/03h_4m",
+          "score": 0.7462638,
+          "topicality": 0.027390169
+        },
+        {
+          "description": "Kitchen utensil",
+          "mid": "/m/03hlz0c",
+          "score": 0.72928005,
+          "topicality": 0.030694773
+        },
+        {
+          "description": "Kitchen Appliance",
+          "mid": "/m/0h99cwc",
+          "score": 0.6783174,
+          "topicality": 0.0049622157
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.5697158,
+          "topicality": 0.012572368
+        },
+        {
+          "description": "Vacuum flask",
+          "mid": "/m/0125ct",
+          "score": 0.5507885,
+          "topicality": 0.014463558
+        },
+        {
+          "description": "Lid",
+          "mid": "/m/074cq5",
+          "score": 0.54673487,
+          "topicality": 0.027295908
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.9545234,
+          "topicality": 0.005536077
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.92003995,
+          "topicality": 0.0028105748
+        },
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.90388685,
+          "topicality": 0.107795216
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.8684156,
+          "topicality": 0.0021777668
+        },
+        {
+          "description": "Apple",
+          "mid": "/m/014j1m",
+          "score": 0.8123479,
+          "topicality": 0.25122944
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.76869315,
+          "topicality": 0.10751585
+        },
+        {
+          "description": "Food group",
+          "mid": "/m/08fw1g",
+          "score": 0.6409782,
+          "topicality": 0.0011804461
+        },
+        {
+          "description": "Superfood",
+          "mid": "/m/04jdhxy",
+          "score": 0.61782414,
+          "topicality": 0.0019654832
+        },
+        {
+          "description": "Apples",
+          "mid": "/m/01qd72",
+          "score": 0.5644268,
+          "topicality": 0.0036167828
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Physical fitness",
+          "mid": "/m/027x7n",
+          "score": 0.9812744,
+          "topicality": 0.12565711
+        },
+        {
+          "description": "Exercise",
+          "mid": "/m/019w6h",
+          "score": 0.97813636,
+          "topicality": 0.4045016
+        },
+        {
+          "description": "Yoga",
+          "mid": "/m/087zy",
+          "score": 0.97120124,
+          "topicality": 0.8442266
+        },
+        {
+          "description": "Knee",
+          "mid": "/m/019swr",
+          "score": 0.9415832,
+          "topicality": 0.03494289
+        },
+        {
+          "description": "Barefoot",
+          "mid": "/m/049lwx",
+          "score": 0.9292215,
+          "topicality": 0.0053487876
+        },
+        {
+          "description": "Elbow",
+          "mid": "/m/01vm1p",
+          "score": 0.8951836,
+          "topicality": 0.0067604957
+        },
+        {
+          "description": "Wrist",
+          "mid": "/m/01j48b",
+          "score": 0.8936676,
+          "topicality": 0.0014774491
+        },
+        {
+          "description": "Foot",
+          "mid": "/m/031n1",
+          "score": 0.8936143,
+          "topicality": 0.012937998
+        },
+        {
+          "description": "Abdomen",
+          "mid": "/m/08y7p8",
+          "score": 0.8446854,
+          "topicality": 0.016735293
+        },
+        {
+          "description": "Toe",
+          "mid": "/m/01d_ff",
+          "score": 0.8282182,
+          "topicality": 0.0013260372
+        }
+      ]
+    }
+  ]
+}

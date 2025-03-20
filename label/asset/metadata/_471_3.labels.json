@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Fluid",
+          "mid": "/m/02yfx",
+          "score": 0.95567596,
+          "topicality": 0.0028258823
+        },
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.94572914,
+          "topicality": 0.008629028
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.91418266,
+          "topicality": 0.0016333241
+        },
+        {
+          "description": "Swimming pool",
+          "mid": "/m/0b_rs",
+          "score": 0.91214406,
+          "topicality": 0.30686873
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.81152135,
+          "topicality": 0.002536554
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.8101617,
+          "topicality": 0.010743783
+        },
+        {
+          "description": "Bathing",
+          "mid": "/m/036d30",
+          "score": 0.8087853,
+          "topicality": 0.028605757
+        },
+        {
+          "description": "Underwater",
+          "mid": "/m/01sfb5",
+          "score": 0.7500836,
+          "topicality": 0.1257108
+        },
+        {
+          "description": "Swimming",
+          "mid": "/m/06z6r",
+          "score": 0.7325354,
+          "topicality": 0.5717197
+        },
+        {
+          "description": "Swimmer",
+          "mid": "/m/02h6p1l",
+          "score": 0.62248427,
+          "topicality": 0.18329944
+        }
+      ]
+    }
+  ]
+}

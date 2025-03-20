@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Jacket",
+          "mid": "/m/032b3c",
+          "score": 0.96689093,
+          "topicality": 0.06568299
+        },
+        {
+          "description": "Trousers",
+          "mid": "/m/07mhn",
+          "score": 0.9585863,
+          "topicality": 0.019624129
+        },
+        {
+          "description": "Outerwear",
+          "mid": "/m/047vlmn",
+          "score": 0.9540602,
+          "topicality": 0.02028694
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.9195365,
+          "topicality": 0.11026219
+        },
+        {
+          "description": "Pedestrian",
+          "mid": "/m/017r8p",
+          "score": 0.90842235,
+          "topicality": 0.3103413
+        },
+        {
+          "description": "Winter",
+          "mid": "/m/086mh",
+          "score": 0.86304706,
+          "topicality": 0.12196784
+        },
+        {
+          "description": "Denim",
+          "mid": "/m/0hgr6",
+          "score": 0.834149,
+          "topicality": 0.00054778106
+        },
+        {
+          "description": "Holding hands",
+          "mid": "/m/01613k",
+          "score": 0.81302893,
+          "topicality": 0.006407387
+        },
+        {
+          "description": "Walking",
+          "mid": "/m/083mg",
+          "score": 0.80155003,
+          "topicality": 0.26275912
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.7740889,
+          "topicality": 0.02095349
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Security",
+          "mid": "/m/0bg2p",
+          "score": 0.5497033,
+          "topicality": 0.0032903557
+        },
+        {
+          "description": "Tool",
+          "mid": "/m/07k1x",
+          "score": 0.51116145,
+          "topicality": 0.3277721
+        }
+      ]
+    }
+  ]
+}

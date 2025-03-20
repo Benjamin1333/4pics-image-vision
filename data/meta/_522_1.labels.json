@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Seasoning",
+          "mid": "/m/0dwpk",
+          "score": 0.9198297,
+          "topicality": 0.003025554
+        },
+        {
+          "description": "Powder",
+          "mid": "/m/0gzznm",
+          "score": 0.89092,
+          "topicality": 0.16501437
+        },
+        {
+          "description": "Salt",
+          "mid": "/m/06vrz",
+          "score": 0.88407534,
+          "topicality": 0.2199944
+        },
+        {
+          "description": "Table salt",
+          "mid": "/m/05g0_z",
+          "score": 0.8669617,
+          "topicality": 0.37227738
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.8455906,
+          "topicality": 0.004996852
+        },
+        {
+          "description": "Sodium chloride",
+          "mid": "/m/0ksgj",
+          "score": 0.7976072,
+          "topicality": 0.12671798
+        },
+        {
+          "description": "Spice",
+          "mid": "/m/06p35",
+          "score": 0.7975574,
+          "topicality": 0.0054466645
+        },
+        {
+          "description": "Saccharin",
+          "mid": "/m/01vs2h",
+          "score": 0.76692647,
+          "topicality": 0.0113371955
+        },
+        {
+          "description": "Table sugar",
+          "mid": "/m/0dcfv",
+          "score": 0.7374178,
+          "topicality": 0.07431908
+        },
+        {
+          "description": "Sugar substitute",
+          "mid": "/m/0g24k",
+          "score": 0.7146498,
+          "topicality": 0.016799377
+        }
+      ]
+    }
+  ]
+}

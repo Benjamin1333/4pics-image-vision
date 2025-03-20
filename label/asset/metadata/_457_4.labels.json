@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Shoulder",
+          "mid": "/m/01ssh5",
+          "score": 0.9741645,
+          "topicality": 0.020209093
+        },
+        {
+          "description": "Denim",
+          "mid": "/m/0hgr6",
+          "score": 0.9695848,
+          "topicality": 0.00037700447
+        },
+        {
+          "description": "Abdomen",
+          "mid": "/m/08y7p8",
+          "score": 0.9408337,
+          "topicality": 0.80385774
+        },
+        {
+          "description": "Jeans",
+          "mid": "/m/0fly7",
+          "score": 0.91150904,
+          "topicality": 0.0066698426
+        },
+        {
+          "description": "Stomach",
+          "mid": "/m/09x8z",
+          "score": 0.91138166,
+          "topicality": 0.8753317
+        },
+        {
+          "description": "Waist",
+          "mid": "/m/031974",
+          "score": 0.8783519,
+          "topicality": 0.013306684
+        },
+        {
+          "description": "Torso",
+          "mid": "/m/031vtq",
+          "score": 0.86008686,
+          "topicality": 0.005574366
+        },
+        {
+          "description": "Navel",
+          "mid": "/m/01hnnm",
+          "score": 0.85951555,
+          "topicality": 0.027319776
+        },
+        {
+          "description": "Hip",
+          "mid": "/m/06_kbr",
+          "score": 0.79373074,
+          "topicality": 0.0060259257
+        },
+        {
+          "description": "Thorax",
+          "mid": "/m/0dzdr",
+          "score": 0.79252803,
+          "topicality": 0.014850799
+        }
+      ]
+    }
+  ]
+}

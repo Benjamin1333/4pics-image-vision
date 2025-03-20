@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.911183,
+          "topicality": 0.0005383068
+        },
+        {
+          "description": "Rock-climbing equipment",
+          "mid": "/m/021fpy",
+          "score": 0.9091819,
+          "topicality": 0.0037232577
+        },
+        {
+          "description": "Cleaner",
+          "mid": "/m/02pnv61",
+          "score": 0.81640404,
+          "topicality": 0.1085466
+        },
+        {
+          "description": "Adventure",
+          "mid": "/m/0h_m",
+          "score": 0.8113423,
+          "topicality": 0.0003027614
+        },
+        {
+          "description": "Rope",
+          "mid": "/m/01xc8d",
+          "score": 0.7499736,
+          "topicality": 0.011141132
+        },
+        {
+          "description": "Workwear",
+          "mid": "/m/026lc7w",
+          "score": 0.7003096,
+          "topicality": 0.0022981188
+        },
+        {
+          "description": "Blue-collar worker",
+          "mid": "/m/01kq3f",
+          "score": 0.67883503,
+          "topicality": 0.012028381
+        },
+        {
+          "description": "Climbing harness",
+          "mid": "/m/01fmz_",
+          "score": 0.6734176,
+          "topicality": 0.0053130942
+        },
+        {
+          "description": "Carabiner",
+          "mid": "/m/01s4v",
+          "score": 0.6609238,
+          "topicality": 0.0012219672
+        },
+        {
+          "description": "Climbing",
+          "mid": "/m/01rwk",
+          "score": 0.65781325,
+          "topicality": 0.075179964
+        }
+      ]
+    }
+  ]
+}

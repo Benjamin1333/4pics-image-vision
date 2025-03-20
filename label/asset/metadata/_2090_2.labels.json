@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Daytime",
+          "mid": "/m/02q7ylj",
+          "score": 0.9811391,
+          "topicality": 0.014676151
+        },
+        {
+          "description": "Green",
+          "mid": "/m/038hg",
+          "score": 0.97803247,
+          "topicality": 0.2504306
+        },
+        {
+          "description": "Sun",
+          "mid": "/m/06m_p",
+          "score": 0.92549396,
+          "topicality": 0.122028045
+        },
+        {
+          "description": "Sunlight",
+          "mid": "/m/06z0n",
+          "score": 0.834277,
+          "topicality": 0.56930983
+        },
+        {
+          "description": "Lens flare",
+          "mid": "/m/017bm6",
+          "score": 0.83294,
+          "topicality": 0.30914024
+        },
+        {
+          "description": "Macro photography",
+          "mid": "/m/03rbf6",
+          "score": 0.75062436,
+          "topicality": 0.03175362
+        },
+        {
+          "description": "Astronomical object",
+          "mid": "/m/01d9ll",
+          "score": 0.7016644,
+          "topicality": 0.00010849518
+        },
+        {
+          "description": "Moisture",
+          "mid": "/m/02t59k",
+          "score": 0.65340406,
+          "topicality": 0.03406824
+        },
+        {
+          "description": "Backlighting",
+          "mid": "/m/0b0lbv",
+          "score": 0.6221898,
+          "topicality": 0.0003401594
+        },
+        {
+          "description": "Dew",
+          "mid": "/m/0f9kh",
+          "score": 0.5908003,
+          "topicality": 0.71002716
+        }
+      ]
+    }
+  ]
+}

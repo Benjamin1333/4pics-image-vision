@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.97725195,
+          "topicality": 0.17223476
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.87658167,
+          "topicality": 0.0064608273
+        },
+        {
+          "description": "Telephone",
+          "mid": "/m/07cx4",
+          "score": 0.78933656,
+          "topicality": 0.5442929
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.75811213,
+          "topicality": 0.012459276
+        },
+        {
+          "description": "Telephony",
+          "mid": "/m/0bhmh",
+          "score": 0.73144126,
+          "topicality": 0.024479374
+        },
+        {
+          "description": "Headphones",
+          "mid": "/m/01b7fy",
+          "score": 0.6876305,
+          "topicality": 0.020320756
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.5804343,
+          "topicality": 0.00595915
+        },
+        {
+          "description": "Communication Device",
+          "mid": "/m/0glmwd6",
+          "score": 0.5273787,
+          "topicality": 0.00010426086
+        }
+      ]
+    }
+  ]
+}

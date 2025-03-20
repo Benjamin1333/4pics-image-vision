@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Waterway",
+          "mid": "/m/017m8l",
+          "score": 0.93376577,
+          "topicality": 0.004566493
+        },
+        {
+          "description": "Opera house",
+          "mid": "/m/01492b",
+          "score": 0.9272465,
+          "topicality": 0.99442804
+        },
+        {
+          "description": "Boat",
+          "mid": "/m/019jd",
+          "score": 0.9226976,
+          "topicality": 0.023155993
+        },
+        {
+          "description": "Watercraft",
+          "mid": "/m/01rzcn",
+          "score": 0.89649147,
+          "topicality": 0.0052741407
+        },
+        {
+          "description": "Tourist attraction",
+          "mid": "/m/0pgl9",
+          "score": 0.86243725,
+          "topicality": 0.08585955
+        },
+        {
+          "description": "Lake",
+          "mid": "/m/04h4w",
+          "score": 0.83425486,
+          "topicality": 0.02422308
+        },
+        {
+          "description": "Naval architecture",
+          "mid": "/m/0k5qm",
+          "score": 0.74512583,
+          "topicality": 0.001437999
+        },
+        {
+          "description": "Cityscape",
+          "mid": "/m/034z7h",
+          "score": 0.7300715,
+          "topicality": 0.008117597
+        },
+        {
+          "description": "Ship",
+          "mid": "/m/06q74",
+          "score": 0.66202164,
+          "topicality": 0.06817282
+        },
+        {
+          "description": "Water transportation",
+          "mid": "/m/08rrcl",
+          "score": 0.55730134,
+          "topicality": 0.002069262
+        }
+      ]
+    }
+  ]
+}

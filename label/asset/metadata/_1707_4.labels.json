@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Metal",
+          "mid": "/m/04t7l",
+          "score": 0.81548476,
+          "topicality": 0.08656447
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.756129,
+          "topicality": 0.0013636395
+        },
+        {
+          "description": "Nickel",
+          "mid": "/m/025s4r7",
+          "score": 0.6414814,
+          "topicality": 0.0033968154
+        },
+        {
+          "description": "Tool",
+          "mid": "/m/07k1x",
+          "score": 0.63312775,
+          "topicality": 0.06854085
+        },
+        {
+          "description": "Steel",
+          "mid": "/m/06qqb",
+          "score": 0.6322855,
+          "topicality": 0.17307758
+        },
+        {
+          "description": "Aluminium",
+          "mid": "/m/027vj2v",
+          "score": 0.6115478,
+          "topicality": 0.075758256
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.60628456,
+          "topicality": 0.008645078
+        },
+        {
+          "description": "Titanium",
+          "mid": "/m/025sk56",
+          "score": 0.5848202,
+          "topicality": 0.0015914488
+        },
+        {
+          "description": "Household hardware",
+          "mid": "/m/03jvk",
+          "score": 0.56604874,
+          "topicality": 0.0024151523
+        }
+      ]
+    }
+  ]
+}

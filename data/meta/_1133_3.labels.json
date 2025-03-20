@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Home",
+          "mid": "/m/01l0mw",
+          "score": 0.9349373,
+          "topicality": 0.26532748
+        },
+        {
+          "description": "Cottage",
+          "mid": "/m/03nxtz",
+          "score": 0.7887543,
+          "topicality": 0.0031686325
+        },
+        {
+          "description": "Security",
+          "mid": "/m/0bg2p",
+          "score": 0.6427071,
+          "topicality": 0.022741022
+        },
+        {
+          "description": "Chimney",
+          "mid": "/m/01jk_4",
+          "score": 0.62011635,
+          "topicality": 0.00452809
+        },
+        {
+          "description": "Villa",
+          "mid": "/m/01y8xw",
+          "score": 0.55511135,
+          "topicality": 0.004928739
+        },
+        {
+          "description": "Farmhouse",
+          "mid": "/m/080sjd",
+          "score": 0.53332406,
+          "topicality": 0.0028065043
+        },
+        {
+          "description": "Mansion",
+          "mid": "/m/02pvbb",
+          "score": 0.5154114,
+          "topicality": 0.0025624833
+        }
+      ]
+    }
+  ]
+}

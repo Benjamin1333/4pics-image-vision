@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Car",
+          "mid": "/m/0k4j",
+          "score": 0.97213614,
+          "topicality": 0.03432252
+        },
+        {
+          "description": "Automotive lighting",
+          "mid": "/m/0768fx",
+          "score": 0.9548044,
+          "topicality": 0.014405816
+        },
+        {
+          "description": "Automotive Exterior",
+          "mid": "/m/0h8ls87",
+          "score": 0.9503778,
+          "topicality": 0.00051055086
+        },
+        {
+          "description": "Bumper",
+          "mid": "/m/02mnkq",
+          "score": 0.8653187,
+          "topicality": 0.0035766654
+        },
+        {
+          "description": "Hatchback",
+          "mid": "/m/01cmcs",
+          "score": 0.79313225,
+          "topicality": 0.019663518
+        },
+        {
+          "description": "Car door",
+          "mid": "/m/02q2kc3",
+          "score": 0.78878623,
+          "topicality": 0.0050405446
+        },
+        {
+          "description": "Luxury vehicle",
+          "mid": "/m/01lcwm",
+          "score": 0.7810834,
+          "topicality": 0.0028359252
+        },
+        {
+          "description": "Glass",
+          "mid": "/m/039jq",
+          "score": 0.76611954,
+          "topicality": 0.0011789572
+        },
+        {
+          "description": "Automotive Tail & Brake Light",
+          "mid": "/m/0h8m331",
+          "score": 0.7598911,
+          "topicality": 0.00034696778
+        },
+        {
+          "description": "Family car",
+          "mid": "/m/088l6h",
+          "score": 0.74288577,
+          "topicality": 0.00964419
+        }
+      ]
+    }
+  ]
+}

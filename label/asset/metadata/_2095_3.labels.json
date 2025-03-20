@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Fireworks",
+          "mid": "/m/0g6b5",
+          "score": 0.9832625,
+          "topicality": 0.7802907
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.97693825,
+          "topicality": 0.00582937
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.9695344,
+          "topicality": 0.0023745866
+        },
+        {
+          "description": "Night",
+          "mid": "/m/01d74z",
+          "score": 0.92099977,
+          "topicality": 0.056976706
+        },
+        {
+          "description": "Midnight",
+          "mid": "/m/01kv7h",
+          "score": 0.8883397,
+          "topicality": 0.012469282
+        },
+        {
+          "description": "Festival",
+          "mid": "/m/0hr5k",
+          "score": 0.8667532,
+          "topicality": 0.115722135
+        },
+        {
+          "description": "Darkness",
+          "mid": "/m/01kyr8",
+          "score": 0.7998087,
+          "topicality": 0.0009519214
+        },
+        {
+          "description": "New Year",
+          "mid": "/m/05fdr",
+          "score": 0.7095712,
+          "topicality": 0.23094824
+        },
+        {
+          "description": "New Year's Eve",
+          "mid": "/m/01pl3y",
+          "score": 0.6958515,
+          "topicality": 0.2126069
+        },
+        {
+          "description": "Diwali",
+          "mid": "/m/019fpj",
+          "score": 0.66767466,
+          "topicality": 0.017741282
+        }
+      ]
+    }
+  ]
+}

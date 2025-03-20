@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Coast",
+          "mid": "/m/01lxd",
+          "score": 0.968736,
+          "topicality": 0.18924488
+        },
+        {
+          "description": "Rock",
+          "mid": "/m/01cbzq",
+          "score": 0.9528953,
+          "topicality": 0.013544184
+        },
+        {
+          "description": "Natural landscape",
+          "mid": "/m/03d28y3",
+          "score": 0.9526581,
+          "topicality": 0.017177515
+        },
+        {
+          "description": "Cliff",
+          "mid": "/m/018vpr",
+          "score": 0.9513826,
+          "topicality": 0.7414571
+        },
+        {
+          "description": "Headland",
+          "mid": "/m/04gv79h",
+          "score": 0.9500344,
+          "topicality": 0.055404235
+        },
+        {
+          "description": "Coastal and oceanic landforms",
+          "mid": "/m/02c9_23",
+          "score": 0.9481626,
+          "topicality": 0.0028995874
+        },
+        {
+          "description": "Terrain",
+          "mid": "/m/025tn5c",
+          "score": 0.94351315,
+          "topicality": 0.009965409
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.93627673,
+          "topicality": 0.14798325
+        },
+        {
+          "description": "Klippe",
+          "mid": "/m/09fkjm",
+          "score": 0.9291599,
+          "topicality": 0.03663118
+        },
+        {
+          "description": "Promontory",
+          "mid": "/m/02r3_7_",
+          "score": 0.9129303,
+          "topicality": 0.027663112
+        }
+      ]
+    }
+  ]
+}

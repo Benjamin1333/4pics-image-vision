@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Origami",
+          "mid": "/m/0drh_",
+          "score": 0.5941189,
+          "topicality": 0.14421816
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.59056234,
+          "topicality": 0.011733984
+        }
+      ]
+    }
+  ]
+}

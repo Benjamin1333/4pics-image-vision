@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Clock",
+          "mid": "/m/01x3z",
+          "score": 0.8416577,
+          "topicality": 0.3456747
+        },
+        {
+          "description": "Watch",
+          "mid": "/m/0gjkl",
+          "score": 0.7670379,
+          "topicality": 0.038093742
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.6948333,
+          "topicality": 0.050805423
+        },
+        {
+          "description": "Quartz clock",
+          "mid": "/m/06bht",
+          "score": 0.5781076,
+          "topicality": 0.100609526
+        }
+      ]
+    }
+  ]
+}

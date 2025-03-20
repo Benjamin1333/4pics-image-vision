@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Rodent",
+          "mid": "/m/06hps",
+          "score": 0.9848141,
+          "topicality": 0.37237275
+        },
+        {
+          "description": "Rat",
+          "mid": "/m/06lk1",
+          "score": 0.973759,
+          "topicality": 0.41639686
+        },
+        {
+          "description": "Vertebrate",
+          "mid": "/m/09686",
+          "score": 0.9604368,
+          "topicality": 0.0024324884
+        },
+        {
+          "description": "Muroids",
+          "mid": "/m/02h9rm",
+          "score": 0.9573457,
+          "topicality": 0.06411286
+        },
+        {
+          "description": "Pack rats",
+          "mid": "/m/0ggwx",
+          "score": 0.9457497,
+          "topicality": 0.11202038
+        },
+        {
+          "description": "Deer mice",
+          "mid": "/m/04cx27",
+          "score": 0.91012573,
+          "topicality": 0.034497216
+        },
+        {
+          "description": "Pest",
+          "mid": "/m/01dqkc",
+          "score": 0.89534587,
+          "topicality": 0.15156569
+        },
+        {
+          "description": "Murids",
+          "mid": "/m/04k_6h",
+          "score": 0.89372224,
+          "topicality": 0.12311632
+        },
+        {
+          "description": "Whiskers",
+          "mid": "/m/01l7qd",
+          "score": 0.8818108,
+          "topicality": 0.00955326
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.83560073,
+          "topicality": 0.0018744692
+        }
+      ]
+    }
+  ]
+}

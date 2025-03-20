@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Road",
+          "mid": "/m/06gfj",
+          "score": 0.9800999,
+          "topicality": 0.84980863
+        },
+        {
+          "description": "Road surface",
+          "mid": "/m/01k0mv",
+          "score": 0.97487485,
+          "topicality": 0.20263918
+        },
+        {
+          "description": "Highway",
+          "mid": "/m/0cz_0",
+          "score": 0.96214455,
+          "topicality": 0.54774797
+        },
+        {
+          "description": "Natural landscape",
+          "mid": "/m/03d28y3",
+          "score": 0.9615918,
+          "topicality": 0.005412944
+        },
+        {
+          "description": "Asphalt",
+          "mid": "/m/0hr8",
+          "score": 0.95874935,
+          "topicality": 0.66356736
+        },
+        {
+          "description": "Thoroughfare",
+          "mid": "/m/0bm8qyq",
+          "score": 0.94890255,
+          "topicality": 0.079040065
+        },
+        {
+          "description": "Controlled-access highway",
+          "mid": "/m/0335j",
+          "score": 0.8847358,
+          "topicality": 0.31085673
+        },
+        {
+          "description": "Lane",
+          "mid": "/m/033j3c",
+          "score": 0.88267654,
+          "topicality": 0.15513466
+        },
+        {
+          "description": "Tar",
+          "mid": "/m/05by2s",
+          "score": 0.82885516,
+          "topicality": 0.07721198
+        },
+        {
+          "description": "Shoulder",
+          "mid": "/m/02mgm6",
+          "score": 0.73890734,
+          "topicality": 0.068440035
+        }
+      ]
+    }
+  ]
+}

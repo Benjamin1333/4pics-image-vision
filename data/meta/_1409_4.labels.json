@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.833145,
+          "topicality": 0.26341826
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.76706064,
+          "topicality": 0.0051299743
+        },
+        {
+          "description": "Animated cartoon",
+          "mid": "/m/095bb",
+          "score": 0.64677995,
+          "topicality": 0.00028511861
+        },
+        {
+          "description": "Animation",
+          "mid": "/m/0hcr",
+          "score": 0.6374887,
+          "topicality": 0.00093016407
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.63323605,
+          "topicality": 0.02481935
+        },
+        {
+          "description": "Cleaner",
+          "mid": "/m/02pnv61",
+          "score": 0.5708474,
+          "topicality": 0.037937194
+        }
+      ]
+    }
+  ]
+}

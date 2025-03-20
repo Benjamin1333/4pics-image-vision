@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Chin",
+          "mid": "/m/0f9swq",
+          "score": 0.9885705,
+          "topicality": 0.042492673
+        },
+        {
+          "description": "Cheek",
+          "mid": "/m/037p5b",
+          "score": 0.98691636,
+          "topicality": 0.026548266
+        },
+        {
+          "description": "Eyebrow",
+          "mid": "/m/027n3_",
+          "score": 0.985729,
+          "topicality": 0.012028087
+        },
+        {
+          "description": "Head",
+          "mid": "/m/04hgtk",
+          "score": 0.985718,
+          "topicality": 0.038589723
+        },
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.9847945,
+          "topicality": 0.019011836
+        },
+        {
+          "description": "Forehead",
+          "mid": "/m/025kyy",
+          "score": 0.9832134,
+          "topicality": 0.02320163
+        },
+        {
+          "description": "Skin",
+          "mid": "/m/06z04",
+          "score": 0.98191935,
+          "topicality": 0.03652591
+        },
+        {
+          "description": "Nose",
+          "mid": "/m/0k0pj",
+          "score": 0.9756335,
+          "topicality": 0.06363928
+        },
+        {
+          "description": "Jaw",
+          "mid": "/m/01k9lj",
+          "score": 0.9729308,
+          "topicality": 0.0220656
+        },
+        {
+          "description": "Neck",
+          "mid": "/m/0dzd8",
+          "score": 0.9559177,
+          "topicality": 0.025258949
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Picture frame",
+          "mid": "/m/06z37_",
+          "score": 0.94725925,
+          "topicality": 0.65578204
+        },
+        {
+          "description": "Mirror",
+          "mid": "/m/054_l",
+          "score": 0.7294823,
+          "topicality": 0.18823192
+        }
+      ]
+    }
+  ]
+}

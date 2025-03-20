@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Watch",
+          "mid": "/m/0gjkl",
+          "score": 0.8935196,
+          "topicality": 0.1544231
+        },
+        {
+          "description": "Measuring instrument",
+          "mid": "/m/056hv",
+          "score": 0.8647088,
+          "topicality": 0.091422945
+        },
+        {
+          "description": "Number",
+          "mid": "/m/05fwb",
+          "score": 0.8349466,
+          "topicality": 0.02012781
+        },
+        {
+          "description": "Clock",
+          "mid": "/m/01x3z",
+          "score": 0.6405339,
+          "topicality": 0.18199484
+        },
+        {
+          "description": "Gauge",
+          "mid": "/m/05kc0j",
+          "score": 0.6108067,
+          "topicality": 0.017374026
+        },
+        {
+          "description": "Weighing scale",
+          "mid": "/m/03txqz",
+          "score": 0.56534505,
+          "topicality": 0.051721875
+        }
+      ]
+    }
+  ]
+}

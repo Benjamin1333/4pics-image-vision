@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Infant bed",
+          "mid": "/m/061hd_",
+          "score": 0.9713469,
+          "topicality": 0.92541295
+        },
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.96737844,
+          "topicality": 0.10094571
+        },
+        {
+          "description": "Baby Safety",
+          "mid": "/m/0h8nsr4",
+          "score": 0.9569231,
+          "topicality": 0.006123582
+        },
+        {
+          "description": "Nursery",
+          "mid": "/m/02pv0pf",
+          "score": 0.93532544,
+          "topicality": 0.40130737
+        },
+        {
+          "description": "Bassinet",
+          "mid": "/m/07tz5y",
+          "score": 0.924885,
+          "topicality": 0.6818742
+        },
+        {
+          "description": "Bed",
+          "mid": "/m/03ssj5",
+          "score": 0.875735,
+          "topicality": 0.4957137
+        },
+        {
+          "description": "Linens",
+          "mid": "/m/06httj",
+          "score": 0.85275847,
+          "topicality": 0.0049611335
+        },
+        {
+          "description": "Comfort",
+          "mid": "/m/08xgn7",
+          "score": 0.778087,
+          "topicality": 0.006089297
+        },
+        {
+          "description": "Bedding",
+          "mid": "/m/03mcr3",
+          "score": 0.71205634,
+          "topicality": 0.067051455
+        },
+        {
+          "description": "Baby Products",
+          "mid": "/g/1261x0jn3",
+          "score": 0.69088006,
+          "topicality": 0.0008327465
+        }
+      ]
+    }
+  ]
+}

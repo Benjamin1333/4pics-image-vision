@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Swimming pool",
+          "mid": "/m/0b_rs",
+          "score": 0.872666,
+          "topicality": 0.44810137
+        },
+        {
+          "description": "Jumping into the pool",
+          "mid": "/j/fpk0yc",
+          "score": 0.53305113,
+          "topicality": 0.0039446647
+        }
+      ]
+    }
+  ]
+}

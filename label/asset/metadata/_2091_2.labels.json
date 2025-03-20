@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Audio equipment",
+          "mid": "/m/01yttv",
+          "score": 0.98734134,
+          "topicality": 0.160119
+        },
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.9723991,
+          "topicality": 0.0008735932
+        },
+        {
+          "description": "Mixing console",
+          "mid": "/m/01bfwv",
+          "score": 0.9595429,
+          "topicality": 0.9518093
+        },
+        {
+          "description": "Electronics",
+          "mid": "/m/02mrp",
+          "score": 0.8820374,
+          "topicality": 0.06156893
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.87013054,
+          "topicality": 0.0018703932
+        },
+        {
+          "description": "Studio",
+          "mid": "/m/035zq3",
+          "score": 0.80134094,
+          "topicality": 0.0845896
+        },
+        {
+          "description": "Electronic musical instrument",
+          "mid": "/m/02qjv",
+          "score": 0.78276205,
+          "topicality": 0.013093827
+        },
+        {
+          "description": "Electrophone",
+          "mid": "/m/0121tl",
+          "score": 0.7653008,
+          "topicality": 0.00016430038
+        },
+        {
+          "description": "Equalization",
+          "mid": "/m/0bbzy27",
+          "score": 0.69989514,
+          "topicality": 0.005076803
+        },
+        {
+          "description": "Recording",
+          "mid": "/m/025l19",
+          "score": 0.6552071,
+          "topicality": 0.19022575
+        }
+      ]
+    }
+  ]
+}

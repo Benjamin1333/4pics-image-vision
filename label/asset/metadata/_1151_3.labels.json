@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Cameras & optics",
+          "mid": "/m/0ggjh_8",
+          "score": 0.9046414,
+          "topicality": 0.00019806005
+        },
+        {
+          "description": "Lens",
+          "mid": "/m/04n4x",
+          "score": 0.8948102,
+          "topicality": 0.008237229
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.84341186,
+          "topicality": 0.08510394
+        },
+        {
+          "description": "Camera",
+          "mid": "/m/0dv5r",
+          "score": 0.84197867,
+          "topicality": 0.07244438
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.6364411,
+          "topicality": 0.00510065
+        },
+        {
+          "description": "Advertising",
+          "mid": "/m/011s0",
+          "score": 0.6118332,
+          "topicality": 0.029266004
+        },
+        {
+          "description": "Screenshot",
+          "mid": "/m/01zbnw",
+          "score": 0.57759446,
+          "topicality": 0.016015222
+        },
+        {
+          "description": "Online advertising",
+          "mid": "/m/05b1rx",
+          "score": 0.57675797,
+          "topicality": 0.027459564
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.5611309,
+          "topicality": 0.0074878987
+        },
+        {
+          "description": "Multimedia",
+          "mid": "/m/0541p",
+          "score": 0.5523439,
+          "topicality": 0.021831283
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.93451226,
+          "topicality": 0.10015331
+        },
+        {
+          "description": "Bean",
+          "mid": "/m/01fp9",
+          "score": 0.9287817,
+          "topicality": 0.73415565
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.893306,
+          "topicality": 0.016205395
+        },
+        {
+          "description": "Green bean",
+          "mid": "/m/054hcy",
+          "score": 0.8909633,
+          "topicality": 0.8253555
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.8697775,
+          "topicality": 0.020836173
+        },
+        {
+          "description": "Cowpea",
+          "mid": "/m/02gbqr",
+          "score": 0.80100876,
+          "topicality": 0.02223904
+        },
+        {
+          "description": "Common Bean",
+          "mid": "/m/02gydl",
+          "score": 0.75249,
+          "topicality": 0.6732177
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.74348074,
+          "topicality": 0.0017875362
+        },
+        {
+          "description": "Legume",
+          "mid": "/m/01sfdb",
+          "score": 0.67923915,
+          "topicality": 0.14166154
+        },
+        {
+          "description": "Legumes",
+          "mid": "/m/0gyw4",
+          "score": 0.5866111,
+          "topicality": 0.018959407
+        }
+      ]
+    }
+  ]
+}

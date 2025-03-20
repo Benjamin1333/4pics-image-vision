@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Collar",
+          "mid": "/m/091410",
+          "score": 0.96278065,
+          "topicality": 0.0021084098
+        },
+        {
+          "description": "Dress shirt",
+          "mid": "/m/06hwcd",
+          "score": 0.92478913,
+          "topicality": 0.0016267335
+        },
+        {
+          "description": "Button",
+          "mid": "/m/01s_bn",
+          "score": 0.821737,
+          "topicality": 0.0004193021
+        }
+      ]
+    }
+  ]
+}

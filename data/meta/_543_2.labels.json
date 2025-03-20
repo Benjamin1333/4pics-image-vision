@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Indoor games and sports",
+          "mid": "/m/0b42l9",
+          "score": 0.9723671,
+          "topicality": 0.0063450043
+        },
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.95409286,
+          "topicality": 0.0041801916
+        },
+        {
+          "description": "Gambling",
+          "mid": "/m/034dj",
+          "score": 0.93097603,
+          "topicality": 0.41536766
+        },
+        {
+          "description": "Game",
+          "mid": "/m/03bt1gh",
+          "score": 0.92739075,
+          "topicality": 0.22968136
+        },
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.9042048,
+          "topicality": 0.00015566438
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.89853156,
+          "topicality": 0.00070245663
+        },
+        {
+          "description": "Tabletop game",
+          "mid": "/m/03jj52",
+          "score": 0.8791502,
+          "topicality": 0.040275604
+        },
+        {
+          "description": "Play",
+          "mid": "/m/06wtgq",
+          "score": 0.8445494,
+          "topicality": 1.1435312e-05
+        },
+        {
+          "description": "Casino",
+          "mid": "/m/01lq3",
+          "score": 0.84315777,
+          "topicality": 0.23454732
+        },
+        {
+          "description": "Card game",
+          "mid": "/m/01mtt",
+          "score": 0.8398245,
+          "topicality": 0.14845578
+        }
+      ]
+    }
+  ]
+}

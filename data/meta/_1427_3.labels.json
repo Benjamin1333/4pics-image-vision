@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.7439834,
+          "topicality": 0.005492357
+        },
+        {
+          "description": "Frost",
+          "mid": "/m/033kf",
+          "score": 0.72834885,
+          "topicality": 0.03852885
+        },
+        {
+          "description": "Tread",
+          "mid": "/m/04tkfx",
+          "score": 0.7254537,
+          "topicality": 0.5078754
+        },
+        {
+          "description": "Spoke",
+          "mid": "/m/016xt7",
+          "score": 0.62264764,
+          "topicality": 0.038648337
+        },
+        {
+          "description": "Synthetic rubber",
+          "mid": "/m/05s771",
+          "score": 0.6186065,
+          "topicality": 0.0034798144
+        }
+      ]
+    }
+  ]
+}

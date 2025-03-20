@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Flagstone",
+          "mid": "/m/03nsfg",
+          "score": 0.79659635,
+          "topicality": 0.038857765
+        },
+        {
+          "description": "Garden",
+          "mid": "/m/0bl0l",
+          "score": 0.7913376,
+          "topicality": 0.5225877
+        },
+        {
+          "description": "Stone wall",
+          "mid": "/m/0bysjw",
+          "score": 0.7896039,
+          "topicality": 0.22067578
+        },
+        {
+          "description": "Landscaping",
+          "mid": "/m/025sv9y",
+          "score": 0.7572494,
+          "topicality": 0.35045418
+        },
+        {
+          "description": "Backyard",
+          "mid": "/m/0hrcj2p",
+          "score": 0.5685594,
+          "topicality": 0.07333143
+        },
+        {
+          "description": "Cobblestone",
+          "mid": "/m/02t2zd",
+          "score": 0.521094,
+          "topicality": 0.0007815909
+        },
+        {
+          "description": "Geraniums",
+          "mid": "/m/01y1_z",
+          "score": 0.50174147,
+          "topicality": 0.00018115013
+        }
+      ]
+    }
+  ]
+}

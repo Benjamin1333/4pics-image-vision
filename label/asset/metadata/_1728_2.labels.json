@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Performing Arts",
+          "mid": "/m/05qjc",
+          "score": 0.98513037,
+          "topicality": 0.030790059
+        },
+        {
+          "description": "Entertainment",
+          "mid": "/m/02jjt",
+          "score": 0.96816355,
+          "topicality": 0.005669394
+        },
+        {
+          "description": "Performance",
+          "mid": "/m/01gq53",
+          "score": 0.9578427,
+          "topicality": 0.018686222
+        },
+        {
+          "description": "Artist",
+          "mid": "/m/0n1h",
+          "score": 0.9226173,
+          "topicality": 0.032734036
+        },
+        {
+          "description": "Elbow",
+          "mid": "/m/01vm1p",
+          "score": 0.90986246,
+          "topicality": 0.00083996315
+        },
+        {
+          "description": "Acrobatics",
+          "mid": "/m/01dd1s",
+          "score": 0.8739239,
+          "topicality": 0.26608908
+        },
+        {
+          "description": "Athletic dance move",
+          "mid": "/j/23l6xl",
+          "score": 0.87157315,
+          "topicality": 0.003945474
+        },
+        {
+          "description": "Choreography",
+          "mid": "/m/018rn4",
+          "score": 0.85188085,
+          "topicality": 0.0037754802
+        },
+        {
+          "description": "Muscle",
+          "mid": "/m/04_fs",
+          "score": 0.837841,
+          "topicality": 0.00249252
+        },
+        {
+          "description": "Performance art",
+          "mid": "/m/01350r",
+          "score": 0.8363455,
+          "topicality": 0.016510384
+        }
+      ]
+    }
+  ]
+}

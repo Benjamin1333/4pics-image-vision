@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9742581,
+          "topicality": 0.112435065
+        },
+        {
+          "description": "Sphere",
+          "mid": "/m/06y47",
+          "score": 0.8382827,
+          "topicality": 0.23338306
+        },
+        {
+          "description": "Executive toy",
+          "mid": "/m/01xppg",
+          "score": 0.82718396,
+          "topicality": 0.07936246
+        },
+        {
+          "description": "Ball",
+          "mid": "/m/018xm",
+          "score": 0.58903986,
+          "topicality": 0.29199126
+        },
+        {
+          "description": "Triangle",
+          "mid": "/m/07jx7",
+          "score": 0.537691,
+          "topicality": 0.0048672133
+        },
+        {
+          "description": "Pendulum",
+          "mid": "/m/0bqrp",
+          "score": 0.50007325,
+          "topicality": 0.6086641
+        }
+      ]
+    }
+  ]
+}

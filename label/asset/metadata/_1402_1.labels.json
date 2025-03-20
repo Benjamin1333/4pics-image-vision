@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Elephant",
+          "mid": "/m/0bwd_0j",
+          "score": 0.9951369,
+          "topicality": 0.91249627
+        },
+        {
+          "description": "Tusk",
+          "mid": "/m/01n_j_",
+          "score": 0.97854716,
+          "topicality": 0.28128606
+        },
+        {
+          "description": "Natural environment",
+          "mid": "/m/02py09",
+          "score": 0.9743918,
+          "topicality": 0.01446074
+        },
+        {
+          "description": "African elephant",
+          "mid": "/m/04_r5c",
+          "score": 0.9694145,
+          "topicality": 0.69303143
+        },
+        {
+          "description": "Wildlife",
+          "mid": "/m/01280g",
+          "score": 0.96406734,
+          "topicality": 0.044567652
+        },
+        {
+          "description": "Working animal",
+          "mid": "/m/07_gml",
+          "score": 0.95773876,
+          "topicality": 0.0001705319
+        },
+        {
+          "description": "Terrestrial animal",
+          "mid": "/m/0fbf1m",
+          "score": 0.94575006,
+          "topicality": 0.018324945
+        },
+        {
+          "description": "Wilderness",
+          "mid": "/m/023bbt",
+          "score": 0.886421,
+          "topicality": 0.009494252
+        },
+        {
+          "description": "Nature reserve",
+          "mid": "/m/0swq_",
+          "score": 0.8628998,
+          "topicality": 0.0030583325
+        },
+        {
+          "description": "Safari",
+          "mid": "/m/0199b0",
+          "score": 0.8376324,
+          "topicality": 0.23976193
+        }
+      ]
+    }
+  ]
+}

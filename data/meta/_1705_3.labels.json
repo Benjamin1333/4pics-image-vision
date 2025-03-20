@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Brown",
+          "mid": "/m/09q2t",
+          "score": 0.9229815,
+          "topicality": 0.1105275
+        },
+        {
+          "description": "Wood stain",
+          "mid": "/m/05t06b",
+          "score": 0.7559969,
+          "topicality": 0.027891666
+        },
+        {
+          "description": "Hardwood",
+          "mid": "/m/020g49",
+          "score": 0.6493941,
+          "topicality": 0.012678138
+        }
+      ]
+    }
+  ]
+}

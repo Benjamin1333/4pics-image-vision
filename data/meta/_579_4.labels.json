@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.98056006,
+          "topicality": 0.0042284946
+        },
+        {
+          "description": "Entertainment",
+          "mid": "/m/02jjt",
+          "score": 0.9651651,
+          "topicality": 0.07682831
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.96423364,
+          "topicality": 0.006457892
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.9582808,
+          "topicality": 0.0043173553
+        },
+        {
+          "description": "Party",
+          "mid": "/m/05_4_",
+          "score": 0.9459579,
+          "topicality": 0.66752404
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.944838,
+          "topicality": 7.551366e-05
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.9240599,
+          "topicality": 0.0097108865
+        },
+        {
+          "description": "Disco",
+          "mid": "/m/026z9",
+          "score": 0.7747313,
+          "topicality": 0.20965008
+        },
+        {
+          "description": "Nightclub",
+          "mid": "/m/01sg9l",
+          "score": 0.7110528,
+          "topicality": 0.37187037
+        },
+        {
+          "description": "Celebrating",
+          "mid": "/j/6ckqtp",
+          "score": 0.6571317,
+          "topicality": 0.007546513
+        }
+      ]
+    }
+  ]
+}

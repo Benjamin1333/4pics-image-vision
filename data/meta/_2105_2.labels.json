@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Outer space",
+          "mid": "/m/01833w",
+          "score": 0.96518177,
+          "topicality": 0.13337544
+        },
+        {
+          "description": "Astronomical object",
+          "mid": "/m/01d9ll",
+          "score": 0.93487704,
+          "topicality": 0.24885528
+        },
+        {
+          "description": "Astronomy",
+          "mid": "/m/0dc_v",
+          "score": 0.9160812,
+          "topicality": 0.3911269
+        },
+        {
+          "description": "Universe",
+          "mid": "/m/07v7c",
+          "score": 0.88728327,
+          "topicality": 0.17290093
+        },
+        {
+          "description": "Planet",
+          "mid": "/m/05qc_",
+          "score": 0.8782421,
+          "topicality": 0.73033977
+        },
+        {
+          "description": "Sphere",
+          "mid": "/m/06y47",
+          "score": 0.70930064,
+          "topicality": 0.0136062475
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.60828227,
+          "topicality": 0.02370361
+        },
+        {
+          "description": "Star",
+          "mid": "/m/06ngk",
+          "score": 0.54059845,
+          "topicality": 0.032989684
+        },
+        {
+          "description": "Galaxy",
+          "mid": "/m/039b5",
+          "score": 0.5032858,
+          "topicality": 0.047259044
+        }
+      ]
+    }
+  ]
+}

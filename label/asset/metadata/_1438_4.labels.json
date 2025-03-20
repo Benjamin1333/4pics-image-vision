@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.9847782,
+          "topicality": 0.010765891
+        },
+        {
+          "description": "Taste",
+          "mid": "/m/0cp_p",
+          "score": 0.896311,
+          "topicality": 0.065368116
+        },
+        {
+          "description": "Citrus",
+          "mid": "/m/0dqb5",
+          "score": 0.88868934,
+          "topicality": 0.02043493
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.8846443,
+          "topicality": 0.12487381
+        },
+        {
+          "description": "Eating",
+          "mid": "/m/01f5gx",
+          "score": 0.8606293,
+          "topicality": 0.3612409
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.81033367,
+          "topicality": 0.043745115
+        },
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.77800995,
+          "topicality": 0.03613873
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.76359034,
+          "topicality": 0.030317139
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.7384055,
+          "topicality": 0.0062477197
+        },
+        {
+          "description": "Food craving",
+          "mid": "/m/0b76y0",
+          "score": 0.7358149,
+          "topicality": 0.009045032
+        }
+      ]
+    }
+  ]
+}

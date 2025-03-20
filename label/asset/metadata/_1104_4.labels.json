@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sports venue",
+          "mid": "/m/0bmgjqz",
+          "score": 0.8786224,
+          "topicality": 0.002743497
+        },
+        {
+          "description": "Baseball",
+          "mid": "/m/018jz",
+          "score": 0.84866774,
+          "topicality": 0.7050025
+        },
+        {
+          "description": "Baseball field",
+          "mid": "/m/03v7tf",
+          "score": 0.8192217,
+          "topicality": 0.74890727
+        },
+        {
+          "description": "Soil",
+          "mid": "/m/09dv7",
+          "score": 0.80075324,
+          "topicality": 0.0071022473
+        },
+        {
+          "description": "baseball equipment",
+          "mid": "/m/07pdzb4",
+          "score": 0.6216441,
+          "topicality": 0.003085441
+        },
+        {
+          "description": "Artificial turf",
+          "mid": "/m/04bzth",
+          "score": 0.61672854,
+          "topicality": 0.008600128
+        },
+        {
+          "description": "Bat-and-ball games",
+          "mid": "/m/027zgtw",
+          "score": 0.59009844,
+          "topicality": 0.008431636
+        },
+        {
+          "description": "Softball",
+          "mid": "/m/0kw94",
+          "score": 0.5454266,
+          "topicality": 0.13877416
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Motorcycle",
+          "mid": "/m/04_sv",
+          "score": 0.9929228,
+          "topicality": 0.54864085
+        },
+        {
+          "description": "Wheel",
+          "mid": "/m/083wq",
+          "score": 0.97829765,
+          "topicality": 0.009207513
+        },
+        {
+          "description": "Motor vehicle",
+          "mid": "/m/012f08",
+          "score": 0.9759281,
+          "topicality": 0.00059250696
+        },
+        {
+          "description": "Tire",
+          "mid": "/m/0h9mv",
+          "score": 0.9750209,
+          "topicality": 0.008000978
+        },
+        {
+          "description": "Helmet",
+          "mid": "/m/0zvk5",
+          "score": 0.97030926,
+          "topicality": 0.008061973
+        },
+        {
+          "description": "Personal protective equipment",
+          "mid": "/m/0ffjr",
+          "score": 0.9636931,
+          "topicality": 0.000105135936
+        },
+        {
+          "description": "Motorcycle helmet",
+          "mid": "/m/01bb9b",
+          "score": 0.96059644,
+          "topicality": 0.0047716247
+        },
+        {
+          "description": "Automotive Tire",
+          "mid": "/m/0h8pb3l",
+          "score": 0.9594807,
+          "topicality": 6.969468e-05
+        },
+        {
+          "description": "Protective gear in sports",
+          "mid": "/m/0n49352",
+          "score": 0.9515674,
+          "topicality": 8.896429e-05
+        },
+        {
+          "description": "Automotive Exterior",
+          "mid": "/m/0h8ls87",
+          "score": 0.950568,
+          "topicality": 6.3637003e-06
+        }
+      ]
+    }
+  ]
+}

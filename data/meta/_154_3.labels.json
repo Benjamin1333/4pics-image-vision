@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Incandescent light bulb",
+          "mid": "/m/0cpk7",
+          "score": 0.91479415,
+          "topicality": 0.9349924
+        },
+        {
+          "description": "Compact fluorescent lamp",
+          "mid": "/m/04gvd_",
+          "score": 0.7216771,
+          "topicality": 0.21387327
+        },
+        {
+          "description": "Light Bulb",
+          "mid": "/m/0h8l4fh",
+          "score": 0.70118093,
+          "topicality": 0.018920228
+        }
+      ]
+    }
+  ]
+}

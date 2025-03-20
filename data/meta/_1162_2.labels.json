@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94485354,
+          "topicality": 0.07690478
+        },
+        {
+          "description": "Emoticon",
+          "mid": "/m/02ngh",
+          "score": 0.7955813,
+          "topicality": 0.60211253
+        },
+        {
+          "description": "Smiley",
+          "mid": "/m/06n05",
+          "score": 0.7698508,
+          "topicality": 0.48845765
+        }
+      ]
+    }
+  ]
+}

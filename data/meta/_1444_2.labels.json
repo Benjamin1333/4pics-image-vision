@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.98151517,
+          "topicality": 0.488911
+        },
+        {
+          "description": "Citrus",
+          "mid": "/m/0dqb5",
+          "score": 0.9610779,
+          "topicality": 0.22694428
+        },
+        {
+          "description": "Grapefruit",
+          "mid": "/m/0hqkz",
+          "score": 0.95702344,
+          "topicality": 0.843891
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.95090526,
+          "topicality": 0.042250317
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.92268807,
+          "topicality": 0.010114204
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.92124546,
+          "topicality": 0.002702144
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.92124087,
+          "topicality": 0.0007450154
+        },
+        {
+          "description": "Orange",
+          "mid": "/m/0cyhj_",
+          "score": 0.9128108,
+          "topicality": 0.13025683
+        },
+        {
+          "description": "Clementine",
+          "mid": "/m/0l7hb",
+          "score": 0.8983145,
+          "topicality": 0.0015633979
+        },
+        {
+          "description": "Rangpur",
+          "mid": "/m/0c17fh",
+          "score": 0.8761632,
+          "topicality": 0.0012563348
+        }
+      ]
+    }
+  ]
+}

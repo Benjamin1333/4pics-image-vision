@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.96816856,
+          "topicality": 0.008931108
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.7119754,
+          "topicality": 0.0009760225
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6879729,
+          "topicality": 0.0043296088
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.6027756,
+          "topicality": 0.056889072
+        }
+      ]
+    }
+  ]
+}

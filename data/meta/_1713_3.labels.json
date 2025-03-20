@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Stemware",
+          "mid": "/m/050h0q",
+          "score": 0.98558533,
+          "topicality": 0.02545105
+        },
+        {
+          "description": "Tableware",
+          "mid": "/m/04brg2",
+          "score": 0.9846992,
+          "topicality": 0.023660595
+        },
+        {
+          "description": "Drinkware",
+          "mid": "/m/050h26",
+          "score": 0.978216,
+          "topicality": 0.0030718215
+        },
+        {
+          "description": "Serveware",
+          "mid": "/m/0h8n22v",
+          "score": 0.9611009,
+          "topicality": 0.0012173592
+        },
+        {
+          "description": "Wine glass",
+          "mid": "/m/09tvcd",
+          "score": 0.960221,
+          "topicality": 0.059471507
+        },
+        {
+          "description": "Table",
+          "mid": "/m/04bcr3",
+          "score": 0.9596096,
+          "topicality": 0.11869997
+        },
+        {
+          "description": "Dishware",
+          "mid": "/m/0h8nvk9",
+          "score": 0.9550615,
+          "topicality": 0.0015787424
+        },
+        {
+          "description": "Cutlery",
+          "mid": "/m/023pjk",
+          "score": 0.924045,
+          "topicality": 0.009213262
+        },
+        {
+          "description": "Barware",
+          "mid": "/m/0h8nvcj",
+          "score": 0.9229971,
+          "topicality": 0.0012607856
+        },
+        {
+          "description": "Champagne glass",
+          "mid": "/m/02q68d8",
+          "score": 0.9221383,
+          "topicality": 0.026325952
+        }
+      ]
+    }
+  ]
+}

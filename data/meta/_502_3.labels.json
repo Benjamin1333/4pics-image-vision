@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "People",
+          "mid": "/m/09g5pq",
+          "score": 0.9943071,
+          "topicality": 0.0026637067
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.94429696,
+          "topicality": 0.077202454
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.91398424,
+          "topicality": 0.0842033
+        },
+        {
+          "description": "Greeting",
+          "mid": "/m/02q2qc",
+          "score": 0.9030035,
+          "topicality": 0.077833965
+        },
+        {
+          "description": "Conversation",
+          "mid": "/m/01h8n0",
+          "score": 0.8609239,
+          "topicality": 0.16477846
+        },
+        {
+          "description": "Holding hands",
+          "mid": "/m/01613k",
+          "score": 0.64534986,
+          "topicality": 0.008551053
+        },
+        {
+          "description": "Love",
+          "mid": "/m/048knlz",
+          "score": 0.5863906,
+          "topicality": 0.008849744
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.5718899,
+          "topicality": 0.13097101
+        },
+        {
+          "description": "Hearing",
+          "mid": "/m/01wymn",
+          "score": 0.5501829,
+          "topicality": 0.012394606
+        },
+        {
+          "description": "Handshake",
+          "mid": "/m/016133",
+          "score": 0.5465034,
+          "topicality": 0.104126304
+        }
+      ]
+    }
+  ]
+}

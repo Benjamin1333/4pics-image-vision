@@ -1,0 +1,14 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Liverworts",
+          "mid": "/m/02057l",
+          "score": 0.54719245,
+          "topicality": 0.0002352917
+        }
+      ]
+    }
+  ]
+}

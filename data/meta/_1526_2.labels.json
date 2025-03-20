@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Ballet flat",
+          "mid": "/m/02r456g",
+          "score": 0.9185672,
+          "topicality": 0.86440843
+        },
+        {
+          "description": "Suede",
+          "mid": "/m/016qdn",
+          "score": 0.88023376,
+          "topicality": 0.42132857
+        },
+        {
+          "description": "Velvet",
+          "mid": "/m/011ljn",
+          "score": 0.77380097,
+          "topicality": 0.030685676
+        },
+        {
+          "description": "Leather",
+          "mid": "/m/04lbp",
+          "score": 0.6205619,
+          "topicality": 0.027430268
+        },
+        {
+          "description": "Dancing Shoe",
+          "mid": "/m/0h8mz41",
+          "score": 0.61997795,
+          "topicality": 7.738453e-05
+        },
+        {
+          "description": "Dress shoe",
+          "mid": "/m/0bcl4q",
+          "score": 0.5109341,
+          "topicality": 0.00310996
+        },
+        {
+          "description": "Basic Pump",
+          "mid": "/m/0hgscdg",
+          "score": 0.5028788,
+          "topicality": 0.0010533219
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Weights",
+          "mid": "/m/0hzsv",
+          "score": 0.9795308,
+          "topicality": 0.0028580145
+        },
+        {
+          "description": "Physical fitness",
+          "mid": "/m/027x7n",
+          "score": 0.974908,
+          "topicality": 0.24901073
+        },
+        {
+          "description": "Bodybuilding",
+          "mid": "/m/01ddm",
+          "score": 0.97298044,
+          "topicality": 0.56474876
+        },
+        {
+          "description": "Weight training",
+          "mid": "/m/0c4f_",
+          "score": 0.9693301,
+          "topicality": 0.29786628
+        },
+        {
+          "description": "Bodybuilder",
+          "mid": "/m/02h6dmm",
+          "score": 0.96293116,
+          "topicality": 0.22610177
+        },
+        {
+          "description": "Barbell",
+          "mid": "/m/03_163",
+          "score": 0.9415143,
+          "topicality": 0.10542474
+        },
+        {
+          "description": "Strength training",
+          "mid": "/m/04lbbc",
+          "score": 0.93103397,
+          "topicality": 0.11125216
+        },
+        {
+          "description": "Muscle",
+          "mid": "/m/04_fs",
+          "score": 0.93023235,
+          "topicality": 0.35974333
+        },
+        {
+          "description": "Exercise",
+          "mid": "/m/019w6h",
+          "score": 0.9269482,
+          "topicality": 0.29432252
+        },
+        {
+          "description": "Exercise equipment",
+          "mid": "/m/090ljv",
+          "score": 0.90545,
+          "topicality": 0.0016275742
+        }
+      ]
+    }
+  ]
+}

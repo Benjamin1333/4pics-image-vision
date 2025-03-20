@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.9950054,
+          "topicality": 0.24137112
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9660543,
+          "topicality": 0.01467735
+        },
+        {
+          "description": "Finger food",
+          "mid": "/m/0b3dyl",
+          "score": 0.95793617,
+          "topicality": 0.0021900246
+        },
+        {
+          "description": "Hamburger",
+          "mid": "/m/0cdn1",
+          "score": 0.9562712,
+          "topicality": 0.8149948
+        },
+        {
+          "description": "Fast food",
+          "mid": "/m/01_bhs",
+          "score": 0.9441048,
+          "topicality": 0.10282986
+        },
+        {
+          "description": "Veggie burger",
+          "mid": "/m/03f476",
+          "score": 0.9382097,
+          "topicality": 0.2581572
+        },
+        {
+          "description": "Bread",
+          "mid": "/m/09728",
+          "score": 0.92712903,
+          "topicality": 0.024426283
+        },
+        {
+          "description": "Bun",
+          "mid": "/m/0119x1zy",
+          "score": 0.92521167,
+          "topicality": 0.0516699
+        },
+        {
+          "description": "Meat",
+          "mid": "/m/04scj",
+          "score": 0.9124048,
+          "topicality": 0.058355678
+        },
+        {
+          "description": "Sandwich",
+          "mid": "/m/0l515",
+          "score": 0.8943138,
+          "topicality": 0.14086892
+        }
+      ]
+    }
+  ]
+}

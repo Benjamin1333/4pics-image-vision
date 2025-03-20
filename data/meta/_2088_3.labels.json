@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Fixed-wing aircraft",
+          "mid": "/m/0cmf2",
+          "score": 0.9796421,
+          "topicality": 0.65553254
+        },
+        {
+          "description": "Aircraft",
+          "mid": "/m/0k5j",
+          "score": 0.97712195,
+          "topicality": 0.273973
+        },
+        {
+          "description": "Transport",
+          "mid": "/m/07bsy",
+          "score": 0.9670708,
+          "topicality": 0.146169
+        },
+        {
+          "description": "Air travel",
+          "mid": "/m/025t3bg",
+          "score": 0.9610094,
+          "topicality": 0.20299871
+        },
+        {
+          "description": "Aviation",
+          "mid": "/m/0fzyg",
+          "score": 0.9330048,
+          "topicality": 0.38487643
+        },
+        {
+          "description": "Flight",
+          "mid": "/m/01515d",
+          "score": 0.9103752,
+          "topicality": 0.43324372
+        },
+        {
+          "description": "Wing",
+          "mid": "/m/083s2",
+          "score": 0.9050131,
+          "topicality": 0.020610621
+        },
+        {
+          "description": "Aerospace Engineering",
+          "mid": "/m/0w7s",
+          "score": 0.88649446,
+          "topicality": 0.060431726
+        },
+        {
+          "description": "Airline",
+          "mid": "/m/0vg8",
+          "score": 0.8794214,
+          "topicality": 0.4020369
+        },
+        {
+          "description": "Jet engine",
+          "mid": "/m/04229",
+          "score": 0.87321925,
+          "topicality": 0.014772674
+        }
+      ]
+    }
+  ]
+}

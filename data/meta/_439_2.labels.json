@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.9893932,
+          "topicality": 0.06828981
+        },
+        {
+          "description": "Water",
+          "mid": "/m/0838f",
+          "score": 0.97996676,
+          "topicality": 0.14393114
+        },
+        {
+          "description": "Fish",
+          "mid": "/m/0ch_cf",
+          "score": 0.9779635,
+          "topicality": 0.22552939
+        },
+        {
+          "description": "Underwater",
+          "mid": "/m/01sfb5",
+          "score": 0.9692391,
+          "topicality": 0.5560226
+        },
+        {
+          "description": "Fluid",
+          "mid": "/m/02yfx",
+          "score": 0.9559153,
+          "topicality": 0.00045419298
+        },
+        {
+          "description": "Marine biology",
+          "mid": "/m/050vn",
+          "score": 0.95151454,
+          "topicality": 0.039441865
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.9432037,
+          "topicality": 0.4428683
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.930475,
+          "topicality": 0.46724036
+        },
+        {
+          "description": "Coral reef",
+          "mid": "/m/0l_br",
+          "score": 0.9256372,
+          "topicality": 0.4994863
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.9169099,
+          "topicality": 0.00027697344
+        }
+      ]
+    }
+  ]
+}

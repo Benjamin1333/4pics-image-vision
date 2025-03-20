@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "People",
+          "mid": "/m/09g5pq",
+          "score": 0.99435693,
+          "topicality": 0.008443428
+        },
+        {
+          "description": "Meeting",
+          "mid": "/m/01h6cb",
+          "score": 0.9432225,
+          "topicality": 0.57227
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.9093253,
+          "topicality": 0.04627854
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.90535396,
+          "topicality": 0.020800382
+        },
+        {
+          "description": "Table",
+          "mid": "/m/04bcr3",
+          "score": 0.90348125,
+          "topicality": 0.004823143
+        },
+        {
+          "description": "Furniture",
+          "mid": "/m/0c_jw",
+          "score": 0.8928469,
+          "topicality": 0.0016130815
+        },
+        {
+          "description": "Sitting",
+          "mid": "/m/015c4z",
+          "score": 0.8897167,
+          "topicality": 0.02522548
+        },
+        {
+          "description": "Team",
+          "mid": "/m/011l78",
+          "score": 0.87339526,
+          "topicality": 0.46739963
+        },
+        {
+          "description": "Friendship",
+          "mid": "/m/019_nn",
+          "score": 0.8671933,
+          "topicality": 0.013983598
+        },
+        {
+          "description": "Conversation",
+          "mid": "/m/01h8n0",
+          "score": 0.8590906,
+          "topicality": 0.08848201
+        }
+      ]
+    }
+  ]
+}

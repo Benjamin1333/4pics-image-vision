@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bird",
+          "mid": "/m/015p6",
+          "score": 0.9951355,
+          "topicality": 0.4229345
+        },
+        {
+          "description": "Beak",
+          "mid": "/m/01c4rd",
+          "score": 0.9777732,
+          "topicality": 0.12544607
+        },
+        {
+          "description": "Macaw",
+          "mid": "/m/0gv35",
+          "score": 0.9775808,
+          "topicality": 0.7370936
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9774552,
+          "topicality": 0.078086056
+        },
+        {
+          "description": "Parrot",
+          "mid": "/m/0gv1x",
+          "score": 0.9620681,
+          "topicality": 0.56663895
+        },
+        {
+          "description": "Vertebrate",
+          "mid": "/m/09686",
+          "score": 0.96128726,
+          "topicality": 0.00972582
+        },
+        {
+          "description": "Black",
+          "mid": "/m/019sc",
+          "score": 0.90648586,
+          "topicality": 0.00095442426
+        },
+        {
+          "description": "Feather",
+          "mid": "/m/0dfgf",
+          "score": 0.8853138,
+          "topicality": 0.001800773
+        },
+        {
+          "description": "Wing",
+          "mid": "/m/083s2",
+          "score": 0.8689959,
+          "topicality": 0.0013788403
+        },
+        {
+          "description": "Close-up",
+          "mid": "/m/02cqfm",
+          "score": 0.85083807,
+          "topicality": 0.06569691
+        }
+      ]
+    }
+  ]
+}

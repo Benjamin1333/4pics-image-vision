@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Car",
+          "mid": "/m/0k4j",
+          "score": 0.9821235,
+          "topicality": 0.23269571
+        },
+        {
+          "description": "Motor vehicle",
+          "mid": "/m/012f08",
+          "score": 0.97287077,
+          "topicality": 0.04146428
+        },
+        {
+          "description": "Automotive Exterior",
+          "mid": "/m/0h8ls87",
+          "score": 0.9482584,
+          "topicality": 0.00078368065
+        },
+        {
+          "description": "Car door",
+          "mid": "/m/02q2kc3",
+          "score": 0.9447231,
+          "topicality": 0.14635491
+        },
+        {
+          "description": "Automotive Tire",
+          "mid": "/m/0h8pb3l",
+          "score": 0.9289462,
+          "topicality": 0.00021284349
+        },
+        {
+          "description": "Automotive Wheel System",
+          "mid": "/m/0h8ly30",
+          "score": 0.8842495,
+          "topicality": 0.00011690854
+        },
+        {
+          "description": "Hubcap",
+          "mid": "/m/01sdr3",
+          "score": 0.87791264,
+          "topicality": 0.0002514293
+        },
+        {
+          "description": "Automotive Mirror",
+          "mid": "/m/0h8lk4b",
+          "score": 0.8587392,
+          "topicality": 0.00011226376
+        },
+        {
+          "description": "Bumper",
+          "mid": "/m/02mnkq",
+          "score": 0.84896666,
+          "topicality": 0.0003212095
+        },
+        {
+          "description": "Fender",
+          "mid": "/m/0d74dx",
+          "score": 0.84158313,
+          "topicality": 0.00011214501
+        }
+      ]
+    }
+  ]
+}

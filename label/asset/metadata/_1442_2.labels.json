@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Clothing",
+          "mid": "/m/09j2d",
+          "score": 0.9938922,
+          "topicality": 0.0025051066
+        },
+        {
+          "description": "Ski Equipment",
+          "mid": "/m/0cl9t3p",
+          "score": 0.97937393,
+          "topicality": 0.052639034
+        },
+        {
+          "description": "Winter sports",
+          "mid": "/m/09qf5",
+          "score": 0.9721337,
+          "topicality": 0.27062044
+        },
+        {
+          "description": "Ski",
+          "mid": "/m/071p9",
+          "score": 0.96552753,
+          "topicality": 0.45803955
+        },
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.9558994,
+          "topicality": 0.032307748
+        },
+        {
+          "description": "Ski helmet",
+          "mid": "/m/0f9s4s",
+          "score": 0.95147973,
+          "topicality": 0.012154204
+        },
+        {
+          "description": "Personal protective equipment",
+          "mid": "/m/0ffjr",
+          "score": 0.9419333,
+          "topicality": 0.0011644968
+        },
+        {
+          "description": "Sports equipment",
+          "mid": "/m/05y5lj",
+          "score": 0.934281,
+          "topicality": 0.018480314
+        },
+        {
+          "description": "Individual sport",
+          "mid": "/m/08t0vy",
+          "score": 0.93292284,
+          "topicality": 0.0026262999
+        },
+        {
+          "description": "Outdoor recreation",
+          "mid": "/m/05b0n7k",
+          "score": 0.92802763,
+          "topicality": 0.023057017
+        }
+      ]
+    }
+  ]
+}

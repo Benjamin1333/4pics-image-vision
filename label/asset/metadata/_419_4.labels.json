@@ -1,0 +1,14 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Antique",
+          "mid": "/m/01ys2s",
+          "score": 0.5984494,
+          "topicality": 0.0591738
+        }
+      ]
+    }
+  ]
+}

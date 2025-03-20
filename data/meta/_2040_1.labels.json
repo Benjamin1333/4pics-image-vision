@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Military Person",
+          "mid": "/m/02h66g5",
+          "score": 0.99090874,
+          "topicality": 0.004004975
+        },
+        {
+          "description": "Soldier",
+          "mid": "/m/099md",
+          "score": 0.98716915,
+          "topicality": 0.465176
+        },
+        {
+          "description": "Military uniform",
+          "mid": "/m/03w1r4",
+          "score": 0.98594445,
+          "topicality": 0.3916907
+        },
+        {
+          "description": "Camouflage",
+          "mid": "/m/01x2j",
+          "score": 0.9854715,
+          "topicality": 0.09955247
+        },
+        {
+          "description": "Army",
+          "mid": "/m/0pd7",
+          "score": 0.98431987,
+          "topicality": 0.20562516
+        },
+        {
+          "description": "Uniform",
+          "mid": "/m/09jfs",
+          "score": 0.9831697,
+          "topicality": 0.13879855
+        },
+        {
+          "description": "Military camouflage",
+          "mid": "/m/09l63h",
+          "score": 0.9808617,
+          "topicality": 0.107261874
+        },
+        {
+          "description": "Military",
+          "mid": "/m/01h6rj",
+          "score": 0.9633953,
+          "topicality": 0.36442482
+        },
+        {
+          "description": "Military organization",
+          "mid": "/m/0gjwxv",
+          "score": 0.9580121,
+          "topicality": 0.045994375
+        },
+        {
+          "description": "Cargo pants",
+          "mid": "/m/08k64l",
+          "score": 0.94197834,
+          "topicality": 0.0056746053
+        }
+      ]
+    }
+  ]
+}

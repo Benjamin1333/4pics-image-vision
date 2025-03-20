@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Leaf",
+          "mid": "/m/09t49",
+          "score": 0.9826341,
+          "topicality": 0.08034719
+        },
+        {
+          "description": "Nature",
+          "mid": "/m/05h0n",
+          "score": 0.9782011,
+          "topicality": 0.41881827
+        },
+        {
+          "description": "Green",
+          "mid": "/m/038hg",
+          "score": 0.97609067,
+          "topicality": 0.04005842
+        },
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.9736376,
+          "topicality": 0.027124971
+        },
+        {
+          "description": "Branch",
+          "mid": "/m/0b5gs",
+          "score": 0.9699546,
+          "topicality": 0.036370944
+        },
+        {
+          "description": "Wood",
+          "mid": "/m/083vt",
+          "score": 0.9639217,
+          "topicality": 0.012041779
+        },
+        {
+          "description": "Forest",
+          "mid": "/m/02zr8",
+          "score": 0.94056886,
+          "topicality": 0.62576234
+        },
+        {
+          "description": "Grove",
+          "mid": "/m/03ljvf",
+          "score": 0.9091866,
+          "topicality": 0.04534582
+        },
+        {
+          "description": "Orange",
+          "mid": "/m/0jc_p",
+          "score": 0.90350515,
+          "topicality": 0.010163101
+        },
+        {
+          "description": "Trunk",
+          "mid": "/m/02tcwp",
+          "score": 0.9034179,
+          "topicality": 0.026625184
+        }
+      ]
+    }
+  ]
+}

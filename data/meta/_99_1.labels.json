@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9768417,
+          "topicality": 0.08988349
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.936566,
+          "topicality": 0.00080528966
+        },
+        {
+          "description": "Dress",
+          "mid": "/m/01d40f",
+          "score": 0.8901992,
+          "topicality": 0.011864215
+        },
+        {
+          "description": "People in nature",
+          "mid": "/j/3gbwgn",
+          "score": 0.84941393,
+          "topicality": 0.0007361744
+        },
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.8475571,
+          "topicality": 0.003939645
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.84178984,
+          "topicality": 0.019179823
+        },
+        {
+          "description": "Jumping",
+          "mid": "/m/0by3w",
+          "score": 0.8353751,
+          "topicality": 0.0802726
+        },
+        {
+          "description": "Love",
+          "mid": "/m/048knlz",
+          "score": 0.80345666,
+          "topicality": 0.24964634
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.78266895,
+          "topicality": 0.0031285803
+        },
+        {
+          "description": "Bride",
+          "mid": "/m/0ltfs",
+          "score": 0.6259938,
+          "topicality": 0.060805522
+        }
+      ]
+    }
+  ]
+}

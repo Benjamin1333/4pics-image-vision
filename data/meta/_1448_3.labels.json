@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Personal care",
+          "mid": "/m/02w3_ws",
+          "score": 0.8869467,
+          "topicality": 0.0034770092
+        },
+        {
+          "description": "Facial hair",
+          "mid": "/m/0ds5b",
+          "score": 0.792917,
+          "topicality": 0.008518454
+        },
+        {
+          "description": "Hair care",
+          "mid": "/m/07hsg5",
+          "score": 0.76840776,
+          "topicality": 0.076604664
+        },
+        {
+          "description": "Hair coloring",
+          "mid": "/m/028mzr",
+          "score": 0.76528525,
+          "topicality": 0.05098697
+        },
+        {
+          "description": "Personal grooming",
+          "mid": "/m/02m1vq",
+          "score": 0.7449491,
+          "topicality": 0.024236705
+        },
+        {
+          "description": "Dye",
+          "mid": "/m/028qp",
+          "score": 0.55254155,
+          "topicality": 0.039647475
+        },
+        {
+          "description": "Makeover",
+          "mid": "/m/02qp_b",
+          "score": 0.50713533,
+          "topicality": 0.00041777856
+        }
+      ]
+    }
+  ]
+}

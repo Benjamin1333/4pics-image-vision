@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Game",
+          "mid": "/m/03bt1gh",
+          "score": 0.91676307,
+          "topicality": 0.13882737
+        },
+        {
+          "description": "Gambling",
+          "mid": "/m/034dj",
+          "score": 0.8828283,
+          "topicality": 0.4182109
+        },
+        {
+          "description": "Formal wear",
+          "mid": "/m/02w3_2",
+          "score": 0.8813505,
+          "topicality": 0.0030081768
+        },
+        {
+          "description": "Necktie",
+          "mid": "/m/01rkbr",
+          "score": 0.8699471,
+          "topicality": 0.0055795223
+        },
+        {
+          "description": "Poker table",
+          "mid": "/m/02qsn9g",
+          "score": 0.83601266,
+          "topicality": 0.17719118
+        },
+        {
+          "description": "Card game",
+          "mid": "/m/01mtt",
+          "score": 0.8195438,
+          "topicality": 0.07499208
+        },
+        {
+          "description": "Poker",
+          "mid": "/m/05r1j",
+          "score": 0.7898329,
+          "topicality": 0.600412
+        },
+        {
+          "description": "Casino",
+          "mid": "/m/01lq3",
+          "score": 0.72339916,
+          "topicality": 0.35685852
+        },
+        {
+          "description": "Poker Set",
+          "mid": "/m/0hgry_b",
+          "score": 0.71371585,
+          "topicality": 0.0045499783
+        },
+        {
+          "description": "Tabletop game",
+          "mid": "/m/03jj52",
+          "score": 0.6164368,
+          "topicality": 0.0073914994
+        }
+      ]
+    }
+  ]
+}

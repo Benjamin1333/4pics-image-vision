@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Golfer",
+          "mid": "/m/025smyp",
+          "score": 0.9738015,
+          "topicality": 0.12623343
+        },
+        {
+          "description": "Golf equipment",
+          "mid": "/m/02w7b0t",
+          "score": 0.9702493,
+          "topicality": 0.014813189
+        },
+        {
+          "description": "Individual sport",
+          "mid": "/m/08t0vy",
+          "score": 0.9606839,
+          "topicality": 0.0015889256
+        },
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.95493805,
+          "topicality": 0.05090103
+        },
+        {
+          "description": "Golf club",
+          "mid": "/m/03gzqq",
+          "score": 0.9527437,
+          "topicality": 0.013455464
+        },
+        {
+          "description": "Golf",
+          "mid": "/m/037hz",
+          "score": 0.9293838,
+          "topicality": 0.70780814
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.92850286,
+          "topicality": 0.12401989
+        },
+        {
+          "description": "Ball game",
+          "mid": "/m/020m7t",
+          "score": 0.92558056,
+          "topicality": 0.0059187426
+        },
+        {
+          "description": "Sports equipment",
+          "mid": "/m/05y5lj",
+          "score": 0.9254129,
+          "topicality": 0.0027026806
+        },
+        {
+          "description": "Putter",
+          "mid": "/m/03clnd_",
+          "score": 0.9176381,
+          "topicality": 0.013042623
+        }
+      ]
+    }
+  ]
+}

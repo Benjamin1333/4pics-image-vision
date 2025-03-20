@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.97611743,
+          "topicality": 0.026118236
+        },
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.88411826,
+          "topicality": 0.008855263
+        },
+        {
+          "description": "Photographic film",
+          "mid": "/m/0cshn",
+          "score": 0.85379493,
+          "topicality": 0.8557602
+        },
+        {
+          "description": "Negative",
+          "mid": "/m/024kk2",
+          "score": 0.7679587,
+          "topicality": 0.44517267
+        },
+        {
+          "description": "Lens",
+          "mid": "/m/04n4x",
+          "score": 0.5211909,
+          "topicality": 0.037149724
+        }
+      ]
+    }
+  ]
+}

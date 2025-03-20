@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Daytime",
+          "mid": "/m/02q7ylj",
+          "score": 0.9814484,
+          "topicality": 0.001391711
+        },
+        {
+          "description": "Metal",
+          "mid": "/m/04t7l",
+          "score": 0.87174606,
+          "topicality": 0.0033726944
+        },
+        {
+          "description": "Engineering",
+          "mid": "/m/02ky346",
+          "score": 0.8541766,
+          "topicality": 0.0062166518
+        },
+        {
+          "description": "Iron",
+          "mid": "/m/025rw19",
+          "score": 0.85245425,
+          "topicality": 0.0020886862
+        },
+        {
+          "description": "Dome",
+          "mid": "/m/016br2",
+          "score": 0.8056296,
+          "topicality": 0.5625934
+        },
+        {
+          "description": "Glass",
+          "mid": "/m/039jq",
+          "score": 0.7874363,
+          "topicality": 0.00084916025
+        },
+        {
+          "description": "Steel",
+          "mid": "/m/06qqb",
+          "score": 0.72069854,
+          "topicality": 0.019090127
+        },
+        {
+          "description": "Daylighting",
+          "mid": "/m/0k2n5",
+          "score": 0.6852768,
+          "topicality": 0.0016412672
+        },
+        {
+          "description": "Dome",
+          "mid": "/m/0c85fd",
+          "score": 0.66149026,
+          "topicality": 0.069519624
+        },
+        {
+          "description": "Aluminium",
+          "mid": "/m/027vj2v",
+          "score": 0.6363402,
+          "topicality": 0.0012395473
+        }
+      ]
+    }
+  ]
+}

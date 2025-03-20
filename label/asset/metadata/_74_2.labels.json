@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Pebble",
+          "mid": "/m/01tp0c",
+          "score": 0.949563,
+          "topicality": 0.6083099
+        },
+        {
+          "description": "Rock",
+          "mid": "/m/01cbzq",
+          "score": 0.91572756,
+          "topicality": 0.52670944
+        },
+        {
+          "description": "Balance",
+          "mid": "/m/03gs8b2",
+          "score": 0.7909807,
+          "topicality": 0.119243026
+        },
+        {
+          "description": "Natural material",
+          "mid": "/m/07sx2n",
+          "score": 0.7677807,
+          "topicality": 0.0012204299
+        },
+        {
+          "description": "Still life photography",
+          "mid": "/m/027_ny3",
+          "score": 0.5577228,
+          "topicality": 0.002990645
+        },
+        {
+          "description": "Zen",
+          "mid": "/m/0899b",
+          "score": 0.51319295,
+          "topicality": 0.85172653
+        }
+      ]
+    }
+  ]
+}

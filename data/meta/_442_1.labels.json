@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blackboard",
+          "mid": "/m/02kdvj",
+          "score": 0.9744619,
+          "topicality": 0.17841491
+        },
+        {
+          "description": "Number",
+          "mid": "/m/05fwb",
+          "score": 0.8870551,
+          "topicality": 0.010772897
+        },
+        {
+          "description": "Chalk",
+          "mid": "/m/0c5q8",
+          "score": 0.8823379,
+          "topicality": 0.47557965
+        },
+        {
+          "description": "Teacher",
+          "mid": "/m/01d30f",
+          "score": 0.8449081,
+          "topicality": 0.21303709
+        },
+        {
+          "description": "Diagram",
+          "mid": "/m/02v0m2",
+          "score": 0.83592635,
+          "topicality": 0.044774942
+        },
+        {
+          "description": "Classroom",
+          "mid": "/m/04hyxm",
+          "score": 0.81497437,
+          "topicality": 0.017556991
+        },
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.70782334,
+          "topicality": 0.0048802635
+        },
+        {
+          "description": "Learning",
+          "mid": "/m/0191f8",
+          "score": 0.7075707,
+          "topicality": 0.0142224105
+        },
+        {
+          "description": "Plan",
+          "mid": "/m/018jrr",
+          "score": 0.68694067,
+          "topicality": 0.013543692
+        },
+        {
+          "description": "Writing",
+          "mid": "/m/081rb",
+          "score": 0.68396664,
+          "topicality": 0.086921215
+        }
+      ]
+    }
+  ]
+}

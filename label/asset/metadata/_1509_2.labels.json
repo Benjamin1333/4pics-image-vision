@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Spa",
+          "mid": "/m/05jh_c",
+          "score": 0.96428853,
+          "topicality": 0.4043436
+        },
+        {
+          "description": "Neck",
+          "mid": "/m/0dzd8",
+          "score": 0.9566852,
+          "topicality": 0.021058936
+        },
+        {
+          "description": "Massage",
+          "mid": "/m/0b_nd",
+          "score": 0.95632744,
+          "topicality": 0.8524782
+        },
+        {
+          "description": "Massage table",
+          "mid": "/m/027b95w",
+          "score": 0.9124653,
+          "topicality": 0.106542274
+        },
+        {
+          "description": "Therapy",
+          "mid": "/m/03c1dkx",
+          "score": 0.88743913,
+          "topicality": 0.34517926
+        },
+        {
+          "description": "Bed",
+          "mid": "/m/03ssj5",
+          "score": 0.882607,
+          "topicality": 0.012836569
+        },
+        {
+          "description": "Comfort",
+          "mid": "/m/08xgn7",
+          "score": 0.8812257,
+          "topicality": 0.011201227
+        },
+        {
+          "description": "Chiropractor",
+          "mid": "/m/02h6nbj",
+          "score": 0.80585575,
+          "topicality": 0.06948477
+        },
+        {
+          "description": "Beauty salon",
+          "mid": "/m/0569zg",
+          "score": 0.7088862,
+          "topicality": 0.03718417
+        },
+        {
+          "description": "Sleep",
+          "mid": "/m/06xzh",
+          "score": 0.65473825,
+          "topicality": 0.029975852
+        }
+      ]
+    }
+  ]
+}

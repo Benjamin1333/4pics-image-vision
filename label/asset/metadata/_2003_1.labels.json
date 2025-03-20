@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Cheek",
+          "mid": "/m/037p5b",
+          "score": 0.98681957,
+          "topicality": 9.28221e-05
+        },
+        {
+          "description": "Head",
+          "mid": "/m/04hgtk",
+          "score": 0.9865483,
+          "topicality": 0.005485186
+        },
+        {
+          "description": "Nose",
+          "mid": "/m/0k0pj",
+          "score": 0.977735,
+          "topicality": 0.0008371668
+        },
+        {
+          "description": "Eye",
+          "mid": "/m/014sv8",
+          "score": 0.9643453,
+          "topicality": 0.0032010966
+        },
+        {
+          "description": "Temple",
+          "mid": "/m/08g_yr",
+          "score": 0.95584345,
+          "topicality": 0.00032255298
+        },
+        {
+          "description": "Painting",
+          "mid": "/m/05qdh",
+          "score": 0.8902379,
+          "topicality": 0.25064996
+        },
+        {
+          "description": "Iris",
+          "mid": "/m/0lxkm",
+          "score": 0.8898463,
+          "topicality": 5.7669957e-05
+        },
+        {
+          "description": "Visual arts",
+          "mid": "/m/0p9xx",
+          "score": 0.85842973,
+          "topicality": 0.006929643
+        },
+        {
+          "description": "Portrait",
+          "mid": "/m/01dv4h",
+          "score": 0.81832016,
+          "topicality": 0.021315487
+        },
+        {
+          "description": "Religious Item",
+          "mid": "/m/0h8p5l_",
+          "score": 0.673684,
+          "topicality": 0.011030977
+        }
+      ]
+    }
+  ]
+}

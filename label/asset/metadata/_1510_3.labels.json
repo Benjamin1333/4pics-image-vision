@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9449324,
+          "topicality": 0.056230824
+        },
+        {
+          "description": "Facial hair",
+          "mid": "/m/0ds5b",
+          "score": 0.9366276,
+          "topicality": 0.05404699
+        },
+        {
+          "description": "Moustache",
+          "mid": "/m/0bby24z",
+          "score": 0.922569,
+          "topicality": 0.06331615
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.91456944,
+          "topicality": 0.01014999
+        },
+        {
+          "description": "Beard",
+          "mid": "/m/015h_t",
+          "score": 0.849961,
+          "topicality": 0.19732349
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.7946895,
+          "topicality": 0.012504515
+        },
+        {
+          "description": "Wrinkle",
+          "mid": "/m/02_x63",
+          "score": 0.7090302,
+          "topicality": 0.008515444
+        },
+        {
+          "description": "Flesh",
+          "mid": "/m/02p16m6",
+          "score": 0.6909089,
+          "topicality": 0.007245634
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.6244514,
+          "topicality": 0.0010719292
+        },
+        {
+          "description": "Photomontage",
+          "mid": "/m/0b0fq",
+          "score": 0.52512634,
+          "topicality": 0.0023113142
+        }
+      ]
+    }
+  ]
+}

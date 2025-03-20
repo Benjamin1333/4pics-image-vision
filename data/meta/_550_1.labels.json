@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.58191854,
+          "topicality": 0.016736109
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.5192176,
+          "topicality": 0.009897553
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Train",
+          "mid": "/m/07jdr",
+          "score": 0.9883169,
+          "topicality": 0.736086
+        },
+        {
+          "description": "Mode of transport",
+          "mid": "/m/079bkr",
+          "score": 0.9869412,
+          "topicality": 0.016240386
+        },
+        {
+          "description": "Transport",
+          "mid": "/m/07bsy",
+          "score": 0.98446697,
+          "topicality": 0.06803549
+        },
+        {
+          "description": "Rolling stock",
+          "mid": "/m/025s53m",
+          "score": 0.9745049,
+          "topicality": 0.011532826
+        },
+        {
+          "description": "Rail transport",
+          "mid": "/m/06d_3",
+          "score": 0.9670394,
+          "topicality": 0.30885345
+        },
+        {
+          "description": "Electricity",
+          "mid": "/m/02lts",
+          "score": 0.9479697,
+          "topicality": 0.062704444
+        },
+        {
+          "description": "Track",
+          "mid": "/m/01vk9q",
+          "score": 0.94258034,
+          "topicality": 0.14380664
+        },
+        {
+          "description": "Public transport",
+          "mid": "/m/05zdp",
+          "score": 0.9388686,
+          "topicality": 0.014747414
+        },
+        {
+          "description": "Electrical network",
+          "mid": "/m/02lxj",
+          "score": 0.893229,
+          "topicality": 0.0007915921
+        },
+        {
+          "description": "Overhead power line",
+          "mid": "/m/04w7nv",
+          "score": 0.880768,
+          "topicality": 0.01956511
+        }
+      ]
+    }
+  ]
+}

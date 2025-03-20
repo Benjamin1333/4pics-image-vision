@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Underwater",
+          "mid": "/m/01sfb5",
+          "score": 0.8695421,
+          "topicality": 0.1023439
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.82925916,
+          "topicality": 0.06449915
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.8224302,
+          "topicality": 0.13594872
+        },
+        {
+          "description": "Shipwreck",
+          "mid": "/m/01nzyt",
+          "score": 0.7426965,
+          "topicality": 0.8346874
+        },
+        {
+          "description": "Marine biology",
+          "mid": "/m/050vn",
+          "score": 0.69485015,
+          "topicality": 0.0038302266
+        },
+        {
+          "description": "Divemaster",
+          "mid": "/m/047vph4",
+          "score": 0.61062586,
+          "topicality": 0.0007146075
+        },
+        {
+          "description": "Ship",
+          "mid": "/m/06q74",
+          "score": 0.5682789,
+          "topicality": 0.37724635
+        },
+        {
+          "description": "Reef",
+          "mid": "/m/01jypq",
+          "score": 0.5611654,
+          "topicality": 0.10553535
+        }
+      ]
+    }
+  ]
+}

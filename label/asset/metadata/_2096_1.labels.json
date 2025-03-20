@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Statue",
+          "mid": "/m/013_1c",
+          "score": 0.990434,
+          "topicality": 0.60763055
+        },
+        {
+          "description": "Sculpture",
+          "mid": "/m/06msq",
+          "score": 0.9851177,
+          "topicality": 0.31316707
+        },
+        {
+          "description": "Nose",
+          "mid": "/m/0k0pj",
+          "score": 0.9772576,
+          "topicality": 0.0021202026
+        },
+        {
+          "description": "Hand",
+          "mid": "/m/0k65p",
+          "score": 0.97029024,
+          "topicality": 0.002997731
+        },
+        {
+          "description": "Temple",
+          "mid": "/m/08g_yr",
+          "score": 0.96247625,
+          "topicality": 0.00060042046
+        },
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.94595194,
+          "topicality": 0.0001615903
+        },
+        {
+          "description": "Monument",
+          "mid": "/m/02ljgl",
+          "score": 0.92816144,
+          "topicality": 0.18103921
+        },
+        {
+          "description": "Memorial",
+          "mid": "/m/02q3d5",
+          "score": 0.921111,
+          "topicality": 0.0266938
+        },
+        {
+          "description": "Landmark",
+          "mid": "/m/05_5t0l",
+          "score": 0.9137811,
+          "topicality": 0.004052372
+        },
+        {
+          "description": "Visual arts",
+          "mid": "/m/0p9xx",
+          "score": 0.86102474,
+          "topicality": 0.0001596415
+        }
+      ]
+    }
+  ]
+}

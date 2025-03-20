@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blade",
+          "mid": "/m/01tr_g",
+          "score": 0.8610428,
+          "topicality": 0.025258193
+        },
+        {
+          "description": "Kitchen utensil",
+          "mid": "/m/03hlz0c",
+          "score": 0.84114295,
+          "topicality": 0.034746546
+        },
+        {
+          "description": "Tool",
+          "mid": "/m/07k1x",
+          "score": 0.805147,
+          "topicality": 0.15322421
+        },
+        {
+          "description": "Knife",
+          "mid": "/m/04ctx",
+          "score": 0.78352094,
+          "topicality": 0.11420259
+        },
+        {
+          "description": "Cutlery",
+          "mid": "/m/023pjk",
+          "score": 0.72646123,
+          "topicality": 0.044956487
+        },
+        {
+          "description": "Titanium",
+          "mid": "/m/025sk56",
+          "score": 0.71708506,
+          "topicality": 0.0025377963
+        },
+        {
+          "description": "Multi-tool",
+          "mid": "/m/0by0ngf",
+          "score": 0.6801229,
+          "topicality": 0.0056122895
+        },
+        {
+          "description": "Steel",
+          "mid": "/m/06qqb",
+          "score": 0.5677278,
+          "topicality": 0.07824166
+        }
+      ]
+    }
+  ]
+}

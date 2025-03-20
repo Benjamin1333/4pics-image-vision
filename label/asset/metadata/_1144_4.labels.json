@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.9555631,
+          "topicality": 0.0006002352
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.90504473,
+          "topicality": 0.021491949
+        },
+        {
+          "description": "Furniture",
+          "mid": "/m/0c_jw",
+          "score": 0.8945052,
+          "topicality": 0.008345438
+        },
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.87810147,
+          "topicality": 0.102828525
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.86541647,
+          "topicality": 0.019820891
+        },
+        {
+          "description": "Office Equipment",
+          "mid": "/m/03qtgjk",
+          "score": 0.76861566,
+          "topicality": 0.00022748152
+        },
+        {
+          "description": "Receptionist",
+          "mid": "/m/02p9kh",
+          "score": 0.76314116,
+          "topicality": 0.35935876
+        },
+        {
+          "description": "Management",
+          "mid": "/m/04_tv",
+          "score": 0.7154097,
+          "topicality": 0.073231556
+        },
+        {
+          "description": "Desk",
+          "mid": "/m/01y9k5",
+          "score": 0.6946883,
+          "topicality": 0.043733507
+        },
+        {
+          "description": "Computer",
+          "mid": "/m/01m3v",
+          "score": 0.6901382,
+          "topicality": 0.08889986
+        }
+      ]
+    }
+  ]
+}

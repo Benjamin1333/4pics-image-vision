@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9699408,
+          "topicality": 0.15839873
+        },
+        {
+          "description": "Ghost",
+          "mid": "/m/038_l",
+          "score": 0.6269828,
+          "topicality": 0.92680335
+        },
+        {
+          "description": "Fictional character",
+          "mid": "/m/02h7lkt",
+          "score": 0.58859617,
+          "topicality": 0.001897173
+        }
+      ]
+    }
+  ]
+}

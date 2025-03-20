@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.95289487,
+          "topicality": 0.0029007234
+        },
+        {
+          "description": "Office Equipment",
+          "mid": "/m/03qtgjk",
+          "score": 0.91967475,
+          "topicality": 0.0023549846
+        },
+        {
+          "description": "Peripheral",
+          "mid": "/m/0ggnq",
+          "score": 0.8512731,
+          "topicality": 0.08330438
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.8054713,
+          "topicality": 0.034908246
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.79870206,
+          "topicality": 0.11216805
+        },
+        {
+          "description": "Printer",
+          "mid": "/m/01m4t",
+          "score": 0.76405215,
+          "topicality": 0.9196295
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.6975503,
+          "topicality": 0.002878803
+        },
+        {
+          "description": "Home appliance",
+          "mid": "/m/019dx1",
+          "score": 0.6883323,
+          "topicality": 0.011697113
+        },
+        {
+          "description": "Laser printing",
+          "mid": "/m/0dd37",
+          "score": 0.6582085,
+          "topicality": 0.16939166
+        },
+        {
+          "description": "Inkjet printing",
+          "mid": "/m/0dd6m",
+          "score": 0.59394556,
+          "topicality": 0.3851416
+        }
+      ]
+    }
+  ]
+}

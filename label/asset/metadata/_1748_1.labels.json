@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.94756776,
+          "topicality": 0.15084484
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.91828024,
+          "topicality": 0.0014531387
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9112107,
+          "topicality": 0.009823058
+        },
+        {
+          "description": "Vegetable",
+          "mid": "/m/0f4s2w",
+          "score": 0.8414814,
+          "topicality": 0.19548903
+        },
+        {
+          "description": "Culinary arts",
+          "mid": "/m/07qn8g",
+          "score": 0.76441985,
+          "topicality": 0.012086534
+        },
+        {
+          "description": "Meat",
+          "mid": "/m/04scj",
+          "score": 0.7612707,
+          "topicality": 0.14668259
+        },
+        {
+          "description": "Recipe",
+          "mid": "/m/0p57p",
+          "score": 0.750833,
+          "topicality": 0.13418522
+        },
+        {
+          "description": "Garnish",
+          "mid": "/m/06gpzn",
+          "score": 0.7268902,
+          "topicality": 0.033475127
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.6642873,
+          "topicality": 0.00023740972
+        },
+        {
+          "description": "Cooking",
+          "mid": "/m/01mtb",
+          "score": 0.6551687,
+          "topicality": 0.06701548
+        }
+      ]
+    }
+  ]
+}

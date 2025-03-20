@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Plumbing fixture",
+          "mid": "/m/02pkr5",
+          "score": 0.95970225,
+          "topicality": 0.10183727
+        },
+        {
+          "description": "Fluid",
+          "mid": "/m/02yfx",
+          "score": 0.95319015,
+          "topicality": 0.002114173
+        },
+        {
+          "description": "Plumbing",
+          "mid": "/m/0b_zf",
+          "score": 0.92805105,
+          "topicality": 0.56996644
+        },
+        {
+          "description": "Tap",
+          "mid": "/m/02jz0l",
+          "score": 0.91644216,
+          "topicality": 0.16808425
+        },
+        {
+          "description": "Pipe",
+          "mid": "/m/09w9qp",
+          "score": 0.849984,
+          "topicality": 0.20207804
+        },
+        {
+          "description": "Sink",
+          "mid": "/m/0130jx",
+          "score": 0.82126653,
+          "topicality": 0.27100384
+        },
+        {
+          "description": "Household hardware",
+          "mid": "/m/03jvk",
+          "score": 0.8195975,
+          "topicality": 0.0017485975
+        },
+        {
+          "description": "Nozzle",
+          "mid": "/m/01tywg",
+          "score": 0.6395898,
+          "topicality": 0.010725852
+        },
+        {
+          "description": "Bathroom",
+          "mid": "/m/01j2bj",
+          "score": 0.6305666,
+          "topicality": 0.122499995
+        },
+        {
+          "description": "Plumbing Valve",
+          "mid": "/m/0h8lhls",
+          "score": 0.595546,
+          "topicality": 0.0032868811
+        }
+      ]
+    }
+  ]
+}

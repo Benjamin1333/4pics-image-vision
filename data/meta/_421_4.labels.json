@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Brick",
+          "mid": "/m/01g0g",
+          "score": 0.98599213,
+          "topicality": 0.6679433
+        },
+        {
+          "description": "Wall",
+          "mid": "/m/09qqq",
+          "score": 0.98131305,
+          "topicality": 0.3496391
+        },
+        {
+          "description": "Brickwork",
+          "mid": "/m/01__sk",
+          "score": 0.9793682,
+          "topicality": 0.3577852
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.97790986,
+          "topicality": 0.052575096
+        },
+        {
+          "description": "Architecture",
+          "mid": "/m/03nfmq",
+          "score": 0.93038136,
+          "topicality": 0.041440513
+        },
+        {
+          "description": "Home Door",
+          "mid": "/m/0h8n9b2",
+          "score": 0.90518624,
+          "topicality": 0.013694003
+        },
+        {
+          "description": "Door",
+          "mid": "/m/02dgv",
+          "score": 0.90505105,
+          "topicality": 0.52128714
+        },
+        {
+          "description": "Composite material",
+          "mid": "/m/014qzr",
+          "score": 0.8883146,
+          "topicality": 0.00045105227
+        },
+        {
+          "description": "Building material",
+          "mid": "/m/02cr01",
+          "score": 0.8596071,
+          "topicality": 0.0016266981
+        },
+        {
+          "description": "Grey",
+          "mid": "/m/036k5h",
+          "score": 0.8293831,
+          "topicality": 0.0033633546
+        }
+      ]
+    }
+  ]
+}

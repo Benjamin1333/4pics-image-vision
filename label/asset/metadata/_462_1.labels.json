@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.976942,
+          "topicality": 0.5816672
+        },
+        {
+          "description": "Hand",
+          "mid": "/m/0k65p",
+          "score": 0.9754067,
+          "topicality": 0.7300865
+        },
+        {
+          "description": "Wrist",
+          "mid": "/m/01j48b",
+          "score": 0.91302097,
+          "topicality": 0.32538265
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.90168804,
+          "topicality": 0.18935269
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.90095097,
+          "topicality": 0.085273534
+        },
+        {
+          "description": "Thumb",
+          "mid": "/m/01bmhj",
+          "score": 0.8518633,
+          "topicality": 0.3467889
+        },
+        {
+          "description": "Ring",
+          "mid": "/m/09l0j_",
+          "score": 0.6409458,
+          "topicality": 0.008163799
+        },
+        {
+          "description": "Nail Care",
+          "mid": "/m/0h8nm6p",
+          "score": 0.573553,
+          "topicality": 0.00082127977
+        }
+      ]
+    }
+  ]
+}

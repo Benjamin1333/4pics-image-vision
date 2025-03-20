@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Eyebrow",
+          "mid": "/m/027n3_",
+          "score": 0.9857943,
+          "topicality": 0.0040713227
+        },
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.98479605,
+          "topicality": 0.00888346
+        },
+        {
+          "description": "Skin",
+          "mid": "/m/06z04",
+          "score": 0.9817171,
+          "topicality": 0.016631471
+        },
+        {
+          "description": "Forehead",
+          "mid": "/m/025kyy",
+          "score": 0.98133266,
+          "topicality": 0.016860858
+        },
+        {
+          "description": "Nose",
+          "mid": "/m/0k0pj",
+          "score": 0.97484946,
+          "topicality": 0.060142685
+        },
+        {
+          "description": "Eyelash",
+          "mid": "/m/03f52z",
+          "score": 0.96291566,
+          "topicality": 0.0011752015
+        },
+        {
+          "description": "Jaw",
+          "mid": "/m/01k9lj",
+          "score": 0.955214,
+          "topicality": 0.0014069442
+        },
+        {
+          "description": "Eye",
+          "mid": "/m/014sv8",
+          "score": 0.9511618,
+          "topicality": 0.29168057
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94494975,
+          "topicality": 0.024891868
+        },
+        {
+          "description": "Tears",
+          "mid": "/m/0125vz",
+          "score": 0.9445072,
+          "topicality": 0.90224767
+        }
+      ]
+    }
+  ]
+}

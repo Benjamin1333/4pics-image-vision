@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Tableware",
+          "mid": "/m/04brg2",
+          "score": 0.9830733,
+          "topicality": 0.10926476
+        },
+        {
+          "description": "Dishware",
+          "mid": "/m/0h8nvk9",
+          "score": 0.9612037,
+          "topicality": 0.0057302057
+        },
+        {
+          "description": "Serveware",
+          "mid": "/m/0h8n22v",
+          "score": 0.93485725,
+          "topicality": 0.03457135
+        },
+        {
+          "description": "Plate",
+          "mid": "/m/050gv4",
+          "score": 0.90853554,
+          "topicality": 0.43093595
+        },
+        {
+          "description": "Cutlery",
+          "mid": "/m/023pjk",
+          "score": 0.9028912,
+          "topicality": 0.4778644
+        },
+        {
+          "description": "Fork",
+          "mid": "/m/0dt3t",
+          "score": 0.8830345,
+          "topicality": 0.6298877
+        },
+        {
+          "description": "Kitchen utensil",
+          "mid": "/m/03hlz0c",
+          "score": 0.8767729,
+          "topicality": 0.05231699
+        },
+        {
+          "description": "Porcelain",
+          "mid": "/m/016f4d",
+          "score": 0.87552136,
+          "topicality": 0.043209627
+        },
+        {
+          "description": "Drinkware",
+          "mid": "/m/050h26",
+          "score": 0.864176,
+          "topicality": 0.0005383417
+        },
+        {
+          "description": "Dinnerware Set",
+          "mid": "/m/0hgs3h_",
+          "score": 0.7345785,
+          "topicality": 0.0119711645
+        }
+      ]
+    }
+  ]
+}

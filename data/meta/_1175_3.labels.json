@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.6913443,
+          "topicality": 0.005312666
+        },
+        {
+          "description": "Handwriting",
+          "mid": "/m/0gkxy13",
+          "score": 0.68237495,
+          "topicality": 0.045203492
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.601641,
+          "topicality": 0.024603082
+        }
+      ]
+    }
+  ]
+}

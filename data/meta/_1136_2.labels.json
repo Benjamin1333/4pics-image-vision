@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bottle",
+          "mid": "/m/04dr76w",
+          "score": 0.9826766,
+          "topicality": 0.13725068
+        },
+        {
+          "description": "Alcoholic drink",
+          "mid": "/m/012mj",
+          "score": 0.96949404,
+          "topicality": 0.15150821
+        },
+        {
+          "description": "Champagne",
+          "mid": "/m/0f2b9",
+          "score": 0.9359824,
+          "topicality": 0.8618021
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.9214161,
+          "topicality": 0.0035334523
+        },
+        {
+          "description": "Glass bottle",
+          "mid": "/m/089mxq",
+          "score": 0.89140874,
+          "topicality": 0.006774057
+        },
+        {
+          "description": "Liquor",
+          "mid": "/m/04shl0",
+          "score": 0.8734219,
+          "topicality": 0.013591262
+        },
+        {
+          "description": "Alcohol",
+          "mid": "/m/0lqk",
+          "score": 0.8608855,
+          "topicality": 0.035867378
+        },
+        {
+          "description": "Wine",
+          "mid": "/m/081qc",
+          "score": 0.8517158,
+          "topicality": 0.30891088
+        },
+        {
+          "description": "Drinkware",
+          "mid": "/m/050h26",
+          "score": 0.8179145,
+          "topicality": 0.0002602353
+        },
+        {
+          "description": "Sparkling wine",
+          "mid": "/m/01224x",
+          "score": 0.7437026,
+          "topicality": 0.48720264
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.9876247,
+          "topicality": 0.027954206
+        },
+        {
+          "description": "Daytime",
+          "mid": "/m/02q7ylj",
+          "score": 0.98134774,
+          "topicality": 0.016145848
+        },
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.9755731,
+          "topicality": 0.15472558
+        },
+        {
+          "description": "Cloud",
+          "mid": "/m/0csby",
+          "score": 0.962656,
+          "topicality": 0.09403838
+        },
+        {
+          "description": "Sun",
+          "mid": "/m/06m_p",
+          "score": 0.93079954,
+          "topicality": 0.58022964
+        },
+        {
+          "description": "Field",
+          "mid": "/m/0brn2d",
+          "score": 0.92674696,
+          "topicality": 0.18901706
+        },
+        {
+          "description": "Agriculture",
+          "mid": "/m/0hkf",
+          "score": 0.910939,
+          "topicality": 0.050479323
+        },
+        {
+          "description": "Cumulus",
+          "mid": "/m/0csh5",
+          "score": 0.90618193,
+          "topicality": 0.0042576063
+        },
+        {
+          "description": "Sunlight",
+          "mid": "/m/06z0n",
+          "score": 0.87009126,
+          "topicality": 0.36430854
+        },
+        {
+          "description": "Meteorological phenomenon",
+          "mid": "/g/11k2xz7mr",
+          "score": 0.8000551,
+          "topicality": 0.00026439255
+        }
+      ]
+    }
+  ]
+}

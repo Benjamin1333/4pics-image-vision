@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.9227976,
+          "topicality": 0.00048159715
+        },
+        {
+          "description": "Paper",
+          "mid": "/m/0641k",
+          "score": 0.9135672,
+          "topicality": 0.12433171
+        },
+        {
+          "description": "Mail",
+          "mid": "/m/0dh8s",
+          "score": 0.8983992,
+          "topicality": 0.4156955
+        },
+        {
+          "description": "Envelope",
+          "mid": "/m/0frqm",
+          "score": 0.7765715,
+          "topicality": 0.78436375
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.70735884,
+          "topicality": 0.0025782038
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.66907275,
+          "topicality": 0.0028901221
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.6635307,
+          "topicality": 0.0016586471
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.62271726,
+          "topicality": 0.0009847933
+        }
+      ]
+    }
+  ]
+}

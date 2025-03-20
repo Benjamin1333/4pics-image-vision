@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Pen",
+          "mid": "/m/0k1tl",
+          "score": 0.96721536,
+          "topicality": 0.92179304
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.963388,
+          "topicality": 0.17699493
+        },
+        {
+          "description": "Writing implement",
+          "mid": "/m/06wybl",
+          "score": 0.95426816,
+          "topicality": 0.24109104
+        },
+        {
+          "description": "Stationery",
+          "mid": "/m/01cndb",
+          "score": 0.9262758,
+          "topicality": 0.16146033
+        },
+        {
+          "description": "Office Instrument",
+          "mid": "/m/0h8m01z",
+          "score": 0.89421636,
+          "topicality": 0.00036332692
+        },
+        {
+          "description": "Fountain pen",
+          "mid": "/m/0gd6f",
+          "score": 0.873952,
+          "topicality": 0.7853158
+        },
+        {
+          "description": "Office Equipment",
+          "mid": "/m/03qtgjk",
+          "score": 0.843086,
+          "topicality": 4.487643e-05
+        },
+        {
+          "description": "Box",
+          "mid": "/m/025dyy",
+          "score": 0.67676586,
+          "topicality": 0.011209563
+        },
+        {
+          "description": "Ballpoint pen",
+          "mid": "/m/01f_5",
+          "score": 0.6552327,
+          "topicality": 0.2907866
+        },
+        {
+          "description": "Everyday carry",
+          "mid": "/m/03ybby4",
+          "score": 0.5660588,
+          "topicality": 5.8536814e-05
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Treasure",
+          "mid": "/m/012rq8",
+          "score": 0.7469608,
+          "topicality": 0.95601255
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.61582357,
+          "topicality": 0.007275197
+        },
+        {
+          "description": "Chest",
+          "mid": "/m/04bct1",
+          "score": 0.56437606,
+          "topicality": 0.8851598
+        }
+      ]
+    }
+  ]
+}

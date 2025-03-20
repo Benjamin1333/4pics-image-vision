@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Audio equipment",
+          "mid": "/m/01yttv",
+          "score": 0.9905088,
+          "topicality": 0.00036757338
+        },
+        {
+          "description": "Chin",
+          "mid": "/m/0f9swq",
+          "score": 0.9885892,
+          "topicality": 0.0002800531
+        },
+        {
+          "description": "Eyebrow",
+          "mid": "/m/027n3_",
+          "score": 0.98536545,
+          "topicality": 0.000184528
+        },
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.98479277,
+          "topicality": 0.0011765596
+        },
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.98199296,
+          "topicality": 0.000657683
+        },
+        {
+          "description": "Forehead",
+          "mid": "/m/025kyy",
+          "score": 0.9814745,
+          "topicality": 0.00071501866
+        },
+        {
+          "description": "Entertainment",
+          "mid": "/m/02jjt",
+          "score": 0.9799228,
+          "topicality": 0.0061940732
+        },
+        {
+          "description": "Performing Arts",
+          "mid": "/m/05qjc",
+          "score": 0.9763801,
+          "topicality": 0.00070806243
+        },
+        {
+          "description": "Microphone",
+          "mid": "/m/0hg7b",
+          "score": 0.97171813,
+          "topicality": 0.10935437
+        },
+        {
+          "description": "Singing",
+          "mid": "/m/015lz1",
+          "score": 0.94921625,
+          "topicality": 0.35195595
+        }
+      ]
+    }
+  ]
+}

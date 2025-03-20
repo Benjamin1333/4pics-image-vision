@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.9284055,
+          "topicality": 0.0027346257
+        },
+        {
+          "description": "Beach",
+          "mid": "/m/0b3yr",
+          "score": 0.9138073,
+          "topicality": 0.42881542
+        },
+        {
+          "description": "Vacation",
+          "mid": "/m/02jwqh",
+          "score": 0.8773319,
+          "topicality": 0.0140004335
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.8721185,
+          "topicality": 0.102430575
+        },
+        {
+          "description": "Shore",
+          "mid": "/m/02fm9k",
+          "score": 0.84888345,
+          "topicality": 0.026114486
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.8485407,
+          "topicality": 0.0016562045
+        },
+        {
+          "description": "Barefoot",
+          "mid": "/m/049lwx",
+          "score": 0.82995224,
+          "topicality": 0.022295343
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.82979006,
+          "topicality": 0.020702817
+        },
+        {
+          "description": "People on beach",
+          "mid": "/j/148skd",
+          "score": 0.813484,
+          "topicality": 0.00083075115
+        },
+        {
+          "description": "Coast",
+          "mid": "/m/01lxd",
+          "score": 0.81078905,
+          "topicality": 0.015759839
+        }
+      ]
+    }
+  ]
+}

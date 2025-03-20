@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Shoe",
+          "mid": "/m/06rrc",
+          "score": 0.98243964,
+          "topicality": 0.6567255
+        },
+        {
+          "description": "Footwear",
+          "mid": "/m/09j5n",
+          "score": 0.98235726,
+          "topicality": 0.08425637
+        },
+        {
+          "description": "Green",
+          "mid": "/m/038hg",
+          "score": 0.9741792,
+          "topicality": 0.01455337
+        },
+        {
+          "description": "Sneakers",
+          "mid": "/m/09kjlm",
+          "score": 0.89130527,
+          "topicality": 0.15374608
+        },
+        {
+          "description": "Calf",
+          "mid": "/m/0715t2",
+          "score": 0.8708964,
+          "topicality": 0.010088909
+        },
+        {
+          "description": "People in nature",
+          "mid": "/j/3gbwgn",
+          "score": 0.8617352,
+          "topicality": 0.00017385282
+        },
+        {
+          "description": "Walking Shoe",
+          "mid": "/m/0hgs9bq",
+          "score": 0.847179,
+          "topicality": 0.0052255285
+        },
+        {
+          "description": "Outdoor Shoe",
+          "mid": "/m/0hgrj75",
+          "score": 0.7820909,
+          "topicality": 0.014623618
+        },
+        {
+          "description": "Hiking boot",
+          "mid": "/m/05bjcj",
+          "score": 0.7717816,
+          "topicality": 0.48375642
+        },
+        {
+          "description": "Cross Training Shoe",
+          "mid": "/m/0hgsbw3",
+          "score": 0.7368744,
+          "topicality": 0.0007492267
+        }
+      ]
+    }
+  ]
+}

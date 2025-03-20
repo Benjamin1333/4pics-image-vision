@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Spiral",
+          "mid": "/m/0gn_f",
+          "score": 0.8498614,
+          "topicality": 0.04131327
+        },
+        {
+          "description": "Paper",
+          "mid": "/m/0641k",
+          "score": 0.78290766,
+          "topicality": 0.3235666
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.66585493,
+          "topicality": 0.031297795
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6013871,
+          "topicality": 0.012399253
+        }
+      ]
+    }
+  ]
+}

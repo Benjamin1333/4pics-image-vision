@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Globe",
+          "mid": "/m/01q_cy",
+          "score": 0.9019394,
+          "topicality": 0.5003469
+        },
+        {
+          "description": "Earth",
+          "mid": "/m/02j71",
+          "score": 0.83181244,
+          "topicality": 0.39330107
+        },
+        {
+          "description": "Planet",
+          "mid": "/m/05qc_",
+          "score": 0.80383104,
+          "topicality": 0.07443443
+        },
+        {
+          "description": "Sphere",
+          "mid": "/m/06y47",
+          "score": 0.69916457,
+          "topicality": 0.0043639583
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.62235457,
+          "topicality": 0.047197398
+        },
+        {
+          "description": "Air travel",
+          "mid": "/m/025t3bg",
+          "score": 0.5985575,
+          "topicality": 0.037320483
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.5419605,
+          "topicality": 0.0039701653
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.5354064,
+          "topicality": 0.017332744
+        }
+      ]
+    }
+  ]
+}

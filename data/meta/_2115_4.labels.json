@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bovinae",
+          "mid": "/m/0jzz1",
+          "score": 0.94784874,
+          "topicality": 0.063612424
+        },
+        {
+          "description": "Dairy cattle",
+          "mid": "/m/03vcw7",
+          "score": 0.93342483,
+          "topicality": 0.17158413
+        },
+        {
+          "description": "Grassland",
+          "mid": "/m/01c7cq",
+          "score": 0.9051468,
+          "topicality": 0.018250521
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.89175665,
+          "topicality": 0.008714368
+        },
+        {
+          "description": "Field",
+          "mid": "/m/0brn2d",
+          "score": 0.87500125,
+          "topicality": 0.043636113
+        },
+        {
+          "description": "Terrestrial animal",
+          "mid": "/m/0fbf1m",
+          "score": 0.8514122,
+          "topicality": 0.0008850844
+        },
+        {
+          "description": "Meadow",
+          "mid": "/m/025st_8",
+          "score": 0.84568226,
+          "topicality": 0.20428832
+        },
+        {
+          "description": "Pasture",
+          "mid": "/m/01gd91",
+          "score": 0.81787616,
+          "topicality": 0.16163746
+        },
+        {
+          "description": "Livestock",
+          "mid": "/m/0ch8v",
+          "score": 0.7991708,
+          "topicality": 0.065346316
+        },
+        {
+          "description": "Working animal",
+          "mid": "/m/07_gml",
+          "score": 0.77344924,
+          "topicality": 0.000561761
+        }
+      ]
+    }
+  ]
+}

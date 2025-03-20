@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Chordophone",
+          "mid": "/m/011_f4",
+          "score": 0.89055055,
+          "topicality": 0.0010953204
+        },
+        {
+          "description": "Musical instrument",
+          "mid": "/m/04szw",
+          "score": 0.8343959,
+          "topicality": 0.039118733
+        },
+        {
+          "description": "Guitarist",
+          "mid": "/m/039v1",
+          "score": 0.7870118,
+          "topicality": 0.056932922
+        },
+        {
+          "description": "String instrument",
+          "mid": "/m/0d8lm",
+          "score": 0.7504886,
+          "topicality": 0.0024243882
+        },
+        {
+          "description": "Guitar",
+          "mid": "/m/0342h",
+          "score": 0.737859,
+          "topicality": 0.1428343
+        },
+        {
+          "description": "Plucked string instrument",
+          "mid": "/m/0fx80y",
+          "score": 0.7079446,
+          "topicality": 0.0038246578
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.58809686,
+          "topicality": 0.008345209
+        },
+        {
+          "description": "Performing Arts",
+          "mid": "/m/05qjc",
+          "score": 0.5191215,
+          "topicality": 0.0016031093
+        }
+      ]
+    }
+  ]
+}

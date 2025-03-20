@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "People",
+          "mid": "/m/09g5pq",
+          "score": 0.99436295,
+          "topicality": 0.04332733
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.9914205,
+          "topicality": 0.23476306
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.98650664,
+          "topicality": 0.104193
+        },
+        {
+          "description": "Social group",
+          "mid": "/m/01b4q9",
+          "score": 0.9455696,
+          "topicality": 0.21559021
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94494724,
+          "topicality": 0.0039868555
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.9409793,
+          "topicality": 0.044535074
+        },
+        {
+          "description": "Tartan",
+          "mid": "/m/01z1sv",
+          "score": 0.93841964,
+          "topicality": 0.0017747583
+        },
+        {
+          "description": "Youth",
+          "mid": "/m/021dfr",
+          "score": 0.9380855,
+          "topicality": 0.2713533
+        },
+        {
+          "description": "Plaid",
+          "mid": "/m/0177t1",
+          "score": 0.93468654,
+          "topicality": 0.0013238775
+        },
+        {
+          "description": "Friendship",
+          "mid": "/m/019_nn",
+          "score": 0.9238443,
+          "topicality": 0.3202511
+        }
+      ]
+    }
+  ]
+}

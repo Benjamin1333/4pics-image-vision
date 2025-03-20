@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blackboard",
+          "mid": "/m/02kdvj",
+          "score": 0.9688301,
+          "topicality": 0.02907592
+        },
+        {
+          "description": "Classroom",
+          "mid": "/m/04hyxm",
+          "score": 0.9224369,
+          "topicality": 0.35770053
+        },
+        {
+          "description": "Class",
+          "mid": "/m/075_ys",
+          "score": 0.90278906,
+          "topicality": 0.0786331
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.88618827,
+          "topicality": 0.11352363
+        },
+        {
+          "description": "Learning",
+          "mid": "/m/0191f8",
+          "score": 0.8800742,
+          "topicality": 0.18566664
+        },
+        {
+          "description": "Writing",
+          "mid": "/m/081rb",
+          "score": 0.8451693,
+          "topicality": 0.2848781
+        },
+        {
+          "description": "Student",
+          "mid": "/m/014cnc",
+          "score": 0.8361889,
+          "topicality": 0.3864495
+        },
+        {
+          "description": "School",
+          "mid": "/m/06zdj",
+          "score": 0.83543956,
+          "topicality": 0.64502597
+        },
+        {
+          "description": "Handwriting",
+          "mid": "/m/0gkxy13",
+          "score": 0.8342736,
+          "topicality": 0.010679205
+        },
+        {
+          "description": "Chalk",
+          "mid": "/m/0c5q8",
+          "score": 0.8191052,
+          "topicality": 0.12516409
+        }
+      ]
+    }
+  ]
+}

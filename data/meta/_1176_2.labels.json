@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Ring",
+          "mid": "/m/09l0j_",
+          "score": 0.96616614,
+          "topicality": 0.6496565
+        },
+        {
+          "description": "Wedding ring",
+          "mid": "/m/015rvg",
+          "score": 0.9339327,
+          "topicality": 0.8220055
+        },
+        {
+          "description": "Wedding Ceremony Supply",
+          "mid": "/m/0hgq063",
+          "score": 0.89015925,
+          "topicality": 0.13312814
+        },
+        {
+          "description": "Engagement ring",
+          "mid": "/m/09t19",
+          "score": 0.88970584,
+          "topicality": 0.1696532
+        },
+        {
+          "description": "Pre-engagement ring",
+          "mid": "/m/02_f_b",
+          "score": 0.88321054,
+          "topicality": 0.1394129
+        },
+        {
+          "description": "Metal",
+          "mid": "/m/04t7l",
+          "score": 0.82907087,
+          "topicality": 0.0019763177
+        },
+        {
+          "description": "Bangle",
+          "mid": "/m/03xnm0",
+          "score": 0.8190198,
+          "topicality": 0.0027522151
+        },
+        {
+          "description": "Gold",
+          "mid": "/m/025rs2z",
+          "score": 0.7937976,
+          "topicality": 0.64279985
+        },
+        {
+          "description": "Body Jewelry",
+          "mid": "/m/0h8kxbv",
+          "score": 0.77953947,
+          "topicality": 5.3126165e-05
+        },
+        {
+          "description": "Natural material",
+          "mid": "/m/07sx2n",
+          "score": 0.76204914,
+          "topicality": 3.6643945e-05
+        }
+      ]
+    }
+  ]
+}

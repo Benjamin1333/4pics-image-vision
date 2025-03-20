@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.96506196,
+          "topicality": 0.0050435485
+        },
+        {
+          "description": "Hourglass",
+          "mid": "/m/0bmr5v",
+          "score": 0.9149848,
+          "topicality": 0.9579419
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.80481696,
+          "topicality": 0.09603778
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.7368719,
+          "topicality": 0.028678501
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.65951395,
+          "topicality": 0.013808287
+        },
+        {
+          "description": "Icon",
+          "mid": "/m/01zrkr",
+          "score": 0.58795214,
+          "topicality": 0.49388784
+        }
+      ]
+    }
+  ]
+}

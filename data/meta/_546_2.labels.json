@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.9766909,
+          "topicality": 0.37074035
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.95672256,
+          "topicality": 0.021311034
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.9530112,
+          "topicality": 0.2125006
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.86957616,
+          "topicality": 0.0020759972
+        },
+        {
+          "description": "Food group",
+          "mid": "/m/08fw1g",
+          "score": 0.865452,
+          "topicality": 0.0031453345
+        },
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.85336053,
+          "topicality": 0.117605805
+        },
+        {
+          "description": "Vegetable",
+          "mid": "/m/0f4s2w",
+          "score": 0.7832715,
+          "topicality": 0.31580353
+        },
+        {
+          "description": "Greengrocer",
+          "mid": "/m/03hk59",
+          "score": 0.6762296,
+          "topicality": 0.16274455
+        },
+        {
+          "description": "Superfood",
+          "mid": "/m/04jdhxy",
+          "score": 0.66878515,
+          "topicality": 0.0030397836
+        },
+        {
+          "description": "Shopping",
+          "mid": "/m/0hhdb",
+          "score": 0.6501999,
+          "topicality": 0.13631701
+        }
+      ]
+    }
+  ]
+}

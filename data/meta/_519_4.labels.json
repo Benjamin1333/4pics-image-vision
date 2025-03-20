@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sheep",
+          "mid": "/m/07bgp",
+          "score": 0.9442737,
+          "topicality": 0.50486016
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.8664055,
+          "topicality": 0.0012988555
+        },
+        {
+          "description": "Ovis",
+          "mid": "/m/08hhz2",
+          "score": 0.86136335,
+          "topicality": 0.62509567
+        },
+        {
+          "description": "Terrestrial animal",
+          "mid": "/m/0fbf1m",
+          "score": 0.8427357,
+          "topicality": 0.0011455903
+        },
+        {
+          "description": "Wool",
+          "mid": "/m/09kxp",
+          "score": 0.7628123,
+          "topicality": 0.23807958
+        },
+        {
+          "description": "Livestock",
+          "mid": "/m/0ch8v",
+          "score": 0.74309,
+          "topicality": 0.0706603
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Armour",
+          "mid": "/m/0x44",
+          "score": 0.97433054,
+          "topicality": 0.8346305
+        },
+        {
+          "description": "Cuirass",
+          "mid": "/m/01h0s2",
+          "score": 0.96711177,
+          "topicality": 0.17611231
+        },
+        {
+          "description": "Knight",
+          "mid": "/m/049rd",
+          "score": 0.9076132,
+          "topicality": 0.84977317
+        },
+        {
+          "description": "Breastplate",
+          "mid": "/m/05p5f9",
+          "score": 0.90632415,
+          "topicality": 0.19609766
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.7800526,
+          "topicality": 0.0031477066
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/025sf8x",
+          "score": 0.50921077,
+          "topicality": 0.0052871755
+        }
+      ]
+    }
+  ]
+}

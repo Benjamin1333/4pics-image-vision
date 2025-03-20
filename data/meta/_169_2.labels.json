@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Crocodiles",
+          "mid": "/m/01bvtk",
+          "score": 0.9896066,
+          "topicality": 0.4562187
+        },
+        {
+          "description": "Crocodile",
+          "mid": "/m/09f_2",
+          "score": 0.98910177,
+          "topicality": 0.6622894
+        },
+        {
+          "description": "Reptile",
+          "mid": "/m/06bt6",
+          "score": 0.96201336,
+          "topicality": 0.041534178
+        },
+        {
+          "description": "Vertebrate",
+          "mid": "/m/09686",
+          "score": 0.9611994,
+          "topicality": 0.0017962786
+        },
+        {
+          "description": "Alligators",
+          "mid": "/m/01njq7",
+          "score": 0.9492515,
+          "topicality": 0.26861474
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.921682,
+          "topicality": 0.0018048178
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.9183609,
+          "topicality": 9.068153e-06
+        },
+        {
+          "description": "Wildlife",
+          "mid": "/m/01280g",
+          "score": 0.9162704,
+          "topicality": 0.015883112
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.8941585,
+          "topicality": 0.00028660888
+        },
+        {
+          "description": "American alligator",
+          "mid": "/m/02g2w1",
+          "score": 0.8652343,
+          "topicality": 0.06796744
+        }
+      ]
+    }
+  ]
+}

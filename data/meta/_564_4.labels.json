@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Brown",
+          "mid": "/m/09q2t",
+          "score": 0.9155855,
+          "topicality": 0.0021583135
+        },
+        {
+          "description": "Handwriting",
+          "mid": "/m/0gkxy13",
+          "score": 0.6509163,
+          "topicality": 0.16001485
+        },
+        {
+          "description": "Writing",
+          "mid": "/m/081rb",
+          "score": 0.56429565,
+          "topicality": 0.019399883
+        }
+      ]
+    }
+  ]
+}

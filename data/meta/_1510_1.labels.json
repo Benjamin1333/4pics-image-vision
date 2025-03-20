@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Flower",
+          "mid": "/m/0c9ph5",
+          "score": 0.9912007,
+          "topicality": 0.40565273
+        },
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.98156035,
+          "topicality": 0.05383344
+        },
+        {
+          "description": "Petal",
+          "mid": "/m/016q19",
+          "score": 0.9813323,
+          "topicality": 0.008147657
+        },
+        {
+          "description": "Common sunflower",
+          "mid": "/m/0ftb8",
+          "score": 0.96727526,
+          "topicality": 0.8209787
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.8907682,
+          "topicality": 0.10875971
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.877251,
+          "topicality": 0.104530685
+        },
+        {
+          "description": "People in nature",
+          "mid": "/j/3gbwgn",
+          "score": 0.8571231,
+          "topicality": 0.0006287402
+        },
+        {
+          "description": "Spring",
+          "mid": "/m/01txr2",
+          "score": 0.8568882,
+          "topicality": 0.03533308
+        },
+        {
+          "description": "Toddler",
+          "mid": "/m/01bgsw",
+          "score": 0.83631366,
+          "topicality": 0.060058255
+        },
+        {
+          "description": "Flowering plant",
+          "mid": "/m/04sjm",
+          "score": 0.8225241,
+          "topicality": 0.0053075124
+        }
+      ]
+    }
+  ]
+}

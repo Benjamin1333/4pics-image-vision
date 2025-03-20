@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.98933244,
+          "topicality": 0.5756177
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.985331,
+          "topicality": 0.25745708
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.9846239,
+          "topicality": 0.06973862
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.9699056,
+          "topicality": 0.050322697
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.95468444,
+          "topicality": 0.013089836
+        },
+        {
+          "description": "Vegetable",
+          "mid": "/m/0f4s2w",
+          "score": 0.92928594,
+          "topicality": 0.42842674
+        },
+        {
+          "description": "Food group",
+          "mid": "/m/08fw1g",
+          "score": 0.8981991,
+          "topicality": 0.011343798
+        },
+        {
+          "description": "Apple",
+          "mid": "/m/014j1m",
+          "score": 0.88280404,
+          "topicality": 0.062362984
+        },
+        {
+          "description": "Banana",
+          "mid": "/m/09qck",
+          "score": 0.86272085,
+          "topicality": 0.06171472
+        },
+        {
+          "description": "Gourd",
+          "mid": "/m/011jbn",
+          "score": 0.8622285,
+          "topicality": 0.23384172
+        }
+      ]
+    }
+  ]
+}

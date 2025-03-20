@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Book",
+          "mid": "/m/0bt_c3",
+          "score": 0.9356883,
+          "topicality": 0.5337165
+        },
+        {
+          "description": "Paper",
+          "mid": "/m/0641k",
+          "score": 0.9236603,
+          "topicality": 0.054785468
+        },
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.91242325,
+          "topicality": 0.00055895053
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.8883325,
+          "topicality": 0.013078106
+        },
+        {
+          "description": "Publication",
+          "mid": "/m/01h1dd",
+          "score": 0.8792005,
+          "topicality": 0.008994015
+        },
+        {
+          "description": "Stationery",
+          "mid": "/m/01cndb",
+          "score": 0.6969859,
+          "topicality": 0.053359956
+        },
+        {
+          "description": "Document",
+          "mid": "/m/015bv3",
+          "score": 0.686078,
+          "topicality": 0.03504918
+        },
+        {
+          "description": "Notebook",
+          "mid": "/m/016vv0",
+          "score": 0.62127054,
+          "topicality": 0.13145901
+        },
+        {
+          "description": "Office Instrument",
+          "mid": "/m/0h8m01z",
+          "score": 0.6147053,
+          "topicality": 0.00069712254
+        },
+        {
+          "description": "Education",
+          "mid": "/m/02jfc",
+          "score": 0.5231589,
+          "topicality": 0.06329251
+        }
+      ]
+    }
+  ]
+}

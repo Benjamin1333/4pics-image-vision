@@ -1,0 +1,14 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Tar",
+          "mid": "/m/05by2s",
+          "score": 0.6951075,
+          "topicality": 0.0124585135
+        }
+      ]
+    }
+  ]
+}

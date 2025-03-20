@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.9837022,
+          "topicality": 0.00052399276
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9447121,
+          "topicality": 0.00010125829
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.9101133,
+          "topicality": 0.016241271
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.87647957,
+          "topicality": 0.0023579777
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.851578,
+          "topicality": 0.009424709
+        },
+        {
+          "description": "Brown hair",
+          "mid": "/m/02ksmb",
+          "score": 0.79603326,
+          "topicality": 0.00014840499
+        },
+        {
+          "description": "Mobile phone",
+          "mid": "/m/050k8",
+          "score": 0.75500256,
+          "topicality": 0.03297847
+        },
+        {
+          "description": "Communication Device",
+          "mid": "/m/0glmwd6",
+          "score": 0.71120447,
+          "topicality": 8.1429505e-05
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.62860537,
+          "topicality": 0.00068822084
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.60741556,
+          "topicality": 0.0010597348
+        }
+      ]
+    }
+  ]
+}

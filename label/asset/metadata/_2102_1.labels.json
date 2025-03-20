@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Number",
+          "mid": "/m/05fwb",
+          "score": 0.85833806,
+          "topicality": 0.00201261
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8388845,
+          "topicality": 0.08655431
+        },
+        {
+          "description": "Diagram",
+          "mid": "/m/02v0m2",
+          "score": 0.74054474,
+          "topicality": 0.011931385
+        },
+        {
+          "description": "Plan",
+          "mid": "/m/018jrr",
+          "score": 0.56691843,
+          "topicality": 0.0027704777
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.53664744,
+          "topicality": 0.0009779413
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.52804244,
+          "topicality": 0.009381829
+        }
+      ]
+    }
+  ]
+}

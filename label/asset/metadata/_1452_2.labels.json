@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.921073,
+          "topicality": 0.0077540646
+        },
+        {
+          "description": "Meditation",
+          "mid": "/m/0517l",
+          "score": 0.8615952,
+          "topicality": 0.3152023
+        },
+        {
+          "description": "Guru",
+          "mid": "/m/016gcr",
+          "score": 0.7085746,
+          "topicality": 0.0018208245
+        },
+        {
+          "description": "Bronze",
+          "mid": "/m/01brf",
+          "score": 0.6032022,
+          "topicality": 0.0006928855
+        },
+        {
+          "description": "Bronze sculpture",
+          "mid": "/m/01yx86",
+          "score": 0.5790656,
+          "topicality": 0.0007889504
+        },
+        {
+          "description": "Brass",
+          "mid": "/m/01504",
+          "score": 0.557896,
+          "topicality": 0.0017307925
+        }
+      ]
+    }
+  ]
+}

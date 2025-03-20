@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Entertainment",
+          "mid": "/m/02jjt",
+          "score": 0.9665847,
+          "topicality": 0.013157094
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9445735,
+          "topicality": 0.0017302176
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.8930675,
+          "topicality": 0.017203892
+        },
+        {
+          "description": "Performing Arts",
+          "mid": "/m/05qjc",
+          "score": 0.8915278,
+          "topicality": 0.066993065
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.87368244,
+          "topicality": 0.005125763
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.7496863,
+          "topicality": 0.0011393981
+        },
+        {
+          "description": "Costume",
+          "mid": "/m/0250x",
+          "score": 0.6732099,
+          "topicality": 0.04354474
+        },
+        {
+          "description": "Mask",
+          "mid": "/m/01kr41",
+          "score": 0.6663609,
+          "topicality": 0.014474044
+        },
+        {
+          "description": "Acting",
+          "mid": "/m/0w7c",
+          "score": 0.65316445,
+          "topicality": 0.09859167
+        },
+        {
+          "description": "Theatre",
+          "mid": "/m/03qsdpk",
+          "score": 0.650412,
+          "topicality": 0.50390756
+        }
+      ]
+    }
+  ]
+}

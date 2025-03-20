@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Lion",
+          "mid": "/m/096mb",
+          "score": 0.9839436,
+          "topicality": 0.90828943
+        },
+        {
+          "description": "Felidae",
+          "mid": "/m/0307l",
+          "score": 0.98321205,
+          "topicality": 0.15490535
+        },
+        {
+          "description": "Carnivores",
+          "mid": "/m/01lrl",
+          "score": 0.96318537,
+          "topicality": 0.0679845
+        },
+        {
+          "description": "Wildlife",
+          "mid": "/m/01280g",
+          "score": 0.9490706,
+          "topicality": 0.062347133
+        },
+        {
+          "description": "Panthera",
+          "mid": "/m/0cdnk",
+          "score": 0.9104079,
+          "topicality": 0.15166743
+        },
+        {
+          "description": "Terrestrial animal",
+          "mid": "/m/0fbf1m",
+          "score": 0.9020692,
+          "topicality": 0.009088086
+        },
+        {
+          "description": "Savanna",
+          "mid": "/m/01c7d3",
+          "score": 0.8458277,
+          "topicality": 0.1431395
+        },
+        {
+          "description": "Safari",
+          "mid": "/m/0199b0",
+          "score": 0.8237783,
+          "topicality": 0.17434944
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.7547014,
+          "topicality": 0.0011147043
+        },
+        {
+          "description": "Fur",
+          "mid": "/m/0cnmr",
+          "score": 0.7486112,
+          "topicality": 0.0015511411
+        }
+      ]
+    }
+  ]
+}

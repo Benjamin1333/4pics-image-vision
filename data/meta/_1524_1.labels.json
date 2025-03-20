@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Box",
+          "mid": "/m/025dyy",
+          "score": 0.86253256,
+          "topicality": 0.72086245
+        },
+        {
+          "description": "Treasure",
+          "mid": "/m/012rq8",
+          "score": 0.7913313,
+          "topicality": 0.82910115
+        },
+        {
+          "description": "Antique",
+          "mid": "/m/01ys2s",
+          "score": 0.7476416,
+          "topicality": 0.2245114
+        },
+        {
+          "description": "Lock and key",
+          "mid": "/m/02ll1_",
+          "score": 0.58288884,
+          "topicality": 0.0011682948
+        },
+        {
+          "description": "Chest",
+          "mid": "/m/04bct1",
+          "score": 0.5797555,
+          "topicality": 0.60771567
+        },
+        {
+          "description": "Trunk",
+          "mid": "/m/03hqlh",
+          "score": 0.5441428,
+          "topicality": 0.031874098
+        },
+        {
+          "description": "Collectable",
+          "mid": "/m/0ggr_",
+          "score": 0.50090754,
+          "topicality": 0.016772164
+        }
+      ]
+    }
+  ]
+}

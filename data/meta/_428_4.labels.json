@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Tornado",
+          "mid": "/m/09c5_",
+          "score": 0.83475035,
+          "topicality": 0.9402624
+        },
+        {
+          "description": "Storm",
+          "mid": "/m/0z71l",
+          "score": 0.8005364,
+          "topicality": 0.2171924
+        },
+        {
+          "description": "Wind",
+          "mid": "/m/03m9d0z",
+          "score": 0.6849659,
+          "topicality": 0.27576065
+        }
+      ]
+    }
+  ]
+}

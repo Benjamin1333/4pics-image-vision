@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Furniture",
+          "mid": "/m/0c_jw",
+          "score": 0.98393786,
+          "topicality": 0.010964206
+        },
+        {
+          "description": "Interior design",
+          "mid": "/m/02rfdq",
+          "score": 0.98369366,
+          "topicality": 0.13959879
+        },
+        {
+          "description": "Flooring",
+          "mid": "/m/01c34b",
+          "score": 0.978019,
+          "topicality": 0.002994659
+        },
+        {
+          "description": "Couch",
+          "mid": "/m/02crq1",
+          "score": 0.97549415,
+          "topicality": 0.007840721
+        },
+        {
+          "description": "Floor",
+          "mid": "/m/0l7_8",
+          "score": 0.97035193,
+          "topicality": 0.04253461
+        },
+        {
+          "description": "Living room",
+          "mid": "/m/03f6tq",
+          "score": 0.96582705,
+          "topicality": 0.22750053
+        },
+        {
+          "description": "Wood",
+          "mid": "/m/083vt",
+          "score": 0.9631713,
+          "topicality": 0.007618243
+        },
+        {
+          "description": "Ceiling",
+          "mid": "/m/03gfsp",
+          "score": 0.96197957,
+          "topicality": 0.021412855
+        },
+        {
+          "description": "Chair",
+          "mid": "/m/01mzpv",
+          "score": 0.9468923,
+          "topicality": 0.0022455219
+        },
+        {
+          "description": "Table",
+          "mid": "/m/04bcr3",
+          "score": 0.9366967,
+          "topicality": 0.0006648091
+        }
+      ]
+    }
+  ]
+}

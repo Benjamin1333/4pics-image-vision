@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.97814256,
+          "topicality": 0.8734064
+        },
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.8711478,
+          "topicality": 0.016272321
+        },
+        {
+          "description": "Balloon",
+          "mid": "/m/01j51",
+          "score": 0.6566154,
+          "topicality": 0.7245648
+        },
+        {
+          "description": "Party Supply",
+          "mid": "/m/0cmqr_4",
+          "score": 0.6436958,
+          "topicality": 0.0015176977
+        }
+      ]
+    }
+  ]
+}

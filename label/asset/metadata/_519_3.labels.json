@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Computer hardware",
+          "mid": "/m/01mfj",
+          "score": 0.86294,
+          "topicality": 0.09377182
+        },
+        {
+          "description": "Random-access memory",
+          "mid": "/m/06f_v",
+          "score": 0.8339956,
+          "topicality": 0.80181354
+        },
+        {
+          "description": "Circuit Component",
+          "mid": "/m/0h8mv94",
+          "score": 0.7538344,
+          "topicality": 2.9298324e-05
+        },
+        {
+          "description": "Electronic component",
+          "mid": "/m/063syt",
+          "score": 0.7476511,
+          "topicality": 0.0125815645
+        },
+        {
+          "description": "Microcontroller",
+          "mid": "/m/058v5",
+          "score": 0.7452099,
+          "topicality": 0.0010392665
+        },
+        {
+          "description": "Hardware Programmer",
+          "mid": "/m/03x851",
+          "score": 0.71381646,
+          "topicality": 4.6691257e-05
+        },
+        {
+          "description": "Computer data storage",
+          "mid": "/m/01m9s",
+          "score": 0.70961803,
+          "topicality": 0.604442
+        },
+        {
+          "description": "Passive Circuit Component",
+          "mid": "/m/0h8mjtj",
+          "score": 0.7091752,
+          "topicality": 0.00090756273
+        },
+        {
+          "description": "Electronic engineering",
+          "mid": "/m/01g1rg",
+          "score": 0.59635174,
+          "topicality": 0.00053587975
+        },
+        {
+          "description": "Read-only memory",
+          "mid": "/m/06h01",
+          "score": 0.56414545,
+          "topicality": 0.017013222
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.72642624,
+          "topicality": 0.06583919
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.6917339,
+          "topicality": 0.057620406
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.5946134,
+          "topicality": 0.022547957
+        }
+      ]
+    }
+  ]
+}

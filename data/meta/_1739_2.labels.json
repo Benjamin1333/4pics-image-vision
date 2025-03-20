@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Entertainment",
+          "mid": "/m/02jjt",
+          "score": 0.9747828,
+          "topicality": 0.02344239
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.9374355,
+          "topicality": 0.0052053733
+        },
+        {
+          "description": "Performing Arts",
+          "mid": "/m/05qjc",
+          "score": 0.91154397,
+          "topicality": 0.0039716642
+        },
+        {
+          "description": "Public event",
+          "mid": "/g/116c3n66l",
+          "score": 0.89280266,
+          "topicality": 0.0016002831
+        },
+        {
+          "description": "Fan",
+          "mid": "/m/013x8v",
+          "score": 0.8901711,
+          "topicality": 0.005639608
+        },
+        {
+          "description": "Performance",
+          "mid": "/m/01gq53",
+          "score": 0.88485026,
+          "topicality": 0.005587881
+        },
+        {
+          "description": "Crowd",
+          "mid": "/m/03qtwd",
+          "score": 0.86738765,
+          "topicality": 0.06596469
+        },
+        {
+          "description": "Audience",
+          "mid": "/m/033lpr",
+          "score": 0.8453522,
+          "topicality": 0.024849823
+        },
+        {
+          "description": "Party",
+          "mid": "/m/05_4_",
+          "score": 0.8420685,
+          "topicality": 0.11477572
+        },
+        {
+          "description": "Festival",
+          "mid": "/m/0hr5k",
+          "score": 0.80588377,
+          "topicality": 0.25692382
+        }
+      ]
+    }
+  ]
+}

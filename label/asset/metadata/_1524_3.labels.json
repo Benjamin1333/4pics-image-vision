@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Wood",
+          "mid": "/m/083vt",
+          "score": 0.9633408,
+          "topicality": 0.37315887
+        },
+        {
+          "description": "Steering wheel",
+          "mid": "/m/03b6_4",
+          "score": 0.86934155,
+          "topicality": 0.0017853908
+        },
+        {
+          "description": "Boat",
+          "mid": "/m/019jd",
+          "score": 0.7582556,
+          "topicality": 0.17451388
+        },
+        {
+          "description": "Varnish",
+          "mid": "/m/01ffcg",
+          "score": 0.7238528,
+          "topicality": 0.0023717824
+        },
+        {
+          "description": "Rope",
+          "mid": "/m/01xc8d",
+          "score": 0.70429885,
+          "topicality": 0.07113749
+        },
+        {
+          "description": "Watercraft",
+          "mid": "/m/01rzcn",
+          "score": 0.6715392,
+          "topicality": 0.012525584
+        },
+        {
+          "description": "Hardwood",
+          "mid": "/m/020g49",
+          "score": 0.63924664,
+          "topicality": 0.0003419211
+        },
+        {
+          "description": "Wood stain",
+          "mid": "/m/05t06b",
+          "score": 0.62110204,
+          "topicality": 0.0007588557
+        },
+        {
+          "description": "Plank",
+          "mid": "/m/0fq0fnf",
+          "score": 0.5776311,
+          "topicality": 0.0013869895
+        },
+        {
+          "description": "Naval architecture",
+          "mid": "/m/0k5qm",
+          "score": 0.5246513,
+          "topicality": 0.00038788404
+        }
+      ]
+    }
+  ]
+}

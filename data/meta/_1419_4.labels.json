@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Eyebrow",
+          "mid": "/m/027n3_",
+          "score": 0.98571783,
+          "topicality": 0.015216364
+        },
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.984791,
+          "topicality": 0.010484417
+        },
+        {
+          "description": "Skin",
+          "mid": "/m/06z04",
+          "score": 0.981875,
+          "topicality": 0.054681703
+        },
+        {
+          "description": "Tears",
+          "mid": "/m/0125vz",
+          "score": 0.9523226,
+          "topicality": 0.90938556
+        },
+        {
+          "description": "Eyelash",
+          "mid": "/m/03f52z",
+          "score": 0.95047086,
+          "topicality": 0.005776975
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94494975,
+          "topicality": 0.04435973
+        },
+        {
+          "description": "Crying",
+          "mid": "/m/0463cq4",
+          "score": 0.91936684,
+          "topicality": 0.7641408
+        },
+        {
+          "description": "Close-up",
+          "mid": "/m/02cqfm",
+          "score": 0.91007996,
+          "topicality": 0.056726888
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.7332189,
+          "topicality": 0.003185834
+        },
+        {
+          "description": "Worry",
+          "mid": "/m/0bg_x1",
+          "score": 0.72809875,
+          "topicality": 0.027923884
+        }
+      ]
+    }
+  ]
+}

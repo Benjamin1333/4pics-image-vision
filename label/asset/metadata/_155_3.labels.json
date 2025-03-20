@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Watch",
+          "mid": "/m/0gjkl",
+          "score": 0.9936071,
+          "topicality": 0.2789694
+        },
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.90393263,
+          "topicality": 0.00022166478
+        },
+        {
+          "description": "Measuring instrument",
+          "mid": "/m/056hv",
+          "score": 0.89895225,
+          "topicality": 0.036725458
+        },
+        {
+          "description": "Clock",
+          "mid": "/m/01x3z",
+          "score": 0.8636565,
+          "topicality": 0.14678709
+        },
+        {
+          "description": "Gauge",
+          "mid": "/m/05kc0j",
+          "score": 0.860401,
+          "topicality": 0.016910337
+        },
+        {
+          "description": "Analog watch",
+          "mid": "/m/031pr7",
+          "score": 0.759252,
+          "topicality": 0.0005125887
+        },
+        {
+          "description": "Strap",
+          "mid": "/m/04lzmz",
+          "score": 0.7478123,
+          "topicality": 0.0017110634
+        }
+      ]
+    }
+  ]
+}

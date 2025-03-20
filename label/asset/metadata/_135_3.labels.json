@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Rock",
+          "mid": "/m/01cbzq",
+          "score": 0.9372826,
+          "topicality": 0.2219469
+        },
+        {
+          "description": "Bedrock",
+          "mid": "/m/0308t8",
+          "score": 0.7647598,
+          "topicality": 0.0013456442
+        },
+        {
+          "description": "Natural material",
+          "mid": "/m/07sx2n",
+          "score": 0.73513997,
+          "topicality": 0.00091742666
+        },
+        {
+          "description": "Outcrop",
+          "mid": "/m/07cwvn",
+          "score": 0.61774725,
+          "topicality": 0.0018651722
+        },
+        {
+          "description": "Limestone",
+          "mid": "/m/04hgv",
+          "score": 0.51904005,
+          "topicality": 0.2902373
+        },
+        {
+          "description": "Rubble",
+          "mid": "/m/08qrwn",
+          "score": 0.5178696,
+          "topicality": 0.010074038
+        },
+        {
+          "description": "Boulder",
+          "mid": "/m/0ghpy",
+          "score": 0.5086015,
+          "topicality": 0.073986664
+        }
+      ]
+    }
+  ]
+}

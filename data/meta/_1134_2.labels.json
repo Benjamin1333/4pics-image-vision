@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.95217425,
+          "topicality": 0.08080695
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9445825,
+          "topicality": 9.89275e-05
+        },
+        {
+          "description": "Uniform",
+          "mid": "/m/09jfs",
+          "score": 0.86861354,
+          "topicality": 0.10133646
+        },
+        {
+          "description": "Curtain",
+          "mid": "/m/03rszm",
+          "score": 0.83567834,
+          "topicality": 0.0074740383
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.79115987,
+          "topicality": 0.003197195
+        },
+        {
+          "description": "Window treatment",
+          "mid": "/m/0n42jw2",
+          "score": 0.57364523,
+          "topicality": 0.00020203232
+        },
+        {
+          "description": "Costume Hat",
+          "mid": "/m/0hgs54_",
+          "score": 0.5352733,
+          "topicality": 0.001842406
+        },
+        {
+          "description": "Waiter",
+          "mid": "/m/01t15m",
+          "score": 0.5256155,
+          "topicality": 0.12970921
+        }
+      ]
+    }
+  ]
+}

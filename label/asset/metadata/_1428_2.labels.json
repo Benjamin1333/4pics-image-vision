@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94455993,
+          "topicality": 0.00013448954
+        },
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.9368456,
+          "topicality": 0.2054041
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.88403416,
+          "topicality": 0.0015852716
+        },
+        {
+          "description": "Figurine",
+          "mid": "/m/01xmqj",
+          "score": 0.77575845,
+          "topicality": 0.14057851
+        },
+        {
+          "description": "Creative arts",
+          "mid": "/m/0dw9f6",
+          "score": 0.75913537,
+          "topicality": 3.539414e-05
+        },
+        {
+          "description": "Doll",
+          "mid": "/m/0167gd",
+          "score": 0.7561214,
+          "topicality": 0.73658955
+        },
+        {
+          "description": "Ceramic",
+          "mid": "/m/01x5q",
+          "score": 0.74700195,
+          "topicality": 0.109729625
+        },
+        {
+          "description": "Collectable",
+          "mid": "/m/0ggr_",
+          "score": 0.74593294,
+          "topicality": 0.012218669
+        },
+        {
+          "description": "Porcelain",
+          "mid": "/m/016f4d",
+          "score": 0.6410764,
+          "topicality": 0.020624453
+        },
+        {
+          "description": "Souvenir",
+          "mid": "/m/03rnxq",
+          "score": 0.57661057,
+          "topicality": 0.11148217
+        }
+      ]
+    }
+  ]
+}

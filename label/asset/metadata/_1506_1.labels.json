@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Uniform",
+          "mid": "/m/09jfs",
+          "score": 0.9367161,
+          "topicality": 0.08799671
+        },
+        {
+          "description": "Health Professional",
+          "mid": "/m/0fsbk0",
+          "score": 0.9280576,
+          "topicality": 0.12292345
+        },
+        {
+          "description": "Scrubs",
+          "mid": "/m/0846kq",
+          "score": 0.8766177,
+          "topicality": 0.084204964
+        },
+        {
+          "description": "Medical assistant",
+          "mid": "/m/06yrfc",
+          "score": 0.8676544,
+          "topicality": 0.10771658
+        },
+        {
+          "description": "Nurse",
+          "mid": "/m/0fczf",
+          "score": 0.85544133,
+          "topicality": 0.43967772
+        },
+        {
+          "description": "Nurse uniform",
+          "mid": "/m/0fg34",
+          "score": 0.84674895,
+          "topicality": 0.026078114
+        },
+        {
+          "description": "Physician",
+          "mid": "/m/05t4q",
+          "score": 0.8124826,
+          "topicality": 0.32378867
+        },
+        {
+          "description": "Health Care",
+          "mid": "/m/01mw2x",
+          "score": 0.6979794,
+          "topicality": 0.40441895
+        },
+        {
+          "description": "Clinic",
+          "mid": "/m/03fk5c",
+          "score": 0.6640474,
+          "topicality": 0.04696409
+        },
+        {
+          "description": "Student",
+          "mid": "/m/014cnc",
+          "score": 0.6341539,
+          "topicality": 0.028451549
+        }
+      ]
+    }
+  ]
+}

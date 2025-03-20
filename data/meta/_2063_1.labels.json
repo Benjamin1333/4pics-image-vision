@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Shelf",
+          "mid": "/m/0gjbg72",
+          "score": 0.98903584,
+          "topicality": 0.063824594
+        },
+        {
+          "description": "Bookcase",
+          "mid": "/m/03__z0",
+          "score": 0.9873065,
+          "topicality": 0.24180813
+        },
+        {
+          "description": "Shelving",
+          "mid": "/m/0h8n982",
+          "score": 0.9824593,
+          "topicality": 0.002542646
+        },
+        {
+          "description": "Book",
+          "mid": "/m/0bt_c3",
+          "score": 0.9496724,
+          "topicality": 0.682847
+        },
+        {
+          "description": "Publication",
+          "mid": "/m/01h1dd",
+          "score": 0.9055,
+          "topicality": 0.004630773
+        },
+        {
+          "description": "Library",
+          "mid": "/m/04h8h",
+          "score": 0.87743056,
+          "topicality": 0.519043
+        },
+        {
+          "description": "Collection",
+          "mid": "/m/08_4sd",
+          "score": 0.7664219,
+          "topicality": 0.0040815696
+        },
+        {
+          "description": "Bookselling",
+          "mid": "/m/08hnjb",
+          "score": 0.7222207,
+          "topicality": 0.2443762
+        },
+        {
+          "description": "Hardwood",
+          "mid": "/m/020g49",
+          "score": 0.6949521,
+          "topicality": 9.889108e-05
+        },
+        {
+          "description": "Public library",
+          "mid": "/m/018w1s",
+          "score": 0.6524955,
+          "topicality": 0.043920655
+        }
+      ]
+    }
+  ]
+}

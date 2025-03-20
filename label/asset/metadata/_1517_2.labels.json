@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Class",
+          "mid": "/m/075_ys",
+          "score": 0.94139767,
+          "topicality": 0.03970753
+        },
+        {
+          "description": "Classroom",
+          "mid": "/m/04hyxm",
+          "score": 0.9357147,
+          "topicality": 0.094877295
+        },
+        {
+          "description": "Student",
+          "mid": "/m/014cnc",
+          "score": 0.90424067,
+          "topicality": 0.5373636
+        },
+        {
+          "description": "Learning",
+          "mid": "/m/0191f8",
+          "score": 0.8754241,
+          "topicality": 0.068309516
+        },
+        {
+          "description": "Academic institution",
+          "mid": "/m/06bdpk",
+          "score": 0.8542301,
+          "topicality": 0.0016424969
+        },
+        {
+          "description": "Blond",
+          "mid": "/m/0294jb",
+          "score": 0.8325993,
+          "topicality": 0.00013321792
+        },
+        {
+          "description": "School",
+          "mid": "/m/06zdj",
+          "score": 0.83059716,
+          "topicality": 0.2460305
+        },
+        {
+          "description": "Education",
+          "mid": "/m/02jfc",
+          "score": 0.80463916,
+          "topicality": 0.24118896
+        },
+        {
+          "description": "Course",
+          "mid": "/m/07hs4p",
+          "score": 0.77413017,
+          "topicality": 0.19937019
+        },
+        {
+          "description": "University",
+          "mid": "/m/07tf8",
+          "score": 0.7355917,
+          "topicality": 0.28795433
+        }
+      ]
+    }
+  ]
+}

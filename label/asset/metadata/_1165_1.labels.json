@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bicycle",
+          "mid": "/m/0199g",
+          "score": 0.97855574,
+          "topicality": 0.57661015
+        },
+        {
+          "description": "Bicycle handlebar",
+          "mid": "/m/02rqv26",
+          "score": 0.96736395,
+          "topicality": 0.009999153
+        },
+        {
+          "description": "Bicycle helmet",
+          "mid": "/m/03p3bw",
+          "score": 0.9589304,
+          "topicality": 0.18360125
+        },
+        {
+          "description": "Bicycles--Equipment and supplies",
+          "mid": "/m/0bpnmk0",
+          "score": 0.95322317,
+          "topicality": 0.00405696
+        },
+        {
+          "description": "Headgear",
+          "mid": "/m/01443y",
+          "score": 0.9418062,
+          "topicality": 6.904851e-05
+        },
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.93036056,
+          "topicality": 0.01058488
+        },
+        {
+          "description": "Bicycle wheel",
+          "mid": "/m/01bqk0",
+          "score": 0.9224147,
+          "topicality": 0.049149502
+        },
+        {
+          "description": "Helmet",
+          "mid": "/m/0zvk5",
+          "score": 0.9196755,
+          "topicality": 0.037221346
+        },
+        {
+          "description": "Personal protective equipment",
+          "mid": "/m/0ffjr",
+          "score": 0.9023867,
+          "topicality": 0.0004897977
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.8800096,
+          "topicality": 0.106674336
+        }
+      ]
+    }
+  ]
+}

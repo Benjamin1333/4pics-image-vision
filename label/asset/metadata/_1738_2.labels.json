@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Cat",
+          "mid": "/m/01yrx",
+          "score": 0.99143964,
+          "topicality": 0.8593224
+        },
+        {
+          "description": "Felidae",
+          "mid": "/m/0307l",
+          "score": 0.96290684,
+          "topicality": 0.08373758
+        },
+        {
+          "description": "Vertebrate",
+          "mid": "/m/09686",
+          "score": 0.9615551,
+          "topicality": 0.0135873705
+        },
+        {
+          "description": "Carnivores",
+          "mid": "/m/01lrl",
+          "score": 0.95481205,
+          "topicality": 0.0129583655
+        },
+        {
+          "description": "Felinae",
+          "mid": "/m/07k6w8",
+          "score": 0.95336264,
+          "topicality": 0.014922274
+        },
+        {
+          "description": "Paw",
+          "mid": "/m/023kp2",
+          "score": 0.881312,
+          "topicality": 0.086300224
+        },
+        {
+          "description": "Whiskers",
+          "mid": "/m/01l7qd",
+          "score": 0.8593443,
+          "topicality": 0.043013822
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.79447377,
+          "topicality": 0.0065271994
+        },
+        {
+          "description": "Fur",
+          "mid": "/m/0cnmr",
+          "score": 0.7720559,
+          "topicality": 0.0053743613
+        },
+        {
+          "description": "Tail",
+          "mid": "/m/06z_nw",
+          "score": 0.72060686,
+          "topicality": 0.06297618
+        }
+      ]
+    }
+  ]
+}

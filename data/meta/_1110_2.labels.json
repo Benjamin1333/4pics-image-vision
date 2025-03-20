@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bird",
+          "mid": "/m/015p6",
+          "score": 0.9772823,
+          "topicality": 0.2215017
+        },
+        {
+          "description": "Beak",
+          "mid": "/m/01c4rd",
+          "score": 0.83006537,
+          "topicality": 0.011611885
+        },
+        {
+          "description": "Landfowl",
+          "mid": "/m/01295w",
+          "score": 0.7695398,
+          "topicality": 0.03446666
+        },
+        {
+          "description": "Chicken",
+          "mid": "/m/09b5t",
+          "score": 0.749582,
+          "topicality": 0.78669876
+        },
+        {
+          "description": "Poultry",
+          "mid": "/m/05s0c",
+          "score": 0.7041983,
+          "topicality": 0.51169324
+        },
+        {
+          "description": "Phasianidae",
+          "mid": "/m/01dy62",
+          "score": 0.69114584,
+          "topicality": 0.004837653
+        },
+        {
+          "description": "Animal Figure",
+          "mid": "/m/0h8m7cs",
+          "score": 0.6501682,
+          "topicality": 0.00021363582
+        },
+        {
+          "description": "Livestock",
+          "mid": "/m/0ch8v",
+          "score": 0.6435583,
+          "topicality": 0.05725609
+        },
+        {
+          "description": "Fowl",
+          "mid": "/m/025rv6n",
+          "score": 0.6103665,
+          "topicality": 0.027388865
+        },
+        {
+          "description": "Flightless bird",
+          "mid": "/m/03qqnt",
+          "score": 0.5095407,
+          "topicality": 0.0003155656
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Citrus",
+          "mid": "/m/0dqb5",
+          "score": 0.98497933,
+          "topicality": 0.359311
+        },
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.9800002,
+          "topicality": 0.3333849
+        },
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.96538264,
+          "topicality": 0.16959667
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.9524717,
+          "topicality": 0.007134251
+        },
+        {
+          "description": "Lemon peel",
+          "mid": "/m/05n1hk8",
+          "score": 0.9481755,
+          "topicality": 0.05501057
+        },
+        {
+          "description": "Lemon",
+          "mid": "/m/09k_b",
+          "score": 0.9405855,
+          "topicality": 0.79767543
+        },
+        {
+          "description": "Meyer lemon",
+          "mid": "/m/04klfb",
+          "score": 0.93517286,
+          "topicality": 0.04738634
+        },
+        {
+          "description": "Rangpur",
+          "mid": "/m/0c17fh",
+          "score": 0.92246705,
+          "topicality": 0.008732131
+        },
+        {
+          "description": "Sweet lemon",
+          "mid": "/m/020cvm",
+          "score": 0.9105591,
+          "topicality": 0.06389194
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9092176,
+          "topicality": 0.011595665
+        }
+      ]
+    }
+  ]
+}

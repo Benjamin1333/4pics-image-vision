@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Black hair",
+          "mid": "/m/0fc1fy",
+          "score": 0.96597266,
+          "topicality": 0.0057006557
+        },
+        {
+          "description": "Friendship",
+          "mid": "/m/019_nn",
+          "score": 0.8543267,
+          "topicality": 0.028439514
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.8112082,
+          "topicality": 0.0041175964
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.76505214,
+          "topicality": 0.00031962534
+        },
+        {
+          "description": "Love",
+          "mid": "/m/048knlz",
+          "score": 0.74404085,
+          "topicality": 0.121280506
+        },
+        {
+          "description": "Long hair",
+          "mid": "/m/02pd__z",
+          "score": 0.7415837,
+          "topicality": 0.0039195786
+        },
+        {
+          "description": "Step cutting",
+          "mid": "/m/026mhtg",
+          "score": 0.66787547,
+          "topicality": 0.0015965864
+        },
+        {
+          "description": "Feathered hair",
+          "mid": "/m/027qw1p",
+          "score": 0.6231003,
+          "topicality": 0.00020081834
+        },
+        {
+          "description": "Film",
+          "mid": "/m/02vxn",
+          "score": 0.59573954,
+          "topicality": 0.057065576
+        }
+      ]
+    }
+  ]
+}

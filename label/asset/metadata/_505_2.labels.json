@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.9586029,
+          "topicality": 0.00042761193
+        },
+        {
+          "description": "Adapter",
+          "mid": "/m/02ztj6",
+          "score": 0.9468116,
+          "topicality": 0.67733145
+        },
+        {
+          "description": "Battery charger",
+          "mid": "/m/0892cv",
+          "score": 0.9408461,
+          "topicality": 0.4866969
+        },
+        {
+          "description": "AC adapter",
+          "mid": "/m/03bx2yv",
+          "score": 0.93753594,
+          "topicality": 0.7629386
+        },
+        {
+          "description": "Adapter",
+          "mid": "/m/0cw1wr",
+          "score": 0.9331264,
+          "topicality": 0.11542286
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.884196,
+          "topicality": 0.0009403018
+        },
+        {
+          "description": "Electrical Supply",
+          "mid": "/m/0cmsl0l",
+          "score": 0.8703174,
+          "topicality": 6.539046e-05
+        },
+        {
+          "description": "Electrical cable",
+          "mid": "/m/0bmz2",
+          "score": 0.8586361,
+          "topicality": 0.05690268
+        },
+        {
+          "description": "Wire",
+          "mid": "/m/083kv",
+          "score": 0.83801043,
+          "topicality": 0.0046846257
+        },
+        {
+          "description": "Mobile Phone Charger",
+          "mid": "/m/0h8k5mc",
+          "score": 0.7433543,
+          "topicality": 0.1774316
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Types of volcanic eruptions",
+          "mid": "/m/0g9zwhj",
+          "score": 0.9718204,
+          "topicality": 0.20531881
+        },
+        {
+          "description": "Volcano",
+          "mid": "/m/07_9_",
+          "score": 0.9691337,
+          "topicality": 0.9711151
+        },
+        {
+          "description": "Volcanic landform",
+          "mid": "/g/11jwzh3_l",
+          "score": 0.9535566,
+          "topicality": 0.038930457
+        },
+        {
+          "description": "Lava dome",
+          "mid": "/m/044bs7",
+          "score": 0.9403349,
+          "topicality": 0.05163133
+        },
+        {
+          "description": "geological phenomenon",
+          "mid": "/m/07sn5gn",
+          "score": 0.92999643,
+          "topicality": 0.00980002
+        },
+        {
+          "description": "Fissure vent",
+          "mid": "/m/0f6rw2",
+          "score": 0.9296614,
+          "topicality": 0.037698228
+        },
+        {
+          "description": "Volcanic field",
+          "mid": "/m/03t7cx",
+          "score": 0.9016439,
+          "topicality": 0.009916243
+        },
+        {
+          "description": "Lava",
+          "mid": "/m/09d2n",
+          "score": 0.8769777,
+          "topicality": 0.4485194
+        },
+        {
+          "description": "Extinct volcano",
+          "mid": "/m/076gkp",
+          "score": 0.82194775,
+          "topicality": 0.035899978
+        },
+        {
+          "description": "Stratovolcano",
+          "mid": "/m/015kp7",
+          "score": 0.8175412,
+          "topicality": 0.07435749
+        }
+      ]
+    }
+  ]
+}

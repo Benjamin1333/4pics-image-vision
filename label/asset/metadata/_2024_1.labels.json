@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.977663,
+          "topicality": 0.076978326
+        },
+        {
+          "description": "Sign",
+          "mid": "/m/06zsq",
+          "score": 0.8826487,
+          "topicality": 0.39781094
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.8715175,
+          "topicality": 0.20228077
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.7083522,
+          "topicality": 0.108878754
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.70706666,
+          "topicality": 0.00856589
+        },
+        {
+          "description": "Triangle",
+          "mid": "/m/07jx7",
+          "score": 0.55518246,
+          "topicality": 0.00046118523
+        },
+        {
+          "description": "Icon",
+          "mid": "/m/01zrkr",
+          "score": 0.5378567,
+          "topicality": 0.03744698
+        }
+      ]
+    }
+  ]
+}

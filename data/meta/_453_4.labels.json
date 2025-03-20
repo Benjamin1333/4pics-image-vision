@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Automotive Wheel System",
+          "mid": "/m/0h8ly30",
+          "score": 0.87972987,
+          "topicality": 0.00042424828
+        },
+        {
+          "description": "Fender",
+          "mid": "/m/0d74dx",
+          "score": 0.7698267,
+          "topicality": 0.0014148763
+        },
+        {
+          "description": "Tread",
+          "mid": "/m/04tkfx",
+          "score": 0.75856113,
+          "topicality": 0.0011408764
+        },
+        {
+          "description": "Synthetic rubber",
+          "mid": "/m/05s771",
+          "score": 0.7387526,
+          "topicality": 0.00064881693
+        },
+        {
+          "description": "Automotive Exhaust",
+          "mid": "/m/0h8p7_l",
+          "score": 0.7300793,
+          "topicality": 0.053398095
+        },
+        {
+          "description": "Exhaust system",
+          "mid": "/m/05nj_s",
+          "score": 0.6657789,
+          "topicality": 0.4787476
+        },
+        {
+          "description": "Hubcap",
+          "mid": "/m/01sdr3",
+          "score": 0.61961037,
+          "topicality": 0.00026571064
+        },
+        {
+          "description": "Tire Care",
+          "mid": "/m/0h8lsmh",
+          "score": 0.6072659,
+          "topicality": 0.00028861768
+        },
+        {
+          "description": "Muffler",
+          "mid": "/m/02x7rh",
+          "score": 0.5563535,
+          "topicality": 0.45005167
+        },
+        {
+          "description": "Performance car",
+          "mid": "/m/06j11d",
+          "score": 0.52135235,
+          "topicality": 7.291946e-05
+        }
+      ]
+    }
+  ]
+}

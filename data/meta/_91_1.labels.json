@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9742498,
+          "topicality": 0.026800618
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.9141817,
+          "topicality": 0.07020139
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6575634,
+          "topicality": 0.032640174
+        },
+        {
+          "description": "Still life photography",
+          "mid": "/m/027_ny3",
+          "score": 0.6248545,
+          "topicality": 0.04508279
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.5861153,
+          "topicality": 0.031724032
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.5614848,
+          "topicality": 0.008596087
+        },
+        {
+          "description": "Still life",
+          "mid": "/m/01spzs",
+          "score": 0.5520199,
+          "topicality": 0.022460863
+        },
+        {
+          "description": "Modern art",
+          "mid": "/m/015r61",
+          "score": 0.51610076,
+          "topicality": 0.016983978
+        }
+      ]
+    }
+  ]
+}

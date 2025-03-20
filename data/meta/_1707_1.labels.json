@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Pasta",
+          "mid": "/m/05z55",
+          "score": 0.7110544,
+          "topicality": 0.91347873
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.7085583,
+          "topicality": 0.13131663
+        },
+        {
+          "description": "Staple food",
+          "mid": "/m/022tld",
+          "score": 0.6861158,
+          "topicality": 0.008065531
+        },
+        {
+          "description": "Recipe",
+          "mid": "/m/0p57p",
+          "score": 0.6510495,
+          "topicality": 0.054294057
+        },
+        {
+          "description": "Comfort food",
+          "mid": "/m/04q6ng",
+          "score": 0.56493723,
+          "topicality": 0.0010596118
+        },
+        {
+          "description": "Radiatori",
+          "mid": "/m/027nlqg",
+          "score": 0.5316226,
+          "topicality": 0.16056167
+        }
+      ]
+    }
+  ]
+}

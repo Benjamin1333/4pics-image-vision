@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Plumbing",
+          "mid": "/m/0b_zf",
+          "score": 0.92005706,
+          "topicality": 0.6883295
+        },
+        {
+          "description": "Plumbing fixture",
+          "mid": "/m/02pkr5",
+          "score": 0.838792,
+          "topicality": 0.08835873
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.83561116,
+          "topicality": 0.008776745
+        },
+        {
+          "description": "Mechanic",
+          "mid": "/m/03f_s3",
+          "score": 0.82239336,
+          "topicality": 0.0138128465
+        },
+        {
+          "description": "Household hardware",
+          "mid": "/m/03jvk",
+          "score": 0.8089786,
+          "topicality": 0.010332075
+        },
+        {
+          "description": "Tradesman",
+          "mid": "/m/01jp3p",
+          "score": 0.80482996,
+          "topicality": 0.022125274
+        },
+        {
+          "description": "Tool",
+          "mid": "/m/07k1x",
+          "score": 0.7929758,
+          "topicality": 0.23517928
+        },
+        {
+          "description": "Wrench",
+          "mid": "/m/01j5ks",
+          "score": 0.76185536,
+          "topicality": 0.09206156
+        },
+        {
+          "description": "Sink",
+          "mid": "/m/0130jx",
+          "score": 0.7602652,
+          "topicality": 0.11207753
+        },
+        {
+          "description": "Plumber",
+          "mid": "/m/01jp58",
+          "score": 0.7499072,
+          "topicality": 0.9501951
+        }
+      ]
+    }
+  ]
+}

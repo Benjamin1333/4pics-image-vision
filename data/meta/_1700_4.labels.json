@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.9880978,
+          "topicality": 0.15603903
+        },
+        {
+          "description": "Jigsaw puzzle",
+          "mid": "/m/0_d6n",
+          "score": 0.9065645,
+          "topicality": 0.84569997
+        },
+        {
+          "description": "Puzzle",
+          "mid": "/m/0lvmz",
+          "score": 0.8904353,
+          "topicality": 0.87511957
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.57307416,
+          "topicality": 0.007329927
+        }
+      ]
+    }
+  ]
+}

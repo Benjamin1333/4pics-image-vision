@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.94073004,
+          "topicality": 0.039291125
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.90179855,
+          "topicality": 0.020540068
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.88769853,
+          "topicality": 0.042846218
+        },
+        {
+          "description": "People in nature",
+          "mid": "/j/3gbwgn",
+          "score": 0.8482718,
+          "topicality": 8.150611e-05
+        },
+        {
+          "description": "Rope",
+          "mid": "/m/01xc8d",
+          "score": 0.8106441,
+          "topicality": 0.14014705
+        },
+        {
+          "description": "Vacation",
+          "mid": "/m/02jwqh",
+          "score": 0.73781186,
+          "topicality": 0.0062587988
+        },
+        {
+          "description": "Park",
+          "mid": "/m/0166ls",
+          "score": 0.67079663,
+          "topicality": 0.05797228
+        },
+        {
+          "description": "Play",
+          "mid": "/m/06wtgq",
+          "score": 0.60284114,
+          "topicality": 7.7865385e-05
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.5721255,
+          "topicality": 0.0269819
+        }
+      ]
+    }
+  ]
+}

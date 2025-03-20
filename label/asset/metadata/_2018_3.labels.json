@@ -1,0 +1,14 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Nickel",
+          "mid": "/m/025s4r7",
+          "score": 0.5095735,
+          "topicality": 0.18085866
+        }
+      ]
+    }
+  ]
+}

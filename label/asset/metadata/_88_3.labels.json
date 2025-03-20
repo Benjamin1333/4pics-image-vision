@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Felidae",
+          "mid": "/m/0307l",
+          "score": 0.9559853,
+          "topicality": 0.40506068
+        },
+        {
+          "description": "Carnivores",
+          "mid": "/m/01lrl",
+          "score": 0.93246293,
+          "topicality": 0.08289096
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.91541946,
+          "topicality": 0.014277792
+        },
+        {
+          "description": "Panthera",
+          "mid": "/m/0cdnk",
+          "score": 0.9040018,
+          "topicality": 0.655921
+        },
+        {
+          "description": "Whiskers",
+          "mid": "/m/01l7qd",
+          "score": 0.8934379,
+          "topicality": 0.0086014895
+        },
+        {
+          "description": "Terrestrial animal",
+          "mid": "/m/0fbf1m",
+          "score": 0.88136154,
+          "topicality": 0.0071115647
+        },
+        {
+          "description": "Pumas",
+          "mid": "/m/027ylld",
+          "score": 0.8184916,
+          "topicality": 0.035487104
+        },
+        {
+          "description": "Wildlife",
+          "mid": "/m/01280g",
+          "score": 0.7915111,
+          "topicality": 0.018407496
+        },
+        {
+          "description": "Fur",
+          "mid": "/m/0cnmr",
+          "score": 0.63574094,
+          "topicality": 0.0034829474
+        }
+      ]
+    }
+  ]
+}

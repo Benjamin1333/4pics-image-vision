@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.8280852,
+          "topicality": 0.10319837
+        },
+        {
+          "description": "Lid",
+          "mid": "/m/074cq5",
+          "score": 0.7514971,
+          "topicality": 0.032995146
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.6634492,
+          "topicality": 0.10968323
+        },
+        {
+          "description": "Food storage containers",
+          "mid": "/m/05p0tsj",
+          "score": 0.63692963,
+          "topicality": 0.009130633
+        },
+        {
+          "description": "Laboratory equipment",
+          "mid": "/m/03_5sv",
+          "score": 0.615693,
+          "topicality": 0.0004910078
+        },
+        {
+          "description": "Transparency",
+          "mid": "/m/01z8xy",
+          "score": 0.5692332,
+          "topicality": 0.001033873
+        }
+      ]
+    }
+  ]
+}

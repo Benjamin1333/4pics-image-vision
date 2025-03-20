@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.98872626,
+          "topicality": 0.13691045
+        },
+        {
+          "description": "Sphere",
+          "mid": "/m/06y47",
+          "score": 0.8959662,
+          "topicality": 0.75330126
+        },
+        {
+          "description": "Glass",
+          "mid": "/m/039jq",
+          "score": 0.7775082,
+          "topicality": 0.081470594
+        },
+        {
+          "description": "Bubble",
+          "mid": "/m/0g91zf",
+          "score": 0.7110937,
+          "topicality": 0.34164158
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.69307065,
+          "topicality": 0.0020332832
+        },
+        {
+          "description": "Ball",
+          "mid": "/m/018xm",
+          "score": 0.6705158,
+          "topicality": 0.22753157
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6090519,
+          "topicality": 0.012178759
+        },
+        {
+          "description": "Soccer ball",
+          "mid": "/m/0dpm1v",
+          "score": 0.59794044,
+          "topicality": 0.00017513662
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.5962329,
+          "topicality": 0.04488583
+        },
+        {
+          "description": "Oval",
+          "mid": "/m/06g58b",
+          "score": 0.5215526,
+          "topicality": 0.007333098
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Exercise equipment",
+          "mid": "/m/090ljv",
+          "score": 0.9835111,
+          "topicality": 0.15415713
+        },
+        {
+          "description": "Exercise machine",
+          "mid": "/m/097wsh",
+          "score": 0.98008025,
+          "topicality": 0.1857566
+        },
+        {
+          "description": "Gym",
+          "mid": "/m/016yx7",
+          "score": 0.9515015,
+          "topicality": 0.41596326
+        },
+        {
+          "description": "Treadmill",
+          "mid": "/m/030610",
+          "score": 0.9385583,
+          "topicality": 0.9367377
+        },
+        {
+          "description": "Exercise",
+          "mid": "/m/019w6h",
+          "score": 0.92914176,
+          "topicality": 0.42680103
+        },
+        {
+          "description": "Physical fitness",
+          "mid": "/m/027x7n",
+          "score": 0.9243185,
+          "topicality": 0.3463595
+        },
+        {
+          "description": "Knee",
+          "mid": "/m/019swr",
+          "score": 0.8569593,
+          "topicality": 0.004291844
+        },
+        {
+          "description": "Muscle",
+          "mid": "/m/04_fs",
+          "score": 0.8445259,
+          "topicality": 0.0155419465
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.8214887,
+          "topicality": 0.0741228
+        },
+        {
+          "description": "Sports training",
+          "mid": "/m/02z8359",
+          "score": 0.7114861,
+          "topicality": 0.020396657
+        }
+      ]
+    }
+  ]
+}

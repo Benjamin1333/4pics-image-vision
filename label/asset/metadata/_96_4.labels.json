@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sock",
+          "mid": "/m/01nq26",
+          "score": 0.8580059,
+          "topicality": 0.7265208
+        },
+        {
+          "description": "Baby & Toddler Clothing",
+          "mid": "/m/0h8q07j",
+          "score": 0.7817831,
+          "topicality": 1.2394343e-05
+        },
+        {
+          "description": "Undergarment",
+          "mid": "/m/09j1x",
+          "score": 0.7726422,
+          "topicality": 0.04479191
+        },
+        {
+          "description": "Plaid",
+          "mid": "/m/0177t1",
+          "score": 0.7374245,
+          "topicality": 0.00041804192
+        },
+        {
+          "description": "Pattern",
+          "mid": "/m/06g1w2",
+          "score": 0.60497653,
+          "topicality": 0.012705308
+        },
+        {
+          "description": "Tartan",
+          "mid": "/m/01z1sv",
+          "score": 0.58103323,
+          "topicality": 0.011884263
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Spiral",
+          "mid": "/m/0gn_f",
+          "score": 0.87900734,
+          "topicality": 0.21395144
+        },
+        {
+          "description": "Metal",
+          "mid": "/m/04t7l",
+          "score": 0.7937932,
+          "topicality": 0.034892872
+        },
+        {
+          "description": "Coil spring",
+          "mid": "/m/024k91",
+          "score": 0.728683,
+          "topicality": 0.9149646
+        },
+        {
+          "description": "Aluminium",
+          "mid": "/m/027vj2v",
+          "score": 0.52230597,
+          "topicality": 0.034387063
+        }
+      ]
+    }
+  ]
+}

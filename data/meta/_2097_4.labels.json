@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Heart",
+          "mid": "/m/07bg4p",
+          "score": 0.9839536,
+          "topicality": 0.8233437
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.978124,
+          "topicality": 0.709655
+        },
+        {
+          "description": "Balloon",
+          "mid": "/m/01j51",
+          "score": 0.91083723,
+          "topicality": 0.72864634
+        },
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.89938843,
+          "topicality": 0.05920513
+        },
+        {
+          "description": "Love",
+          "mid": "/m/048knlz",
+          "score": 0.88901085,
+          "topicality": 0.5084794
+        },
+        {
+          "description": "Party Supply",
+          "mid": "/m/0cmqr_4",
+          "score": 0.881502,
+          "topicality": 0.0011295915
+        },
+        {
+          "description": "Valentine's Day",
+          "mid": "/m/018y5m",
+          "score": 0.7707447,
+          "topicality": 0.67653894
+        },
+        {
+          "description": "Heart",
+          "mid": "/m/095_n",
+          "score": 0.7490446,
+          "topicality": 0.4277018
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.588979,
+          "topicality": 0.0028606085
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.5711246,
+          "topicality": 0.034337595
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Cake",
+          "mid": "/m/0fszt",
+          "score": 0.9810797,
+          "topicality": 0.4615841
+        },
+        {
+          "description": "Candle",
+          "mid": "/m/0c06p",
+          "score": 0.95925546,
+          "topicality": 0.64018667
+        },
+        {
+          "description": "Birthday Candle",
+          "mid": "/m/0h8ndjh",
+          "score": 0.94658184,
+          "topicality": 0.63762116
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.93909913,
+          "topicality": 0.07369663
+        },
+        {
+          "description": "Cake decorating",
+          "mid": "/m/02r_57s",
+          "score": 0.92817384,
+          "topicality": 0.063800566
+        },
+        {
+          "description": "Cake Decorating Supply",
+          "mid": "/m/0h8n9w9",
+          "score": 0.9267492,
+          "topicality": 0.0058394265
+        },
+        {
+          "description": "Party Supply",
+          "mid": "/m/0cmqr_4",
+          "score": 0.89378047,
+          "topicality": 0.00032580673
+        },
+        {
+          "description": "Birthday",
+          "mid": "/m/01kcnl",
+          "score": 0.8851417,
+          "topicality": 0.7947512
+        },
+        {
+          "description": "Birthday cake",
+          "mid": "/m/02czv8",
+          "score": 0.8759734,
+          "topicality": 0.4997104
+        },
+        {
+          "description": "Wax",
+          "mid": "/m/0fy__",
+          "score": 0.84432137,
+          "topicality": 0.008620565
+        }
+      ]
+    }
+  ]
+}

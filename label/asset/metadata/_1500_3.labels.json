@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Eyewear",
+          "mid": "/m/0j272k5",
+          "score": 0.99125075,
+          "topicality": 0.0039045138
+        },
+        {
+          "description": "Glasses",
+          "mid": "/m/0jyfg",
+          "score": 0.9757496,
+          "topicality": 0.025497979
+        },
+        {
+          "description": "Vision Care",
+          "mid": "/m/0h8jxfl",
+          "score": 0.9730467,
+          "topicality": 2.4524408e-05
+        },
+        {
+          "description": "Sunglasses",
+          "mid": "/m/017ftj",
+          "score": 0.9607981,
+          "topicality": 0.034194548
+        },
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.9421745,
+          "topicality": 0.03600717
+        },
+        {
+          "description": "Goggles",
+          "mid": "/m/02_n6y",
+          "score": 0.9344321,
+          "topicality": 0.003596682
+        },
+        {
+          "description": "Blond",
+          "mid": "/m/0294jb",
+          "score": 0.82341164,
+          "topicality": 0.019522663
+        },
+        {
+          "description": "Child model",
+          "mid": "/m/0bgmt1",
+          "score": 0.67172515,
+          "topicality": 0.17157543
+        },
+        {
+          "description": "Model",
+          "mid": "/m/0d1pc",
+          "score": 0.66268784,
+          "topicality": 0.078124695
+        },
+        {
+          "description": "Photo shoot",
+          "mid": "/m/02qbl1m",
+          "score": 0.63554883,
+          "topicality": 0.025179567
+        }
+      ]
+    }
+  ]
+}

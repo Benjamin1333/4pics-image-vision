@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Wood",
+          "mid": "/m/083vt",
+          "score": 0.9702004,
+          "topicality": 0.1617559
+        },
+        {
+          "description": "Personal protective equipment",
+          "mid": "/m/0ffjr",
+          "score": 0.9433286,
+          "topicality": 0.0026662082
+        },
+        {
+          "description": "Construction worker",
+          "mid": "/m/047x57",
+          "score": 0.92412627,
+          "topicality": 0.10308194
+        },
+        {
+          "description": "Workwear",
+          "mid": "/m/026lc7w",
+          "score": 0.8713955,
+          "topicality": 0.0019124855
+        },
+        {
+          "description": "Blue-collar worker",
+          "mid": "/m/01kq3f",
+          "score": 0.87024224,
+          "topicality": 0.013444904
+        },
+        {
+          "description": "Construction",
+          "mid": "/m/01jnzj",
+          "score": 0.83055127,
+          "topicality": 0.044664845
+        },
+        {
+          "description": "Roofer",
+          "mid": "/m/0h398j",
+          "score": 0.8032632,
+          "topicality": 0.35996175
+        },
+        {
+          "description": "Carpentry",
+          "mid": "/m/019x4f",
+          "score": 0.7932658,
+          "topicality": 0.18184258
+        },
+        {
+          "description": "Hard hat",
+          "mid": "/m/01n5_8",
+          "score": 0.78383905,
+          "topicality": 0.001957272
+        },
+        {
+          "description": "Engineer",
+          "mid": "/m/09j9h",
+          "score": 0.78030044,
+          "topicality": 0.009745417
+        }
+      ]
+    }
+  ]
+}

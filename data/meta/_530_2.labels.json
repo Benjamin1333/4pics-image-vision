@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.8273879,
+          "topicality": 0.02810035
+        },
+        {
+          "description": "Tool",
+          "mid": "/m/07k1x",
+          "score": 0.81220084,
+          "topicality": 0.3868014
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.79932296,
+          "topicality": 0.008719237
+        },
+        {
+          "description": "Office Equipment",
+          "mid": "/m/03qtgjk",
+          "score": 0.68119067,
+          "topicality": 0.00011704964
+        },
+        {
+          "description": "Hand tool",
+          "mid": "/m/01yc83",
+          "score": 0.56330174,
+          "topicality": 0.04566457
+        },
+        {
+          "description": "Nickel",
+          "mid": "/m/025s4r7",
+          "score": 0.54831606,
+          "topicality": 0.00033346782
+        },
+        {
+          "description": "Antique",
+          "mid": "/m/01ys2s",
+          "score": 0.54184365,
+          "topicality": 0.15263663
+        },
+        {
+          "description": "Office Instrument",
+          "mid": "/m/0h8m01z",
+          "score": 0.50411123,
+          "topicality": 0.00010657391
+        }
+      ]
+    }
+  ]
+}

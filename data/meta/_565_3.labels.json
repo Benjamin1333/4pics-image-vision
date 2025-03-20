@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Leather jacket",
+          "mid": "/m/0dly90",
+          "score": 0.9713525,
+          "topicality": 0.0559627
+        },
+        {
+          "description": "Collar",
+          "mid": "/m/091410",
+          "score": 0.9699593,
+          "topicality": 0.0052816817
+        },
+        {
+          "description": "Outerwear",
+          "mid": "/m/047vlmn",
+          "score": 0.9566797,
+          "topicality": 0.015979728
+        },
+        {
+          "description": "Fashion",
+          "mid": "/m/032tl",
+          "score": 0.94591707
+        },
+        {
+          "description": "Black hair",
+          "mid": "/m/0fc1fy",
+          "score": 0.9400122,
+          "topicality": 0.0071584308
+        },
+        {
+          "description": "Jacket",
+          "mid": "/m/032b3c",
+          "score": 0.93860245,
+          "topicality": 0.052840803
+        },
+        {
+          "description": "Leather",
+          "mid": "/m/04lbp",
+          "score": 0.7819447,
+          "topicality": 0.010760306
+        },
+        {
+          "description": "Fashion design",
+          "mid": "/m/02qqd4n",
+          "score": 0.77394056,
+          "topicality": 0.0045774365
+        },
+        {
+          "description": "Step cutting",
+          "mid": "/m/026mhtg",
+          "score": 0.75166386,
+          "topicality": 0.0004373316
+        },
+        {
+          "description": "Long hair",
+          "mid": "/m/02pd__z",
+          "score": 0.7400243,
+          "topicality": 0.0018629346
+        }
+      ]
+    }
+  ]
+}

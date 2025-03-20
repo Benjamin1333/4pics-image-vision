@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Community",
+          "mid": "/m/01qls",
+          "score": 0.9334748,
+          "topicality": 0.01639504
+        },
+        {
+          "description": "Workwear",
+          "mid": "/m/026lc7w",
+          "score": 0.83313906,
+          "topicality": 0.003639068
+        },
+        {
+          "description": "High-visibility clothing",
+          "mid": "/m/01cx7t",
+          "score": 0.7242713,
+          "topicality": 0.0029853638
+        },
+        {
+          "description": "Crew",
+          "mid": "/m/01zpz",
+          "score": 0.6574662,
+          "topicality": 0.00699779
+        },
+        {
+          "description": "Cleanliness",
+          "mid": "/m/020s4p",
+          "score": 0.5853653,
+          "topicality": 0.04165117
+        },
+        {
+          "description": "Blue-collar worker",
+          "mid": "/m/01kq3f",
+          "score": 0.5811578,
+          "topicality": 0.029286578
+        }
+      ]
+    }
+  ]
+}

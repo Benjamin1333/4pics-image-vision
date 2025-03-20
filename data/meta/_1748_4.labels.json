@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Flame",
+          "mid": "/m/01f415",
+          "score": 0.91491663,
+          "topicality": 0.05822262
+        },
+        {
+          "description": "Fire",
+          "mid": "/m/02_41",
+          "score": 0.8744523,
+          "topicality": 0.19829054
+        },
+        {
+          "description": "People in nature",
+          "mid": "/j/3gbwgn",
+          "score": 0.8499583,
+          "topicality": 4.922485e-05
+        },
+        {
+          "description": "Heat",
+          "mid": "/m/03k2v",
+          "score": 0.83268577,
+          "topicality": 0.01502859
+        },
+        {
+          "description": "Stunt Performer",
+          "mid": "/m/01tkqy",
+          "score": 0.5096106,
+          "topicality": 0.02058946
+        }
+      ]
+    }
+  ]
+}

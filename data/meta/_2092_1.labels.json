@@ -1,0 +1,14 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.7011043,
+          "topicality": 0.14029674
+        }
+      ]
+    }
+  ]
+}

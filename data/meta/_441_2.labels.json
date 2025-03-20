@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Clothing",
+          "mid": "/m/09j2d",
+          "score": 0.99416035,
+          "topicality": 0.0011931559
+        },
+        {
+          "description": "Footwear",
+          "mid": "/m/09j5n",
+          "score": 0.98330534,
+          "topicality": 0.062634036
+        },
+        {
+          "description": "Sandal",
+          "mid": "/m/03nfch",
+          "score": 0.98026836,
+          "topicality": 0.36193886
+        },
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9767031,
+          "topicality": 0.02051429
+        },
+        {
+          "description": "High-heeled shoe",
+          "mid": "/m/06k2mb",
+          "score": 0.9720746,
+          "topicality": 0.5755888
+        },
+        {
+          "description": "Fashion",
+          "mid": "/m/032tl",
+          "score": 0.9658751
+        },
+        {
+          "description": "Dancing Shoe",
+          "mid": "/m/0h8mz41",
+          "score": 0.82495266,
+          "topicality": 3.848263e-05
+        },
+        {
+          "description": "Basic Pump",
+          "mid": "/m/0hgscdg",
+          "score": 0.81589395,
+          "topicality": 0.0033537159
+        },
+        {
+          "description": "Strap",
+          "mid": "/m/04lzmz",
+          "score": 0.80855435,
+          "topicality": 0.029126126
+        },
+        {
+          "description": "Natural material",
+          "mid": "/m/07sx2n",
+          "score": 0.76821023,
+          "topicality": 2.0171912e-05
+        }
+      ]
+    }
+  ]
+}

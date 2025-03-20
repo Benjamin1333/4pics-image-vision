@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Mountain",
+          "mid": "/m/09d_r",
+          "score": 0.9899844,
+          "topicality": 0.3056584
+        },
+        {
+          "description": "Mountainous landforms",
+          "mid": "/g/11jxkqbpp",
+          "score": 0.9881474,
+          "topicality": 0.0061862557
+        },
+        {
+          "description": "Hill",
+          "mid": "/m/04_5sg",
+          "score": 0.97547835,
+          "topicality": 0.021254515
+        },
+        {
+          "description": "Mountain range",
+          "mid": "/m/04wxr",
+          "score": 0.96946514,
+          "topicality": 0.071882576
+        },
+        {
+          "description": "Highland",
+          "mid": "/m/03cjrt",
+          "score": 0.95639926,
+          "topicality": 0.036960788
+        },
+        {
+          "description": "Natural landscape",
+          "mid": "/m/03d28y3",
+          "score": 0.9492339,
+          "topicality": 0.007491916
+        },
+        {
+          "description": "Landscape",
+          "mid": "/m/025s3q0",
+          "score": 0.9420722,
+          "topicality": 0.06546688
+        },
+        {
+          "description": "Ridge",
+          "mid": "/m/0355cw",
+          "score": 0.9401081,
+          "topicality": 0.012531647
+        },
+        {
+          "description": "Ecoregion",
+          "mid": "/m/0cblv",
+          "score": 0.93860626,
+          "topicality": 0.00013289653
+        },
+        {
+          "description": "Grassland",
+          "mid": "/m/01c7cq",
+          "score": 0.9366026,
+          "topicality": 0.0023081717
+        }
+      ]
+    }
+  ]
+}

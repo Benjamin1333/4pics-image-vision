@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.97331995,
+          "topicality": 0.15158993
+        },
+        {
+          "description": "Thigh",
+          "mid": "/m/01j04m",
+          "score": 0.9702088,
+          "topicality": 0.024037223
+        },
+        {
+          "description": "Knee",
+          "mid": "/m/019swr",
+          "score": 0.9291673,
+          "topicality": 0.036824428
+        },
+        {
+          "description": "Calf",
+          "mid": "/m/0715t2",
+          "score": 0.9203957,
+          "topicality": 0.0240685
+        },
+        {
+          "description": "Stocking",
+          "mid": "/m/01767_",
+          "score": 0.89107126,
+          "topicality": 0.13238212
+        },
+        {
+          "description": "Dress",
+          "mid": "/m/01d40f",
+          "score": 0.8903829,
+          "topicality": 0.055433374
+        },
+        {
+          "description": "Elbow",
+          "mid": "/m/01vm1p",
+          "score": 0.87541574,
+          "topicality": 0.011594041
+        },
+        {
+          "description": "Waist",
+          "mid": "/m/031974",
+          "score": 0.86049265,
+          "topicality": 0.0049236855
+        },
+        {
+          "description": "Tights",
+          "mid": "/m/015mm6",
+          "score": 0.81594664,
+          "topicality": 0.08725904
+        },
+        {
+          "description": "Foot",
+          "mid": "/m/031n1",
+          "score": 0.75202996,
+          "topicality": 0.023681773
+        }
+      ]
+    }
+  ]
+}

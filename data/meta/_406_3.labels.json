@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Wetsuit",
+          "mid": "/m/01811m",
+          "score": 0.9751217,
+          "topicality": 0.94909304
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.88962984,
+          "topicality": 0.019655138
+        },
+        {
+          "description": "Beach",
+          "mid": "/m/0b3yr",
+          "score": 0.8449536,
+          "topicality": 0.28763482
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.79724646,
+          "topicality": 0.000984519
+        },
+        {
+          "description": "Vacation",
+          "mid": "/m/02jwqh",
+          "score": 0.78540784,
+          "topicality": 0.029814772
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.7573702,
+          "topicality": 0.009679404
+        },
+        {
+          "description": "Sand",
+          "mid": "/m/099fz",
+          "score": 0.6808893,
+          "topicality": 0.024818975
+        },
+        {
+          "description": "Holiday",
+          "mid": "/m/03gkl",
+          "score": 0.62823915,
+          "topicality": 0.0019337924
+        },
+        {
+          "description": "Spandex",
+          "mid": "/m/0142y7",
+          "score": 0.5916401,
+          "topicality": 0.03701512
+        },
+        {
+          "description": "Dry suit",
+          "mid": "/m/01qp69",
+          "score": 0.5478495,
+          "topicality": 0.034156296
+        }
+      ]
+    }
+  ]
+}

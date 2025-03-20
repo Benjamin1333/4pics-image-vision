@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.988111,
+          "topicality": 0.0021837335
+        },
+        {
+          "description": "Audio equipment",
+          "mid": "/m/01yttv",
+          "score": 0.98174524,
+          "topicality": 0.015879877
+        },
+        {
+          "description": "Studio",
+          "mid": "/m/035zq3",
+          "score": 0.88833225,
+          "topicality": 0.23759173
+        },
+        {
+          "description": "Electronics",
+          "mid": "/m/02mrp",
+          "score": 0.8866352,
+          "topicality": 0.04888242
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.84406036,
+          "topicality": 0.0149741825
+        },
+        {
+          "description": "Input device",
+          "mid": "/m/02dwgb",
+          "score": 0.8050283,
+          "topicality": 0.0006456454
+        },
+        {
+          "description": "Broadcasting",
+          "mid": "/m/07z226",
+          "score": 0.75034565,
+          "topicality": 0.016618
+        },
+        {
+          "description": "Electronic musical instrument",
+          "mid": "/m/02qjv",
+          "score": 0.7050655,
+          "topicality": 0.014972895
+        },
+        {
+          "description": "Recording",
+          "mid": "/m/025l19",
+          "score": 0.6770935,
+          "topicality": 0.31364053
+        },
+        {
+          "description": "Mixing console",
+          "mid": "/m/01bfwv",
+          "score": 0.66862077,
+          "topicality": 0.099524505
+        }
+      ]
+    }
+  ]
+}

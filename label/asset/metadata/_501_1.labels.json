@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Tobacco products",
+          "mid": "/m/04gvstg",
+          "score": 0.9833744,
+          "topicality": 0.06830283
+        },
+        {
+          "description": "Smoking",
+          "mid": "/m/02vxs3q",
+          "score": 0.98225254,
+          "topicality": 0.8890001
+        },
+        {
+          "description": "Smoke",
+          "mid": "/m/06q40",
+          "score": 0.96401894,
+          "topicality": 0.13539305
+        },
+        {
+          "description": "Cigarette",
+          "mid": "/m/09k76",
+          "score": 0.9506119,
+          "topicality": 0.7214455
+        },
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.9385851,
+          "topicality": 0.0070538237
+        },
+        {
+          "description": "Tobacco",
+          "mid": "/m/07ly_",
+          "score": 0.8775137,
+          "topicality": 0.27482048
+        },
+        {
+          "description": "Ash",
+          "mid": "/m/04zjxcz",
+          "score": 0.80105036,
+          "topicality": 9.5480355e-05
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.64116055,
+          "topicality": 0.005088431
+        }
+      ]
+    }
+  ]
+}

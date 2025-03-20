@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.9086158,
+          "topicality": 0.0010661163
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.85478896,
+          "topicality": 0.013248515
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.81891197,
+          "topicality": 0.06149139
+        },
+        {
+          "description": "Elevator",
+          "mid": "/m/02r60",
+          "score": 0.77978677,
+          "topicality": 0.6285983
+        },
+        {
+          "description": "Electronics",
+          "mid": "/m/02mrp",
+          "score": 0.72709394,
+          "topicality": 0.020268582
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.6800302,
+          "topicality": 0.00026052128
+        }
+      ]
+    }
+  ]
+}

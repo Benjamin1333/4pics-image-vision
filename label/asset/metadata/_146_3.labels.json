@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9449084,
+          "topicality": 0.0046117255
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9341194,
+          "topicality": 0.050134275
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.8800802,
+          "topicality": 0.18196172
+        },
+        {
+          "description": "Fictional character",
+          "mid": "/m/02h7lkt",
+          "score": 0.75091785,
+          "topicality": 0.0010492521
+        },
+        {
+          "description": "Costume",
+          "mid": "/m/0250x",
+          "score": 0.7217764,
+          "topicality": 0.056079216
+        },
+        {
+          "description": "Superhero",
+          "mid": "/m/0btmb",
+          "score": 0.66888887,
+          "topicality": 0.04697534
+        },
+        {
+          "description": "Fan",
+          "mid": "/m/013x8v",
+          "score": 0.6307466,
+          "topicality": 0.049199477
+        },
+        {
+          "description": "Pleased",
+          "mid": "/j/4kr7kk",
+          "score": 0.62323433,
+          "topicality": 0.0006013085
+        },
+        {
+          "description": "Hero",
+          "mid": "/m/03kll",
+          "score": 0.52990955,
+          "topicality": 0.0490663
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Elephant",
+          "mid": "/m/0bwd_0j",
+          "score": 0.99474084,
+          "topicality": 0.8557079
+        },
+        {
+          "description": "Vertebrate",
+          "mid": "/m/09686",
+          "score": 0.96138495,
+          "topicality": 0.004610548
+        },
+        {
+          "description": "African elephant",
+          "mid": "/m/04_r5c",
+          "score": 0.91349953,
+          "topicality": 0.32633933
+        },
+        {
+          "description": "Terrestrial animal",
+          "mid": "/m/0fbf1m",
+          "score": 0.89774555,
+          "topicality": 0.013750355
+        },
+        {
+          "description": "Working animal",
+          "mid": "/m/07_gml",
+          "score": 0.8774671,
+          "topicality": 0.00025498503
+        },
+        {
+          "description": "Indian elephant",
+          "mid": "/m/0dflpy",
+          "score": 0.8684716,
+          "topicality": 0.24765807
+        },
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.8353561,
+          "topicality": 0.4474072
+        },
+        {
+          "description": "Wildlife",
+          "mid": "/m/01280g",
+          "score": 0.7640397,
+          "topicality": 0.0006877213
+        },
+        {
+          "description": "Animal Figure",
+          "mid": "/m/0h8m7cs",
+          "score": 0.6948965,
+          "topicality": 0.012315995
+        },
+        {
+          "description": "Tusk",
+          "mid": "/m/01n_j_",
+          "score": 0.6615023,
+          "topicality": 0.061873537
+        }
+      ]
+    }
+  ]
+}

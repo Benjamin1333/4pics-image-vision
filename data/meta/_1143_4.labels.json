@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.7503501,
+          "topicality": 0.00084089366
+        },
+        {
+          "description": "Mail",
+          "mid": "/m/0dh8s",
+          "score": 0.5822242,
+          "topicality": 0.10325721
+        },
+        {
+          "description": "Label",
+          "mid": "/m/05c0n6k",
+          "score": 0.5372866,
+          "topicality": 0.018916398
+        }
+      ]
+    }
+  ]
+}

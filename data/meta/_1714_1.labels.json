@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Tunnel",
+          "mid": "/m/0158vt",
+          "score": 0.9435855,
+          "topicality": 0.8705794
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.84786016,
+          "topicality": 0.033536416
+        },
+        {
+          "description": "Engineering",
+          "mid": "/m/02ky346",
+          "score": 0.73705155,
+          "topicality": 0.015674928
+        },
+        {
+          "description": "Track",
+          "mid": "/m/01vk9q",
+          "score": 0.6907368,
+          "topicality": 0.08360165
+        },
+        {
+          "description": "Metro station",
+          "mid": "/m/01p3xl",
+          "score": 0.6890812,
+          "topicality": 0.114327125
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.66426283,
+          "topicality": 0.0010662916
+        },
+        {
+          "description": "Subway",
+          "mid": "/m/0b_hy9",
+          "score": 0.64194065,
+          "topicality": 0.014504895
+        },
+        {
+          "description": "Rapid transit",
+          "mid": "/m/0195fx",
+          "score": 0.6329288,
+          "topicality": 0.1939078
+        },
+        {
+          "description": "Steel",
+          "mid": "/m/06qqb",
+          "score": 0.57167333,
+          "topicality": 0.0005625403
+        },
+        {
+          "description": "Train station",
+          "mid": "/m/0py27",
+          "score": 0.5342875,
+          "topicality": 0.045373455
+        }
+      ]
+    }
+  ]
+}

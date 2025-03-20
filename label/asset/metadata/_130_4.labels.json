@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Mesh",
+          "mid": "/m/0413y3",
+          "score": 0.9616458,
+          "topicality": 0.3594997
+        },
+        {
+          "description": "Grille",
+          "mid": "/m/03_qhc",
+          "score": 0.9519881,
+          "topicality": 0.18697986
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.6988603,
+          "topicality": 0.0011156687
+        },
+        {
+          "description": "Carbon fibers",
+          "mid": "/m/0155hn",
+          "score": 0.56007314,
+          "topicality": 0.00741724
+        }
+      ]
+    }
+  ]
+}

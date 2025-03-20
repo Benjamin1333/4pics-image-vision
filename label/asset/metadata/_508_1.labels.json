@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Flame",
+          "mid": "/m/01f415",
+          "score": 0.8715147,
+          "topicality": 0.10437339
+        },
+        {
+          "description": "Cone",
+          "mid": "/m/03bzp0",
+          "score": 0.8471495,
+          "topicality": 0.20817618
+        },
+        {
+          "description": "Reflection",
+          "mid": "/m/02l215",
+          "score": 0.7778571,
+          "topicality": 0.023922121
+        },
+        {
+          "description": "Fire",
+          "mid": "/m/02_41",
+          "score": 0.66141874,
+          "topicality": 0.117028914
+        },
+        {
+          "description": "Heat",
+          "mid": "/m/03k2v",
+          "score": 0.6598746,
+          "topicality": 0.0153154135
+        },
+        {
+          "description": "Evening",
+          "mid": "/m/04mx32",
+          "score": 0.6500692,
+          "topicality": 0.015654286
+        },
+        {
+          "description": "Smoke",
+          "mid": "/m/06q40",
+          "score": 0.6026063,
+          "topicality": 0.041757178
+        },
+        {
+          "description": "Gas flare",
+          "mid": "/m/07hx1h",
+          "score": 0.5762753,
+          "topicality": 0.095443346
+        }
+      ]
+    }
+  ]
+}

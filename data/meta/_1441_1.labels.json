@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Household Cleaning Supply",
+          "mid": "/m/0h8ntf7",
+          "score": 0.75594187,
+          "topicality": 0.002184694
+        },
+        {
+          "description": "Window cleaner",
+          "mid": "/m/027vr03",
+          "score": 0.63712245,
+          "topicality": 0.87088996
+        },
+        {
+          "description": "Automotive Cleaning",
+          "mid": "/m/0h8ls4g",
+          "score": 0.5990043,
+          "topicality": 0.00020622317
+        },
+        {
+          "description": "Cleaner",
+          "mid": "/m/02pnv61",
+          "score": 0.53403103,
+          "topicality": 0.21453437
+        }
+      ]
+    }
+  ]
+}

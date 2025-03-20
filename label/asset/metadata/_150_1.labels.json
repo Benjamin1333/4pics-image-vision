@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hair",
+          "mid": "/m/03q69",
+          "score": 0.9905973,
+          "topicality": 0.05109688
+        },
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.98479146,
+          "topicality": 0.0025295946
+        },
+        {
+          "description": "Arm",
+          "mid": "/m/0dzf4",
+          "score": 0.97179204,
+          "topicality": 0.011761801
+        },
+        {
+          "description": "Hand",
+          "mid": "/m/0k65p",
+          "score": 0.9697605,
+          "topicality": 0.0062534767
+        },
+        {
+          "description": "Leg",
+          "mid": "/m/035r7c",
+          "score": 0.9576339,
+          "topicality": 0.011005765
+        },
+        {
+          "description": "Beauty",
+          "mid": "/m/01f43",
+          "score": 0.956496,
+          "topicality": 0.01371437
+        },
+        {
+          "description": "Fashion",
+          "mid": "/m/032tl",
+          "score": 0.94711345
+        },
+        {
+          "description": "Knee",
+          "mid": "/m/019swr",
+          "score": 0.9338619,
+          "topicality": 0.0020963757
+        },
+        {
+          "description": "Thigh",
+          "mid": "/m/01j04m",
+          "score": 0.9336587,
+          "topicality": 0.001029366
+        },
+        {
+          "description": "Sitting",
+          "mid": "/m/015c4z",
+          "score": 0.921665,
+          "topicality": 0.03158867
+        }
+      ]
+    }
+  ]
+}

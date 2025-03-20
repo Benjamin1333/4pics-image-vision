@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.9887284,
+          "topicality": 0.039127108
+        },
+        {
+          "description": "Fish",
+          "mid": "/m/0ch_cf",
+          "score": 0.98386717,
+          "topicality": 0.54197884
+        },
+        {
+          "description": "Underwater",
+          "mid": "/m/01sfb5",
+          "score": 0.9551811,
+          "topicality": 0.23728228
+        },
+        {
+          "description": "Fluid",
+          "mid": "/m/02yfx",
+          "score": 0.95482165,
+          "topicality": 0.0010433209
+        },
+        {
+          "description": "Marine biology",
+          "mid": "/m/050vn",
+          "score": 0.93664813,
+          "topicality": 0.04835072
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.9178928,
+          "topicality": 0.0006401107
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.8306458,
+          "topicality": 0.28801137
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.80750537,
+          "topicality": 0.22731021
+        },
+        {
+          "description": "Fin",
+          "mid": "/m/02zg_",
+          "score": 0.79311055,
+          "topicality": 0.0071857464
+        },
+        {
+          "description": "Aquarium",
+          "mid": "/m/0149r",
+          "score": 0.61056817,
+          "topicality": 0.054235134
+        }
+      ]
+    }
+  ]
+}

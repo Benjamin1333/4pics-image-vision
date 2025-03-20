@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Movie theater",
+          "mid": "/m/0kcc7",
+          "score": 0.8547937,
+          "topicality": 0.97829986
+        },
+        {
+          "description": "Auditorium",
+          "mid": "/m/039l3v",
+          "score": 0.84917605,
+          "topicality": 0.4140993
+        },
+        {
+          "description": "Conference hall",
+          "mid": "/m/02q60ls",
+          "score": 0.8160578,
+          "topicality": 0.08593059
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.68730897,
+          "topicality": 0.019547816
+        },
+        {
+          "description": "Theatre",
+          "mid": "/m/03qsdpk",
+          "score": 0.63502324,
+          "topicality": 0.44109693
+        },
+        {
+          "description": "Projection screen",
+          "mid": "/m/06ycgh",
+          "score": 0.5867286,
+          "topicality": 0.8262943
+        },
+        {
+          "description": "Convention center",
+          "mid": "/m/02l7rx",
+          "score": 0.5698143,
+          "topicality": 0.009836414
+        },
+        {
+          "description": "Movie palace",
+          "mid": "/m/05b9mj",
+          "score": 0.54931706,
+          "topicality": 0.0050432957
+        },
+        {
+          "description": "Concert Hall",
+          "mid": "/m/04dy6qj",
+          "score": 0.54452026,
+          "topicality": 0.025350459
+        },
+        {
+          "description": "Theater",
+          "mid": "/m/05npqn",
+          "score": 0.53342384,
+          "topicality": 0.4832165
+        }
+      ]
+    }
+  ]
+}

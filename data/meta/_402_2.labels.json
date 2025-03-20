@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Egg",
+          "mid": "/m/02g387",
+          "score": 0.97913635,
+          "topicality": 0.7613844
+        },
+        {
+          "description": "Egg",
+          "mid": "/m/033cnk",
+          "score": 0.9306454,
+          "topicality": 0.8191496
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.842405,
+          "topicality": 0.0014344607
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.7419953,
+          "topicality": 0.03454841
+        },
+        {
+          "description": "Oval",
+          "mid": "/m/06g58b",
+          "score": 0.5728535,
+          "topicality": 0.0041620857
+        }
+      ]
+    }
+  ]
+}

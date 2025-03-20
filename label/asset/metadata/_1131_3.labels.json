@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Cloud",
+          "mid": "/m/0csby",
+          "score": 0.9626736,
+          "topicality": 0.05159161
+        },
+        {
+          "description": "Air travel",
+          "mid": "/m/025t3bg",
+          "score": 0.9269575,
+          "topicality": 0.24798205
+        },
+        {
+          "description": "Aviation",
+          "mid": "/m/0fzyg",
+          "score": 0.9196147,
+          "topicality": 0.30596066
+        },
+        {
+          "description": "Aircraft",
+          "mid": "/m/0k5j",
+          "score": 0.90457433,
+          "topicality": 0.2037993
+        },
+        {
+          "description": "Aerospace Engineering",
+          "mid": "/m/0w7s",
+          "score": 0.87407696,
+          "topicality": 0.023474695
+        },
+        {
+          "description": "Airline",
+          "mid": "/m/0vg8",
+          "score": 0.8450038,
+          "topicality": 0.0549294
+        },
+        {
+          "description": "Cumulus",
+          "mid": "/m/0csh5",
+          "score": 0.823404,
+          "topicality": 0.004983101
+        },
+        {
+          "description": "Airliner",
+          "mid": "/m/0dhz0",
+          "score": 0.8045544,
+          "topicality": 0.06356663
+        },
+        {
+          "description": "Fixed-wing aircraft",
+          "mid": "/m/0cmf2",
+          "score": 0.80369633,
+          "topicality": 0.6542888
+        },
+        {
+          "description": "Flight",
+          "mid": "/m/01515d",
+          "score": 0.7964132,
+          "topicality": 0.30623803
+        }
+      ]
+    }
+  ]
+}

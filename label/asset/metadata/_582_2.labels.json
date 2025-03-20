@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Tennis court",
+          "mid": "/m/07gcy",
+          "score": 0.9801105,
+          "topicality": 0.5416349
+        },
+        {
+          "description": "Tennis",
+          "mid": "/m/07bs0",
+          "score": 0.9622508,
+          "topicality": 0.8667535
+        },
+        {
+          "description": "Sports venue",
+          "mid": "/m/0bmgjqz",
+          "score": 0.95747584,
+          "topicality": 0.00071409106
+        },
+        {
+          "description": "Tennis player",
+          "mid": "/m/02xhr73",
+          "score": 0.94146895,
+          "topicality": 0.26048782
+        },
+        {
+          "description": "Individual sport",
+          "mid": "/m/08t0vy",
+          "score": 0.9197723,
+          "topicality": 0.0031153695
+        },
+        {
+          "description": "Racquet sport",
+          "mid": "/m/01qhp_",
+          "score": 0.919691,
+          "topicality": 0.0051558744
+        },
+        {
+          "description": "Tennis--Equipment and supplies",
+          "mid": "/m/0bps4xh",
+          "score": 0.90405005,
+          "topicality": 0.006876304
+        },
+        {
+          "description": "Knee",
+          "mid": "/m/019swr",
+          "score": 0.8987884,
+          "topicality": 0.000828771
+        },
+        {
+          "description": "Soft tennis",
+          "mid": "/m/09515x",
+          "score": 0.89744174,
+          "topicality": 0.047649007
+        },
+        {
+          "description": "Sports",
+          "mid": "/m/06ntj",
+          "score": 0.8625994,
+          "topicality": 0.18100624
+        }
+      ]
+    }
+  ]
+}

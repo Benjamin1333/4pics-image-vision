@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Telephony",
+          "mid": "/m/0bhmh",
+          "score": 0.94715685,
+          "topicality": 0.24078286
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94454527,
+          "topicality": 0.021939816
+        },
+        {
+          "description": "Telephone",
+          "mid": "/m/07cx4",
+          "score": 0.89560235,
+          "topicality": 0.43194872
+        },
+        {
+          "description": "Communication Device",
+          "mid": "/m/0glmwd6",
+          "score": 0.82086277,
+          "topicality": 0.0002856573
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.7412597,
+          "topicality": 0.004175474
+        },
+        {
+          "description": "Worry",
+          "mid": "/m/0bg_x1",
+          "score": 0.61412024,
+          "topicality": 0.111316346
+        },
+        {
+          "description": "Hearing",
+          "mid": "/m/01wymn",
+          "score": 0.5865939,
+          "topicality": 0.07436024
+        },
+        {
+          "description": "Telecommunications engineering",
+          "mid": "/m/027j84c",
+          "score": 0.5147552,
+          "topicality": 5.1932246e-05
+        },
+        {
+          "description": "Corded Phone",
+          "mid": "/m/0h8lkj8",
+          "score": 0.51442176,
+          "topicality": 0.0031235367
+        }
+      ]
+    }
+  ]
+}

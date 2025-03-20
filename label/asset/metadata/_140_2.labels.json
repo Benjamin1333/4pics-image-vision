@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.98643106,
+          "topicality": 0.07650923
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9648207,
+          "topicality": 0.023057966
+        },
+        {
+          "description": "Chocolate",
+          "mid": "/m/020vl",
+          "score": 0.91235393,
+          "topicality": 0.9040668
+        },
+        {
+          "description": "Close-up",
+          "mid": "/m/02cqfm",
+          "score": 0.8629524,
+          "topicality": 0.0106976405
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.831347,
+          "topicality": 6.7900523e-06
+        },
+        {
+          "description": "Cocoa solids",
+          "mid": "/m/02vxqxj",
+          "score": 0.8274896,
+          "topicality": 0.3598426
+        },
+        {
+          "description": "Chocolate bar",
+          "mid": "/m/0pmlq",
+          "score": 0.8119724,
+          "topicality": 0.53724396
+        },
+        {
+          "description": "Dessert",
+          "mid": "/m/0270h",
+          "score": 0.81179786,
+          "topicality": 0.04422405
+        },
+        {
+          "description": "Superfood",
+          "mid": "/m/04jdhxy",
+          "score": 0.72501135,
+          "topicality": 0.0013796008
+        },
+        {
+          "description": "Junk food",
+          "mid": "/m/0h55b",
+          "score": 0.685534,
+          "topicality": 0.0015292137
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Eyewear",
+          "mid": "/m/0j272k5",
+          "score": 0.99585277,
+          "topicality": 0.010596805
+        },
+        {
+          "description": "Sunglasses",
+          "mid": "/m/017ftj",
+          "score": 0.9885676,
+          "topicality": 0.052426077
+        },
+        {
+          "description": "Glasses",
+          "mid": "/m/0jyfg",
+          "score": 0.9875578,
+          "topicality": 0.04130805
+        },
+        {
+          "description": "Vision Care",
+          "mid": "/m/0h8jxfl",
+          "score": 0.98587173,
+          "topicality": 0.0012020979
+        },
+        {
+          "description": "Goggles",
+          "mid": "/m/02_n6y",
+          "score": 0.9614242,
+          "topicality": 0.0053673345
+        },
+        {
+          "description": "Facial hair",
+          "mid": "/m/0ds5b",
+          "score": 0.88514495,
+          "topicality": 0.029623244
+        },
+        {
+          "description": "Beard",
+          "mid": "/m/015h_t",
+          "score": 0.8129596,
+          "topicality": 0.019000867
+        },
+        {
+          "description": "Moustache",
+          "mid": "/m/0bby24z",
+          "score": 0.7601374,
+          "topicality": 0.009922546
+        },
+        {
+          "description": "Flesh",
+          "mid": "/m/02p16m6",
+          "score": 0.6295544,
+          "topicality": 0.0007406749
+        },
+        {
+          "description": "Aviator sunglasses",
+          "mid": "/m/0d3z5r",
+          "score": 0.51972777,
+          "topicality": 0.0010550244
+        }
+      ]
+    }
+  ]
+}

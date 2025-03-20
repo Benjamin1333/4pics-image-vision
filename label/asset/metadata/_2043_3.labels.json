@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.88066804,
+          "topicality": 0.1704705
+        },
+        {
+          "description": "Game controller",
+          "mid": "/m/0q56v",
+          "score": 0.85960644,
+          "topicality": 0.08035567
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.83080846,
+          "topicality": 0.02516601
+        },
+        {
+          "description": "Joystick",
+          "mid": "/m/044fq",
+          "score": 0.8298321,
+          "topicality": 0.102928184
+        },
+        {
+          "description": "Play",
+          "mid": "/m/06wtgq",
+          "score": 0.80959624,
+          "topicality": 0.0012947784
+        },
+        {
+          "description": "Gamer",
+          "mid": "/m/018wb3",
+          "score": 0.7180543,
+          "topicality": 0.09372824
+        },
+        {
+          "description": "Toddler",
+          "mid": "/m/01bgsw",
+          "score": 0.6513427,
+          "topicality": 0.15171397
+        },
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.6485877,
+          "topicality": 0.1519914
+        },
+        {
+          "description": "Remote control",
+          "mid": "/m/0qjjc",
+          "score": 0.55261385,
+          "topicality": 0.0015059807
+        }
+      ]
+    }
+  ]
+}

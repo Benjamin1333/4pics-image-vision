@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Wood",
+          "mid": "/m/083vt",
+          "score": 0.97022915,
+          "topicality": 0.076210715
+        },
+        {
+          "description": "Horse",
+          "mid": "/m/03k3r",
+          "score": 0.9521891,
+          "topicality": 0.5014074
+        },
+        {
+          "description": "Stable",
+          "mid": "/m/02hxzv",
+          "score": 0.9025765,
+          "topicality": 0.79015666
+        },
+        {
+          "description": "Working animal",
+          "mid": "/m/07_gml",
+          "score": 0.8378811,
+          "topicality": 0.004299772
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.76114106,
+          "topicality": 0.008034214
+        },
+        {
+          "description": "Livestock",
+          "mid": "/m/0ch8v",
+          "score": 0.7566235,
+          "topicality": 0.01856507
+        },
+        {
+          "description": "Hardwood",
+          "mid": "/m/020g49",
+          "score": 0.73075294,
+          "topicality": 0.00015008608
+        },
+        {
+          "description": "Pack animal",
+          "mid": "/m/0464z4",
+          "score": 0.7222042,
+          "topicality": 0.0035068092
+        },
+        {
+          "description": "Plank",
+          "mid": "/m/0fq0fnf",
+          "score": 0.7170788,
+          "topicality": 0.0012691395
+        },
+        {
+          "description": "Mare",
+          "mid": "/m/0c23pz",
+          "score": 0.709318,
+          "topicality": 0.026429784
+        }
+      ]
+    }
+  ]
+}

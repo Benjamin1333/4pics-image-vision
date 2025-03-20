@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Island",
+          "mid": "/m/03s0c",
+          "score": 0.89428186,
+          "topicality": 0.5467099
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.88933843,
+          "topicality": 0.24514405
+        },
+        {
+          "description": "Coastal and oceanic landforms",
+          "mid": "/m/02c9_23",
+          "score": 0.8823389,
+          "topicality": 0.0006253911
+        },
+        {
+          "description": "Islet",
+          "mid": "/m/01jyr1",
+          "score": 0.8818729,
+          "topicality": 0.07480879
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.87371624,
+          "topicality": 0.199708
+        },
+        {
+          "description": "Heart",
+          "mid": "/m/07bg4p",
+          "score": 0.7854676,
+          "topicality": 0.13049753
+        },
+        {
+          "description": "Caribbean",
+          "mid": "/m/0261m",
+          "score": 0.68414927,
+          "topicality": 0.056033034
+        },
+        {
+          "description": "Tropics",
+          "mid": "/m/0hl08",
+          "score": 0.63000387,
+          "topicality": 0.08159953
+        },
+        {
+          "description": "Archipelago",
+          "mid": "/m/0kxk",
+          "score": 0.62840843,
+          "topicality": 0.076851055
+        },
+        {
+          "description": "Cay",
+          "mid": "/m/02zsp3",
+          "score": 0.5775712,
+          "topicality": 0.03355778
+        }
+      ]
+    }
+  ]
+}

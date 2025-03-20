@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Dog",
+          "mid": "/m/0bt9lr",
+          "score": 0.99539363,
+          "topicality": 0.44926876
+        },
+        {
+          "description": "Dalmatian dog",
+          "mid": "/m/02rjc05",
+          "score": 0.94695836,
+          "topicality": 0.68727815
+        },
+        {
+          "description": "Carnivores",
+          "mid": "/m/01lrl",
+          "score": 0.91506,
+          "topicality": 0.0017806786
+        },
+        {
+          "description": "Black",
+          "mid": "/m/019sc",
+          "score": 0.90777993,
+          "topicality": 0.0037948487
+        },
+        {
+          "description": "Leash",
+          "mid": "/m/03011x",
+          "score": 0.83939326,
+          "topicality": 0.015488023
+        },
+        {
+          "description": "Working animal",
+          "mid": "/m/07_gml",
+          "score": 0.83795416,
+          "topicality": 0.00027224232
+        },
+        {
+          "description": "Pet Supply",
+          "mid": "/m/0h8ks17",
+          "score": 0.7909912,
+          "topicality": 4.2440704e-05
+        },
+        {
+          "description": "Canidae",
+          "mid": "/m/01z5f",
+          "score": 0.7831126,
+          "topicality": 0.006517913
+        },
+        {
+          "description": "Collar",
+          "mid": "/m/09141t",
+          "score": 0.69388443,
+          "topicality": 0.003610746
+        },
+        {
+          "description": "Dog walking",
+          "mid": "/m/02w8p8p",
+          "score": 0.6710882,
+          "topicality": 0.031867865
+        }
+      ]
+    }
+  ]
+}

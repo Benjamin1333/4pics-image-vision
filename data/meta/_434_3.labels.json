@@ -1,0 +1,14 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.85920006,
+          "topicality": 0.029336214
+        }
+      ]
+    }
+  ]
+}

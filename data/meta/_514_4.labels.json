@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hat",
+          "mid": "/m/02dl1y",
+          "score": 0.96548325,
+          "topicality": 0.02186066
+        },
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.86333895,
+          "topicality": 6.605423e-05
+        },
+        {
+          "description": "People in nature",
+          "mid": "/j/3gbwgn",
+          "score": 0.83931065,
+          "topicality": 3.523545e-05
+        },
+        {
+          "description": "Cap",
+          "mid": "/m/02d46y",
+          "score": 0.8325647,
+          "topicality": 0.009461484
+        },
+        {
+          "description": "Air gun",
+          "mid": "/m/012fyw",
+          "score": 0.81305194,
+          "topicality": 0.0051238188
+        },
+        {
+          "description": "Sun hat",
+          "mid": "/m/02wbtzl",
+          "score": 0.76909757,
+          "topicality": 0.0017245219
+        },
+        {
+          "description": "Shotgun",
+          "mid": "/m/06nrc",
+          "score": 0.7660529,
+          "topicality": 0.054351225
+        },
+        {
+          "description": "Gun barrel",
+          "mid": "/m/02zn54",
+          "score": 0.7031577,
+          "topicality": 0.0041472106
+        },
+        {
+          "description": "Baseball cap",
+          "mid": "/m/027xyl",
+          "score": 0.64241636,
+          "topicality": 0.0040173503
+        },
+        {
+          "description": "Shooting",
+          "mid": "/m/071rm",
+          "score": 0.63020587,
+          "topicality": 0.18494296
+        }
+      ]
+    }
+  ]
+}

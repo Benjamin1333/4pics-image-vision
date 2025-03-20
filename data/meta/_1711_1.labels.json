@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sleeve",
+          "mid": "/m/062581",
+          "score": 0.98498756,
+          "topicality": 0.0019109497
+        },
+        {
+          "description": "Collar",
+          "mid": "/m/091410",
+          "score": 0.9775974,
+          "topicality": 0.0018756535
+        },
+        {
+          "description": "Hand",
+          "mid": "/m/0k65p",
+          "score": 0.9691773,
+          "topicality": 0.2003417
+        },
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.956657,
+          "topicality": 0.062252082
+        },
+        {
+          "description": "Dress shirt",
+          "mid": "/m/06hwcd",
+          "score": 0.9325033,
+          "topicality": 0.0025189954
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.9147209,
+          "topicality": 0.08901283
+        },
+        {
+          "description": "Denim",
+          "mid": "/m/0hgr6",
+          "score": 0.9119753,
+          "topicality": 8.2379316e-05
+        },
+        {
+          "description": "Elbow",
+          "mid": "/m/01vm1p",
+          "score": 0.9068455,
+          "topicality": 0.033012804
+        },
+        {
+          "description": "Plaid",
+          "mid": "/m/0177t1",
+          "score": 0.905194,
+          "topicality": 0.00025893442
+        },
+        {
+          "description": "Wrist",
+          "mid": "/m/01j48b",
+          "score": 0.8875449,
+          "topicality": 0.008458452
+        }
+      ]
+    }
+  ]
+}

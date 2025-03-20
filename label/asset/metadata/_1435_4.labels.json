@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.87166697,
+          "topicality": 0.0062168604
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.8577774,
+          "topicality": 0.40547982
+        },
+        {
+          "description": "Cartoon",
+          "mid": "/m/0215n",
+          "score": 0.83015835,
+          "topicality": 0.24957679
+        },
+        {
+          "description": "Fictional character",
+          "mid": "/m/02h7lkt",
+          "score": 0.783215,
+          "topicality": 0.0040691076
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.7591709,
+          "topicality": 0.012105915
+        },
+        {
+          "description": "Star",
+          "mid": "/m/06ngk",
+          "score": 0.7467678,
+          "topicality": 0.04744877
+        },
+        {
+          "description": "Animation",
+          "mid": "/m/0hcr",
+          "score": 0.58762544,
+          "topicality": 0.0070321043
+        },
+        {
+          "description": "Animated cartoon",
+          "mid": "/m/095bb",
+          "score": 0.55455196,
+          "topicality": 0.0065536927
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.5084322,
+          "topicality": 0.022058195
+        }
+      ]
+    }
+  ]
+}

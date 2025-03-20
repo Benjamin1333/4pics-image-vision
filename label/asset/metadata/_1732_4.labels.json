@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bridle",
+          "mid": "/m/04jkpd",
+          "score": 0.97319525,
+          "topicality": 0.0075570326
+        },
+        {
+          "description": "Halter",
+          "mid": "/m/04pzb_",
+          "score": 0.9638205,
+          "topicality": 0.0053185294
+        },
+        {
+          "description": "Horse",
+          "mid": "/m/03k3r",
+          "score": 0.96235055,
+          "topicality": 0.47305483
+        },
+        {
+          "description": "Horse tack",
+          "mid": "/m/03pgm",
+          "score": 0.95435405,
+          "topicality": 0.019150015
+        },
+        {
+          "description": "Rein",
+          "mid": "/m/07hgcp",
+          "score": 0.94137514,
+          "topicality": 0.038181048
+        },
+        {
+          "description": "Working animal",
+          "mid": "/m/07_gml",
+          "score": 0.8781195,
+          "topicality": 8.672221e-05
+        },
+        {
+          "description": "Horse Supplies",
+          "mid": "/m/0h8m5n6",
+          "score": 0.8609015,
+          "topicality": 0.0006108284
+        },
+        {
+          "description": "Animal sports",
+          "mid": "/m/0wfrc8w",
+          "score": 0.84851867,
+          "topicality": 0.0005497658
+        },
+        {
+          "description": "equestrian sport",
+          "mid": "/m/07s053t",
+          "score": 0.8083951,
+          "topicality": 0.00053541176
+        },
+        {
+          "description": "Horse harness",
+          "mid": "/m/02z6033",
+          "score": 0.78017265,
+          "topicality": 0.103860565
+        }
+      ]
+    }
+  ]
+}

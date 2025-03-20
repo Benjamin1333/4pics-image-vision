@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Road surface",
+          "mid": "/m/01k0mv",
+          "score": 0.97768855,
+          "topicality": 0.2768526
+        },
+        {
+          "description": "Asphalt",
+          "mid": "/m/0hr8",
+          "score": 0.95572776,
+          "topicality": 0.5538693
+        },
+        {
+          "description": "Road",
+          "mid": "/m/06gfj",
+          "score": 0.95306814,
+          "topicality": 0.50933325
+        },
+        {
+          "description": "Blue-collar worker",
+          "mid": "/m/01kq3f",
+          "score": 0.9213038,
+          "topicality": 0.045693375
+        },
+        {
+          "description": "Workwear",
+          "mid": "/m/026lc7w",
+          "score": 0.91655505,
+          "topicality": 0.0012223774
+        },
+        {
+          "description": "Street sweeper",
+          "mid": "/m/037nx6",
+          "score": 0.90493125,
+          "topicality": 0.050206274
+        },
+        {
+          "description": "High-visibility clothing",
+          "mid": "/m/01cx7t",
+          "score": 0.8887994,
+          "topicality": 0.0011011483
+        },
+        {
+          "description": "Construction worker",
+          "mid": "/m/047x57",
+          "score": 0.8687062,
+          "topicality": 0.035325892
+        },
+        {
+          "description": "Tar",
+          "mid": "/m/05by2s",
+          "score": 0.86608404,
+          "topicality": 0.1001725
+        },
+        {
+          "description": "Cleaner",
+          "mid": "/m/02pnv61",
+          "score": 0.8646194,
+          "topicality": 0.012693385
+        }
+      ]
+    }
+  ]
+}

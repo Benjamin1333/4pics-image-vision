@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.72628134,
+          "topicality": 0.018097956
+        },
+        {
+          "description": "Crown",
+          "mid": "/m/0nl46",
+          "score": 0.67728895,
+          "topicality": 0.19360338
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.62483674,
+          "topicality": 0.0062577245
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.5254066,
+          "topicality": 0.022315623
+        }
+      ]
+    }
+  ]
+}

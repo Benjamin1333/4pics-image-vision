@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Naval ship",
+          "mid": "/m/0dytr",
+          "score": 0.9189835,
+          "topicality": 0.059797168
+        },
+        {
+          "description": "Military aircraft",
+          "mid": "/m/0f5lx",
+          "score": 0.90616065,
+          "topicality": 0.07125752
+        },
+        {
+          "description": "Aircraft",
+          "mid": "/m/0k5j",
+          "score": 0.8774522,
+          "topicality": 0.07905086
+        },
+        {
+          "description": "Light aircraft carrier",
+          "mid": "/m/02666n",
+          "score": 0.8515664,
+          "topicality": 0.018174767
+        },
+        {
+          "description": "Aerospace Engineering",
+          "mid": "/m/0w7s",
+          "score": 0.8293166,
+          "topicality": 0.0052362294
+        },
+        {
+          "description": "Ship",
+          "mid": "/m/01n3yx",
+          "score": 0.81615585,
+          "topicality": 0.1754742
+        },
+        {
+          "description": "Navy",
+          "mid": "/m/05dlb",
+          "score": 0.8050434,
+          "topicality": 0.33349532
+        },
+        {
+          "description": "Watercraft",
+          "mid": "/m/01rzcn",
+          "score": 0.7978645,
+          "topicality": 0.010613507
+        },
+        {
+          "description": "Fighter aircraft",
+          "mid": "/m/02yjc",
+          "score": 0.7859524,
+          "topicality": 0.3406758
+        },
+        {
+          "description": "Ship",
+          "mid": "/m/06q74",
+          "score": 0.7818686,
+          "topicality": 0.2037843
+        }
+      ]
+    }
+  ]
+}

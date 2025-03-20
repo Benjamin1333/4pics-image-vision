@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.931358,
+          "topicality": 0.005699769
+        },
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.9264076,
+          "topicality": 0.00094479864
+        },
+        {
+          "description": "Wrist",
+          "mid": "/m/01j48b",
+          "score": 0.87768686,
+          "topicality": 0.0013586532
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.84603626,
+          "topicality": 0.0037999016
+        },
+        {
+          "description": "Dress shirt",
+          "mid": "/m/06hwcd",
+          "score": 0.82970786,
+          "topicality": 0.0005693615
+        },
+        {
+          "description": "Thumb",
+          "mid": "/m/01bmhj",
+          "score": 0.7873137,
+          "topicality": 0.013060159
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.76760495,
+          "topicality": 0.011286001
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.6707995,
+          "topicality": 0.05736328
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.6577813,
+          "topicality": 0.0020740866
+        },
+        {
+          "description": "Sphere",
+          "mid": "/m/06y47",
+          "score": 0.6019265,
+          "topicality": 0.0023169576
+        }
+      ]
+    }
+  ]
+}

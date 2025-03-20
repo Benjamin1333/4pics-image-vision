@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.98357373,
+          "topicality": 0.0009389821
+        },
+        {
+          "description": "Peripheral",
+          "mid": "/m/0ggnq",
+          "score": 0.9689591,
+          "topicality": 0.0071075186
+        },
+        {
+          "description": "Input device",
+          "mid": "/m/02dwgb",
+          "score": 0.951724,
+          "topicality": 0.008495509
+        },
+        {
+          "description": "Office Equipment",
+          "mid": "/m/03qtgjk",
+          "score": 0.9480501,
+          "topicality": 0.00035479723
+        },
+        {
+          "description": "Computer",
+          "mid": "/m/01m3v",
+          "score": 0.9229768,
+          "topicality": 0.3743266
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.90410334,
+          "topicality": 0.0021013936
+        },
+        {
+          "description": "Computer hardware",
+          "mid": "/m/01mfj",
+          "score": 0.89452314,
+          "topicality": 0.007038504
+        },
+        {
+          "description": "Computer keyboard",
+          "mid": "/m/01m2v",
+          "score": 0.89433753,
+          "topicality": 0.040990278
+        },
+        {
+          "description": "Personal computer",
+          "mid": "/m/0643t",
+          "score": 0.8796404,
+          "topicality": 0.0488928
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8611613,
+          "topicality": 0.025477495
+        }
+      ]
+    }
+  ]
+}

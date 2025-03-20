@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9767818,
+          "topicality": 0.007769168
+        },
+        {
+          "description": "Line art",
+          "mid": "/m/0919rx",
+          "score": 0.8460947,
+          "topicality": 0.16799192
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.76734215,
+          "topicality": 0.3503589
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.67244136,
+          "topicality": 0.009907482
+        },
+        {
+          "description": "Sketch",
+          "mid": "/m/07glzq",
+          "score": 0.62403625,
+          "topicality": 0.038450997
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6202183,
+          "topicality": 0.011559095
+        },
+        {
+          "description": "Coloring book",
+          "mid": "/m/05h7rm",
+          "score": 0.5915519,
+          "topicality": 0.034066614
+        }
+      ]
+    }
+  ]
+}

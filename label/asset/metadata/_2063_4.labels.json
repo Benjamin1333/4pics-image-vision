@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bird",
+          "mid": "/m/015p6",
+          "score": 0.96569216,
+          "topicality": 0.11585175
+        },
+        {
+          "description": "Owl",
+          "mid": "/m/09d5_",
+          "score": 0.90549827,
+          "topicality": 0.8321536
+        },
+        {
+          "description": "Great horned owl",
+          "mid": "/m/01_3kg",
+          "score": 0.8030378,
+          "topicality": 0.014823875
+        },
+        {
+          "description": "Screech owl",
+          "mid": "/m/03hjrvl",
+          "score": 0.80265534,
+          "topicality": 0.00377802
+        },
+        {
+          "description": "Beak",
+          "mid": "/m/01c4rd",
+          "score": 0.7952488,
+          "topicality": 0.0018335101
+        },
+        {
+          "description": "Bird of prey",
+          "mid": "/m/0f6x8",
+          "score": 0.72113174,
+          "topicality": 0.0030448018
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.6961968,
+          "topicality": 0.05207293
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.66172194,
+          "topicality": 0.020411137
+        },
+        {
+          "description": "Eastern screech owl",
+          "mid": "/m/01_ghv",
+          "score": 0.61288565,
+          "topicality": 0.0034656327
+        },
+        {
+          "description": "Sticker",
+          "mid": "/m/05b97g",
+          "score": 0.5195906,
+          "topicality": 0.1117082
+        }
+      ]
+    }
+  ]
+}

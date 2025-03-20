@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.9847944,
+          "topicality": 0.0054590255
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.95274806,
+          "topicality": 0.011642946
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94492733,
+          "topicality": 0.0010386171
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.9305682,
+          "topicality": 0.012194498
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.9130067,
+          "topicality": 0.0052064885
+        },
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.90977955,
+          "topicality": 0.10213799
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.89448875,
+          "topicality": 0.008924873
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.8939389,
+          "topicality": 0.031144533
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.87337834,
+          "topicality": 0.11424193
+        },
+        {
+          "description": "Eyelash",
+          "mid": "/m/03f52z",
+          "score": 0.8715214,
+          "topicality": 5.397288e-05
+        }
+      ]
+    }
+  ]
+}

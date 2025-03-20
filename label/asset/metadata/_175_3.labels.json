@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Crane",
+          "mid": "/m/01v50j",
+          "score": 0.93640953,
+          "topicality": 0.8660008
+        },
+        {
+          "description": "Heavy equipment",
+          "mid": "/m/02gx17",
+          "score": 0.89095354,
+          "topicality": 0.08138105
+        },
+        {
+          "description": "Rope",
+          "mid": "/m/01xc8d",
+          "score": 0.8639131,
+          "topicality": 0.07014244
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.83517766,
+          "topicality": 0.06001885
+        },
+        {
+          "description": "Steel",
+          "mid": "/m/06qqb",
+          "score": 0.5962681,
+          "topicality": 0.10366063
+        }
+      ]
+    }
+  ]
+}

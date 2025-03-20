@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.9847902,
+          "topicality": 0.009881217
+        },
+        {
+          "description": "Clown",
+          "mid": "/m/01sfl",
+          "score": 0.9557984,
+          "topicality": 0.87505096
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9448243,
+          "topicality": 0.019830216
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.901996,
+          "topicality": 0.118701085
+        },
+        {
+          "description": "Wig",
+          "mid": "/m/01hzl4",
+          "score": 0.8975574,
+          "topicality": 0.34541103
+        },
+        {
+          "description": "Entertainment",
+          "mid": "/m/02jjt",
+          "score": 0.86571676,
+          "topicality": 0.0016894697
+        },
+        {
+          "description": "Afro",
+          "mid": "/m/03n0sf",
+          "score": 0.84968114,
+          "topicality": 0.06956457
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.79558426,
+          "topicality": 0.022811387
+        },
+        {
+          "description": "Lipstick",
+          "mid": "/m/06c7f7",
+          "score": 0.7907093,
+          "topicality": 0.00047185062
+        },
+        {
+          "description": "Cosmetics",
+          "mid": "/m/014trl",
+          "score": 0.68324697,
+          "topicality": 0.010189197
+        }
+      ]
+    }
+  ]
+}

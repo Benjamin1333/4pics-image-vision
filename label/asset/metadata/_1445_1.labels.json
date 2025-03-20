@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Dog",
+          "mid": "/m/0bt9lr",
+          "score": 0.9953564,
+          "topicality": 0.764937
+        },
+        {
+          "description": "Carnivores",
+          "mid": "/m/01lrl",
+          "score": 0.9331526,
+          "topicality": 0.0005913856
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.8667415,
+          "topicality": 0.010682658
+        },
+        {
+          "description": "Pet Supply",
+          "mid": "/m/0h8ks17",
+          "score": 0.84763795,
+          "topicality": 0.00040920984
+        },
+        {
+          "description": "Dog Clothes",
+          "mid": "/m/0h8nlvj",
+          "score": 0.8401428,
+          "topicality": 0.0580278
+        },
+        {
+          "description": "Dog Supply",
+          "mid": "/m/0h8nm96",
+          "score": 0.7932308,
+          "topicality": 0.012456125
+        },
+        {
+          "description": "Canidae",
+          "mid": "/m/01z5f",
+          "score": 0.76775223,
+          "topicality": 0.012542841
+        },
+        {
+          "description": "Fur",
+          "mid": "/m/0cnmr",
+          "score": 0.72328925,
+          "topicality": 0.002029063
+        },
+        {
+          "description": "Dog Bed",
+          "mid": "/m/0h8n6f9",
+          "score": 0.6301199,
+          "topicality": 0.13113877
+        },
+        {
+          "description": "Working animal",
+          "mid": "/m/07_gml",
+          "score": 0.59694916,
+          "topicality": 0.00015141614
+        }
+      ]
+    }
+  ]
+}

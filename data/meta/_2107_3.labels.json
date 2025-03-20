@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Highland",
+          "mid": "/m/03cjrt",
+          "score": 0.92910504,
+          "topicality": 0.0020721587
+        },
+        {
+          "description": "Hill",
+          "mid": "/m/04_5sg",
+          "score": 0.92845225,
+          "topicality": 0.00505711
+        },
+        {
+          "description": "Wonders of the World",
+          "mid": "/m/02y_3gd",
+          "score": 0.8975797,
+          "topicality": 0.19326426
+        },
+        {
+          "description": "Tourist attraction",
+          "mid": "/m/0pgl9",
+          "score": 0.89296263,
+          "topicality": 0.031835403
+        },
+        {
+          "description": "Hill station",
+          "mid": "/m/040h04",
+          "score": 0.8701132,
+          "topicality": 0.0034065114
+        },
+        {
+          "description": "World Heritage Site",
+          "mid": "/m/0c7g7",
+          "score": 0.8177621,
+          "topicality": 0.17714043
+        },
+        {
+          "description": "Monument",
+          "mid": "/m/02ljgl",
+          "score": 0.789071,
+          "topicality": 0.002729964
+        },
+        {
+          "description": "Historic site",
+          "mid": "/m/07yr8h",
+          "score": 0.78277475,
+          "topicality": 0.1412664
+        },
+        {
+          "description": "Fortification",
+          "mid": "/m/01czv3",
+          "score": 0.7465922,
+          "topicality": 0.05792704
+        },
+        {
+          "description": "Archaeological site",
+          "mid": "/m/012ww9",
+          "score": 0.6383645,
+          "topicality": 0.013540463
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sky",
+          "mid": "/m/01bqvp",
+          "score": 0.98907095,
+          "topicality": 0.05227546
+        },
+        {
+          "description": "Landmark",
+          "mid": "/m/05_5t0l",
+          "score": 0.92460203,
+          "topicality": 0.027295874
+        },
+        {
+          "description": "Estate",
+          "mid": "/m/038t8_",
+          "score": 0.8968636,
+          "topicality": 0.009978901
+        },
+        {
+          "description": "Palace",
+          "mid": "/m/05zp8",
+          "score": 0.8919501,
+          "topicality": 0.5618894
+        },
+        {
+          "description": "Mansion",
+          "mid": "/m/02pvbb",
+          "score": 0.855056,
+          "topicality": 0.011598212
+        },
+        {
+          "description": "Official residence",
+          "mid": "/m/05czsy",
+          "score": 0.8476767,
+          "topicality": 0.08972029
+        },
+        {
+          "description": "Lawn",
+          "mid": "/m/01v327",
+          "score": 0.81964165,
+          "topicality": 5.7342135e-05
+        },
+        {
+          "description": "Stately home",
+          "mid": "/m/0sy84",
+          "score": 0.8043765,
+          "topicality": 0.0022248465
+        },
+        {
+          "description": "Garden",
+          "mid": "/m/0bl0l",
+          "score": 0.7914904,
+          "topicality": 0.0016760209
+        },
+        {
+          "description": "Classical architecture",
+          "mid": "/m/0dvh9",
+          "score": 0.72534454,
+          "topicality": 0.010639014
+        }
+      ]
+    }
+  ]
+}

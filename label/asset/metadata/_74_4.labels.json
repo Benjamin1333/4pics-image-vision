@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Nuts & seeds",
+          "mid": "/m/0ggk1v7",
+          "score": 0.96418697,
+          "topicality": 0.0019208245
+        },
+        {
+          "description": "Nut",
+          "mid": "/m/01lbxg",
+          "score": 0.9550317,
+          "topicality": 0.053342856
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.9438139,
+          "topicality": 0.0019501413
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.9340406,
+          "topicality": 0.070550404
+        },
+        {
+          "description": "Walnut",
+          "mid": "/m/015_77",
+          "score": 0.9210601,
+          "topicality": 0.6893229
+        },
+        {
+          "description": "Dried fruit",
+          "mid": "/m/02npt1",
+          "score": 0.88679826,
+          "topicality": 0.090465546
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.87230563,
+          "topicality": 0.0044619977
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.8500519,
+          "topicality": 0.00062905793
+        },
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.72656596,
+          "topicality": 0.024774931
+        },
+        {
+          "description": "Staple food",
+          "mid": "/m/022tld",
+          "score": 0.64177746,
+          "topicality": 0.00024868254
+        }
+      ]
+    }
+  ]
+}

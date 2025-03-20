@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bird",
+          "mid": "/m/015p6",
+          "score": 0.9907839,
+          "topicality": 0.5247021
+        },
+        {
+          "description": "Branch",
+          "mid": "/m/0b5gs",
+          "score": 0.9726611,
+          "topicality": 0.07603187
+        },
+        {
+          "description": "Vertebrate",
+          "mid": "/m/09686",
+          "score": 0.9593748,
+          "topicality": 0.002733474
+        },
+        {
+          "description": "Beak",
+          "mid": "/m/01c4rd",
+          "score": 0.9458155,
+          "topicality": 0.008221055
+        },
+        {
+          "description": "Parrot",
+          "mid": "/m/0gv1x",
+          "score": 0.94364697,
+          "topicality": 0.559571
+        },
+        {
+          "description": "Twig",
+          "mid": "/m/016nqt",
+          "score": 0.90446556,
+          "topicality": 0.008144647
+        },
+        {
+          "description": "Wing",
+          "mid": "/m/083s2",
+          "score": 0.8995621,
+          "topicality": 0.0031188796
+        },
+        {
+          "description": "Macaw",
+          "mid": "/m/0gv35",
+          "score": 0.8749911,
+          "topicality": 0.51877207
+        },
+        {
+          "description": "Feather",
+          "mid": "/m/0dfgf",
+          "score": 0.86815983,
+          "topicality": 0.0021912747
+        },
+        {
+          "description": "Parakeet",
+          "mid": "/m/02p0w7s",
+          "score": 0.7818163,
+          "topicality": 0.06267043
+        }
+      ]
+    }
+  ]
+}

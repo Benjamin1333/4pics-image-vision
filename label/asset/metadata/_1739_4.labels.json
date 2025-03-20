@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Felidae",
+          "mid": "/m/0307l",
+          "score": 0.98976755,
+          "topicality": 0.18968023
+        },
+        {
+          "description": "Lion",
+          "mid": "/m/096mb",
+          "score": 0.98855245,
+          "topicality": 0.93512154
+        },
+        {
+          "description": "East African lion",
+          "mid": "/m/0bm9sv0",
+          "score": 0.9732741,
+          "topicality": 0.029124215
+        },
+        {
+          "description": "Carnivores",
+          "mid": "/m/01lrl",
+          "score": 0.97259986,
+          "topicality": 0.062692136
+        },
+        {
+          "description": "Vertebrate",
+          "mid": "/m/09686",
+          "score": 0.9625587,
+          "topicality": 0.0040499447
+        },
+        {
+          "description": "Wildlife",
+          "mid": "/m/01280g",
+          "score": 0.95505494,
+          "topicality": 0.03009885
+        },
+        {
+          "description": "Terrestrial animal",
+          "mid": "/m/0fbf1m",
+          "score": 0.9486652,
+          "topicality": 0.0071947607
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.92640495,
+          "topicality": 0.008228496
+        },
+        {
+          "description": "Panthera",
+          "mid": "/m/0cdnk",
+          "score": 0.9075589,
+          "topicality": 0.10108587
+        },
+        {
+          "description": "Fur",
+          "mid": "/m/0cnmr",
+          "score": 0.89364535,
+          "topicality": 0.005173386
+        }
+      ]
+    }
+  ]
+}

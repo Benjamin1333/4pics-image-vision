@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.9561684,
+          "topicality": 0.04474124
+        },
+        {
+          "description": "Orange",
+          "mid": "/m/0jc_p",
+          "score": 0.9094978,
+          "topicality": 0.030414421
+        },
+        {
+          "description": "Flame",
+          "mid": "/m/01f415",
+          "score": 0.8292528,
+          "topicality": 0.6173177
+        },
+        {
+          "description": "Fire",
+          "mid": "/m/02_41",
+          "score": 0.73983425,
+          "topicality": 0.4844793
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.6724736,
+          "topicality": 0.115034774
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6220947,
+          "topicality": 0.009912569
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.5101264,
+          "topicality": 0.0015802808
+        }
+      ]
+    }
+  ]
+}

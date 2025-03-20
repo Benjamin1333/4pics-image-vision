@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.9170582,
+          "topicality": 0.09336588
+        },
+        {
+          "description": "Zipper",
+          "mid": "/m/01s0vc",
+          "score": 0.9138853,
+          "topicality": 0.25350952
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.6763518,
+          "topicality": 0.021423008
+        },
+        {
+          "description": "Rope",
+          "mid": "/m/01xc8d",
+          "score": 0.53313446,
+          "topicality": 0.014528053
+        },
+        {
+          "description": "Strap",
+          "mid": "/m/04lzmz",
+          "score": 0.5240283,
+          "topicality": 0.027145334
+        }
+      ]
+    }
+  ]
+}

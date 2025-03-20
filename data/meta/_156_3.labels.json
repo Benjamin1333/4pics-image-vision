@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.9888796,
+          "topicality": 0.21086866
+        },
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.97001445,
+          "topicality": 0.07855481
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9620612,
+          "topicality": 0.030840874
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.9345542,
+          "topicality": 0.0033939558
+        },
+        {
+          "description": "Olive",
+          "mid": "/m/05mln",
+          "score": 0.930764,
+          "topicality": 0.9564329
+        },
+        {
+          "description": "Olives",
+          "mid": "/m/0kk07",
+          "score": 0.86560804,
+          "topicality": 0.001158378
+        },
+        {
+          "description": "Olive oil",
+          "mid": "/m/05ml4",
+          "score": 0.8070267,
+          "topicality": 0.42734346
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.72330207,
+          "topicality": 0.00090678985
+        },
+        {
+          "description": "Extra virgin olive oil",
+          "mid": "/m/05sqq8b",
+          "score": 0.7100839,
+          "topicality": 0.0007630711
+        },
+        {
+          "description": "Oil",
+          "mid": "/m/0bp_wy",
+          "score": 0.69544536,
+          "topicality": 0.1653167
+        }
+      ]
+    }
+  ]
+}

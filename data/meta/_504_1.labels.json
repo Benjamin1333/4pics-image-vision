@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Wood",
+          "mid": "/m/083vt",
+          "score": 0.9718971,
+          "topicality": 0.74803674
+        },
+        {
+          "description": "Wood flooring",
+          "mid": "/m/027xhm0",
+          "score": 0.9518993,
+          "topicality": 0.18739586
+        },
+        {
+          "description": "Brown",
+          "mid": "/m/09q2t",
+          "score": 0.91410166,
+          "topicality": 0.058954
+        },
+        {
+          "description": "Orange",
+          "mid": "/m/0jc_p",
+          "score": 0.9048504,
+          "topicality": 0.0159685
+        },
+        {
+          "description": "Hardwood",
+          "mid": "/m/020g49",
+          "score": 0.8875282,
+          "topicality": 0.1319759
+        },
+        {
+          "description": "Wood stain",
+          "mid": "/m/05t06b",
+          "score": 0.88692725,
+          "topicality": 0.085140355
+        },
+        {
+          "description": "Plank",
+          "mid": "/m/0fq0fnf",
+          "score": 0.85751605,
+          "topicality": 0.54697865
+        },
+        {
+          "description": "Plywood",
+          "mid": "/m/0jh8w",
+          "score": 0.7970575,
+          "topicality": 0.062564395
+        },
+        {
+          "description": "Laminate flooring",
+          "mid": "/m/04xvs0",
+          "score": 0.7451686,
+          "topicality": 0.075756736
+        },
+        {
+          "description": "Natural material",
+          "mid": "/m/07sx2n",
+          "score": 0.73988247,
+          "topicality": 0.0038286243
+        }
+      ]
+    }
+  ]
+}

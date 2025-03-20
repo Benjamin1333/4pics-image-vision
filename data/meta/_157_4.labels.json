@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.9435536,
+          "topicality": 0.027379554
+        },
+        {
+          "description": "Thumb",
+          "mid": "/m/01bmhj",
+          "score": 0.8140829,
+          "topicality": 0.12521961
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.76827186,
+          "topicality": 0.061848335
+        },
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.76130503,
+          "topicality": 0.00010344848
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.73572874,
+          "topicality": 0.023968423
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.67623967,
+          "topicality": 0.0004171881
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.6541436,
+          "topicality": 0.0016921948
+        },
+        {
+          "description": "Reading",
+          "mid": "/m/04yclrg",
+          "score": 0.5606514,
+          "topicality": 0.013768164
+        },
+        {
+          "description": "Student",
+          "mid": "/m/014cnc",
+          "score": 0.5356122,
+          "topicality": 0.05132781
+        }
+      ]
+    }
+  ]
+}

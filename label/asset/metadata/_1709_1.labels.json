@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "High-visibility clothing",
+          "mid": "/m/01cx7t",
+          "score": 0.9818105,
+          "topicality": 0.08795429
+        },
+        {
+          "description": "Uniform",
+          "mid": "/m/09jfs",
+          "score": 0.96396667,
+          "topicality": 0.023690285
+        },
+        {
+          "description": "Police",
+          "mid": "/m/05ws7",
+          "score": 0.9502708,
+          "topicality": 0.77951264
+        },
+        {
+          "description": "Workwear",
+          "mid": "/m/026lc7w",
+          "score": 0.9481907,
+          "topicality": 0.0029861568
+        },
+        {
+          "description": "Police officer",
+          "mid": "/m/01t2ln",
+          "score": 0.93677837,
+          "topicality": 0.4689384
+        },
+        {
+          "description": "Emergency service",
+          "mid": "/m/012n91",
+          "score": 0.9361651,
+          "topicality": 0.017359234
+        },
+        {
+          "description": "Personal protective equipment",
+          "mid": "/m/0ffjr",
+          "score": 0.9056086,
+          "topicality": 0.005786865
+        },
+        {
+          "description": "Law enforcement",
+          "mid": "/m/0gty6zf",
+          "score": 0.89677906,
+          "topicality": 0.054896478
+        },
+        {
+          "description": "Security",
+          "mid": "/m/0bg2p",
+          "score": 0.8944757,
+          "topicality": 0.23310614
+        },
+        {
+          "description": "Official",
+          "mid": "/m/035y33",
+          "score": 0.8549181,
+          "topicality": 0.023178084
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Dog",
+          "mid": "/m/0bt9lr",
+          "score": 0.9909563,
+          "topicality": 0.72200215
+        },
+        {
+          "description": "Scarf",
+          "mid": "/m/02h19r",
+          "score": 0.95150846,
+          "topicality": 0.6509339
+        },
+        {
+          "description": "Stole",
+          "mid": "/m/0670sh",
+          "score": 0.9329529,
+          "topicality": 0.0012666354
+        },
+        {
+          "description": "Orange",
+          "mid": "/m/0jc_p",
+          "score": 0.90149444,
+          "topicality": 0.065761454
+        },
+        {
+          "description": "Wool",
+          "mid": "/m/09kxp",
+          "score": 0.84803617,
+          "topicality": 0.096376196
+        },
+        {
+          "description": "Wrap",
+          "mid": "/m/09v2ztm",
+          "score": 0.83499676,
+          "topicality": 0.013871618
+        },
+        {
+          "description": "Woolen",
+          "mid": "/m/01yh65",
+          "score": 0.8195491,
+          "topicality": 0.07555037
+        },
+        {
+          "description": "Dog Clothes",
+          "mid": "/m/0h8nlvj",
+          "score": 0.8050041,
+          "topicality": 0.07050524
+        },
+        {
+          "description": "Shawl",
+          "mid": "/m/04d1p3",
+          "score": 0.77064306,
+          "topicality": 0.009683422
+        },
+        {
+          "description": "Canidae",
+          "mid": "/m/01z5f",
+          "score": 0.67683864,
+          "topicality": 0.014548968
+        }
+      ]
+    }
+  ]
+}

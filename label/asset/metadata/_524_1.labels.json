@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Coastal and oceanic landforms",
+          "mid": "/m/02c9_23",
+          "score": 0.94385386,
+          "topicality": 0.0015963955
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.93681693,
+          "topicality": 0.1453553
+        },
+        {
+          "description": "Coast",
+          "mid": "/m/01lxd",
+          "score": 0.92609155,
+          "topicality": 0.022377852
+        },
+        {
+          "description": "Vacation",
+          "mid": "/m/02jwqh",
+          "score": 0.9228333,
+          "topicality": 0.15458924
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.9226004,
+          "topicality": 0.0050206133
+        },
+        {
+          "description": "Rock",
+          "mid": "/m/01cbzq",
+          "score": 0.91760045,
+          "topicality": 0.00573473
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.90742385,
+          "topicality": 0.00825094
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.90563256,
+          "topicality": 0.03232576
+        },
+        {
+          "description": "Geological formation",
+          "mid": "/m/03k5cs",
+          "score": 0.8864048,
+          "topicality": 0.0030445054
+        },
+        {
+          "description": "Island",
+          "mid": "/m/03s0c",
+          "score": 0.8767904,
+          "topicality": 0.27614707
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9446384,
+          "topicality": 0.0010167651
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.9302775,
+          "topicality": 0.002754161
+        },
+        {
+          "description": "Fictional character",
+          "mid": "/m/02h7lkt",
+          "score": 0.924843,
+          "topicality": 0.01753945
+        },
+        {
+          "description": "Vampire",
+          "mid": "/m/07yjb",
+          "score": 0.9089382,
+          "topicality": 0.8091115
+        },
+        {
+          "description": "Animation",
+          "mid": "/m/0hcr",
+          "score": 0.87925094,
+          "topicality": 0.028430803
+        },
+        {
+          "description": "Cartoon",
+          "mid": "/m/0215n",
+          "score": 0.86669457,
+          "topicality": 0.19632672
+        },
+        {
+          "description": "Animated cartoon",
+          "mid": "/m/095bb",
+          "score": 0.8051308,
+          "topicality": 0.024853434
+        },
+        {
+          "description": "Film",
+          "mid": "/m/02vxn",
+          "score": 0.7308906,
+          "topicality": 0.02813128
+        },
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.6828305,
+          "topicality": 0.093344115
+        },
+        {
+          "description": "Fiction",
+          "mid": "/m/02xlf",
+          "score": 0.6672828,
+          "topicality": 0.006707825
+        }
+      ]
+    }
+  ]
+}

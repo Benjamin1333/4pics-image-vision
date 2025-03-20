@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Footwear",
+          "mid": "/m/09j5n",
+          "score": 0.9810142,
+          "topicality": 0.014935801
+        },
+        {
+          "description": "Shoe",
+          "mid": "/m/06rrc",
+          "score": 0.9804821,
+          "topicality": 0.20653285
+        },
+        {
+          "description": "Calf",
+          "mid": "/m/0715t2",
+          "score": 0.94291455,
+          "topicality": 0.12520495
+        },
+        {
+          "description": "Sneakers",
+          "mid": "/m/09kjlm",
+          "score": 0.8993287,
+          "topicality": 0.04913602
+        },
+        {
+          "description": "Walking Shoe",
+          "mid": "/m/0hgs9bq",
+          "score": 0.8488822,
+          "topicality": 0.007876949
+        },
+        {
+          "description": "Knee",
+          "mid": "/m/019swr",
+          "score": 0.8053229,
+          "topicality": 0.05093519
+        },
+        {
+          "description": "Foot",
+          "mid": "/m/031n1",
+          "score": 0.7698718,
+          "topicality": 0.19957067
+        },
+        {
+          "description": "Outdoor Shoe",
+          "mid": "/m/0hgrj75",
+          "score": 0.7619098,
+          "topicality": 0.00051275286
+        },
+        {
+          "description": "Sock",
+          "mid": "/m/01nq26",
+          "score": 0.761001,
+          "topicality": 0.010425157
+        },
+        {
+          "description": "Running Shoe",
+          "mid": "/m/0h8m1sw",
+          "score": 0.7327025,
+          "topicality": 0.0043582274
+        }
+      ]
+    }
+  ]
+}

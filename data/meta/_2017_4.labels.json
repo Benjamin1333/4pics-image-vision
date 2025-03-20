@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.84696794,
+          "topicality": 0.12647617
+        },
+        {
+          "description": "Advertising",
+          "mid": "/m/011s0",
+          "score": 0.58834934,
+          "topicality": 0.0125030605
+        },
+        {
+          "description": "Software",
+          "mid": "/m/01mf0",
+          "score": 0.5707111,
+          "topicality": 0.07395761
+        },
+        {
+          "description": "Display advertising",
+          "mid": "/m/02_784",
+          "score": 0.5644639,
+          "topicality": 0.0015853991
+        },
+        {
+          "description": "Multimedia",
+          "mid": "/m/0541p",
+          "score": 0.5399056,
+          "topicality": 0.023163153
+        },
+        {
+          "description": "Screenshot",
+          "mid": "/m/01zbnw",
+          "score": 0.53404003,
+          "topicality": 0.004034999
+        },
+        {
+          "description": "Electric car",
+          "mid": "/m/03nlf2w",
+          "score": 0.5233924,
+          "topicality": 0.07212139
+        },
+        {
+          "description": "Online advertising",
+          "mid": "/m/05b1rx",
+          "score": 0.5013161,
+          "topicality": 0.037057493
+        }
+      ]
+    }
+  ]
+}

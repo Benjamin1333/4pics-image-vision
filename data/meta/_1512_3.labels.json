@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.99299306,
+          "topicality": 0.023483593
+        },
+        {
+          "description": "Cake",
+          "mid": "/m/0fszt",
+          "score": 0.99041086,
+          "topicality": 0.7288261
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9771025,
+          "topicality": 0.007159054
+        },
+        {
+          "description": "Dessert",
+          "mid": "/m/0270h",
+          "score": 0.9464557,
+          "topicality": 0.1659642
+        },
+        {
+          "description": "Cream",
+          "mid": "/m/01tv9",
+          "score": 0.94272417,
+          "topicality": 0.33913776
+        },
+        {
+          "description": "Buttercream",
+          "mid": "/m/0b6w2z",
+          "score": 0.9337869,
+          "topicality": 0.032777965
+        },
+        {
+          "description": "Cake decorating",
+          "mid": "/m/02r_57s",
+          "score": 0.932096,
+          "topicality": 0.021091895
+        },
+        {
+          "description": "Pastry",
+          "mid": "/m/0hnyx",
+          "score": 0.8913422,
+          "topicality": 0.057870626
+        },
+        {
+          "description": "Dairy product",
+          "mid": "/m/0284d",
+          "score": 0.8843651,
+          "topicality": 0.0036916342
+        },
+        {
+          "description": "Kuchen",
+          "mid": "/m/04yfd1",
+          "score": 0.8765092,
+          "topicality": 0.005423207
+        }
+      ]
+    }
+  ]
+}

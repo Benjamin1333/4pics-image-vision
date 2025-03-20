@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.98831946,
+          "topicality": 0.002262508
+        },
+        {
+          "description": "Natural environment",
+          "mid": "/m/02py09",
+          "score": 0.97461796,
+          "topicality": 0.0028538676
+        },
+        {
+          "description": "Horizon",
+          "mid": "/m/0d1n2",
+          "score": 0.9502198,
+          "topicality": 0.052516762
+        },
+        {
+          "description": "Beach",
+          "mid": "/m/0b3yr",
+          "score": 0.9310263,
+          "topicality": 0.42067102
+        },
+        {
+          "description": "Ecoregion",
+          "mid": "/m/0cblv",
+          "score": 0.91589886,
+          "topicality": 0.00014312034
+        },
+        {
+          "description": "Coast",
+          "mid": "/m/01lxd",
+          "score": 0.9158979,
+          "topicality": 0.16983953
+        },
+        {
+          "description": "Shore",
+          "mid": "/m/02fm9k",
+          "score": 0.8974502,
+          "topicality": 0.07473811
+        },
+        {
+          "description": "Coastal and oceanic landforms",
+          "mid": "/m/02c9_23",
+          "score": 0.89529324,
+          "topicality": 0.00036987686
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.8929057,
+          "topicality": 0.31848547
+        },
+        {
+          "description": "Sand",
+          "mid": "/m/099fz",
+          "score": 0.88420206,
+          "topicality": 0.23692994
+        }
+      ]
+    }
+  ]
+}

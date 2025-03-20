@@ -1,0 +1,49 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Meditation",
+          "mid": "/m/0517l",
+          "score": 0.9559117,
+          "topicality": 0.6551362
+        },
+        {
+          "description": "Purple",
+          "mid": "/m/09ggk",
+          "score": 0.824137,
+          "topicality": 0.030278571
+        },
+        {
+          "description": "Guru",
+          "mid": "/m/016gcr",
+          "score": 0.8019736,
+          "topicality": 0.008256722
+        },
+        {
+          "description": "Yoga",
+          "mid": "/m/087zy",
+          "score": 0.62230086,
+          "topicality": 0.024112398
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.5816744,
+          "topicality": 0.0059951814
+        },
+        {
+          "description": "Zen master",
+          "mid": "/m/03nn09t",
+          "score": 0.53572863,
+          "topicality": 0.0072817532
+        },
+        {
+          "description": "Peace",
+          "mid": "/m/065jp",
+          "score": 0.5216078
+        }
+      ]
+    }
+  ]
+}

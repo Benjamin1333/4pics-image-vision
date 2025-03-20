@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Vegetable",
+          "mid": "/m/0f4s2w",
+          "score": 0.9615573,
+          "topicality": 0.44307443
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.9529047,
+          "topicality": 0.030466447
+        },
+        {
+          "description": "Artichoke",
+          "mid": "/m/047v4b",
+          "score": 0.9453751,
+          "topicality": 0.970191
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.8338667,
+          "topicality": 0.0014567
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.8254602,
+          "topicality": 0.1327145
+        },
+        {
+          "description": "Cynara",
+          "mid": "/m/01c0lb",
+          "score": 0.651183,
+          "topicality": 0.12226488
+        },
+        {
+          "description": "Superfood",
+          "mid": "/m/04jdhxy",
+          "score": 0.5576674,
+          "topicality": 0.0019664469
+        },
+        {
+          "description": "Cardoon",
+          "mid": "/m/02rz26",
+          "score": 0.53989834,
+          "topicality": 0.06652724
+        },
+        {
+          "description": "Leaf vegetable",
+          "mid": "/m/05f725",
+          "score": 0.5392867,
+          "topicality": 0.009678622
+        },
+        {
+          "description": "Staple food",
+          "mid": "/m/022tld",
+          "score": 0.50937974,
+          "topicality": 0.0007069162
+        }
+      ]
+    }
+  ]
+}

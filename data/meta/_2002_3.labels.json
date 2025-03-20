@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9689398,
+          "topicality": 0.018267723
+        },
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.95713496,
+          "topicality": 0.0026707528
+        },
+        {
+          "description": "Tablet computer",
+          "mid": "/m/0bh9flk",
+          "score": 0.9408329,
+          "topicality": 0.97044563
+        },
+        {
+          "description": "Display device",
+          "mid": "/m/029zz6",
+          "score": 0.9395006,
+          "topicality": 0.2192099
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.9152219,
+          "topicality": 0.0051285923
+        },
+        {
+          "description": "Mobile device",
+          "mid": "/m/030swj",
+          "score": 0.8970323,
+          "topicality": 0.050537765
+        },
+        {
+          "description": "Communication Device",
+          "mid": "/m/0glmwd6",
+          "score": 0.8660473,
+          "topicality": 0.00026967938
+        },
+        {
+          "description": "Portable communications device",
+          "mid": "/m/020fsy",
+          "score": 0.80624646,
+          "topicality": 0.0036481163
+        },
+        {
+          "description": "Comparison of e-readers",
+          "mid": "/m/04bkg6",
+          "score": 0.7293162,
+          "topicality": 0.05860969
+        },
+        {
+          "description": "Flat-panel display",
+          "mid": "/m/01qwsw",
+          "score": 0.69703764,
+          "topicality": 0.0029503487
+        }
+      ]
+    }
+  ]
+}

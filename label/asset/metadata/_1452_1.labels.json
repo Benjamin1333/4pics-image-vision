@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Yoga",
+          "mid": "/m/087zy",
+          "score": 0.9591812,
+          "topicality": 0.66066366
+        },
+        {
+          "description": "Meditation",
+          "mid": "/m/0517l",
+          "score": 0.95535755,
+          "topicality": 0.9267098
+        },
+        {
+          "description": "Orange",
+          "mid": "/m/0jc_p",
+          "score": 0.9280474,
+          "topicality": 0.00024158935
+        },
+        {
+          "description": "Physical fitness",
+          "mid": "/m/027x7n",
+          "score": 0.89962286,
+          "topicality": 0.0014896385
+        },
+        {
+          "description": "Guru",
+          "mid": "/m/016gcr",
+          "score": 0.84304065,
+          "topicality": 0.024360964
+        },
+        {
+          "description": "Sunset",
+          "mid": "/m/01b2w5",
+          "score": 0.8357439,
+          "topicality": 0.031709798
+        },
+        {
+          "description": "Dusk",
+          "mid": "/m/01b3l7",
+          "score": 0.7959789,
+          "topicality": 0.0018290688
+        },
+        {
+          "description": "Silhouette",
+          "mid": "/m/03thgk",
+          "score": 0.7626525,
+          "topicality": 0.10481856
+        },
+        {
+          "description": "Sunrise",
+          "mid": "/m/01b2q6",
+          "score": 0.7548227,
+          "topicality": 0.010111
+        },
+        {
+          "description": "Heat",
+          "mid": "/m/03k2v",
+          "score": 0.685973,
+          "topicality": 0.0033401626
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Comfort",
+          "mid": "/m/08xgn7",
+          "score": 0.94432116,
+          "topicality": 0.053557627
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.9200853,
+          "topicality": 0.06476632
+        },
+        {
+          "description": "Sitting",
+          "mid": "/m/015c4z",
+          "score": 0.8837851,
+          "topicality": 0.055293396
+        },
+        {
+          "description": "Bed",
+          "mid": "/m/03ssj5",
+          "score": 0.7963075,
+          "topicality": 0.037544545
+        },
+        {
+          "description": "Toddler",
+          "mid": "/m/01bgsw",
+          "score": 0.7796982,
+          "topicality": 0.06733242
+        },
+        {
+          "description": "Lap",
+          "mid": "/m/09fwz6",
+          "score": 0.7761252,
+          "topicality": 0.019709045
+        },
+        {
+          "description": "Infant",
+          "mid": "/m/0jnvp",
+          "score": 0.7467216,
+          "topicality": 0.4477438
+        },
+        {
+          "description": "Pillow",
+          "mid": "/m/034c16",
+          "score": 0.72875726,
+          "topicality": 0.0632473
+        },
+        {
+          "description": "Mattress pad",
+          "mid": "/m/06ztwvs",
+          "score": 0.66741776,
+          "topicality": 0.0019804165
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.63282603,
+          "topicality": 0.0023004562
+        }
+      ]
+    }
+  ]
+}

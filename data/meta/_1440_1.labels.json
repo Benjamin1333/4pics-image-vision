@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.98572886,
+          "topicality": 0.138797
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.98129994,
+          "topicality": 0.03940671
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94494927,
+          "topicality": 0.008709456
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.9164624,
+          "topicality": 0.011112307
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.8981044,
+          "topicality": 0.15429892
+        },
+        {
+          "description": "Sitting",
+          "mid": "/m/015c4z",
+          "score": 0.8780912,
+          "topicality": 0.07442097
+        },
+        {
+          "description": "Blond",
+          "mid": "/m/0294jb",
+          "score": 0.87556446,
+          "topicality": 0.026263783
+        },
+        {
+          "description": "Brown hair",
+          "mid": "/m/02ksmb",
+          "score": 0.77580327,
+          "topicality": 0.0016170136
+        },
+        {
+          "description": "Child model",
+          "mid": "/m/0bgmt1",
+          "score": 0.7641062,
+          "topicality": 0.012654821
+        },
+        {
+          "description": "Toddler",
+          "mid": "/m/01bgsw",
+          "score": 0.7445824,
+          "topicality": 0.16700129
+        }
+      ]
+    }
+  ]
+}

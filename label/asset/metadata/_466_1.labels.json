@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9726493,
+          "topicality": 0.011403824
+        },
+        {
+          "description": "Track and field athletics",
+          "mid": "/m/0bynt",
+          "score": 0.5962839,
+          "topicality": 0.48015088
+        },
+        {
+          "description": "Race track",
+          "mid": "/m/01r_pn",
+          "score": 0.5874046,
+          "topicality": 0.0014207289
+        },
+        {
+          "description": "Sports venue",
+          "mid": "/m/0bmgjqz",
+          "score": 0.5346421,
+          "topicality": 0.021213636
+        }
+      ]
+    }
+  ]
+}

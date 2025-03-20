@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic component",
+          "mid": "/m/063syt",
+          "score": 0.888594,
+          "topicality": 0.12359284
+        },
+        {
+          "description": "Electronic engineering",
+          "mid": "/m/01g1rg",
+          "score": 0.8116745,
+          "topicality": 0.06591409
+        },
+        {
+          "description": "Electronics",
+          "mid": "/m/02mrp",
+          "score": 0.77798444,
+          "topicality": 0.21262431
+        },
+        {
+          "description": "Circuit Component",
+          "mid": "/m/0h8mv94",
+          "score": 0.71605504,
+          "topicality": 0.0012803534
+        },
+        {
+          "description": "Engineer",
+          "mid": "/m/09j9h",
+          "score": 0.7003934,
+          "topicality": 0.16383962
+        },
+        {
+          "description": "Blue-collar worker",
+          "mid": "/m/01kq3f",
+          "score": 0.69587624,
+          "topicality": 0.01742916
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.62797016,
+          "topicality": 0.010591824
+        },
+        {
+          "description": "Passive Circuit Component",
+          "mid": "/m/0h8mjtj",
+          "score": 0.6028336,
+          "topicality": 0.0008461434
+        },
+        {
+          "description": "Tradesman",
+          "mid": "/m/01jp3p",
+          "score": 0.511574,
+          "topicality": 0.0021607208
+        }
+      ]
+    }
+  ]
+}

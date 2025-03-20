@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blackboard",
+          "mid": "/m/02kdvj",
+          "score": 0.9684868,
+          "topicality": 0.04427402
+        },
+        {
+          "description": "Classroom",
+          "mid": "/m/04hyxm",
+          "score": 0.9239709,
+          "topicality": 0.09790078
+        },
+        {
+          "description": "Class",
+          "mid": "/m/075_ys",
+          "score": 0.9218798,
+          "topicality": 0.033460572
+        },
+        {
+          "description": "Student",
+          "mid": "/m/014cnc",
+          "score": 0.8936991,
+          "topicality": 0.15755638
+        },
+        {
+          "description": "School",
+          "mid": "/m/06zdj",
+          "score": 0.8566566,
+          "topicality": 0.24009362
+        },
+        {
+          "description": "Learning",
+          "mid": "/m/0191f8",
+          "score": 0.8350962,
+          "topicality": 0.054758225
+        },
+        {
+          "description": "Number",
+          "mid": "/m/05fwb",
+          "score": 0.8255224,
+          "topicality": 0.012289748
+        },
+        {
+          "description": "Chalk",
+          "mid": "/m/0c5q8",
+          "score": 0.8123669,
+          "topicality": 0.31421378
+        },
+        {
+          "description": "Education",
+          "mid": "/m/02jfc",
+          "score": 0.80696476,
+          "topicality": 0.18997405
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.7986899,
+          "topicality": 0.0286378
+        }
+      ]
+    }
+  ]
+}

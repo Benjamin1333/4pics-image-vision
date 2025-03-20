@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Scale model",
+          "mid": "/m/01rh7y",
+          "score": 0.8426264,
+          "topicality": 0.31099904
+        },
+        {
+          "description": "Plan",
+          "mid": "/m/018jrr",
+          "score": 0.77527714,
+          "topicality": 0.03494827
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.5886344,
+          "topicality": 0.001104837
+        },
+        {
+          "description": "Dollhouse",
+          "mid": "/m/031r7_",
+          "score": 0.571862,
+          "topicality": 0.5625525
+        },
+        {
+          "description": "Floor plan",
+          "mid": "/m/02sp3v",
+          "score": 0.5591142,
+          "topicality": 0.05988849
+        },
+        {
+          "description": "Project",
+          "mid": "/m/0156dy",
+          "score": 0.5451494,
+          "topicality": 0.02824017
+        }
+      ]
+    }
+  ]
+}

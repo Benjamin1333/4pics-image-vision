@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.98987234,
+          "topicality": 0.28019196
+        },
+        {
+          "description": "Sushi",
+          "mid": "/m/07030",
+          "score": 0.9746667,
+          "topicality": 0.8368205
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9375545,
+          "topicality": 0.0068885065
+        },
+        {
+          "description": "Rice",
+          "mid": "/m/09759",
+          "score": 0.9100322,
+          "topicality": 0.012641858
+        },
+        {
+          "description": "Salmon",
+          "mid": "/m/0j9qfzr",
+          "score": 0.9005426,
+          "topicality": 0.22442761
+        },
+        {
+          "description": "Sashimi",
+          "mid": "/m/0cjyd",
+          "score": 0.89401376,
+          "topicality": 0.34667778
+        },
+        {
+          "description": "Fish slice",
+          "mid": "/m/02vkskg",
+          "score": 0.8606286,
+          "topicality": 0.007966158
+        },
+        {
+          "description": "White rice",
+          "mid": "/m/02vdjb",
+          "score": 0.8527121,
+          "topicality": 0.0008626546
+        },
+        {
+          "description": "Recipe",
+          "mid": "/m/0p57p",
+          "score": 0.83798116,
+          "topicality": 0.021781903
+        },
+        {
+          "description": "Cooked rice",
+          "mid": "/m/0g9vs81",
+          "score": 0.83506703,
+          "topicality": 0.002476499
+        }
+      ]
+    }
+  ]
+}

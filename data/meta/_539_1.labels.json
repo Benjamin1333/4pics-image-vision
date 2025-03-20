@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Horse",
+          "mid": "/m/03k3r",
+          "score": 0.99020845,
+          "topicality": 0.66626996
+        },
+        {
+          "description": "Carriage",
+          "mid": "/m/01hffk",
+          "score": 0.988925,
+          "topicality": 0.7969079
+        },
+        {
+          "description": "Mode of transport",
+          "mid": "/m/079bkr",
+          "score": 0.9864093,
+          "topicality": 0.003721806
+        },
+        {
+          "description": "Wheel",
+          "mid": "/m/083wq",
+          "score": 0.98232603,
+          "topicality": 0.026502537
+        },
+        {
+          "description": "Working animal",
+          "mid": "/m/07_gml",
+          "score": 0.98135793,
+          "topicality": 0.004873786
+        },
+        {
+          "description": "Horse and buggy",
+          "mid": "/m/02j091",
+          "score": 0.9702969,
+          "topicality": 0.4134415
+        },
+        {
+          "description": "Bridle",
+          "mid": "/m/04jkpd",
+          "score": 0.9685503,
+          "topicality": 0.0021293894
+        },
+        {
+          "description": "Wagon",
+          "mid": "/m/0242gd",
+          "score": 0.96752644,
+          "topicality": 0.13316864
+        },
+        {
+          "description": "Horse harness",
+          "mid": "/m/02z6033",
+          "score": 0.96540266,
+          "topicality": 0.04057066
+        },
+        {
+          "description": "Vertebrate",
+          "mid": "/m/09686",
+          "score": 0.9614472,
+          "topicality": 1.2387537e-05
+        }
+      ]
+    }
+  ]
+}

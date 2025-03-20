@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "People",
+          "mid": "/m/09g5pq",
+          "score": 0.9942898,
+          "topicality": 0.0030876258
+        },
+        {
+          "description": "Entertainment",
+          "mid": "/m/02jjt",
+          "score": 0.9749242,
+          "topicality": 0.043829504
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.94045335,
+          "topicality": 0.0029035504
+        },
+        {
+          "description": "Performing Arts",
+          "mid": "/m/05qjc",
+          "score": 0.9278283,
+          "topicality": 0.0140033355
+        },
+        {
+          "description": "Crowd",
+          "mid": "/m/03qtwd",
+          "score": 0.92562866,
+          "topicality": 0.31079903
+        },
+        {
+          "description": "Orange",
+          "mid": "/m/0jc_p",
+          "score": 0.9159262,
+          "topicality": 0.0003795501
+        },
+        {
+          "description": "Performance",
+          "mid": "/m/01gq53",
+          "score": 0.90039796,
+          "topicality": 0.01776059
+        },
+        {
+          "description": "Audience",
+          "mid": "/m/033lpr",
+          "score": 0.8962096,
+          "topicality": 0.26388776
+        },
+        {
+          "description": "Public event",
+          "mid": "/g/116c3n66l",
+          "score": 0.8817298,
+          "topicality": 0.006527811
+        },
+        {
+          "description": "Fan",
+          "mid": "/m/013x8v",
+          "score": 0.83753526,
+          "topicality": 0.03206963
+        }
+      ]
+    }
+  ]
+}

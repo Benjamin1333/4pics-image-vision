@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sleeve",
+          "mid": "/m/062581",
+          "score": 0.98478365,
+          "topicality": 0.022561174
+        },
+        {
+          "description": "Formal wear",
+          "mid": "/m/02w3_2",
+          "score": 0.98355067,
+          "topicality": 0.16343987
+        },
+        {
+          "description": "Collar",
+          "mid": "/m/091410",
+          "score": 0.98299116,
+          "topicality": 0.056523774
+        },
+        {
+          "description": "Blazer",
+          "mid": "/m/04xz_5",
+          "score": 0.96471864,
+          "topicality": 0.28719324
+        },
+        {
+          "description": "Pocket",
+          "mid": "/m/025rhd",
+          "score": 0.9616045,
+          "topicality": 0.111172885
+        },
+        {
+          "description": "Neck",
+          "mid": "/m/0dzd8",
+          "score": 0.95580953,
+          "topicality": 0.0031788808
+        },
+        {
+          "description": "Standing",
+          "mid": "/m/02wzbmj",
+          "score": 0.94632816
+        },
+        {
+          "description": "Dress shirt",
+          "mid": "/m/06hwcd",
+          "score": 0.93676955,
+          "topicality": 0.12177363
+        },
+        {
+          "description": "Necktie",
+          "mid": "/m/01rkbr",
+          "score": 0.9317445,
+          "topicality": 0.1747521
+        },
+        {
+          "description": "Suit",
+          "mid": "/m/01xyhv",
+          "score": 0.9175801,
+          "topicality": 0.58450466
+        }
+      ]
+    }
+  ]
+}

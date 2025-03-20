@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.96998054,
+          "topicality": 0.10314176
+        },
+        {
+          "description": "Gingerbread house",
+          "mid": "/m/0zg7256",
+          "score": 0.95648265,
+          "topicality": 0.9634376
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.93011135,
+          "topicality": 0.008165103
+        },
+        {
+          "description": "Dessert",
+          "mid": "/m/0270h",
+          "score": 0.8944124,
+          "topicality": 0.07112505
+        },
+        {
+          "description": "Baking",
+          "mid": "/m/0dv34",
+          "score": 0.8506929,
+          "topicality": 0.05733547
+        },
+        {
+          "description": "Icing",
+          "mid": "/m/02qm2x",
+          "score": 0.8367029,
+          "topicality": 0.100434855
+        },
+        {
+          "description": "Finger food",
+          "mid": "/m/0b3dyl",
+          "score": 0.8319229,
+          "topicality": 0.00037114596
+        },
+        {
+          "description": "Recipe",
+          "mid": "/m/0p57p",
+          "score": 0.82306087,
+          "topicality": 0.15551199
+        },
+        {
+          "description": "Marshmallow creme",
+          "mid": "/m/03n1tj",
+          "score": 0.7467777,
+          "topicality": 0.0014082005
+        },
+        {
+          "description": "Cake Decorating Supply",
+          "mid": "/m/0h8n9w9",
+          "score": 0.7306144,
+          "topicality": 0.00029063344
+        }
+      ]
+    }
+  ]
+}

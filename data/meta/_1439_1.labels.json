@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Land vehicle",
+          "mid": "/m/01prls",
+          "score": 0.9917383,
+          "topicality": 0.0019511255
+        },
+        {
+          "description": "Bicycle",
+          "mid": "/m/0199g",
+          "score": 0.9912856,
+          "topicality": 0.90272987
+        },
+        {
+          "description": "Wheel",
+          "mid": "/m/083wq",
+          "score": 0.985972,
+          "topicality": 0.14561908
+        },
+        {
+          "description": "Vehicle",
+          "mid": "/m/07yv9",
+          "score": 0.9845347,
+          "topicality": 0.04185711
+        },
+        {
+          "description": "Tire",
+          "mid": "/m/0h9mv",
+          "score": 0.98091733,
+          "topicality": 0.054819793
+        },
+        {
+          "description": "Bicycle tire",
+          "mid": "/m/0c3vfpc",
+          "score": 0.97813797,
+          "topicality": 0.03745694
+        },
+        {
+          "description": "Bicycle frame",
+          "mid": "/m/01bqgn",
+          "score": 0.9777048,
+          "topicality": 0.071916826
+        },
+        {
+          "description": "Bicycle wheel",
+          "mid": "/m/01bqk0",
+          "score": 0.9772537,
+          "topicality": 0.06084447
+        },
+        {
+          "description": "Spoke",
+          "mid": "/m/016xt7",
+          "score": 0.97517043,
+          "topicality": 0.02800988
+        },
+        {
+          "description": "Bicycle Wheel Rim",
+          "mid": "/m/0h8n90g",
+          "score": 0.9723247,
+          "topicality": 0.0014311613
+        }
+      ]
+    }
+  ]
+}

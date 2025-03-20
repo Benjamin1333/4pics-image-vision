@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Dice",
+          "mid": "/m/029b3",
+          "score": 0.9327589,
+          "topicality": 0.8509702
+        },
+        {
+          "description": "Indoor games and sports",
+          "mid": "/m/0b42l9",
+          "score": 0.8301551,
+          "topicality": 0.0033338582
+        },
+        {
+          "description": "Dice game",
+          "mid": "/m/02ljkr",
+          "score": 0.82342845,
+          "topicality": 0.5153339
+        },
+        {
+          "description": "Game",
+          "mid": "/m/03bt1gh",
+          "score": 0.78804225,
+          "topicality": 0.35580096
+        },
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.7272156,
+          "topicality": 0.039693236
+        },
+        {
+          "description": "Tabletop game",
+          "mid": "/m/03jj52",
+          "score": 0.5866078,
+          "topicality": 0.020564213
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Denim",
+          "mid": "/m/0hgr6",
+          "score": 0.978702,
+          "topicality": 0.009662871
+        },
+        {
+          "description": "Footwear",
+          "mid": "/m/09j5n",
+          "score": 0.9708312,
+          "topicality": 0.00806314
+        },
+        {
+          "description": "Jeans",
+          "mid": "/m/0fly7",
+          "score": 0.96874917,
+          "topicality": 0.047892973
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9667865,
+          "topicality": 0.062078997
+        },
+        {
+          "description": "Shoe",
+          "mid": "/m/06rrc",
+          "score": 0.9667151,
+          "topicality": 0.021789914
+        },
+        {
+          "description": "Trousers",
+          "mid": "/m/07mhn",
+          "score": 0.96630013,
+          "topicality": 0.042768948
+        },
+        {
+          "description": "Leg",
+          "mid": "/m/035r7c",
+          "score": 0.962084,
+          "topicality": 0.012183275
+        },
+        {
+          "description": "Entertainment",
+          "mid": "/m/02jjt",
+          "score": 0.9320482,
+          "topicality": 0.009539205
+        },
+        {
+          "description": "Sneakers",
+          "mid": "/m/09kjlm",
+          "score": 0.8874138,
+          "topicality": 0.0054596127
+        },
+        {
+          "description": "Jumping",
+          "mid": "/m/0by3w",
+          "score": 0.88117087,
+          "topicality": 0.09197912
+        }
+      ]
+    }
+  ]
+}

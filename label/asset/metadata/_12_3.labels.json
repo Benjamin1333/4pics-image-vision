@@ -1,0 +1,55 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.98840344,
+          "topicality": 0.090494394
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.91959685,
+          "topicality": 0.020487977
+        },
+        {
+          "description": "Ice",
+          "mid": "/m/03vtj",
+          "score": 0.88266766,
+          "topicality": 0.6951084
+        },
+        {
+          "description": "Melting",
+          "mid": "/m/055_l",
+          "score": 0.8805347
+        },
+        {
+          "description": "Ice cube",
+          "mid": "/m/03vk79",
+          "score": 0.86303926,
+          "topicality": 0.89217174
+        },
+        {
+          "description": "Freezing",
+          "mid": "/m/01c791",
+          "score": 0.59909886,
+          "topicality": 0.07981925
+        },
+        {
+          "description": "Arctic Ocean",
+          "mid": "/m/0j85",
+          "score": 0.5835605,
+          "topicality": 0.0011471764
+        },
+        {
+          "description": "Polar ice cap",
+          "mid": "/m/048nfp",
+          "score": 0.5140235,
+          "topicality": 0.00024845268
+        }
+      ]
+    }
+  ]
+}

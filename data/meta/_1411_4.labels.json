@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "People",
+          "mid": "/m/09g5pq",
+          "score": 0.99430346,
+          "topicality": 0.0017621797
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9863117,
+          "topicality": 0.11894533
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.9464895,
+          "topicality": 0.006757247
+        },
+        {
+          "description": "Summer",
+          "mid": "/m/078qz",
+          "score": 0.93478256,
+          "topicality": 0.18620704
+        },
+        {
+          "description": "Vacation",
+          "mid": "/m/02jwqh",
+          "score": 0.92450315,
+          "topicality": 0.5406486
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.9081297,
+          "topicality": 0.053192623
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.90477526,
+          "topicality": 0.041877422
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.8640498,
+          "topicality": 0.17768683
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.8449472,
+          "topicality": 0.0022337185
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.83558464,
+          "topicality": 0.032624323
+        }
+      ]
+    }
+  ]
+}

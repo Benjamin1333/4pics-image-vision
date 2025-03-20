@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Smoke",
+          "mid": "/m/06q40",
+          "score": 0.626463,
+          "topicality": 0.01874987
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.5308793,
+          "topicality": 0.011268504
+        }
+      ]
+    }
+  ]
+}

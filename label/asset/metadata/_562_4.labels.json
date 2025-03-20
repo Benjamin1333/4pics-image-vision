@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Map",
+          "mid": "/m/04_tb",
+          "score": 0.8873569,
+          "topicality": 0.2188344
+        },
+        {
+          "description": "Plan",
+          "mid": "/m/018jrr",
+          "score": 0.69409156,
+          "topicality": 0.0041685738
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.62988085,
+          "topicality": 0.024783535
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.58587253,
+          "topicality": 0.007693302
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.5374028,
+          "topicality": 0.0062656477
+        }
+      ]
+    }
+  ]
+}

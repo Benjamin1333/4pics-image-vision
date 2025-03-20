@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "People",
+          "mid": "/m/09g5pq",
+          "score": 0.9943012,
+          "topicality": 0.009778592
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9844976,
+          "topicality": 0.04497364
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.9813789,
+          "topicality": 0.061899107
+        },
+        {
+          "description": "Wrinkle",
+          "mid": "/m/02_x63",
+          "score": 0.9767657,
+          "topicality": 0.028430847
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94494784,
+          "topicality": 0.0007137465
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.92973363,
+          "topicality": 0.0010269186
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.8109638,
+          "topicality": 0.0032470124
+        },
+        {
+          "description": "Laughter",
+          "mid": "/m/01j3sz",
+          "score": 0.78026706,
+          "topicality": 0.11968228
+        },
+        {
+          "description": "Grandparent",
+          "mid": "/m/03c866",
+          "score": 0.6851515,
+          "topicality": 0.5045103
+        },
+        {
+          "description": "Elder",
+          "mid": "/m/027v9wk",
+          "score": 0.6361426,
+          "topicality": 0.06951219
+        }
+      ]
+    }
+  ]
+}

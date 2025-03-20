@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Traffic sign",
+          "mid": "/m/01mqdt",
+          "score": 0.9505019,
+          "topicality": 0.6987482
+        },
+        {
+          "description": "Sign",
+          "mid": "/m/06zsq",
+          "score": 0.91930205,
+          "topicality": 0.45552912
+        },
+        {
+          "description": "Triangle",
+          "mid": "/m/07jx7",
+          "score": 0.86386293,
+          "topicality": 0.00052290113
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.7533858,
+          "topicality": 0.009696331
+        },
+        {
+          "description": "Street name sign",
+          "mid": "/m/04jph85",
+          "score": 0.55088866,
+          "topicality": 0.06394757
+        },
+        {
+          "description": "Hazard",
+          "mid": "/m/02p0y0y",
+          "score": 0.5246323,
+          "topicality": 0.15821753
+        }
+      ]
+    }
+  ]
+}

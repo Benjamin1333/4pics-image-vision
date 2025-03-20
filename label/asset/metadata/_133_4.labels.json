@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Car",
+          "mid": "/m/0k4j",
+          "score": 0.92516065,
+          "topicality": 0.13049313
+        },
+        {
+          "description": "Automotive Parking Light",
+          "mid": "/m/0h8n1g1",
+          "score": 0.8768612,
+          "topicality": 0.0012107665
+        },
+        {
+          "description": "Parking lot",
+          "mid": "/m/02jxn5",
+          "score": 0.8665869,
+          "topicality": 0.85648936
+        },
+        {
+          "description": "Automotive Side-View Mirror",
+          "mid": "/m/0h8n616",
+          "score": 0.8642337,
+          "topicality": 0.00026676513
+        },
+        {
+          "description": "Parking",
+          "mid": "/m/01jp76",
+          "score": 0.81896013,
+          "topicality": 0.8081698
+        },
+        {
+          "description": "Family car",
+          "mid": "/m/088l6h",
+          "score": 0.81583786,
+          "topicality": 0.004536933
+        },
+        {
+          "description": "Automotive Mirror",
+          "mid": "/m/0h8lk4b",
+          "score": 0.81074315,
+          "topicality": 0.00045810503
+        },
+        {
+          "description": "Luxury vehicle",
+          "mid": "/m/01lcwm",
+          "score": 0.7804866,
+          "topicality": 0.013485004
+        },
+        {
+          "description": "Executive car",
+          "mid": "/m/0crtnw",
+          "score": 0.68429744,
+          "topicality": 0.0016830615
+        },
+        {
+          "description": "Full-size car",
+          "mid": "/m/03vntj",
+          "score": 0.67045367,
+          "topicality": 0.011534686
+        }
+      ]
+    }
+  ]
+}

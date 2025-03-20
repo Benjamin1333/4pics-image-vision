@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.98479617,
+          "topicality": 0.5958023
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9768036,
+          "topicality": 0.21025334
+        },
+        {
+          "description": "Facial hair",
+          "mid": "/m/0ds5b",
+          "score": 0.8350385,
+          "topicality": 0.032122415
+        },
+        {
+          "description": "Close-up",
+          "mid": "/m/02cqfm",
+          "score": 0.83070856,
+          "topicality": 0.060534943
+        },
+        {
+          "description": "Cosmetics",
+          "mid": "/m/014trl",
+          "score": 0.7566524,
+          "topicality": 0.11964112
+        },
+        {
+          "description": "Lip Care",
+          "mid": "/m/0h8nklh",
+          "score": 0.7280353,
+          "topicality": 0.0049484363
+        },
+        {
+          "description": "Lipstick",
+          "mid": "/m/06c7f7",
+          "score": 0.72304076,
+          "topicality": 0.65493745
+        },
+        {
+          "description": "Moustache",
+          "mid": "/m/0bby24z",
+          "score": 0.6631891,
+          "topicality": 0.0849785
+        },
+        {
+          "description": "Flesh",
+          "mid": "/m/02p16m6",
+          "score": 0.64516586,
+          "topicality": 0.00074742606
+        },
+        {
+          "description": "Paint sheen",
+          "mid": "/m/027t55b",
+          "score": 0.5571151,
+          "topicality": 3.7860493e-05
+        }
+      ]
+    }
+  ]
+}

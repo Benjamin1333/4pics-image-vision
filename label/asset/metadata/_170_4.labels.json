@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Green",
+          "mid": "/m/038hg",
+          "score": 0.98048383,
+          "topicality": 0.0070372513
+        },
+        {
+          "description": "Grass",
+          "mid": "/m/08t9c_",
+          "score": 0.97947,
+          "topicality": 0.122281946
+        },
+        {
+          "description": "Basket",
+          "mid": "/m/01z562",
+          "score": 0.96864134,
+          "topicality": 0.2295471
+        },
+        {
+          "description": "Summer",
+          "mid": "/m/078qz",
+          "score": 0.9442331,
+          "topicality": 0.19453676
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.9203435,
+          "topicality": 0.11637841
+        },
+        {
+          "description": "Grassland",
+          "mid": "/m/01c7cq",
+          "score": 0.90019166,
+          "topicality": 0.0027231881
+        },
+        {
+          "description": "Grasses",
+          "mid": "/m/0fkrk",
+          "score": 0.88236463,
+          "topicality": 0.004639002
+        },
+        {
+          "description": "Spring",
+          "mid": "/m/01txr2",
+          "score": 0.8705065,
+          "topicality": 0.033249345
+        },
+        {
+          "description": "People in nature",
+          "mid": "/j/3gbwgn",
+          "score": 0.8697564,
+          "topicality": 0.0031632336
+        },
+        {
+          "description": "Picnic basket",
+          "mid": "/m/07kng9",
+          "score": 0.8661518,
+          "topicality": 0.071944624
+        }
+      ]
+    }
+  ]
+}

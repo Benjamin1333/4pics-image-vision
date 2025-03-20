@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.9459607,
+          "topicality": 0.08190814
+        },
+        {
+          "description": "Dessert",
+          "mid": "/m/0270h",
+          "score": 0.9220102,
+          "topicality": 0.06768683
+        },
+        {
+          "description": "Gingerbread house",
+          "mid": "/m/0zg7256",
+          "score": 0.9185958,
+          "topicality": 0.8132923
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9166619,
+          "topicality": 0.017096741
+        },
+        {
+          "description": "Finger food",
+          "mid": "/m/0b3dyl",
+          "score": 0.90325195,
+          "topicality": 0.0011609198
+        },
+        {
+          "description": "Baking",
+          "mid": "/m/0dv34",
+          "score": 0.8623719,
+          "topicality": 0.09864661
+        },
+        {
+          "description": "Christmas decoration",
+          "mid": "/m/05fc9mj",
+          "score": 0.83150005,
+          "topicality": 0.05469033
+        },
+        {
+          "description": "Christmas Day",
+          "mid": "/m/01vq3",
+          "score": 0.8171599,
+          "topicality": 0.50549436
+        },
+        {
+          "description": "Icing",
+          "mid": "/m/02qm2x",
+          "score": 0.80350137,
+          "topicality": 0.051043898
+        },
+        {
+          "description": "Bredele",
+          "mid": "/m/09q6n_",
+          "score": 0.7735583,
+          "topicality": 0.032094788
+        }
+      ]
+    }
+  ]
+}

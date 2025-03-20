@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9777276,
+          "topicality": 0.075317435
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94486314,
+          "topicality": 0.0029602954
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.8674586,
+          "topicality": 0.031919308
+        },
+        {
+          "description": "Air sports",
+          "mid": "/m/07wpp2",
+          "score": 0.8501617,
+          "topicality": 0.006180893
+        },
+        {
+          "description": "Parachuting",
+          "mid": "/m/05zmb",
+          "score": 0.84178185,
+          "topicality": 0.6033125
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.7513897,
+          "topicality": 0.009525449
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.7459328,
+          "topicality": 0.035095926
+        },
+        {
+          "description": "Windsport",
+          "mid": "/m/041q5g",
+          "score": 0.6806043,
+          "topicality": 0.00063718023
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.5520206,
+          "topicality": 0.14161251
+        },
+        {
+          "description": "Jumping",
+          "mid": "/m/0by3w",
+          "score": 0.53615344,
+          "topicality": 0.3138591
+        }
+      ]
+    }
+  ]
+}

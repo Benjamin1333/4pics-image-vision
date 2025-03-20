@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Furniture",
+          "mid": "/m/0c_jw",
+          "score": 0.9453581,
+          "topicality": 0.041488584
+        },
+        {
+          "description": "Flooring",
+          "mid": "/m/01c34b",
+          "score": 0.94227433,
+          "topicality": 0.004114341
+        },
+        {
+          "description": "Floor",
+          "mid": "/m/0l7_8",
+          "score": 0.9283995,
+          "topicality": 0.034090355
+        },
+        {
+          "description": "Grey",
+          "mid": "/m/036k5h",
+          "score": 0.8293831,
+          "topicality": 0.15348521
+        },
+        {
+          "description": "Daybed",
+          "mid": "/m/026qbn5",
+          "score": 0.8231105,
+          "topicality": 0.00026881733
+        },
+        {
+          "description": "Living room",
+          "mid": "/m/03f6tq",
+          "score": 0.8125655,
+          "topicality": 0.26132292
+        },
+        {
+          "description": "Couch",
+          "mid": "/m/02crq1",
+          "score": 0.79175746,
+          "topicality": 0.068600215
+        },
+        {
+          "description": "Wallpaper",
+          "mid": "/m/01lnt7",
+          "score": 0.7167535,
+          "topicality": 0.55970275
+        },
+        {
+          "description": "Plaster",
+          "mid": "/m/01w_gm",
+          "score": 0.69077075,
+          "topicality": 0.11034275
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.66756797,
+          "topicality": 0.031444255
+        }
+      ]
+    }
+  ]
+}

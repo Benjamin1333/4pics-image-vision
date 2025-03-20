@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Automotive Tire",
+          "mid": "/m/0h8pb3l",
+          "score": 0.9801111,
+          "topicality": 0.012933492
+        },
+        {
+          "description": "Automotive Wheel System",
+          "mid": "/m/0h8ly30",
+          "score": 0.9745853,
+          "topicality": 0.0036037813
+        },
+        {
+          "description": "Synthetic rubber",
+          "mid": "/m/05s771",
+          "score": 0.93250436,
+          "topicality": 0.07650226
+        },
+        {
+          "description": "Tread",
+          "mid": "/m/04tkfx",
+          "score": 0.90201604,
+          "topicality": 0.27133152
+        },
+        {
+          "description": "Spoke",
+          "mid": "/m/016xt7",
+          "score": 0.82240903,
+          "topicality": 0.007929644
+        },
+        {
+          "description": "Hubcap",
+          "mid": "/m/01sdr3",
+          "score": 0.809141,
+          "topicality": 0.001099045
+        },
+        {
+          "description": "Automotive Care",
+          "mid": "/m/0h8nz9n",
+          "score": 0.7948033,
+          "topicality": 0.003207655
+        },
+        {
+          "description": "Formula One tyres",
+          "mid": "/m/02x1fjt",
+          "score": 0.7742026,
+          "topicality": 0.0022857813
+        },
+        {
+          "description": "Mechanic",
+          "mid": "/m/03f_s3",
+          "score": 0.7590338,
+          "topicality": 0.40520588
+        },
+        {
+          "description": "Rolling",
+          "mid": "/m/04c0lt",
+          "score": 0.7079796,
+          "topicality": 0.010350209
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.62369245,
+          "topicality": 0.009739769
+        }
+      ]
+    }
+  ]
+}

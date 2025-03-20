@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Dog",
+          "mid": "/m/0bt9lr",
+          "score": 0.9951473,
+          "topicality": 0.78489304
+        },
+        {
+          "description": "Animal shelter",
+          "mid": "/m/01m3tw",
+          "score": 0.9461921,
+          "topicality": 0.835239
+        },
+        {
+          "description": "Carnivores",
+          "mid": "/m/01lrl",
+          "score": 0.9442695,
+          "topicality": 0.006572798
+        },
+        {
+          "description": "Kennel",
+          "mid": "/m/053wzw",
+          "score": 0.8827282,
+          "topicality": 0.11509788
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.8354235,
+          "topicality": 0.0022747223
+        },
+        {
+          "description": "Pet Supply",
+          "mid": "/m/0h8ks17",
+          "score": 0.833838,
+          "topicality": 6.727972e-05
+        },
+        {
+          "description": "Working animal",
+          "mid": "/m/07_gml",
+          "score": 0.83315367,
+          "topicality": 0.00022790766
+        },
+        {
+          "description": "Cage",
+          "mid": "/m/06_4_k",
+          "score": 0.78471816,
+          "topicality": 0.016645592
+        },
+        {
+          "description": "Dog Supply",
+          "mid": "/m/0h8nm96",
+          "score": 0.7734074,
+          "topicality": 0.000215064
+        },
+        {
+          "description": "Canidae",
+          "mid": "/m/01z5f",
+          "score": 0.7645866,
+          "topicality": 0.061707534
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Wood",
+          "mid": "/m/083vt",
+          "score": 0.9723534,
+          "topicality": 0.14730905
+        },
+        {
+          "description": "Cottage",
+          "mid": "/m/03nxtz",
+          "score": 0.94359636,
+          "topicality": 0.4703227
+        },
+        {
+          "description": "House",
+          "mid": "/m/03jm5",
+          "score": 0.9375257,
+          "topicality": 0.32260883
+        },
+        {
+          "description": "Roof",
+          "mid": "/m/06hyd",
+          "score": 0.9302314,
+          "topicality": 0.10598249
+        },
+        {
+          "description": "Siding",
+          "mid": "/m/037cyw",
+          "score": 0.9268835,
+          "topicality": 0.049391836
+        },
+        {
+          "description": "Home",
+          "mid": "/m/01l0mw",
+          "score": 0.8985959,
+          "topicality": 0.027647054
+        },
+        {
+          "description": "Hardwood",
+          "mid": "/m/020g49",
+          "score": 0.8504462,
+          "topicality": 0.00030067653
+        },
+        {
+          "description": "Plank",
+          "mid": "/m/0fq0fnf",
+          "score": 0.8112467,
+          "topicality": 0.009520036
+        },
+        {
+          "description": "Wood stain",
+          "mid": "/m/05t06b",
+          "score": 0.763243,
+          "topicality": 0.0053779394
+        },
+        {
+          "description": "Log cabin",
+          "mid": "/m/02zkn_",
+          "score": 0.7556796,
+          "topicality": 0.43939462
+        }
+      ]
+    }
+  ]
+}

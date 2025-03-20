@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9449486,
+          "topicality": 0.039106015
+        },
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.9440056,
+          "topicality": 0.03247694
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.9036748,
+          "topicality": 0.003085441
+        },
+        {
+          "description": "Screaming",
+          "mid": "/m/03qc9zr",
+          "score": 0.88099706,
+          "topicality": 0.68322396
+        },
+        {
+          "description": "Tongue",
+          "mid": "/m/0fjkt",
+          "score": 0.84994596,
+          "topicality": 0.009640064
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.84934354,
+          "topicality": 0.07137879
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.8205884,
+          "topicality": 0.006370552
+        },
+        {
+          "description": "Thumb",
+          "mid": "/m/01bmhj",
+          "score": 0.7796002,
+          "topicality": 0.025051441
+        },
+        {
+          "description": "Necktie",
+          "mid": "/m/01rkbr",
+          "score": 0.7726948,
+          "topicality": 0.0036277338
+        },
+        {
+          "description": "Yawn",
+          "mid": "/m/01j423",
+          "score": 0.7546931,
+          "topicality": 0.08032645
+        }
+      ]
+    }
+  ]
+}

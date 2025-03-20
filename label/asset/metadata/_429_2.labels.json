@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Column",
+          "mid": "/m/01_m7",
+          "score": 0.93419033,
+          "topicality": 0.0052865967
+        },
+        {
+          "description": "Landmark",
+          "mid": "/m/05_5t0l",
+          "score": 0.9315531,
+          "topicality": 0.08410116
+        },
+        {
+          "description": "Tourist attraction",
+          "mid": "/m/0pgl9",
+          "score": 0.8710821,
+          "topicality": 0.07103478
+        },
+        {
+          "description": "Monument",
+          "mid": "/m/02ljgl",
+          "score": 0.82681847,
+          "topicality": 0.028759692
+        },
+        {
+          "description": "Classical architecture",
+          "mid": "/m/0dvh9",
+          "score": 0.8263622,
+          "topicality": 0.01918444
+        },
+        {
+          "description": "Night",
+          "mid": "/m/01d74z",
+          "score": 0.6875939,
+          "topicality": 0.021169018
+        },
+        {
+          "description": "Evening",
+          "mid": "/m/04mx32",
+          "score": 0.618927,
+          "topicality": 0.0062505878
+        },
+        {
+          "description": "Official residence",
+          "mid": "/m/05czsy",
+          "score": 0.6094378,
+          "topicality": 0.0030192994
+        },
+        {
+          "description": "Palace",
+          "mid": "/m/05zp8",
+          "score": 0.6014966,
+          "topicality": 0.03525676
+        },
+        {
+          "description": "Town square",
+          "mid": "/m/01wkk9",
+          "score": 0.58797765,
+          "topicality": 0.026184049
+        }
+      ]
+    }
+  ]
+}

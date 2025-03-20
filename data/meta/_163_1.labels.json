@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Orange",
+          "mid": "/m/0jc_p",
+          "score": 0.88800573,
+          "topicality": 0.014747758
+        },
+        {
+          "description": "Star",
+          "mid": "/m/06ngk",
+          "score": 0.69961286,
+          "topicality": 0.42844468
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6578368,
+          "topicality": 0.009832622
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.6088879,
+          "topicality": 0.074334346
+        }
+      ]
+    }
+  ]
+}

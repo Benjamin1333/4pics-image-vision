@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Entertainment",
+          "mid": "/m/02jjt",
+          "score": 0.8711031,
+          "topicality": 0.0063726413
+        },
+        {
+          "description": "Sports venue",
+          "mid": "/m/0bmgjqz",
+          "score": 0.85256004,
+          "topicality": 0.0055732317
+        },
+        {
+          "description": "Audience",
+          "mid": "/m/033lpr",
+          "score": 0.8401837,
+          "topicality": 0.06556992
+        },
+        {
+          "description": "Fan",
+          "mid": "/m/013x8v",
+          "score": 0.83163965,
+          "topicality": 0.07925815
+        },
+        {
+          "description": "Public event",
+          "mid": "/g/116c3n66l",
+          "score": 0.8068546,
+          "topicality": 0.001202592
+        },
+        {
+          "description": "Arena",
+          "mid": "/m/018lrm",
+          "score": 0.7227519,
+          "topicality": 0.030874116
+        },
+        {
+          "description": "Stadium",
+          "mid": "/m/019cfy",
+          "score": 0.6730049,
+          "topicality": 0.106096044
+        },
+        {
+          "description": "Night",
+          "mid": "/m/01d74z",
+          "score": 0.6323955,
+          "topicality": 0.016053818
+        },
+        {
+          "description": "Performance",
+          "mid": "/m/01gq53",
+          "score": 0.62472767,
+          "topicality": 0.0048592384
+        },
+        {
+          "description": "Performing Arts",
+          "mid": "/m/05qjc",
+          "score": 0.6171044,
+          "topicality": 0.0019002581
+        }
+      ]
+    }
+  ]
+}

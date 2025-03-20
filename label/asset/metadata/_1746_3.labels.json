@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Heavy equipment",
+          "mid": "/m/02gx17",
+          "score": 0.9340093,
+          "topicality": 0.1100436
+        },
+        {
+          "description": "Cloud",
+          "mid": "/m/0csby",
+          "score": 0.89932805,
+          "topicality": 0.06609974
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.8385804,
+          "topicality": 0.013304023
+        },
+        {
+          "description": "Bulldozer",
+          "mid": "/m/01tkqg",
+          "score": 0.7522802,
+          "topicality": 0.09124319
+        },
+        {
+          "description": "Mining",
+          "mid": "/m/053rd",
+          "score": 0.7461442,
+          "topicality": 0.09612146
+        },
+        {
+          "description": "Cumulus",
+          "mid": "/m/0csh5",
+          "score": 0.6723697,
+          "topicality": 0.0004590022
+        },
+        {
+          "description": "Dusk",
+          "mid": "/m/01b3l7",
+          "score": 0.66139114,
+          "topicality": 0.0010414197
+        },
+        {
+          "description": "Rubble",
+          "mid": "/m/08qrwn",
+          "score": 0.6585975,
+          "topicality": 0.06357229
+        },
+        {
+          "description": "Evening",
+          "mid": "/m/04mx32",
+          "score": 0.64782846,
+          "topicality": 0.0019119222
+        },
+        {
+          "description": "Meteorological phenomenon",
+          "mid": "/g/11k2xz7mr",
+          "score": 0.6084274,
+          "topicality": 2.301692e-06
+        }
+      ]
+    }
+  ]
+}

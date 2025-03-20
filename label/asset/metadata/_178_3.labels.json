@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Exercise machine",
+          "mid": "/m/097wsh",
+          "score": 0.97472495,
+          "topicality": 0.037174463
+        },
+        {
+          "description": "Exercise equipment",
+          "mid": "/m/090ljv",
+          "score": 0.96902025,
+          "topicality": 0.027658125
+        },
+        {
+          "description": "Gym",
+          "mid": "/m/016yx7",
+          "score": 0.9583876,
+          "topicality": 0.28938493
+        },
+        {
+          "description": "Exercise",
+          "mid": "/m/019w6h",
+          "score": 0.9491992,
+          "topicality": 0.37022665
+        },
+        {
+          "description": "Physical fitness",
+          "mid": "/m/027x7n",
+          "score": 0.93248004,
+          "topicality": 0.20373353
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.91072595,
+          "topicality": 0.0109412875
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.8169,
+          "topicality": 0.0133319
+        },
+        {
+          "description": "Professional fitness coach",
+          "mid": "/m/0bxzbs3",
+          "score": 0.7914471,
+          "topicality": 0.0435869
+        },
+        {
+          "description": "Thorax",
+          "mid": "/m/0dzdr",
+          "score": 0.76234716,
+          "topicality": 0.0051500443
+        },
+        {
+          "description": "Training",
+          "mid": "/m/014jg3",
+          "score": 0.63977575,
+          "topicality": 0.15760835
+        }
+      ]
+    }
+  ]
+}

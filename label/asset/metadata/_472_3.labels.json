@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.8618819,
+          "topicality": 0.109913036
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.846539,
+          "topicality": 0.0045755724
+        },
+        {
+          "description": "Finger food",
+          "mid": "/m/0b3dyl",
+          "score": 0.81453234,
+          "topicality": 0.0007613965
+        },
+        {
+          "description": "Bredele",
+          "mid": "/m/09q6n_",
+          "score": 0.77611786,
+          "topicality": 0.0016663731
+        },
+        {
+          "description": "Staple food",
+          "mid": "/m/022tld",
+          "score": 0.59179336,
+          "topicality": 0.00037973878
+        },
+        {
+          "description": "Cookies and Crackers",
+          "mid": "/m/03qtd73",
+          "score": 0.54177964,
+          "topicality": 0.0055490276
+        }
+      ]
+    }
+  ]
+}

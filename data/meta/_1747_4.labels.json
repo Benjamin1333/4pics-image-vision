@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Aircraft",
+          "mid": "/m/0k5j",
+          "score": 0.9390014,
+          "topicality": 0.1914692
+        },
+        {
+          "description": "Helicopter",
+          "mid": "/m/09ct_",
+          "score": 0.9195004,
+          "topicality": 0.13233864
+        },
+        {
+          "description": "Rotorcraft",
+          "mid": "/m/0f8cd2",
+          "score": 0.8804782,
+          "topicality": 0.008751717
+        },
+        {
+          "description": "Aviation",
+          "mid": "/m/0fzyg",
+          "score": 0.8727136,
+          "topicality": 0.18051459
+        },
+        {
+          "description": "Aerospace Engineering",
+          "mid": "/m/0w7s",
+          "score": 0.8338562,
+          "topicality": 0.007841171
+        },
+        {
+          "description": "Air travel",
+          "mid": "/m/025t3bg",
+          "score": 0.8058195,
+          "topicality": 0.0037017092
+        },
+        {
+          "description": "Aerospace manufacturer",
+          "mid": "/m/0kpbc",
+          "score": 0.5713769,
+          "topicality": 0.0025196255
+        }
+      ]
+    }
+  ]
+}

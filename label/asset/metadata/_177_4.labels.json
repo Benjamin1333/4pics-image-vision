@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "People",
+          "mid": "/m/09g5pq",
+          "score": 0.99431425,
+          "topicality": 0.0012850787
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.97820145,
+          "topicality": 0.026962103
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.96729094,
+          "topicality": 0.12628594
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.94978386,
+          "topicality": 0.033473987
+        },
+        {
+          "description": "Toddler",
+          "mid": "/m/01bgsw",
+          "score": 0.909015,
+          "topicality": 0.084251344
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.8978633,
+          "topicality": 0.0686109
+        },
+        {
+          "description": "Baby & Toddler Clothing",
+          "mid": "/m/0h8q07j",
+          "score": 0.8828601,
+          "topicality": 0.0012553341
+        },
+        {
+          "description": "Couch",
+          "mid": "/m/02crq1",
+          "score": 0.86401135,
+          "topicality": 0.0013023465
+        },
+        {
+          "description": "Sitting",
+          "mid": "/m/015c4z",
+          "score": 0.8632502,
+          "topicality": 0.0071323654
+        },
+        {
+          "description": "Comfort",
+          "mid": "/m/08xgn7",
+          "score": 0.8063784,
+          "topicality": 0.002649695
+        }
+      ]
+    }
+  ]
+}

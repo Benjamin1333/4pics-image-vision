@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.9885944,
+          "topicality": 0.20617476
+        },
+        {
+          "description": "Denim",
+          "mid": "/m/0hgr6",
+          "score": 0.97892153,
+          "topicality": 0.690197
+        },
+        {
+          "description": "Textile",
+          "mid": "/m/0dnr7",
+          "score": 0.9483048,
+          "topicality": 0.12722704
+        },
+        {
+          "description": "Jeans",
+          "mid": "/m/0fly7",
+          "score": 0.9112324,
+          "topicality": 0.5309398
+        },
+        {
+          "description": "Pocket",
+          "mid": "/m/025rhd",
+          "score": 0.8623014,
+          "topicality": 0.08054829
+        },
+        {
+          "description": "Button",
+          "mid": "/m/01s_bn",
+          "score": 0.7218708,
+          "topicality": 0.0066921865
+        },
+        {
+          "description": "Label",
+          "mid": "/m/05c0n6k",
+          "score": 0.5644761,
+          "topicality": 0.0014444484
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.9906516,
+          "topicality": 0.37542206
+        },
+        {
+          "description": "Citrus",
+          "mid": "/m/0dqb5",
+          "score": 0.98328996,
+          "topicality": 0.17191878
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.98188686,
+          "topicality": 0.13721187
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.9759261,
+          "topicality": 0.005250414
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9712864,
+          "topicality": 0.021942368
+        },
+        {
+          "description": "Grapefruit",
+          "mid": "/m/0hqkz",
+          "score": 0.94971687,
+          "topicality": 0.16804072
+        },
+        {
+          "description": "Orange",
+          "mid": "/m/0cyhj_",
+          "score": 0.9474891,
+          "topicality": 0.36833376
+        },
+        {
+          "description": "Juice",
+          "mid": "/m/01z1kdw",
+          "score": 0.94336224,
+          "topicality": 0.8287644
+        },
+        {
+          "description": "Orange juice",
+          "mid": "/m/0dwgb",
+          "score": 0.93503374,
+          "topicality": 0.3874658
+        },
+        {
+          "description": "Lemon",
+          "mid": "/m/09k_b",
+          "score": 0.9342902,
+          "topicality": 0.14463085
+        }
+      ]
+    }
+  ]
+}

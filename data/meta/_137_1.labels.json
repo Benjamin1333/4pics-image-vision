@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Boats and boating--Equipment and supplies",
+          "mid": "/m/0bp3j53",
+          "score": 0.97434497,
+          "topicality": 0.01639394
+        },
+        {
+          "description": "Oar",
+          "mid": "/m/01kw8y",
+          "score": 0.97229105,
+          "topicality": 0.17156991
+        },
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.93350035,
+          "topicality": 0.0056101712
+        },
+        {
+          "description": "Water sport",
+          "mid": "/m/02fhdf",
+          "score": 0.9324298,
+          "topicality": 0.032638084
+        },
+        {
+          "description": "Boat",
+          "mid": "/m/019jd",
+          "score": 0.9238867,
+          "topicality": 0.042947926
+        },
+        {
+          "description": "Paddle",
+          "mid": "/m/014y4n",
+          "score": 0.9157198,
+          "topicality": 0.15828896
+        },
+        {
+          "description": "Elbow",
+          "mid": "/m/01vm1p",
+          "score": 0.883403,
+          "topicality": 0.0023404632
+        },
+        {
+          "description": "Rowing",
+          "mid": "/m/056ks2",
+          "score": 0.8819363,
+          "topicality": 0.09772663
+        },
+        {
+          "description": "Muscle",
+          "mid": "/m/04_fs",
+          "score": 0.8642549,
+          "topicality": 0.0057616197
+        },
+        {
+          "description": "Rowing",
+          "mid": "/m/06f41",
+          "score": 0.86358863,
+          "topicality": 0.6583867
+        }
+      ]
+    }
+  ]
+}

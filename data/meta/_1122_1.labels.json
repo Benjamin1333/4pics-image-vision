@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.9568947,
+          "topicality": 0.10600248
+        },
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.93552256,
+          "topicality": 0.009812933
+        },
+        {
+          "description": "Toddler",
+          "mid": "/m/01bgsw",
+          "score": 0.89091593,
+          "topicality": 0.113603316
+        },
+        {
+          "description": "Blond",
+          "mid": "/m/0294jb",
+          "score": 0.7846137,
+          "topicality": 0.00067203946
+        },
+        {
+          "description": "Baby & Toddler Clothing",
+          "mid": "/m/0h8q07j",
+          "score": 0.7406904,
+          "topicality": 8.506154e-05
+        },
+        {
+          "description": "Baby Products",
+          "mid": "/g/1261x0jn3",
+          "score": 0.69558007,
+          "topicality": 0.0006197973
+        },
+        {
+          "description": "Infant",
+          "mid": "/m/0jnvp",
+          "score": 0.67915183,
+          "topicality": 0.23184781
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.6551688,
+          "topicality": 0.004484864
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.63668245,
+          "topicality": 0.017703904
+        },
+        {
+          "description": "Baby grabbing for something",
+          "mid": "/j/fpp31v",
+          "score": 0.624349,
+          "topicality": 0.00044320693
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Dog",
+          "mid": "/m/0bt9lr",
+          "score": 0.9955819,
+          "topicality": 0.6936456
+        },
+        {
+          "description": "Dobermann",
+          "mid": "/m/06pq2r",
+          "score": 0.9623747,
+          "topicality": 0.990968
+        },
+        {
+          "description": "Pinscher",
+          "mid": "/m/03q44n",
+          "score": 0.9611575,
+          "topicality": 0.4693935
+        },
+        {
+          "description": "Carnivores",
+          "mid": "/m/01lrl",
+          "score": 0.942219,
+          "topicality": 0.0008290348
+        },
+        {
+          "description": "Guard dog",
+          "mid": "/m/047g84",
+          "score": 0.93482643,
+          "topicality": 0.25570005
+        },
+        {
+          "description": "Canis Panther",
+          "mid": "/m/0dx88y",
+          "score": 0.90488654,
+          "topicality": 0.08644207
+        },
+        {
+          "description": "Dog collar",
+          "mid": "/m/05q778",
+          "score": 0.8971035,
+          "topicality": 0.00801447
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.8964108,
+          "topicality": 0.007011724
+        },
+        {
+          "description": "Collar",
+          "mid": "/m/09141t",
+          "score": 0.88875234,
+          "topicality": 0.019924814
+        },
+        {
+          "description": "German Pinscher",
+          "mid": "/m/0b6c67",
+          "score": 0.8296688,
+          "topicality": 0.3502942
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.98914415,
+          "topicality": 0.08784629
+        },
+        {
+          "description": "Bread",
+          "mid": "/m/09728",
+          "score": 0.9600567,
+          "topicality": 0.80410635
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9376816,
+          "topicality": 0.022233589
+        },
+        {
+          "description": "Loaf",
+          "mid": "/m/03gq5d8",
+          "score": 0.91898334,
+          "topicality": 0.18135677
+        },
+        {
+          "description": "Baking",
+          "mid": "/m/0dv34",
+          "score": 0.8678528,
+          "topicality": 0.16490036
+        },
+        {
+          "description": "Gluten",
+          "mid": "/m/03fw2",
+          "score": 0.8654572,
+          "topicality": 0.0373015
+        },
+        {
+          "description": "Sourdough",
+          "mid": "/m/019xdq",
+          "score": 0.8526576,
+          "topicality": 0.14849204
+        },
+        {
+          "description": "Recipe",
+          "mid": "/m/0p57p",
+          "score": 0.8459973,
+          "topicality": 0.12742789
+        },
+        {
+          "description": "Staple food",
+          "mid": "/m/022tld",
+          "score": 0.8244952,
+          "topicality": 0.0050206166
+        },
+        {
+          "description": "Finger food",
+          "mid": "/m/0b3dyl",
+          "score": 0.8220768,
+          "topicality": 3.854463e-05
+        }
+      ]
+    }
+  ]
+}

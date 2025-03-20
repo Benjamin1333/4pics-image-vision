@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "High-heeled shoe",
+          "mid": "/m/06k2mb",
+          "score": 0.98310834,
+          "topicality": 0.53469205
+        },
+        {
+          "description": "Footwear",
+          "mid": "/m/09j5n",
+          "score": 0.98222077,
+          "topicality": 0.054973297
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9725054,
+          "topicality": 0.057986215
+        },
+        {
+          "description": "Black",
+          "mid": "/m/019sc",
+          "score": 0.90774566,
+          "topicality": 0.091175675
+        },
+        {
+          "description": "Basic Pump",
+          "mid": "/m/0hgscdg",
+          "score": 0.8981617,
+          "topicality": 0.21485415
+        },
+        {
+          "description": "Court shoe",
+          "mid": "/m/08p3dt",
+          "score": 0.86212564,
+          "topicality": 0.27859706
+        },
+        {
+          "description": "Sandal",
+          "mid": "/m/03nfch",
+          "score": 0.8410636,
+          "topicality": 0.00909977
+        },
+        {
+          "description": "Leather",
+          "mid": "/m/04lbp",
+          "score": 0.7953968,
+          "topicality": 0.18961671
+        },
+        {
+          "description": "Bridal Shoe",
+          "mid": "/m/0hgsf5m",
+          "score": 0.77997345,
+          "topicality": 0.0011590298
+        },
+        {
+          "description": "Dancing Shoe",
+          "mid": "/m/0h8mz41",
+          "score": 0.7386275,
+          "topicality": 0.002366159
+        }
+      ]
+    }
+  ]
+}

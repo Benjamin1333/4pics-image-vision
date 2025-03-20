@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Home",
+          "mid": "/m/01l0mw",
+          "score": 0.9464595,
+          "topicality": 0.2426604
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.94243324,
+          "topicality": 0.060150478
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.8474407,
+          "topicality": 0.02131692
+        },
+        {
+          "description": "Lawn",
+          "mid": "/m/01v327",
+          "score": 0.8018608,
+          "topicality": 0.009992773
+        },
+        {
+          "description": "Yard",
+          "mid": "/m/049_3v",
+          "score": 0.7083022,
+          "topicality": 0.0009944878
+        },
+        {
+          "description": "Estate",
+          "mid": "/m/038t8_",
+          "score": 0.70218045,
+          "topicality": 0.022735352
+        },
+        {
+          "description": "Family",
+          "mid": "/m/09dhj",
+          "score": 0.68629384,
+          "topicality": 0.30387285
+        },
+        {
+          "description": "Love",
+          "mid": "/m/048knlz",
+          "score": 0.6319926,
+          "topicality": 0.018871186
+        },
+        {
+          "description": "Villa",
+          "mid": "/m/01y8xw",
+          "score": 0.61566585,
+          "topicality": 0.019733662
+        },
+        {
+          "description": "Honeymoon",
+          "mid": "/m/03mv4",
+          "score": 0.5986156,
+          "topicality": 0.016586488
+        }
+      ]
+    }
+  ]
+}

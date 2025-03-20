@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Umbrella",
+          "mid": "/m/0hnnb",
+          "score": 0.99132025,
+          "topicality": 0.761447
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.97753775,
+          "topicality": 0.3718662
+        },
+        {
+          "description": "Rain",
+          "mid": "/m/06mb1",
+          "score": 0.9092197,
+          "topicality": 0.76798135
+        },
+        {
+          "description": "Precipitation",
+          "mid": "/m/01q18m",
+          "score": 0.905748,
+          "topicality": 0.26199546
+        },
+        {
+          "description": "Drizzle",
+          "mid": "/m/06bp78",
+          "score": 0.638052,
+          "topicality": 0.08526981
+        },
+        {
+          "description": "Wind",
+          "mid": "/m/03m9d0z",
+          "score": 0.6185664,
+          "topicality": 0.020174097
+        },
+        {
+          "description": "Love",
+          "mid": "/m/048knlz",
+          "score": 0.578092,
+          "topicality": 0.023968214
+        }
+      ]
+    }
+  ]
+}

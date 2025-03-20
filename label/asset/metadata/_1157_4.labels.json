@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9449456,
+          "topicality": 0.11472188
+        },
+        {
+          "description": "Screaming",
+          "mid": "/m/03qc9zr",
+          "score": 0.87404907,
+          "topicality": 0.6272729
+        },
+        {
+          "description": "Tongue",
+          "mid": "/m/0fjkt",
+          "score": 0.86213326,
+          "topicality": 0.022245418
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.83898145,
+          "topicality": 0.026981445
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.7928309,
+          "topicality": 0.03412338
+        },
+        {
+          "description": "Wig",
+          "mid": "/m/01hzl4",
+          "score": 0.6753517,
+          "topicality": 0.002417642
+        },
+        {
+          "description": "Laughter",
+          "mid": "/m/01j3sz",
+          "score": 0.67096347,
+          "topicality": 0.021643497
+        },
+        {
+          "description": "Afro",
+          "mid": "/m/03n0sf",
+          "score": 0.6521172,
+          "topicality": 0.09181332
+        },
+        {
+          "description": "Yawn",
+          "mid": "/m/01j423",
+          "score": 0.5549386,
+          "topicality": 0.01642685
+        }
+      ]
+    }
+  ]
+}

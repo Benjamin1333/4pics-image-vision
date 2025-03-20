@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Land vehicle",
+          "mid": "/m/01prls",
+          "score": 0.9879122,
+          "topicality": 0.035736915
+        },
+        {
+          "description": "Car",
+          "mid": "/m/0k4j",
+          "score": 0.98514044,
+          "topicality": 0.2782167
+        },
+        {
+          "description": "Vehicle",
+          "mid": "/m/07yv9",
+          "score": 0.9838448,
+          "topicality": 0.11805791
+        },
+        {
+          "description": "Mode of transport",
+          "mid": "/m/079bkr",
+          "score": 0.9834402,
+          "topicality": 0.014578734
+        },
+        {
+          "description": "Transport",
+          "mid": "/m/07bsy",
+          "score": 0.9778973,
+          "topicality": 0.09301908
+        },
+        {
+          "description": "Motor vehicle",
+          "mid": "/m/012f08",
+          "score": 0.9730538,
+          "topicality": 0.0088039795
+        },
+        {
+          "description": "Urban area",
+          "mid": "/m/039jbq",
+          "score": 0.97009754,
+          "topicality": 0.049710814
+        },
+        {
+          "description": "City",
+          "mid": "/m/01n32",
+          "score": 0.9661098,
+          "topicality": 0.17097445
+        },
+        {
+          "description": "Metropolitan area",
+          "mid": "/m/0j_s4",
+          "score": 0.95828694,
+          "topicality": 0.02809955
+        },
+        {
+          "description": "Road",
+          "mid": "/m/06gfj",
+          "score": 0.95824665,
+          "topicality": 0.18969543
+        }
+      ]
+    }
+  ]
+}

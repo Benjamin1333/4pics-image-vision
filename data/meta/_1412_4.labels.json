@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "bowling equipment",
+          "mid": "/m/07pj7bq",
+          "score": 0.96747714,
+          "topicality": 0.038312826
+        },
+        {
+          "description": "Bowling ball",
+          "mid": "/m/05gk5c",
+          "score": 0.9472186,
+          "topicality": 0.6228317
+        },
+        {
+          "description": "Bowling",
+          "mid": "/m/01bdy",
+          "score": 0.94591063,
+          "topicality": 0.40729156
+        },
+        {
+          "description": "Sports equipment",
+          "mid": "/m/05y5lj",
+          "score": 0.9250247,
+          "topicality": 0.023741873
+        },
+        {
+          "description": "Ball",
+          "mid": "/m/018xm",
+          "score": 0.8913387,
+          "topicality": 0.5623474
+        },
+        {
+          "description": "Indoor games and sports",
+          "mid": "/m/0b42l9",
+          "score": 0.8200582,
+          "topicality": 0.0029332812
+        },
+        {
+          "description": "Ten-pin bowling",
+          "mid": "/m/01dhjg",
+          "score": 0.7648671,
+          "topicality": 0.17720374
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.6923215,
+          "topicality": 0.007283294
+        },
+        {
+          "description": "Hardwood",
+          "mid": "/m/020g49",
+          "score": 0.6760553,
+          "topicality": 9.8942124e-05
+        },
+        {
+          "description": "Sphere",
+          "mid": "/m/06y47",
+          "score": 0.66179377,
+          "topicality": 0.0048886654
+        }
+      ]
+    }
+  ]
+}

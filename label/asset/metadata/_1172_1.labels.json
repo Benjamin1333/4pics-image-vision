@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "bowling equipment",
+          "mid": "/m/07pj7bq",
+          "score": 0.9825874,
+          "topicality": 0.06959646
+        },
+        {
+          "description": "Bowling",
+          "mid": "/m/01bdy",
+          "score": 0.9776995,
+          "topicality": 0.8492431
+        },
+        {
+          "description": "Bowling pin",
+          "mid": "/m/09tyrb",
+          "score": 0.9708852,
+          "topicality": 0.46172982
+        },
+        {
+          "description": "Ten-pin bowling",
+          "mid": "/m/01dhjg",
+          "score": 0.91083527,
+          "topicality": 0.78452086
+        },
+        {
+          "description": "Ball game",
+          "mid": "/m/020m7t",
+          "score": 0.90934855,
+          "topicality": 0.0058471994
+        },
+        {
+          "description": "Indoor games and sports",
+          "mid": "/m/0b42l9",
+          "score": 0.8980313,
+          "topicality": 0.002131609
+        },
+        {
+          "description": "Ball",
+          "mid": "/m/018xm",
+          "score": 0.88889873,
+          "topicality": 0.29715753
+        },
+        {
+          "description": "Bowling ball",
+          "mid": "/m/05gk5c",
+          "score": 0.77960783,
+          "topicality": 0.41473952
+        },
+        {
+          "description": "Duckpin bowling",
+          "mid": "/m/058zvc",
+          "score": 0.75257176,
+          "topicality": 0.010372545
+        },
+        {
+          "description": "Skittles",
+          "mid": "/m/01q0g0",
+          "score": 0.5898838,
+          "topicality": 0.09489702
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Underwater diving",
+          "mid": "/m/09kjpq",
+          "score": 0.98414195,
+          "topicality": 0.64166826
+        },
+        {
+          "description": "Diving equipment",
+          "mid": "/m/02gq7v",
+          "score": 0.98115605,
+          "topicality": 0.023363184
+        },
+        {
+          "description": "Scuba diving",
+          "mid": "/m/04njq1",
+          "score": 0.9704321,
+          "topicality": 0.5762435
+        },
+        {
+          "description": "Underwater",
+          "mid": "/m/01sfb5",
+          "score": 0.96180815,
+          "topicality": 0.19344062
+        },
+        {
+          "description": "Divemaster",
+          "mid": "/m/047vph4",
+          "score": 0.957191,
+          "topicality": 0.026692173
+        },
+        {
+          "description": "Fluid",
+          "mid": "/m/02yfx",
+          "score": 0.9559939,
+          "topicality": 0.0002668285
+        },
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.9539089,
+          "topicality": 0.0032732268
+        },
+        {
+          "description": "Buoyancy compensator",
+          "mid": "/m/02c8wd",
+          "score": 0.9139254,
+          "topicality": 0.0020164005
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.90941966,
+          "topicality": 0.17303318
+        },
+        {
+          "description": "Outdoor recreation",
+          "mid": "/m/05b0n7k",
+          "score": 0.906948,
+          "topicality": 9.574395e-05
+        }
+      ]
+    }
+  ]
+}

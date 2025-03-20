@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Postage stamp",
+          "mid": "/m/068vv",
+          "score": 0.98414683,
+          "topicality": 0.4950924
+        },
+        {
+          "description": "Paper",
+          "mid": "/m/0641k",
+          "score": 0.9585636,
+          "topicality": 0.029917825
+        },
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.95653665,
+          "topicality": 0.0059439004
+        },
+        {
+          "description": "Banknote",
+          "mid": "/m/01dl3j",
+          "score": 0.92587924,
+          "topicality": 0.25636092
+        },
+        {
+          "description": "Currency",
+          "mid": "/m/01q7l",
+          "score": 0.90761405,
+          "topicality": 0.07379887
+        },
+        {
+          "description": "Money",
+          "mid": "/m/04_x4",
+          "score": 0.89982134,
+          "topicality": 0.066609934
+        },
+        {
+          "description": "Number",
+          "mid": "/m/05fwb",
+          "score": 0.88595873,
+          "topicality": 0.0037256393
+        },
+        {
+          "description": "Cash",
+          "mid": "/m/0fd6q",
+          "score": 0.8236116,
+          "topicality": 0.010494733
+        },
+        {
+          "description": "Mail",
+          "mid": "/m/0dh8s",
+          "score": 0.77635,
+          "topicality": 0.33649027
+        },
+        {
+          "description": "Collectable",
+          "mid": "/m/0ggr_",
+          "score": 0.7130899,
+          "topicality": 0.0071459836
+        }
+      ]
+    }
+  ]
+}

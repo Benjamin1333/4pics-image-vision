@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.98478913,
+          "topicality": 0.0028849884
+        },
+        {
+          "description": "Alcoholic drink",
+          "mid": "/m/012mj",
+          "score": 0.9595773,
+          "topicality": 0.1388958
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9448495,
+          "topicality": 2.6953136e-05
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9420891,
+          "topicality": 0.0052443086
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.9345524,
+          "topicality": 0.0035606504
+        },
+        {
+          "description": "Party",
+          "mid": "/m/05_4_",
+          "score": 0.91470623,
+          "topicality": 0.38657907
+        },
+        {
+          "description": "Liquor",
+          "mid": "/m/04shl0",
+          "score": 0.90740377,
+          "topicality": 0.016605794
+        },
+        {
+          "description": "Stemware",
+          "mid": "/m/050h0q",
+          "score": 0.8883695,
+          "topicality": 0.001987915
+        },
+        {
+          "description": "Jewellery",
+          "mid": "/m/0404d",
+          "score": 0.8684545,
+          "topicality": 0.00038667873
+        },
+        {
+          "description": "Drinkware",
+          "mid": "/m/050h26",
+          "score": 0.8509261,
+          "topicality": 0.00020668202
+        }
+      ]
+    }
+  ]
+}

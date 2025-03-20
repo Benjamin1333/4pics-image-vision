@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.86457205,
+          "topicality": 0.18699697
+        },
+        {
+          "description": "Server",
+          "mid": "/m/0bkxj",
+          "score": 0.7489318,
+          "topicality": 0.18956281
+        },
+        {
+          "description": "Computer networking",
+          "mid": "/m/01q2h",
+          "score": 0.74672693,
+          "topicality": 0.010226492
+        },
+        {
+          "description": "Computer cluster",
+          "mid": "/m/01svq",
+          "score": 0.6841385,
+          "topicality": 0.10993138
+        },
+        {
+          "description": "Computer network",
+          "mid": "/m/025szts",
+          "score": 0.66698295,
+          "topicality": 0.3461972
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.56207055,
+          "topicality": 0.045307126
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.98837554,
+          "topicality": 0.028413616
+        },
+        {
+          "description": "Incandescent light bulb",
+          "mid": "/m/0cpk7",
+          "score": 0.8957741,
+          "topicality": 0.5949209
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.89006287,
+          "topicality": 0.070007935
+        },
+        {
+          "description": "Electricity",
+          "mid": "/m/02lts",
+          "score": 0.77774125,
+          "topicality": 0.18321876
+        },
+        {
+          "description": "Light Bulb",
+          "mid": "/m/0h8l4fh",
+          "score": 0.6655427,
+          "topicality": 0.012994564
+        },
+        {
+          "description": "Lens flare",
+          "mid": "/m/017bm6",
+          "score": 0.62650156,
+          "topicality": 0.001373491
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.5901921,
+          "topicality": 0.11165652
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.5750787,
+          "topicality": 0.0049650585
+        },
+        {
+          "description": "Compact fluorescent lamp",
+          "mid": "/m/04gvd_",
+          "score": 0.50246626,
+          "topicality": 0.17806977
+        }
+      ]
+    }
+  ]
+}

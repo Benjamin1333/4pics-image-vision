@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Flask",
+          "mid": "/m/0h8j_21",
+          "score": 0.86969596,
+          "topicality": 0.0052170726
+        },
+        {
+          "description": "Vacuum flask",
+          "mid": "/m/0125ct",
+          "score": 0.8613045,
+          "topicality": 0.75053746
+        },
+        {
+          "description": "Cylinder",
+          "mid": "/m/03h_4m",
+          "score": 0.776655,
+          "topicality": 0.011343874
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.7525038,
+          "topicality": 0.022610592
+        },
+        {
+          "description": "Lid",
+          "mid": "/m/074cq5",
+          "score": 0.7295757,
+          "topicality": 0.056863964
+        },
+        {
+          "description": "Water bottle",
+          "mid": "/m/0118n_9r",
+          "score": 0.64262676,
+          "topicality": 0.085869364
+        },
+        {
+          "description": "Coffee percolator",
+          "mid": "/m/01rw97",
+          "score": 0.5454044,
+          "topicality": 0.040291436
+        },
+        {
+          "description": "Bottle",
+          "mid": "/m/04dr76w",
+          "score": 0.5403884,
+          "topicality": 0.113099255
+        }
+      ]
+    }
+  ]
+}

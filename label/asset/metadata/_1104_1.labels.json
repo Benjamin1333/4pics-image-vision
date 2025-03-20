@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.96209294,
+          "topicality": 0.023027375
+        },
+        {
+          "description": "Love",
+          "mid": "/m/048knlz",
+          "score": 0.8213609,
+          "topicality": 0.14374836
+        },
+        {
+          "description": "Mirror",
+          "mid": "/m/054_l",
+          "score": 0.6293652,
+          "topicality": 0.01177223
+        },
+        {
+          "description": "Laughter",
+          "mid": "/m/01j3sz",
+          "score": 0.5009501,
+          "topicality": 0.0015962642
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.986137,
+          "topicality": 0.00026219655
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.9493305,
+          "topicality": 0.0063672955
+        },
+        {
+          "description": "Display device",
+          "mid": "/m/029zz6",
+          "score": 0.9355438,
+          "topicality": 0.0009845023
+        },
+        {
+          "description": "Computer",
+          "mid": "/m/01m3v",
+          "score": 0.9327434,
+          "topicality": 0.095805146
+        },
+        {
+          "description": "Office Equipment",
+          "mid": "/m/03qtgjk",
+          "score": 0.9196269,
+          "topicality": 0.00030069973
+        },
+        {
+          "description": "Personal computer",
+          "mid": "/m/0643t",
+          "score": 0.9047487,
+          "topicality": 0.006760176
+        },
+        {
+          "description": "Peripheral",
+          "mid": "/m/0ggnq",
+          "score": 0.90298146,
+          "topicality": 0.00030451542
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.87654376,
+          "topicality": 0.07261958
+        },
+        {
+          "description": "Communication Device",
+          "mid": "/m/0glmwd6",
+          "score": 0.8739046,
+          "topicality": 2.725043e-05
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.8737932,
+          "topicality": 0.0061390493
+        }
+      ]
+    }
+  ]
+}

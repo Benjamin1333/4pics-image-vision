@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Rope",
+          "mid": "/m/01xc8d",
+          "score": 0.8176497,
+          "topicality": 0.021572022
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.765321,
+          "topicality": 0.00092296116
+        },
+        {
+          "description": "Jumping",
+          "mid": "/m/0by3w",
+          "score": 0.7058532,
+          "topicality": 0.14462996
+        },
+        {
+          "description": "Balance",
+          "mid": "/m/03gs8b2",
+          "score": 0.6834215,
+          "topicality": 0.030901354
+        },
+        {
+          "description": "Photomontage",
+          "mid": "/m/0b0fq",
+          "score": 0.6270714,
+          "topicality": 0.036985695
+        },
+        {
+          "description": "Fisherman",
+          "mid": "/m/01k695",
+          "score": 0.6196571,
+          "topicality": 0.013559226
+        },
+        {
+          "description": "Stunt Performer",
+          "mid": "/m/01tkqy",
+          "score": 0.6060558,
+          "topicality": 0.007496179
+        },
+        {
+          "description": "Fish",
+          "mid": "/m/0ch_cf",
+          "score": 0.6059594,
+          "topicality": 0.002939568
+        },
+        {
+          "description": "Fishing",
+          "mid": "/m/094jc",
+          "score": 0.60553724,
+          "topicality": 0.018989054
+        },
+        {
+          "description": "Stunt",
+          "mid": "/m/01f2hr",
+          "score": 0.5747241,
+          "topicality": 0.01948194
+        }
+      ]
+    }
+  ]
+}

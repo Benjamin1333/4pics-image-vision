@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Collar",
+          "mid": "/m/091410",
+          "score": 0.9694128,
+          "topicality": 0.037127756
+        },
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9654771,
+          "topicality": 0.049391434
+        },
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.9451753,
+          "topicality": 0.03049998
+        },
+        {
+          "description": "Dress shirt",
+          "mid": "/m/06hwcd",
+          "score": 0.9342858,
+          "topicality": 0.05041887
+        },
+        {
+          "description": "Button",
+          "mid": "/m/01s_bn",
+          "score": 0.93367416,
+          "topicality": 0.027095359
+        },
+        {
+          "description": "Cufflink",
+          "mid": "/m/048lz1",
+          "score": 0.91115,
+          "topicality": 0.7119074
+        },
+        {
+          "description": "Formal wear",
+          "mid": "/m/02w3_2",
+          "score": 0.8991703,
+          "topicality": 0.0014708051
+        },
+        {
+          "description": "Wrist",
+          "mid": "/m/01j48b",
+          "score": 0.87960243,
+          "topicality": 0.004246527
+        },
+        {
+          "description": "Cuff",
+          "mid": "/m/08fs21",
+          "score": 0.7453159,
+          "topicality": 0.51343364
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.72134566,
+          "topicality": 0.0036775235
+        }
+      ]
+    }
+  ]
+}

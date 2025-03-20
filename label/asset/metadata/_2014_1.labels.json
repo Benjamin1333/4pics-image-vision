@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Submarine",
+          "mid": "/m/074d1",
+          "score": 0.9642622,
+          "topicality": 0.9134659
+        },
+        {
+          "description": "Ballistic missile submarine",
+          "mid": "/m/019lzv",
+          "score": 0.90072435,
+          "topicality": 0.1444507
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.79333025,
+          "topicality": 0.032004014
+        },
+        {
+          "description": "Watercraft",
+          "mid": "/m/01rzcn",
+          "score": 0.7695506,
+          "topicality": 0.006103431
+        },
+        {
+          "description": "Cruise missile submarine",
+          "mid": "/m/026qgc",
+          "score": 0.69115436,
+          "topicality": 0.04892458
+        },
+        {
+          "description": "Naval architecture",
+          "mid": "/m/0k5qm",
+          "score": 0.6859248,
+          "topicality": 0.002630585
+        },
+        {
+          "description": "Boat",
+          "mid": "/m/019jd",
+          "score": 0.63685554,
+          "topicality": 0.0073228306
+        },
+        {
+          "description": "Navy",
+          "mid": "/m/05dlb",
+          "score": 0.57302636,
+          "topicality": 0.13596325
+        },
+        {
+          "description": "Digital compositing",
+          "mid": "/m/02g49",
+          "score": 0.5710298,
+          "topicality": 2.5666825e-05
+        },
+        {
+          "description": "Water transportation",
+          "mid": "/m/08rrcl",
+          "score": 0.52757305,
+          "topicality": 0.00029584847
+        }
+      ]
+    }
+  ]
+}

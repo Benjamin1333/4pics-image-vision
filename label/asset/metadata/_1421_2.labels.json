@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9448843,
+          "topicality": 0.002288291
+        },
+        {
+          "description": "Sleep",
+          "mid": "/m/06xzh",
+          "score": 0.9056185,
+          "topicality": 0.45564917
+        },
+        {
+          "description": "Cartoon",
+          "mid": "/m/0215n",
+          "score": 0.83379716,
+          "topicality": 0.1872757
+        },
+        {
+          "description": "Baby sleeping",
+          "mid": "/j/cz_y6g",
+          "score": 0.8074371,
+          "topicality": 0.003322862
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.7844242,
+          "topicality": 0.083790064
+        },
+        {
+          "description": "Animation",
+          "mid": "/m/0hcr",
+          "score": 0.7345516,
+          "topicality": 0.02344306
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.7051375,
+          "topicality": 0.0038991452
+        },
+        {
+          "description": "Animated cartoon",
+          "mid": "/m/095bb",
+          "score": 0.7015225,
+          "topicality": 0.024631921
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.67529684,
+          "topicality": 0.03319539
+        },
+        {
+          "description": "Nap",
+          "mid": "/m/05c1ypb",
+          "score": 0.6663154,
+          "topicality": 0.21228614
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Metalworking hand tool",
+          "mid": "/m/07vc4v",
+          "score": 0.82898045,
+          "topicality": 0.00019267504
+        },
+        {
+          "description": "Hand tool",
+          "mid": "/m/01yc83",
+          "score": 0.82155854,
+          "topicality": 0.0037512805
+        },
+        {
+          "description": "Blue-collar worker",
+          "mid": "/m/01kq3f",
+          "score": 0.8142712,
+          "topicality": 0.037654515
+        },
+        {
+          "description": "Tool",
+          "mid": "/m/07k1x",
+          "score": 0.814249,
+          "topicality": 0.07940425
+        },
+        {
+          "description": "Tradesman",
+          "mid": "/m/01jp3p",
+          "score": 0.7365416,
+          "topicality": 0.006033088
+        },
+        {
+          "description": "Garden tool",
+          "mid": "/m/0dcjfr",
+          "score": 0.6773804,
+          "topicality": 0.003482226
+        },
+        {
+          "description": "Pickaxe",
+          "mid": "/m/047ht1",
+          "score": 0.57671267,
+          "topicality": 0.085752495
+        },
+        {
+          "description": "Sketch",
+          "mid": "/m/07glzq",
+          "score": 0.5550269,
+          "topicality": 0.010096837
+        },
+        {
+          "description": "Hammer",
+          "mid": "/m/03l9g",
+          "score": 0.55208707,
+          "topicality": 0.10750571
+        },
+        {
+          "description": "Antique tool",
+          "mid": "/m/0bpff7",
+          "score": 0.54845715,
+          "topicality": 0.003230558
+        }
+      ]
+    }
+  ]
+}

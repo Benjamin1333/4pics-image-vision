@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bag",
+          "mid": "/m/0n5v01m",
+          "score": 0.98900056,
+          "topicality": 0.17614774
+        },
+        {
+          "description": "Sleeve",
+          "mid": "/m/062581",
+          "score": 0.9844518,
+          "topicality": 0.024403878
+        },
+        {
+          "description": "Trousers",
+          "mid": "/m/07mhn",
+          "score": 0.96143156,
+          "topicality": 0.002300659
+        },
+        {
+          "description": "Denim",
+          "mid": "/m/0hgr6",
+          "score": 0.9561409,
+          "topicality": 0.0007852482
+        },
+        {
+          "description": "Luggage & bags",
+          "mid": "/m/0hf58v5",
+          "score": 0.930986,
+          "topicality": 0.0018487122
+        },
+        {
+          "description": "Backpack",
+          "mid": "/m/01940j",
+          "score": 0.9217588,
+          "topicality": 0.09666245
+        },
+        {
+          "description": "Baggage",
+          "mid": "/m/03w7y7",
+          "score": 0.9210742,
+          "topicality": 0.02548812
+        },
+        {
+          "description": "Pocket",
+          "mid": "/m/025rhd",
+          "score": 0.89995855,
+          "topicality": 0.030588092
+        },
+        {
+          "description": "Hand luggage",
+          "mid": "/m/07k55_3",
+          "score": 0.7783855,
+          "topicality": 0.020208362
+        },
+        {
+          "description": "Zipper",
+          "mid": "/m/01s0vc",
+          "score": 0.6331837,
+          "topicality": 0.033270143
+        }
+      ]
+    }
+  ]
+}

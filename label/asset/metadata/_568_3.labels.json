@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Number",
+          "mid": "/m/05fwb",
+          "score": 0.8614688,
+          "topicality": 0.03003944
+        },
+        {
+          "description": "Measuring instrument",
+          "mid": "/m/056hv",
+          "score": 0.74798185,
+          "topicality": 0.03104859
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.6620562,
+          "topicality": 0.0004603209
+        }
+      ]
+    }
+  ]
+}

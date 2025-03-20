@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Swimming pool",
+          "mid": "/m/0b_rs",
+          "score": 0.97807246,
+          "topicality": 0.40243724
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.96031326,
+          "topicality": 0.13104028
+        },
+        {
+          "description": "Fluid",
+          "mid": "/m/02yfx",
+          "score": 0.95523566,
+          "topicality": 0.00044266475
+        },
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.94968975,
+          "topicality": 0.00909011
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9394431,
+          "topicality": 0.0077850423
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.93520314,
+          "topicality": 0.0138361445
+        },
+        {
+          "description": "Summer",
+          "mid": "/m/078qz",
+          "score": 0.92996615,
+          "topicality": 0.028481308
+        },
+        {
+          "description": "Swimsuit",
+          "mid": "/m/01gkx_",
+          "score": 0.9237837,
+          "topicality": 0.019442158
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.92351216,
+          "topicality": 0.046033654
+        },
+        {
+          "description": "Vacation",
+          "mid": "/m/02jwqh",
+          "score": 0.88778067,
+          "topicality": 0.013123165
+        }
+      ]
+    }
+  ]
+}

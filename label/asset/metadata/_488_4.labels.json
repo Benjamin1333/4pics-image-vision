@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Watch",
+          "mid": "/m/0gjkl",
+          "score": 0.9955855,
+          "topicality": 0.40090737
+        },
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.9762587,
+          "topicality": 0.023396926
+        },
+        {
+          "description": "Hand",
+          "mid": "/m/0k65p",
+          "score": 0.9750908,
+          "topicality": 0.21359117
+        },
+        {
+          "description": "Clock",
+          "mid": "/m/01x3z",
+          "score": 0.9616084,
+          "topicality": 0.17241956
+        },
+        {
+          "description": "Wrist",
+          "mid": "/m/01j48b",
+          "score": 0.939724,
+          "topicality": 0.34772342
+        },
+        {
+          "description": "Analog watch",
+          "mid": "/m/031pr7",
+          "score": 0.9186818,
+          "topicality": 0.0034388467
+        },
+        {
+          "description": "Strap",
+          "mid": "/m/04lzmz",
+          "score": 0.90760225,
+          "topicality": 0.02566046
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.8913846,
+          "topicality": 0.0022862393
+        },
+        {
+          "description": "Thumb",
+          "mid": "/m/01bmhj",
+          "score": 0.88875264,
+          "topicality": 0.0028002542
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.873142,
+          "topicality": 0.0032964791
+        }
+      ]
+    }
+  ]
+}

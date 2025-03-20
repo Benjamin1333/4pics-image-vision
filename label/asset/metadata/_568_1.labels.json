@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.9585741,
+          "topicality": 0.042674202
+        },
+        {
+          "description": "Tape measure",
+          "mid": "/m/02k8bg",
+          "score": 0.82039446,
+          "topicality": 0.97054106
+        },
+        {
+          "description": "Measuring instrument",
+          "mid": "/m/056hv",
+          "score": 0.5374732,
+          "topicality": 0.03168822
+        }
+      ]
+    }
+  ]
+}

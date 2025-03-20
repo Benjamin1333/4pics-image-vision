@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.7743301,
+          "topicality": 0.029598288
+        },
+        {
+          "description": "Party Supply",
+          "mid": "/m/0cmqr_4",
+          "score": 0.66636056,
+          "topicality": 0.0040364605
+        },
+        {
+          "description": "Balloon",
+          "mid": "/m/01j51",
+          "score": 0.6620727,
+          "topicality": 0.13963637
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.58384496,
+          "topicality": 0.005801839
+        },
+        {
+          "description": "Palm trees",
+          "mid": "/m/0cdl1",
+          "score": 0.5083129,
+          "topicality": 7.744972e-05
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Microscope",
+          "mid": "/m/04y9_",
+          "score": 0.98765886,
+          "topicality": 0.99280757
+        },
+        {
+          "description": "Scientific instrument",
+          "mid": "/m/04n4dpy",
+          "score": 0.82698107,
+          "topicality": 0.07538472
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.79790616,
+          "topicality": 0.13118538
+        },
+        {
+          "description": "Optical instrument",
+          "mid": "/m/05mfbz",
+          "score": 0.65745306,
+          "topicality": 0.13493335
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.61265296,
+          "topicality": 0.0047288626
+        }
+      ]
+    }
+  ]
+}

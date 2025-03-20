@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Shower head",
+          "mid": "/m/04gt040",
+          "score": 0.93367565,
+          "topicality": 0.9517472
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8536668,
+          "topicality": 0.006740383
+        },
+        {
+          "description": "Shower",
+          "mid": "/m/02f9f_",
+          "score": 0.83948594,
+          "topicality": 0.94198227
+        },
+        {
+          "description": "Plumbing fixture",
+          "mid": "/m/02pkr5",
+          "score": 0.71978605,
+          "topicality": 0.09672084
+        },
+        {
+          "description": "Plumbing",
+          "mid": "/m/0b_zf",
+          "score": 0.71792984,
+          "topicality": 0.06076419
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.703182,
+          "topicality": 0.0025537405
+        },
+        {
+          "description": "Hose",
+          "mid": "/m/03xbmk",
+          "score": 0.50253445,
+          "topicality": 0.039078206
+        }
+      ]
+    }
+  ]
+}

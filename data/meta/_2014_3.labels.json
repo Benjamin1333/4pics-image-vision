@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Amphibians",
+          "mid": "/m/0hjf",
+          "score": 0.9556789,
+          "topicality": 0.22325663
+        },
+        {
+          "description": "Frog",
+          "mid": "/m/09ld4",
+          "score": 0.94841707,
+          "topicality": 0.68506664
+        },
+        {
+          "description": "True frog",
+          "mid": "/m/021csx",
+          "score": 0.93106747,
+          "topicality": 0.14216031
+        },
+        {
+          "description": "Toad",
+          "mid": "/m/09ldn",
+          "score": 0.8916374,
+          "topicality": 0.40618834
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.79724956,
+          "topicality": 0.21835992
+        },
+        {
+          "description": "Reptile",
+          "mid": "/m/06bt6",
+          "score": 0.752615,
+          "topicality": 0.047178928
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6441822,
+          "topicality": 0.011391481
+        },
+        {
+          "description": "Animal Figure",
+          "mid": "/m/0h8m7cs",
+          "score": 0.5844121,
+          "topicality": 0.00090204604
+        },
+        {
+          "description": "Tree frog",
+          "mid": "/m/04f74b3",
+          "score": 0.5806161,
+          "topicality": 0.053371865
+        }
+      ]
+    }
+  ]
+}

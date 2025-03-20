@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Steering wheel",
+          "mid": "/m/03b6_4",
+          "score": 0.9398732,
+          "topicality": 0.2123182
+        },
+        {
+          "description": "Gear shift",
+          "mid": "/m/07zm1k",
+          "score": 0.87603515,
+          "topicality": 0.21510413
+        },
+        {
+          "description": "Carbon fibers",
+          "mid": "/m/0155hn",
+          "score": 0.6703508,
+          "topicality": 0.00040265048
+        },
+        {
+          "description": "Center console",
+          "mid": "/m/0fy8r0",
+          "score": 0.66936076,
+          "topicality": 0.023818657
+        }
+      ]
+    }
+  ]
+}

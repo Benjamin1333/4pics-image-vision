@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94483894,
+          "topicality": 0.0037747517
+        },
+        {
+          "description": "Worry",
+          "mid": "/m/0bg_x1",
+          "score": 0.63011134,
+          "topicality": 0.045591477
+        }
+      ]
+    }
+  ]
+}

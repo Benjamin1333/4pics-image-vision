@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Aviation",
+          "mid": "/m/0fzyg",
+          "score": 0.9180504,
+          "topicality": 0.2603774
+        },
+        {
+          "description": "Air travel",
+          "mid": "/m/025t3bg",
+          "score": 0.88789403,
+          "topicality": 0.029127693
+        },
+        {
+          "description": "Aerospace Engineering",
+          "mid": "/m/0w7s",
+          "score": 0.88641167,
+          "topicality": 0.04918179
+        },
+        {
+          "description": "Cockpit",
+          "mid": "/m/0158_5",
+          "score": 0.83015525,
+          "topicality": 0.4997304
+        },
+        {
+          "description": "Aircraft pilot",
+          "mid": "/m/0hltv",
+          "score": 0.8184793,
+          "topicality": 0.8072087
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.8173169,
+          "topicality": 0.00013434689
+        },
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.8025879,
+          "topicality": 0.016737254
+        },
+        {
+          "description": "Fixed-wing aircraft",
+          "mid": "/m/0cmf2",
+          "score": 0.7781014,
+          "topicality": 0.21006078
+        },
+        {
+          "description": "Flight",
+          "mid": "/m/01515d",
+          "score": 0.7774765,
+          "topicality": 0.29867205
+        },
+        {
+          "description": "Airline",
+          "mid": "/m/0vg8",
+          "score": 0.7773847,
+          "topicality": 0.19526275
+        }
+      ]
+    }
+  ]
+}

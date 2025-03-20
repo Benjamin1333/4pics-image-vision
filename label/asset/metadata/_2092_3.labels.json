@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Chemistry",
+          "mid": "/m/01lj9",
+          "score": 0.90342075,
+          "topicality": 0.6276653
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.62978256,
+          "topicality": 0.38687187
+        }
+      ]
+    }
+  ]
+}

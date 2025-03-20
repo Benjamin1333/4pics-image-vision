@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Laboratory",
+          "mid": "/m/017clw",
+          "score": 0.9571188,
+          "topicality": 0.7183506
+        },
+        {
+          "description": "Fluid",
+          "mid": "/m/02yfx",
+          "score": 0.9559834,
+          "topicality": 0.007021923
+        },
+        {
+          "description": "Chemistry",
+          "mid": "/m/01lj9",
+          "score": 0.9363329,
+          "topicality": 0.54516554
+        },
+        {
+          "description": "Laboratory equipment",
+          "mid": "/m/03_5sv",
+          "score": 0.9329988,
+          "topicality": 0.0034354154
+        },
+        {
+          "description": "Scientist",
+          "mid": "/m/06q2q",
+          "score": 0.929336,
+          "topicality": 0.54096395
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.9215246,
+          "topicality": 0.15750612
+        },
+        {
+          "description": "Test tube",
+          "mid": "/m/0qlzq",
+          "score": 0.92026764,
+          "topicality": 0.2432744
+        },
+        {
+          "description": "Research",
+          "mid": "/m/06cs1",
+          "score": 0.91590255,
+          "topicality": 0.43723562
+        },
+        {
+          "description": "Chemist",
+          "mid": "/m/01pxg",
+          "score": 0.90784115,
+          "topicality": 0.29047802
+        },
+        {
+          "description": "Chemical engineer",
+          "mid": "/m/027qf2",
+          "score": 0.87809354,
+          "topicality": 0.02191816
+        }
+      ]
+    }
+  ]
+}

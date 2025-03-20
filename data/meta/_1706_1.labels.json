@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.8969567,
+          "topicality": 0.015360998
+        },
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.86438495,
+          "topicality": 0.0007010225
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.7518593,
+          "topicality": 0.023593757
+        },
+        {
+          "description": "Notebook",
+          "mid": "/m/016vv0",
+          "score": 0.69663227,
+          "topicality": 0.09562074
+        },
+        {
+          "description": "Student",
+          "mid": "/m/014cnc",
+          "score": 0.66747236,
+          "topicality": 0.04341858
+        },
+        {
+          "description": "Learning",
+          "mid": "/m/0191f8",
+          "score": 0.62135184,
+          "topicality": 0.025858924
+        },
+        {
+          "description": "Office Equipment",
+          "mid": "/m/03qtgjk",
+          "score": 0.6075997,
+          "topicality": 0.00019258467
+        },
+        {
+          "description": "Reading",
+          "mid": "/m/04yclrg",
+          "score": 0.58911985,
+          "topicality": 0.054755714
+        },
+        {
+          "description": "Stationery",
+          "mid": "/m/01cndb",
+          "score": 0.5743314,
+          "topicality": 0.013189228
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.51114213,
+          "topicality": 0.0005551117
+        }
+      ]
+    }
+  ]
+}

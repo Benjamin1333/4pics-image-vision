@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.9847797,
+          "topicality": 0.004347434
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9449447,
+          "topicality": 0.16095704
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.9205621,
+          "topicality": 0.025571732
+        },
+        {
+          "description": "Tongue",
+          "mid": "/m/0fjkt",
+          "score": 0.8965696,
+          "topicality": 0.07401224
+        },
+        {
+          "description": "Screaming",
+          "mid": "/m/03qc9zr",
+          "score": 0.8564239,
+          "topicality": 0.3839768
+        },
+        {
+          "description": "Surprise",
+          "mid": "/m/0cfrhj",
+          "score": 0.82574826,
+          "topicality": 0.5058463
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.8232464,
+          "topicality": 0.1039865
+        },
+        {
+          "description": "Yawn",
+          "mid": "/m/01j423",
+          "score": 0.56217635,
+          "topicality": 0.111362636
+        },
+        {
+          "description": "Fear",
+          "mid": "/m/02xrl",
+          "score": 0.53717893,
+          "topicality": 0.30793855
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.5225039,
+          "topicality": 0.036823086
+        }
+      ]
+    }
+  ]
+}

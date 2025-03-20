@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Skin",
+          "mid": "/m/06z04",
+          "score": 0.9800392,
+          "topicality": 0.003952513
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.9755219,
+          "topicality": 0.09243422
+        },
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.95538145,
+          "topicality": 0.0015356665
+        },
+        {
+          "description": "Infant",
+          "mid": "/m/0jnvp",
+          "score": 0.9390666,
+          "topicality": 0.6620155
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.93474394,
+          "topicality": 0.00011199217
+        },
+        {
+          "description": "Comfort",
+          "mid": "/m/08xgn7",
+          "score": 0.9035298,
+          "topicality": 0.0011276223
+        },
+        {
+          "description": "Toddler",
+          "mid": "/m/01bgsw",
+          "score": 0.89706486,
+          "topicality": 0.033547193
+        },
+        {
+          "description": "Sleep",
+          "mid": "/m/06xzh",
+          "score": 0.8177179,
+          "topicality": 0.024702035
+        },
+        {
+          "description": "Birth",
+          "mid": "/m/0lbzq",
+          "score": 0.77981573,
+          "topicality": 0.76832634
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.76920575,
+          "topicality": 0.0004094
+        }
+      ]
+    }
+  ]
+}

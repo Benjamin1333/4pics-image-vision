@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.9914076,
+          "topicality": 0.03673476
+        },
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.99103403,
+          "topicality": 0.22906883
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.9872489,
+          "topicality": 0.0032121697
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.9809168,
+          "topicality": 0.0007086173
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9778398,
+          "topicality": 0.18092415
+        },
+        {
+          "description": "Cherry",
+          "mid": "/m/0f8sw",
+          "score": 0.9663023,
+          "topicality": 0.8562081
+        },
+        {
+          "description": "Berry",
+          "mid": "/m/0dxb5",
+          "score": 0.9553434,
+          "topicality": 0.15366909
+        },
+        {
+          "description": "Seedless fruit",
+          "mid": "/m/0bvv45",
+          "score": 0.8223258,
+          "topicality": 0.00038363293
+        },
+        {
+          "description": "Fruit tree",
+          "mid": "/m/0p719",
+          "score": 0.8061403,
+          "topicality": 0.061598476
+        },
+        {
+          "description": "Magnolia vines",
+          "mid": "/m/0253nx",
+          "score": 0.79946065,
+          "topicality": 0.0046792566
+        }
+      ]
+    }
+  ]
+}

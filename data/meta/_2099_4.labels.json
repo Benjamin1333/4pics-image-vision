@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Popcorn",
+          "mid": "/m/01hrv5",
+          "score": 0.9779495,
+          "topicality": 0.99159026
+        },
+        {
+          "description": "Kettle corn",
+          "mid": "/m/06yjnj",
+          "score": 0.9601029,
+          "topicality": 0.03267798
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.89859176,
+          "topicality": 0.11873243
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.8379852,
+          "topicality": 0.0025495149
+        },
+        {
+          "description": "Junk food",
+          "mid": "/m/0h55b",
+          "score": 0.6329121,
+          "topicality": 0.0018537691
+        }
+      ]
+    }
+  ]
+}

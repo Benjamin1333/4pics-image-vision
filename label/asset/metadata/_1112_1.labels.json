@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.975873,
+          "topicality": 0.048109803
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.9757723,
+          "topicality": 0.457279
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.96714145,
+          "topicality": 0.2183662
+        },
+        {
+          "description": "Retail",
+          "mid": "/m/0191_7",
+          "score": 0.9463841,
+          "topicality": 0.11772055
+        },
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.9369079,
+          "topicality": 0.14312601
+        },
+        {
+          "description": "Customer",
+          "mid": "/m/01j0mk",
+          "score": 0.9330567,
+          "topicality": 0.25004658
+        },
+        {
+          "description": "Basket",
+          "mid": "/m/01z562",
+          "score": 0.9278578,
+          "topicality": 0.04238948
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9257233,
+          "topicality": 0.0013329375
+        },
+        {
+          "description": "Food group",
+          "mid": "/m/08fw1g",
+          "score": 0.911435,
+          "topicality": 0.01746472
+        },
+        {
+          "description": "Greengrocer",
+          "mid": "/m/03hk59",
+          "score": 0.8850979,
+          "topicality": 0.451681
+        }
+      ]
+    }
+  ]
+}

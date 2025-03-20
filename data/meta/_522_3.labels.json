@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bag",
+          "mid": "/m/0n5v01m",
+          "score": 0.9889549,
+          "topicality": 0.5549875
+        },
+        {
+          "description": "Luggage & bags",
+          "mid": "/m/0hf58v5",
+          "score": 0.9324506,
+          "topicality": 0.011003056
+        },
+        {
+          "description": "Brown",
+          "mid": "/m/09q2t",
+          "score": 0.9197076,
+          "topicality": 0.06510098
+        },
+        {
+          "description": "Leather",
+          "mid": "/m/04lbp",
+          "score": 0.91721064,
+          "topicality": 0.67723584
+        },
+        {
+          "description": "Shoulder Bag",
+          "mid": "/m/0hgrzkp",
+          "score": 0.9040172,
+          "topicality": 0.004754229
+        },
+        {
+          "description": "Strap",
+          "mid": "/m/04lzmz",
+          "score": 0.90327984,
+          "topicality": 0.09443147
+        },
+        {
+          "description": "Handbag",
+          "mid": "/m/080hkjn",
+          "score": 0.86966616,
+          "topicality": 0.61984754
+        },
+        {
+          "description": "Buckle",
+          "mid": "/m/039x97",
+          "score": 0.86446273,
+          "topicality": 0.008587489
+        },
+        {
+          "description": "Pocket",
+          "mid": "/m/025rhd",
+          "score": 0.8224474,
+          "topicality": 0.020714464
+        },
+        {
+          "description": "Baggage",
+          "mid": "/m/03w7y7",
+          "score": 0.75650823,
+          "topicality": 0.0042260434
+        }
+      ]
+    }
+  ]
+}

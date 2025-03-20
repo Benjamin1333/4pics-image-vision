@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9735582,
+          "topicality": 0.06472456
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.90666884,
+          "topicality": 0.0030426967
+        },
+        {
+          "description": "Writing implement",
+          "mid": "/m/06wybl",
+          "score": 0.7928481,
+          "topicality": 0.0055042133
+        },
+        {
+          "description": "Stationery",
+          "mid": "/m/01cndb",
+          "score": 0.7267483,
+          "topicality": 0.01616903
+        },
+        {
+          "description": "Pencil",
+          "mid": "/m/063w2",
+          "score": 0.63509166,
+          "topicality": 0.2645356
+        },
+        {
+          "description": "Office Instrument",
+          "mid": "/m/0h8m01z",
+          "score": 0.53752714,
+          "topicality": 0.0037043993
+        }
+      ]
+    }
+  ]
+}

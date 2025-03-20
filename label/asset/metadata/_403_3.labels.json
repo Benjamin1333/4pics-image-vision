@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.98723423,
+          "topicality": 0.20821798
+        },
+        {
+          "description": "Spring roll",
+          "mid": "/m/049qbg",
+          "score": 0.9216573,
+          "topicality": 0.7338176
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.92158467,
+          "topicality": 0.02024586
+        },
+        {
+          "description": "Finger food",
+          "mid": "/m/0b3dyl",
+          "score": 0.9011766,
+          "topicality": 0.0077443225
+        },
+        {
+          "description": "Lumpia",
+          "mid": "/m/06w6jx",
+          "score": 0.8743716,
+          "topicality": 0.045853604
+        },
+        {
+          "description": "Egg roll",
+          "mid": "/m/04jm3v",
+          "score": 0.8699069,
+          "topicality": 0.111496314
+        },
+        {
+          "description": "Nem",
+          "mid": "/m/0pcvyk2",
+          "score": 0.85931766,
+          "topicality": 0.10056006
+        },
+        {
+          "description": "Recipe",
+          "mid": "/m/0p57p",
+          "score": 0.8580326,
+          "topicality": 0.19359529
+        },
+        {
+          "description": "Popiah",
+          "mid": "/m/04bstj",
+          "score": 0.7940948,
+          "topicality": 0.046624
+        },
+        {
+          "description": "Tofu skin roll",
+          "mid": "/m/02r_4d6",
+          "score": 0.7858739,
+          "topicality": 0.017852893
+        }
+      ]
+    }
+  ]
+}

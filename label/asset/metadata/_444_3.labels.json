@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Frost",
+          "mid": "/m/033kf",
+          "score": 0.9072152,
+          "topicality": 0.8389029
+        },
+        {
+          "description": "Winter",
+          "mid": "/m/086mh",
+          "score": 0.90269226,
+          "topicality": 0.53164315
+        },
+        {
+          "description": "Close-up",
+          "mid": "/m/02cqfm",
+          "score": 0.84874237,
+          "topicality": 0.05249572
+        },
+        {
+          "description": "Freezing",
+          "mid": "/m/01c791",
+          "score": 0.8075976,
+          "topicality": 0.18883312
+        },
+        {
+          "description": "Twig",
+          "mid": "/m/016nqt",
+          "score": 0.79459536,
+          "topicality": 0.028762136
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.77662665,
+          "topicality": 0.018884292
+        },
+        {
+          "description": "Natural material",
+          "mid": "/m/07sx2n",
+          "score": 0.7082542,
+          "topicality": 0.00020997613
+        },
+        {
+          "description": "Macro photography",
+          "mid": "/m/03rbf6",
+          "score": 0.694337,
+          "topicality": 0.0418334
+        },
+        {
+          "description": "Snow",
+          "mid": "/m/06_dn",
+          "score": 0.5764534,
+          "topicality": 0.4568284
+        },
+        {
+          "description": "Urticaceae",
+          "mid": "/m/01_2jf",
+          "score": 0.5103638,
+          "topicality": 9.922056e-05
+        }
+      ]
+    }
+  ]
+}

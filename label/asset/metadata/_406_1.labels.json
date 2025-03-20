@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Court",
+          "mid": "/m/0k05r",
+          "score": 0.8016636,
+          "topicality": 0.5537602
+        },
+        {
+          "description": "Official",
+          "mid": "/m/035y33",
+          "score": 0.6630629,
+          "topicality": 0.0048119533
+        },
+        {
+          "description": "Lawyer",
+          "mid": "/m/04gc2",
+          "score": 0.6551932,
+          "topicality": 0.3214184
+        },
+        {
+          "description": "Mallet",
+          "mid": "/m/02_b95",
+          "score": 0.6041288,
+          "topicality": 0.03123548
+        },
+        {
+          "description": "Government",
+          "mid": "/m/036nz",
+          "score": 0.57886624,
+          "topicality": 0.0035284078
+        },
+        {
+          "description": "Meeting",
+          "mid": "/m/01h6cb",
+          "score": 0.5395063,
+          "topicality": 0.0028991473
+        },
+        {
+          "description": "Management",
+          "mid": "/m/04_tv",
+          "score": 0.52083737,
+          "topicality": 0.003696223
+        },
+        {
+          "description": "Judge",
+          "mid": "/m/0c5lg",
+          "score": 0.5139262,
+          "topicality": 0.5312154
+        },
+        {
+          "description": "Trial",
+          "mid": "/m/092x18",
+          "score": 0.5065973,
+          "topicality": 0.3900562
+        }
+      ]
+    }
+  ]
+}

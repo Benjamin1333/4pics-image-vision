@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bathing",
+          "mid": "/m/036d30",
+          "score": 0.96048737,
+          "topicality": 0.6506046
+        },
+        {
+          "description": "Plumbing",
+          "mid": "/m/0b_zf",
+          "score": 0.7731606,
+          "topicality": 0.00018176435
+        },
+        {
+          "description": "Human back",
+          "mid": "/m/09jc2n",
+          "score": 0.7167971,
+          "topicality": 0.06543282
+        },
+        {
+          "description": "Shower",
+          "mid": "/m/02f9f_",
+          "score": 0.698485,
+          "topicality": 0.4055704
+        },
+        {
+          "description": "Bathroom",
+          "mid": "/m/01j2bj",
+          "score": 0.67149687,
+          "topicality": 0.05115522
+        },
+        {
+          "description": "Plumbing fixture",
+          "mid": "/m/02pkr5",
+          "score": 0.668675,
+          "topicality": 0.0005858386
+        },
+        {
+          "description": "Washing",
+          "mid": "/m/01ln6f",
+          "score": 0.5952063,
+          "topicality": 0.18012601
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.96828085,
+          "topicality": 0.00829
+        },
+        {
+          "description": "Tobacco products",
+          "mid": "/m/04gvstg",
+          "score": 0.958702,
+          "topicality": 0.06899579
+        },
+        {
+          "description": "Smoking",
+          "mid": "/m/02vxs3q",
+          "score": 0.9304073,
+          "topicality": 0.7930799
+        },
+        {
+          "description": "Cigarette",
+          "mid": "/m/09k76",
+          "score": 0.91498405,
+          "topicality": 0.6495086
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.89097625,
+          "topicality": 0.008847286
+        },
+        {
+          "description": "Tobacco",
+          "mid": "/m/07ly_",
+          "score": 0.8682679,
+          "topicality": 0.2271633
+        },
+        {
+          "description": "Thumb",
+          "mid": "/m/01bmhj",
+          "score": 0.84551954,
+          "topicality": 0.00234196
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.78198427,
+          "topicality": 0.0014208322
+        },
+        {
+          "description": "Ash",
+          "mid": "/m/04zjxcz",
+          "score": 0.6820289,
+          "topicality": 0.0001598825
+        },
+        {
+          "description": "Smoking cessation",
+          "mid": "/m/01qdq2",
+          "score": 0.6801559,
+          "topicality": 0.7861906
+        }
+      ]
+    }
+  ]
+}

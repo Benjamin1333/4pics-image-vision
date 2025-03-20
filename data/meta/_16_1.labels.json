@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Cookware and bakeware",
+          "mid": "/m/01mr6j",
+          "score": 0.9681087,
+          "topicality": 0.009913998
+        },
+        {
+          "description": "Cooking",
+          "mid": "/m/01mtb",
+          "score": 0.95252895,
+          "topicality": 0.5499386
+        },
+        {
+          "description": "Kitchen Appliance",
+          "mid": "/m/0h99cwc",
+          "score": 0.94506073,
+          "topicality": 0.00883772
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.9238609,
+          "topicality": 0.16706978
+        },
+        {
+          "description": "Flame",
+          "mid": "/m/01f415",
+          "score": 0.90875685,
+          "topicality": 0.13767244
+        },
+        {
+          "description": "Fire",
+          "mid": "/m/02_41",
+          "score": 0.8995389,
+          "topicality": 0.1406883
+        },
+        {
+          "description": "Cook",
+          "mid": "/m/04y7xr",
+          "score": 0.89191693,
+          "topicality": 0.265834
+        },
+        {
+          "description": "Kitchen",
+          "mid": "/m/0d4wf",
+          "score": 0.88797295,
+          "topicality": 0.056887265
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.85183865,
+          "topicality": 0.01118936
+        },
+        {
+          "description": "Chef",
+          "mid": "/m/01pn0r",
+          "score": 0.8501403,
+          "topicality": 0.20907088
+        }
+      ]
+    }
+  ]
+}

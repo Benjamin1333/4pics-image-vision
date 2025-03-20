@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.9764824,
+          "topicality": 0.039469384
+        },
+        {
+          "description": "Jewellery",
+          "mid": "/m/0404d",
+          "score": 0.97602546,
+          "topicality": 0.091765784
+        },
+        {
+          "description": "Ring",
+          "mid": "/m/09l0j_",
+          "score": 0.9756568,
+          "topicality": 0.6790091
+        },
+        {
+          "description": "Hand",
+          "mid": "/m/0k65p",
+          "score": 0.97292084,
+          "topicality": 0.18205231
+        },
+        {
+          "description": "Engagement ring",
+          "mid": "/m/09t19",
+          "score": 0.9699385,
+          "topicality": 0.2307952
+        },
+        {
+          "description": "Wedding Ceremony Supply",
+          "mid": "/m/0hgq063",
+          "score": 0.940126,
+          "topicality": 0.023960307
+        },
+        {
+          "description": "Wedding ring",
+          "mid": "/m/015rvg",
+          "score": 0.9347833,
+          "topicality": 0.6488016
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.9327896,
+          "topicality": 0.00017667923
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.92434204,
+          "topicality": 0.010246807
+        },
+        {
+          "description": "Nail Care",
+          "mid": "/m/0h8nm6p",
+          "score": 0.922029,
+          "topicality": 0.0008722632
+        }
+      ]
+    }
+  ]
+}

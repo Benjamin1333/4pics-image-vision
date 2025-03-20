@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Flour",
+          "mid": "/m/0fkw3",
+          "score": 0.98049504,
+          "topicality": 0.6169928
+        },
+        {
+          "description": "Egg",
+          "mid": "/m/033cnk",
+          "score": 0.9768656,
+          "topicality": 0.75570714
+        },
+        {
+          "description": "Powder",
+          "mid": "/m/0gzznm",
+          "score": 0.9730689,
+          "topicality": 0.10661462
+        },
+        {
+          "description": "Yolk",
+          "mid": "/m/02dmz4",
+          "score": 0.967477,
+          "topicality": 0.25096622
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.965022,
+          "topicality": 0.23455437
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.9581076,
+          "topicality": 0.13846083
+        },
+        {
+          "description": "Wheat flour",
+          "mid": "/m/06zts5l",
+          "score": 0.934219,
+          "topicality": 0.5045464
+        },
+        {
+          "description": "Whole-wheat flour",
+          "mid": "/m/039_xx",
+          "score": 0.9264243,
+          "topicality": 0.009848404
+        },
+        {
+          "description": "All-purpose Flour",
+          "mid": "/m/05yr1lg",
+          "score": 0.91926605,
+          "topicality": 0.093462616
+        },
+        {
+          "description": "Bread Flour",
+          "mid": "/m/0hnqgsf",
+          "score": 0.91571546,
+          "topicality": 0.074771054
+        }
+      ]
+    }
+  ]
+}

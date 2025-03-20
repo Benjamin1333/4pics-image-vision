@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Fish",
+          "mid": "/m/0ch_cf",
+          "score": 0.97865075,
+          "topicality": 0.35503992
+        },
+        {
+          "description": "Nature",
+          "mid": "/m/05h0n",
+          "score": 0.97364265,
+          "topicality": 0.00594541
+        },
+        {
+          "description": "Aquatic plant",
+          "mid": "/m/013sbk",
+          "score": 0.9477946,
+          "topicality": 0.15512168
+        },
+        {
+          "description": "Marine biology",
+          "mid": "/m/050vn",
+          "score": 0.9218246,
+          "topicality": 0.0007932886
+        },
+        {
+          "description": "Aquarium",
+          "mid": "/m/0149r",
+          "score": 0.8967427,
+          "topicality": 0.7418134
+        },
+        {
+          "description": "Freshwater aquarium",
+          "mid": "/m/02r7yb9",
+          "score": 0.89655924,
+          "topicality": 0.12645191
+        },
+        {
+          "description": "Aquarium Decor",
+          "mid": "/m/0h8nnk_",
+          "score": 0.8960352,
+          "topicality": 0.016149439
+        },
+        {
+          "description": "Fish Supply",
+          "mid": "/m/0h8ns_d",
+          "score": 0.8148376,
+          "topicality": 0.0018270601
+        },
+        {
+          "description": "Fin",
+          "mid": "/m/02zg_",
+          "score": 0.80080396,
+          "topicality": 0.0014198119
+        },
+        {
+          "description": "Reef",
+          "mid": "/m/01jypq",
+          "score": 0.7067302,
+          "topicality": 0.011539476
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Adventure",
+          "mid": "/m/0h_m",
+          "score": 0.9818384,
+          "topicality": 0.2772246
+        },
+        {
+          "description": "Rock-climbing equipment",
+          "mid": "/m/021fpy",
+          "score": 0.97531956,
+          "topicality": 0.04029548
+        },
+        {
+          "description": "Climbing",
+          "mid": "/m/01rwk",
+          "score": 0.9682367,
+          "topicality": 0.7005933
+        },
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.95449585,
+          "topicality": 0.005900297
+        },
+        {
+          "description": "Helmet",
+          "mid": "/m/0zvk5",
+          "score": 0.948726,
+          "topicality": 0.0014220921
+        },
+        {
+          "description": "Mountaineer",
+          "mid": "/m/04_2qtd",
+          "score": 0.947186,
+          "topicality": 0.008413979
+        },
+        {
+          "description": "Extreme sport",
+          "mid": "/m/02pyg",
+          "score": 0.94454366,
+          "topicality": 0.2585988
+        },
+        {
+          "description": "Outdoor recreation",
+          "mid": "/m/05b0n7k",
+          "score": 0.9370517,
+          "topicality": 0.024369849
+        },
+        {
+          "description": "Rock climbing",
+          "mid": "/m/03qzgq",
+          "score": 0.93303806,
+          "topicality": 0.17486852
+        },
+        {
+          "description": "Rock",
+          "mid": "/m/01cbzq",
+          "score": 0.9307157,
+          "topicality": 0.057222057
+        }
+      ]
+    }
+  ]
+}

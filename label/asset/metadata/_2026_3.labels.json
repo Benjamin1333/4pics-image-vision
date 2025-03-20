@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.907257,
+          "topicality": 0.00049440033
+        },
+        {
+          "description": "Electronic component",
+          "mid": "/m/063syt",
+          "score": 0.9024419,
+          "topicality": 0.11652061
+        },
+        {
+          "description": "Hardware Programmer",
+          "mid": "/m/03x851",
+          "score": 0.8747769,
+          "topicality": 0.17862758
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8644955,
+          "topicality": 0.0036876423
+        },
+        {
+          "description": "Circuit Component",
+          "mid": "/m/0h8mv94",
+          "score": 0.84164965,
+          "topicality": 0.00012275051
+        },
+        {
+          "description": "Electronics",
+          "mid": "/m/02mrp",
+          "score": 0.830764,
+          "topicality": 0.09815313
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.79699105,
+          "topicality": 0.0035230063
+        },
+        {
+          "description": "Electronic engineering",
+          "mid": "/m/01g1rg",
+          "score": 0.748098,
+          "topicality": 0.017465068
+        },
+        {
+          "description": "Passive Circuit Component",
+          "mid": "/m/0h8mjtj",
+          "score": 0.7379018,
+          "topicality": 0.0003331123
+        },
+        {
+          "description": "Computer hardware",
+          "mid": "/m/01mfj",
+          "score": 0.7291282,
+          "topicality": 0.04058877
+        }
+      ]
+    }
+  ]
+}

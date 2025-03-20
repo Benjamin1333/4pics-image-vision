@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Dog",
+          "mid": "/m/0bt9lr",
+          "score": 0.9954533,
+          "topicality": 0.63819844
+        },
+        {
+          "description": "Carnivores",
+          "mid": "/m/01lrl",
+          "score": 0.96770555,
+          "topicality": 0.0028085804
+        },
+        {
+          "description": "Animal training",
+          "mid": "/m/05tcy5",
+          "score": 0.8728403,
+          "topicality": 0.11888193
+        },
+        {
+          "description": "Dog sports",
+          "mid": "/m/0wgq8gt",
+          "score": 0.8615281,
+          "topicality": 0.011566675
+        },
+        {
+          "description": "Pet Supply",
+          "mid": "/m/0h8ks17",
+          "score": 0.783875,
+          "topicality": 0.00016151715
+        },
+        {
+          "description": "Canidae",
+          "mid": "/m/01z5f",
+          "score": 0.7795745,
+          "topicality": 0.022656612
+        },
+        {
+          "description": "Leash",
+          "mid": "/m/03011x",
+          "score": 0.7373881,
+          "topicality": 0.06871566
+        },
+        {
+          "description": "Animal sports",
+          "mid": "/m/0wfrc8w",
+          "score": 0.72906125,
+          "topicality": 0.003299284
+        },
+        {
+          "description": "Obedience training",
+          "mid": "/m/0296c5",
+          "score": 0.7033485,
+          "topicality": 0.11268038
+        },
+        {
+          "description": "Scent hound",
+          "mid": "/m/017zl6",
+          "score": 0.62057996,
+          "topicality": 0.0047641937
+        }
+      ]
+    }
+  ]
+}

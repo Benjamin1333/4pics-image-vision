@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Tourist attraction",
+          "mid": "/m/0pgl9",
+          "score": 0.80166376,
+          "topicality": 0.016320009
+        },
+        {
+          "description": "Palm trees",
+          "mid": "/m/0cdl1",
+          "score": 0.7485032,
+          "topicality": 0.0036736901
+        },
+        {
+          "description": "Stairs",
+          "mid": "/m/01lynh",
+          "score": 0.6878512,
+          "topicality": 0.007861246
+        },
+        {
+          "description": "Archaeological site",
+          "mid": "/m/012ww9",
+          "score": 0.6850923,
+          "topicality": 0.05337551
+        },
+        {
+          "description": "Pyramid",
+          "mid": "/m/05xh2",
+          "score": 0.6754244,
+          "topicality": 0.19758746
+        },
+        {
+          "description": "Maya civilization",
+          "mid": "/m/0d7v_",
+          "score": 0.66918373,
+          "topicality": 0.82503676
+        },
+        {
+          "description": "Maya city",
+          "mid": "/m/0gg4z0q",
+          "score": 0.6051484,
+          "topicality": 0.023557981
+        },
+        {
+          "description": "Tropics",
+          "mid": "/m/0hl08",
+          "score": 0.5931348,
+          "topicality": 0.01040511
+        },
+        {
+          "description": "Wonders of the World",
+          "mid": "/m/02y_3gd",
+          "score": 0.50313795,
+          "topicality": 0.017859634
+        }
+      ]
+    }
+  ]
+}

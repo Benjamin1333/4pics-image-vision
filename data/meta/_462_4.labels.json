@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Armour",
+          "mid": "/m/0x44",
+          "score": 0.9655784,
+          "topicality": 0.3261931
+        },
+        {
+          "description": "Chain mail",
+          "mid": "/m/01yx2",
+          "score": 0.91852415,
+          "topicality": 0.3688312
+        },
+        {
+          "description": "Knight",
+          "mid": "/m/049rd",
+          "score": 0.85333693,
+          "topicality": 0.583995
+        },
+        {
+          "description": "Cuirass",
+          "mid": "/m/01h0s2",
+          "score": 0.84285057,
+          "topicality": 0.017287407
+        },
+        {
+          "description": "Breastplate",
+          "mid": "/m/05p5f9",
+          "score": 0.8082563,
+          "topicality": 0.008088041
+        },
+        {
+          "description": "Vikings",
+          "mid": "/m/07_my",
+          "score": 0.7985161,
+          "topicality": 0.24480373
+        },
+        {
+          "description": "Costume",
+          "mid": "/m/0250x",
+          "score": 0.7957951,
+          "topicality": 0.0069088237
+        },
+        {
+          "description": "Sword",
+          "mid": "/m/06y5r",
+          "score": 0.7509783,
+          "topicality": 0.06847194
+        },
+        {
+          "description": "Shield",
+          "mid": "/m/0bg7b",
+          "score": 0.67282975,
+          "topicality": 0.11883088
+        },
+        {
+          "description": "Conquistador",
+          "mid": "/m/0jgcl",
+          "score": 0.6049217,
+          "topicality": 0.005704157
+        }
+      ]
+    }
+  ]
+}

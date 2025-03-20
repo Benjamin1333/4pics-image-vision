@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hand",
+          "mid": "/m/0k65p",
+          "score": 0.9704058,
+          "topicality": 0.006917642
+        },
+        {
+          "description": "Hat",
+          "mid": "/m/02dl1y",
+          "score": 0.9318112,
+          "topicality": 0.00046452557
+        },
+        {
+          "description": "Chocolatier",
+          "mid": "/m/07pmh3k",
+          "score": 0.93024033,
+          "topicality": 0.7279022
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.91393965,
+          "topicality": 0.063247845
+        },
+        {
+          "description": "Cook",
+          "mid": "/m/04y7xr",
+          "score": 0.89808047,
+          "topicality": 0.046115305
+        },
+        {
+          "description": "Chef",
+          "mid": "/m/01pn0r",
+          "score": 0.8610431,
+          "topicality": 0.08021266
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.85696816,
+          "topicality": 0.0021259638
+        },
+        {
+          "description": "Cooking",
+          "mid": "/m/01mtb",
+          "score": 0.8292434,
+          "topicality": 0.050261017
+        },
+        {
+          "description": "Chocolate",
+          "mid": "/m/020vl",
+          "score": 0.7366145,
+          "topicality": 0.0955221
+        },
+        {
+          "description": "Apron",
+          "mid": "/m/0f748",
+          "score": 0.7311564,
+          "topicality": 0.0036325855
+        }
+      ]
+    }
+  ]
+}

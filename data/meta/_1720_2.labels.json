@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Eyewear",
+          "mid": "/m/0j272k5",
+          "score": 0.98498243,
+          "topicality": 0.0004892131
+        },
+        {
+          "description": "Fluid",
+          "mid": "/m/02yfx",
+          "score": 0.9555351,
+          "topicality": 0.0013970407
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.92124647,
+          "topicality": 0.02634584
+        },
+        {
+          "description": "Chemistry",
+          "mid": "/m/01lj9",
+          "score": 0.75519246,
+          "topicality": 0.31739092
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.73260134,
+          "topicality": 0.027509056
+        },
+        {
+          "description": "Laboratory equipment",
+          "mid": "/m/03_5sv",
+          "score": 0.7165091,
+          "topicality": 0.0015662693
+        },
+        {
+          "description": "Scientist",
+          "mid": "/m/06q2q",
+          "score": 0.64395547,
+          "topicality": 0.36047894
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.63844687,
+          "topicality": 0.3358631
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.6179683,
+          "topicality": 0.0035106456
+        },
+        {
+          "description": "Laboratory",
+          "mid": "/m/017clw",
+          "score": 0.5093875,
+          "topicality": 0.29527667
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sky",
+          "mid": "/m/01bqvp",
+          "score": 0.99195963,
+          "topicality": 0.82970923
+        },
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.98953897,
+          "topicality": 0.677846
+        },
+        {
+          "description": "Cloud",
+          "mid": "/m/0csby",
+          "score": 0.98932433,
+          "topicality": 0.83576274
+        },
+        {
+          "description": "Daytime",
+          "mid": "/m/02q7ylj",
+          "score": 0.9819128,
+          "topicality": 0.25544277
+        },
+        {
+          "description": "Cumulus",
+          "mid": "/m/0csh5",
+          "score": 0.9717351,
+          "topicality": 0.7770408
+        },
+        {
+          "description": "Meteorological phenomenon",
+          "mid": "/g/11k2xz7mr",
+          "score": 0.85594803,
+          "topicality": 0.0020815325
+        },
+        {
+          "description": "Sunlight",
+          "mid": "/m/06z0n",
+          "score": 0.7942524,
+          "topicality": 0.062529214
+        },
+        {
+          "description": "Symmetry",
+          "mid": "/m/0f28m",
+          "score": 0.68621814,
+          "topicality": 0.00061071396
+        }
+      ]
+    }
+  ]
+}

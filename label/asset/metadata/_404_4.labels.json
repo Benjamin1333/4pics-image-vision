@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Musical instrument",
+          "mid": "/m/04szw",
+          "score": 0.99385935,
+          "topicality": 0.17593138
+        },
+        {
+          "description": "Drum",
+          "mid": "/m/026t6",
+          "score": 0.99133366,
+          "topicality": 0.59892553
+        },
+        {
+          "description": "Membranophone",
+          "mid": "/m/011_dp",
+          "score": 0.9894424,
+          "topicality": 0.058633808
+        },
+        {
+          "description": "Percussion",
+          "mid": "/m/0l14md",
+          "score": 0.98862,
+          "topicality": 0.2429088
+        },
+        {
+          "description": "Drumhead",
+          "mid": "/m/01vmzn",
+          "score": 0.97990495,
+          "topicality": 0.00520742
+        },
+        {
+          "description": "Musician",
+          "mid": "/m/09jwl",
+          "score": 0.95994073,
+          "topicality": 0.06934624
+        },
+        {
+          "description": "Music",
+          "mid": "/m/04rlf",
+          "score": 0.9539233,
+          "topicality": 0.16648144
+        },
+        {
+          "description": "Drum stick",
+          "mid": "/m/0j25zyj",
+          "score": 0.9498562,
+          "topicality": 0.03134293
+        },
+        {
+          "description": "Percussionist",
+          "mid": "/m/02h66l4",
+          "score": 0.89538974,
+          "topicality": 0.01542813
+        },
+        {
+          "description": "Marching percussion",
+          "mid": "/m/044l90",
+          "score": 0.8894385,
+          "topicality": 0.055678714
+        }
+      ]
+    }
+  ]
+}

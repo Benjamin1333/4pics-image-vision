@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Metal",
+          "mid": "/m/04t7l",
+          "score": 0.8068552,
+          "topicality": 0.0877366
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.7489914,
+          "topicality": 0.00022589765
+        },
+        {
+          "description": "Nickel",
+          "mid": "/m/025s4r7",
+          "score": 0.6919761,
+          "topicality": 0.011553076
+        },
+        {
+          "description": "Screw",
+          "mid": "/m/0c37z",
+          "score": 0.6020059,
+          "topicality": 0.009369341
+        },
+        {
+          "description": "Steel",
+          "mid": "/m/06qqb",
+          "score": 0.5977997,
+          "topicality": 0.016024198
+        },
+        {
+          "description": "Household hardware",
+          "mid": "/m/03jvk",
+          "score": 0.59458536,
+          "topicality": 0.016721638
+        },
+        {
+          "description": "Aluminium",
+          "mid": "/m/027vj2v",
+          "score": 0.5753775,
+          "topicality": 0.014079292
+        },
+        {
+          "description": "Titanium",
+          "mid": "/m/025sk56",
+          "score": 0.5406039,
+          "topicality": 0.0010171826
+        },
+        {
+          "description": "Brass",
+          "mid": "/m/01504",
+          "score": 0.51088727,
+          "topicality": 0.023438338
+        }
+      ]
+    }
+  ]
+}

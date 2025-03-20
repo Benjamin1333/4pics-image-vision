@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Pineapple",
+          "mid": "/m/0fp6w",
+          "score": 0.98558056,
+          "topicality": 0.9455339
+        },
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.9831914,
+          "topicality": 0.32748756
+        },
+        {
+          "description": "Pineapples",
+          "mid": "/m/01drpv",
+          "score": 0.9751649,
+          "topicality": 0.35645503
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.96905965,
+          "topicality": 0.14642972
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.9615305,
+          "topicality": 0.10558919
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.9262698,
+          "topicality": 0.011301954
+        },
+        {
+          "description": "Food group",
+          "mid": "/m/08fw1g",
+          "score": 0.75562125,
+          "topicality": 0.0007364217
+        },
+        {
+          "description": "Superfood",
+          "mid": "/m/04jdhxy",
+          "score": 0.6335571,
+          "topicality": 0.0048714695
+        },
+        {
+          "description": "Bromeliads",
+          "mid": "/m/0fxhn",
+          "score": 0.6326171,
+          "topicality": 0.0204405
+        },
+        {
+          "description": "Staple food",
+          "mid": "/m/022tld",
+          "score": 0.61537206,
+          "topicality": 0.0018529792
+        }
+      ]
+    }
+  ]
+}

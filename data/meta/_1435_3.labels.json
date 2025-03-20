@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.98478687,
+          "topicality": 0.032487657
+        },
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9647598,
+          "topicality": 0.038764965
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94489974,
+          "topicality": 0.0010717701
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.9359222,
+          "topicality": 0.87179774
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.91593903,
+          "topicality": 0.18112455
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.7815001,
+          "topicality": 0.002940563
+        },
+        {
+          "description": "Cosmetic dentistry",
+          "mid": "/m/03rz8v",
+          "score": 0.69997305,
+          "topicality": 0.12401871
+        },
+        {
+          "description": "Dentures",
+          "mid": "/m/02zb48",
+          "score": 0.6752806,
+          "topicality": 0.25543982
+        },
+        {
+          "description": "Laughter",
+          "mid": "/m/01j3sz",
+          "score": 0.58948565,
+          "topicality": 0.0018640033
+        },
+        {
+          "description": "Lipstick",
+          "mid": "/m/06c7f7",
+          "score": 0.56864715,
+          "topicality": 0.00051207247
+        }
+      ]
+    }
+  ]
+}

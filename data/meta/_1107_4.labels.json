@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Denim",
+          "mid": "/m/0hgr6",
+          "score": 0.9781457,
+          "topicality": 0.72967535
+        },
+        {
+          "description": "Textile",
+          "mid": "/m/0dnr7",
+          "score": 0.94964814,
+          "topicality": 0.0074677826
+        },
+        {
+          "description": "Grey",
+          "mid": "/m/036k5h",
+          "score": 0.8293831,
+          "topicality": 0.03406388
+        },
+        {
+          "description": "Button",
+          "mid": "/m/01s_bn",
+          "score": 0.7896668,
+          "topicality": 0.017771581
+        },
+        {
+          "description": "Label",
+          "mid": "/m/05c0n6k",
+          "score": 0.78343064,
+          "topicality": 0.0016351736
+        },
+        {
+          "description": "Pocket",
+          "mid": "/m/025rhd",
+          "score": 0.6420749,
+          "topicality": 0.030941008
+        },
+        {
+          "description": "Stitch",
+          "mid": "/m/0c3ynbd",
+          "score": 0.59202886,
+          "topicality": 0.0019417484
+        },
+        {
+          "description": "Woven fabric",
+          "mid": "/m/01s_83",
+          "score": 0.5509764,
+          "topicality": 0.00035629963
+        },
+        {
+          "description": "Yarn",
+          "mid": "/m/02kvytt",
+          "score": 0.523146,
+          "topicality": 0.000576553
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Gun",
+          "mid": "/m/032rk",
+          "score": 0.9621306,
+          "topicality": 0.011367717
+        },
+        {
+          "description": "Firearm",
+          "mid": "/m/034qg",
+          "score": 0.9506254,
+          "topicality": 0.010105857
+        },
+        {
+          "description": "Formal wear",
+          "mid": "/m/02w3_2",
+          "score": 0.90313697,
+          "topicality": 0.0048094117
+        },
+        {
+          "description": "Air gun",
+          "mid": "/m/012fyw",
+          "score": 0.8635598,
+          "topicality": 0.0004295839
+        },
+        {
+          "description": "Shooting",
+          "mid": "/m/071rm",
+          "score": 0.8609279,
+          "topicality": 0.012843241
+        },
+        {
+          "description": "Action",
+          "mid": "/m/02kdv5l",
+          "score": 0.844878,
+          "topicality": 0.3265754
+        },
+        {
+          "description": "Revolver",
+          "mid": "/m/06fk8",
+          "score": 0.7771423,
+          "topicality": 0.0017466318
+        },
+        {
+          "description": "Gun barrel",
+          "mid": "/m/02zn54",
+          "score": 0.70861936,
+          "topicality": 0.0006448928
+        },
+        {
+          "description": "Gunfighter",
+          "mid": "/m/02p5p9",
+          "score": 0.65980476,
+          "topicality": 0.023281084
+        },
+        {
+          "description": "Shotgun",
+          "mid": "/m/06nrc",
+          "score": 0.6415629,
+          "topicality": 0.00091293204
+        }
+      ]
+    }
+  ]
+}

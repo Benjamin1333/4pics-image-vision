@@ -1,0 +1,14 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.6023058,
+          "topicality": 0.14710909
+        }
+      ]
+    }
+  ]
+}

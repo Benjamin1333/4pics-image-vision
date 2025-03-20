@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94486135,
+          "topicality": 0.043727085
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.8735484,
+          "topicality": 0.02329162
+        },
+        {
+          "description": "Love",
+          "mid": "/m/048knlz",
+          "score": 0.85689104,
+          "topicality": 0.073118605
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.8289669,
+          "topicality": 0.016096689
+        },
+        {
+          "description": "Screaming",
+          "mid": "/m/03qc9zr",
+          "score": 0.75843346,
+          "topicality": 0.18253858
+        },
+        {
+          "description": "Hearing",
+          "mid": "/m/01wymn",
+          "score": 0.59020907,
+          "topicality": 0.015043895
+        },
+        {
+          "description": "Romance",
+          "mid": "/m/01pxgq",
+          "score": 0.5817826,
+          "topicality": 0.0024537954
+        }
+      ]
+    }
+  ]
+}

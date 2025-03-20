@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9696846,
+          "topicality": 0.002727335
+        },
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.9574833,
+          "topicality": 0.0007276546
+        },
+        {
+          "description": "Office Equipment",
+          "mid": "/m/03qtgjk",
+          "score": 0.94619817,
+          "topicality": 0.0048654447
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8417069,
+          "topicality": 0.014968817
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.8319235,
+          "topicality": 0.017478824
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.7610842,
+          "topicality": 0.1720046
+        },
+        {
+          "description": "Calculator",
+          "mid": "/m/024d2",
+          "score": 0.71954405,
+          "topicality": 0.7497178
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.64937544,
+          "topicality": 0.02101142
+        },
+        {
+          "description": "Telephone",
+          "mid": "/m/07cx4",
+          "score": 0.6434713,
+          "topicality": 0.009296289
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6062387,
+          "topicality": 0.009466946
+        }
+      ]
+    }
+  ]
+}

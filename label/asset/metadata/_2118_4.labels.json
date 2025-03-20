@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Artist",
+          "mid": "/m/0n1h",
+          "score": 0.89711165,
+          "topicality": 0.36914074
+        },
+        {
+          "description": "Paint",
+          "mid": "/m/05y4t",
+          "score": 0.8795673,
+          "topicality": 0.04805528
+        },
+        {
+          "description": "Art Paint",
+          "mid": "/m/0h90w5d",
+          "score": 0.8356808,
+          "topicality": 0.0047361827
+        },
+        {
+          "description": "Painting",
+          "mid": "/m/05qdh",
+          "score": 0.79876244,
+          "topicality": 0.5103571
+        },
+        {
+          "description": "Creative arts",
+          "mid": "/m/0dw9f6",
+          "score": 0.75107676,
+          "topicality": 0.0002440103
+        },
+        {
+          "description": "Painter",
+          "mid": "/m/02nxqmh",
+          "score": 0.74073464,
+          "topicality": 0.33950958
+        },
+        {
+          "description": "Watercolor painting",
+          "mid": "/m/018ktp",
+          "score": 0.71695906,
+          "topicality": 0.13435379
+        },
+        {
+          "description": "Easel",
+          "mid": "/m/01rg3p",
+          "score": 0.657343,
+          "topicality": 0.099634945
+        },
+        {
+          "description": "Palette",
+          "mid": "/m/0bmc4wk",
+          "score": 0.6220969,
+          "topicality": 0.21815564
+        },
+        {
+          "description": "Brush",
+          "mid": "/m/02chd9",
+          "score": 0.5826474,
+          "topicality": 0.032660913
+        }
+      ]
+    }
+  ]
+}

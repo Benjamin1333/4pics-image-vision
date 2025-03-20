@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.9877582,
+          "topicality": 0.12968034
+        },
+        {
+          "description": "Water",
+          "mid": "/m/0838f",
+          "score": 0.98344797,
+          "topicality": 0.6811942
+        },
+        {
+          "description": "Fluid",
+          "mid": "/m/02yfx",
+          "score": 0.9559782,
+          "topicality": 0.016834859
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.92137647,
+          "topicality": 0.023121439
+        },
+        {
+          "description": "Underwater",
+          "mid": "/m/01sfb5",
+          "score": 0.86759114,
+          "topicality": 0.6221534
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.8631065,
+          "topicality": 0.23561761
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.85863924,
+          "topicality": 0.25262073
+        },
+        {
+          "description": "Bubble",
+          "mid": "/m/0g91zf",
+          "score": 0.7773173,
+          "topicality": 0.5235056
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.55804724,
+          "topicality": 0.028009934
+        },
+        {
+          "description": "Marine biology",
+          "mid": "/m/050vn",
+          "score": 0.53500175,
+          "topicality": 0.03105724
+        }
+      ]
+    }
+  ]
+}

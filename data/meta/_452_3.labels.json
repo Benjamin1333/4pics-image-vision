@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Personal care",
+          "mid": "/m/02w3_ws",
+          "score": 0.8912748,
+          "topicality": 0.014460084
+        },
+        {
+          "description": "Powder",
+          "mid": "/m/0gzznm",
+          "score": 0.8531374,
+          "topicality": 0.010553205
+        },
+        {
+          "description": "Cosmetics",
+          "mid": "/m/014trl",
+          "score": 0.8321481,
+          "topicality": 0.124475665
+        },
+        {
+          "description": "Cream",
+          "mid": "/m/08p92x",
+          "score": 0.7727587,
+          "topicality": 0.13191216
+        },
+        {
+          "description": "Skin Care",
+          "mid": "/m/0h8nrxj",
+          "score": 0.71570456,
+          "topicality": 0.012736892
+        },
+        {
+          "description": "Makeover",
+          "mid": "/m/02qp_b",
+          "score": 0.6488295,
+          "topicality": 0.00028900013
+        },
+        {
+          "description": "Cotton pad",
+          "mid": "/m/05bbht",
+          "score": 0.6174104,
+          "topicality": 0.12948129
+        },
+        {
+          "description": "Personal grooming",
+          "mid": "/m/02m1vq",
+          "score": 0.55622697,
+          "topicality": 0.008246501
+        }
+      ]
+    }
+  ]
+}

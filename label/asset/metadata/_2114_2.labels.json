@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hat",
+          "mid": "/m/02dl1y",
+          "score": 0.9865874,
+          "topicality": 0.7582145
+        },
+        {
+          "description": "Headgear",
+          "mid": "/m/01443y",
+          "score": 0.9564579,
+          "topicality": 0.022603214
+        },
+        {
+          "description": "Sun hat",
+          "mid": "/m/02wbtzl",
+          "score": 0.9315915,
+          "topicality": 0.0009331017
+        },
+        {
+          "description": "Costume Hat",
+          "mid": "/m/0hgs54_",
+          "score": 0.8747865,
+          "topicality": 0.00532283
+        },
+        {
+          "description": "Fedora",
+          "mid": "/m/02fq_6",
+          "score": 0.8050989,
+          "topicality": 0.02311627
+        },
+        {
+          "description": "Cap",
+          "mid": "/m/02d46y",
+          "score": 0.7897487,
+          "topicality": 0.017130468
+        },
+        {
+          "description": "Bowler hat",
+          "mid": "/m/02677n",
+          "score": 0.5300447,
+          "topicality": 0.063228585
+        }
+      ]
+    }
+  ]
+}

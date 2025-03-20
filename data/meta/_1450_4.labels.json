@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.95900416,
+          "topicality": 0.15631674
+        },
+        {
+          "description": "Baked beans",
+          "mid": "/m/018bp6",
+          "score": 0.9099046,
+          "topicality": 0.8817026
+        },
+        {
+          "description": "Bean",
+          "mid": "/m/01fp9",
+          "score": 0.88590676,
+          "topicality": 0.3353479
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.85278696,
+          "topicality": 0.020145116
+        },
+        {
+          "description": "Legume",
+          "mid": "/m/01sfdb",
+          "score": 0.78443384,
+          "topicality": 0.0029833545
+        },
+        {
+          "description": "Bread",
+          "mid": "/m/09728",
+          "score": 0.7557181,
+          "topicality": 0.1379265
+        },
+        {
+          "description": "Recipe",
+          "mid": "/m/0p57p",
+          "score": 0.7391806,
+          "topicality": 0.15420662
+        },
+        {
+          "description": "Finger food",
+          "mid": "/m/0b3dyl",
+          "score": 0.7210135,
+          "topicality": 0.00017548299
+        },
+        {
+          "description": "Breakfast",
+          "mid": "/m/0hz4q",
+          "score": 0.68976855,
+          "topicality": 0.092202604
+        },
+        {
+          "description": "Staple food",
+          "mid": "/m/022tld",
+          "score": 0.669741,
+          "topicality": 0.000969213
+        }
+      ]
+    }
+  ]
+}

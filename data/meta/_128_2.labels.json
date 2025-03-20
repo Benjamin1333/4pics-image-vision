@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Textile",
+          "mid": "/m/0dnr7",
+          "score": 0.9482114,
+          "topicality": 0.023644397
+        },
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.92465216,
+          "topicality": 0.032411855
+        },
+        {
+          "description": "Linens",
+          "mid": "/m/06httj",
+          "score": 0.8827704,
+          "topicality": 0.0038913204
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.85757947,
+          "topicality": 0.044568945
+        },
+        {
+          "description": "Comfort",
+          "mid": "/m/08xgn7",
+          "score": 0.789329,
+          "topicality": 0.010364545
+        },
+        {
+          "description": "Bed sheet",
+          "mid": "/m/04mygm",
+          "score": 0.7440794,
+          "topicality": 0.008601124
+        },
+        {
+          "description": "Photo shoot",
+          "mid": "/m/02qbl1m",
+          "score": 0.65476894,
+          "topicality": 0.0156173445
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.63522595,
+          "topicality": 0.024558572
+        },
+        {
+          "description": "Bedding",
+          "mid": "/m/03mcr3",
+          "score": 0.62472767,
+          "topicality": 0.0064598634
+        },
+        {
+          "description": "Foot",
+          "mid": "/m/031n1",
+          "score": 0.5820877,
+          "topicality": 0.0042375913
+        }
+      ]
+    }
+  ]
+}

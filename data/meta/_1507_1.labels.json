@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bottle",
+          "mid": "/m/04dr76w",
+          "score": 0.9936973,
+          "topicality": 0.6012428
+        },
+        {
+          "description": "Glass bottle",
+          "mid": "/m/089mxq",
+          "score": 0.9407148,
+          "topicality": 0.16247821
+        },
+        {
+          "description": "Drinkware",
+          "mid": "/m/050h26",
+          "score": 0.93573964,
+          "topicality": 0.00017811377
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.9212406,
+          "topicality": 0.007525824
+        },
+        {
+          "description": "Carbonated soft drinks",
+          "mid": "/m/059r7w6",
+          "score": 0.9120439,
+          "topicality": 0.005943711
+        },
+        {
+          "description": "Soft drink",
+          "mid": "/m/06qrr",
+          "score": 0.8956814,
+          "topicality": 0.10735993
+        },
+        {
+          "description": "Plastic bottle",
+          "mid": "/m/02rlncx",
+          "score": 0.85794765,
+          "topicality": 0.05080732
+        },
+        {
+          "description": "Glass",
+          "mid": "/m/039jq",
+          "score": 0.82154286,
+          "topicality": 0.1101381
+        },
+        {
+          "description": "Bottle cap",
+          "mid": "/m/02b389",
+          "score": 0.8170017,
+          "topicality": 0.0024788203
+        },
+        {
+          "description": "Cola",
+          "mid": "/m/023ls",
+          "score": 0.77770877,
+          "topicality": 0.38947412
+        }
+      ]
+    }
+  ]
+}

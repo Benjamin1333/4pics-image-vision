@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8527948,
+          "topicality": 0.015249439
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.72521955,
+          "topicality": 0.035952944
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.70885986,
+          "topicality": 0.00866903
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.69907576,
+          "topicality": 0.0037999626
+        },
+        {
+          "description": "Star",
+          "mid": "/m/06ngk",
+          "score": 0.60069156,
+          "topicality": 0.086459704
+        },
+        {
+          "description": "Lens flare",
+          "mid": "/m/017bm6",
+          "score": 0.5851214,
+          "topicality": 0.12173753
+        },
+        {
+          "description": "Visual Effect Lighting",
+          "mid": "/m/0h8n2vs",
+          "score": 0.57619506,
+          "topicality": 0.026519846
+        },
+        {
+          "description": "Sphere",
+          "mid": "/m/06y47",
+          "score": 0.52024,
+          "topicality": 0.012937518
+        },
+        {
+          "description": "Triangle",
+          "mid": "/m/07jx7",
+          "score": 0.5162898,
+          "topicality": 0.0007839578
+        }
+      ]
+    }
+  ]
+}

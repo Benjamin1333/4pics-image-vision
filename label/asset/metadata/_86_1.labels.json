@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.98873484,
+          "topicality": 0.015050452
+        },
+        {
+          "description": "Globe",
+          "mid": "/m/01q_cy",
+          "score": 0.9484726,
+          "topicality": 0.8435455
+        },
+        {
+          "description": "Earth",
+          "mid": "/m/02j71",
+          "score": 0.92462325,
+          "topicality": 0.6420428
+        },
+        {
+          "description": "Sphere",
+          "mid": "/m/06y47",
+          "score": 0.88851315,
+          "topicality": 0.13518769
+        },
+        {
+          "description": "Planet",
+          "mid": "/m/05qc_",
+          "score": 0.7546647,
+          "topicality": 0.17385824
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.6535155,
+          "topicality": 0.01623132
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6184846,
+          "topicality": 0.038749363
+        },
+        {
+          "description": "Map",
+          "mid": "/m/04_tb",
+          "score": 0.6105992,
+          "topicality": 0.037068337
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.5448951,
+          "topicality": 0.010066128
+        }
+      ]
+    }
+  ]
+}

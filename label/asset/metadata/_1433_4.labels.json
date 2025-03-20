@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.9348862,
+          "topicality": 0.16700873
+        },
+        {
+          "description": "Car door",
+          "mid": "/m/02q2kc3",
+          "score": 0.8517543,
+          "topicality": 0.005319476
+        },
+        {
+          "description": "Travel",
+          "mid": "/m/014dsx",
+          "score": 0.77596796,
+          "topicality": 0.11256291
+        },
+        {
+          "description": "Luxury vehicle",
+          "mid": "/m/01lcwm",
+          "score": 0.7116748,
+          "topicality": 0.0048459633
+        },
+        {
+          "description": "Classic car",
+          "mid": "/m/01xsb3",
+          "score": 0.67486715,
+          "topicality": 0.027334677
+        },
+        {
+          "description": "Foot",
+          "mid": "/m/031n1",
+          "score": 0.5942696,
+          "topicality": 0.013227835
+        },
+        {
+          "description": "Road trip",
+          "mid": "/m/0cnfpz",
+          "score": 0.54717046,
+          "topicality": 0.029697195
+        }
+      ]
+    }
+  ]
+}

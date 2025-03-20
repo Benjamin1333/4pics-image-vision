@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Headgear",
+          "mid": "/m/01443y",
+          "score": 0.94534945,
+          "topicality": 0.0024398386
+        },
+        {
+          "description": "Hat",
+          "mid": "/m/02dl1y",
+          "score": 0.9363592,
+          "topicality": 0.010742109
+        },
+        {
+          "description": "Overcoat",
+          "mid": "/m/03tvvb",
+          "score": 0.89086366,
+          "topicality": 0.0031254215
+        },
+        {
+          "description": "Cap",
+          "mid": "/m/02d46y",
+          "score": 0.8546305,
+          "topicality": 0.014345969
+        },
+        {
+          "description": "Facial hair",
+          "mid": "/m/0ds5b",
+          "score": 0.7857112,
+          "topicality": 0.0048718816
+        },
+        {
+          "description": "Frock coat",
+          "mid": "/m/04k9l1",
+          "score": 0.6480462,
+          "topicality": 0.0022578435
+        },
+        {
+          "description": "Moustache",
+          "mid": "/m/0bby24z",
+          "score": 0.62462217,
+          "topicality": 0.0049923137
+        },
+        {
+          "description": "Duster",
+          "mid": "/m/06h1x4",
+          "score": 0.6187446,
+          "topicality": 0.00014751095
+        },
+        {
+          "description": "Trench coat",
+          "mid": "/m/01wyb3",
+          "score": 0.5388732,
+          "topicality": 0.0002608735
+        }
+      ]
+    }
+  ]
+}

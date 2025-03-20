@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Musical instrument",
+          "mid": "/m/04szw",
+          "score": 0.9939596,
+          "topicality": 0.0563165
+        },
+        {
+          "description": "Violin family",
+          "mid": "/m/08wxk8",
+          "score": 0.99150455,
+          "topicality": 0.008322854
+        },
+        {
+          "description": "String instrument",
+          "mid": "/m/0d8lm",
+          "score": 0.98839647,
+          "topicality": 0.04027877
+        },
+        {
+          "description": "Chordophone",
+          "mid": "/m/011_f4",
+          "score": 0.9854835,
+          "topicality": 0.00032075844
+        },
+        {
+          "description": "Classical music",
+          "mid": "/m/0ggq0m",
+          "score": 0.97472364,
+          "topicality": 0.18440443
+        },
+        {
+          "description": "Music",
+          "mid": "/m/04rlf",
+          "score": 0.97312826,
+          "topicality": 0.28456622
+        },
+        {
+          "description": "Bowed string instrument",
+          "mid": "/m/0l14_3",
+          "score": 0.97168785,
+          "topicality": 0.005749524
+        },
+        {
+          "description": "Cello",
+          "mid": "/m/01xqw",
+          "score": 0.9630301,
+          "topicality": 0.27496105
+        },
+        {
+          "description": "Musician",
+          "mid": "/m/09jwl",
+          "score": 0.96178025,
+          "topicality": 0.27536395
+        },
+        {
+          "description": "Entertainment",
+          "mid": "/m/02jjt",
+          "score": 0.9461186,
+          "topicality": 0.0011573555
+        }
+      ]
+    }
+  ]
+}

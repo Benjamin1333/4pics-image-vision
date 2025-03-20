@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.81832814,
+          "topicality": 0.041965157
+        },
+        {
+          "description": "Cleanliness",
+          "mid": "/m/020s4p",
+          "score": 0.60441655,
+          "topicality": 0.00052099413
+        }
+      ]
+    }
+  ]
+}

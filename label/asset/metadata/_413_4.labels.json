@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Security",
+          "mid": "/m/0bg2p",
+          "score": 0.7258345,
+          "topicality": 0.25218037
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.63999337,
+          "topicality": 0.010586232
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6321868,
+          "topicality": 0.034406047
+        }
+      ]
+    }
+  ]
+}

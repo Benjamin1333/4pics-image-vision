@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Semi-submersible platform",
+          "mid": "/m/02_mqn",
+          "score": 0.9075304,
+          "topicality": 0.004747675
+        },
+        {
+          "description": "Offshore drilling",
+          "mid": "/m/02pyf50",
+          "score": 0.89177465,
+          "topicality": 0.23624262
+        },
+        {
+          "description": "Oil platform",
+          "mid": "/m/015st5",
+          "score": 0.8253305,
+          "topicality": 0.87231636
+        },
+        {
+          "description": "Wind",
+          "mid": "/m/03m9d0z",
+          "score": 0.6216701,
+          "topicality": 0.027809164
+        },
+        {
+          "description": "Drilling rig",
+          "mid": "/m/04lhjs",
+          "score": 0.6062354,
+          "topicality": 0.40218416
+        },
+        {
+          "description": "Storm",
+          "mid": "/m/0z71l",
+          "score": 0.565156,
+          "topicality": 0.004090253
+        },
+        {
+          "description": "Pollution",
+          "mid": "/m/066xq",
+          "score": 0.5492038,
+          "topicality": 0.01900195
+        },
+        {
+          "description": "Industry",
+          "mid": "/m/03rnh",
+          "score": 0.5468547,
+          "topicality": 0.023166735
+        },
+        {
+          "description": "Digital compositing",
+          "mid": "/m/02g49",
+          "score": 0.5212027,
+          "topicality": 0.00033160154
+        },
+        {
+          "description": "Petroleum",
+          "mid": "/m/05r_j",
+          "score": 0.5092973,
+          "topicality": 0.8197578
+        }
+      ]
+    }
+  ]
+}

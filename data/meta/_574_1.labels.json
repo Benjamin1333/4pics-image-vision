@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.97425234,
+          "topicality": 0.0668769
+        },
+        {
+          "description": "Cylinder",
+          "mid": "/m/03h_4m",
+          "score": 0.7261967,
+          "topicality": 0.15685084
+        },
+        {
+          "description": "Laboratory equipment",
+          "mid": "/m/03_5sv",
+          "score": 0.71217304,
+          "topicality": 0.0010362049
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.61914396,
+          "topicality": 0.017751623
+        },
+        {
+          "description": "Measuring instrument",
+          "mid": "/m/056hv",
+          "score": 0.5664753,
+          "topicality": 0.04294451
+        },
+        {
+          "description": "Thermometer",
+          "mid": "/m/07mf1",
+          "score": 0.546515,
+          "topicality": 0.41663796
+        },
+        {
+          "description": "Graduated cylinder",
+          "mid": "/m/0qm5d",
+          "score": 0.5051315,
+          "topicality": 0.1746032
+        }
+      ]
+    }
+  ]
+}

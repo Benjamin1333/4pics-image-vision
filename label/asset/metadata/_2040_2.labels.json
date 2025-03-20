@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Table",
+          "mid": "/m/04bcr3",
+          "score": 0.9116055,
+          "topicality": 0.002719844
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.8994715,
+          "topicality": 0.0062076994
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8596645,
+          "topicality": 0.051119477
+        },
+        {
+          "description": "Desk",
+          "mid": "/m/01y9k5",
+          "score": 0.83855844,
+          "topicality": 0.004679774
+        },
+        {
+          "description": "Management",
+          "mid": "/m/04_tv",
+          "score": 0.837521,
+          "topicality": 0.22958632
+        },
+        {
+          "description": "Learning",
+          "mid": "/m/0191f8",
+          "score": 0.8274748,
+          "topicality": 0.015152978
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.8177502,
+          "topicality": 0.0045374385
+        },
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.79977375,
+          "topicality": 0.057768922
+        },
+        {
+          "description": "Office Equipment",
+          "mid": "/m/03qtgjk",
+          "score": 0.79730296,
+          "topicality": 0.0012769627
+        },
+        {
+          "description": "Engineering",
+          "mid": "/m/02ky346",
+          "score": 0.75553685,
+          "topicality": 0.060312103
+        }
+      ]
+    }
+  ]
+}

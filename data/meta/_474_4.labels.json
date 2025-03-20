@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.9893497,
+          "topicality": 0.63053167
+        },
+        {
+          "description": "Banana",
+          "mid": "/m/09qck",
+          "score": 0.9841819,
+          "topicality": 0.873503
+        },
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.9824752,
+          "topicality": 0.40985242
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.9762461,
+          "topicality": 0.031883482
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.9734132,
+          "topicality": 0.005613194
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.9697942,
+          "topicality": 0.1903099
+        },
+        {
+          "description": "Cooking banana",
+          "mid": "/m/09qdd",
+          "score": 0.9513551,
+          "topicality": 0.22786248
+        },
+        {
+          "description": "Bananas",
+          "mid": "/m/013xk6",
+          "score": 0.9454639,
+          "topicality": 0.041484244
+        },
+        {
+          "description": "Matoke",
+          "mid": "/m/08q1pn",
+          "score": 0.8955233,
+          "topicality": 0.002038285
+        },
+        {
+          "description": "Seedless fruit",
+          "mid": "/m/0bvv45",
+          "score": 0.88327694,
+          "topicality": 0.0065072044
+        }
+      ]
+    }
+  ]
+}

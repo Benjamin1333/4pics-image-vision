@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Academic dress",
+          "mid": "/m/01xqvb",
+          "score": 0.9771905,
+          "topicality": 0.76921445
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.97610754,
+          "topicality": 0.0128802825
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9750258,
+          "topicality": 0.0020024842
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.9482593,
+          "topicality": 8.7867564e-05
+        },
+        {
+          "description": "Headgear",
+          "mid": "/m/01443y",
+          "score": 0.945449,
+          "topicality": 0.004907289
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94494003,
+          "topicality": 0.0013880577
+        },
+        {
+          "description": "Scholar",
+          "mid": "/m/05km25g",
+          "score": 0.9449396,
+          "topicality": 0.019440848
+        },
+        {
+          "description": "Satin",
+          "mid": "/m/02xhmrh",
+          "score": 0.8690691,
+          "topicality": 0.022588301
+        },
+        {
+          "description": "Student",
+          "mid": "/m/014cnc",
+          "score": 0.85320115,
+          "topicality": 0.05976681
+        },
+        {
+          "description": "Robe",
+          "mid": "/m/01k5yg",
+          "score": 0.8241839,
+          "topicality": 0.4790405
+        }
+      ]
+    }
+  ]
+}

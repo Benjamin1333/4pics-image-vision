@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bridge",
+          "mid": "/m/015kr",
+          "score": 0.99185044,
+          "topicality": 0.14867564
+        },
+        {
+          "description": "Nature",
+          "mid": "/m/05h0n",
+          "score": 0.9752155,
+          "topicality": 0.28123102
+        },
+        {
+          "description": "Arch bridge",
+          "mid": "/m/01v4lt",
+          "score": 0.9557798,
+          "topicality": 0.027603725
+        },
+        {
+          "description": "Reflection",
+          "mid": "/m/02l215",
+          "score": 0.9329826,
+          "topicality": 0.225695
+        },
+        {
+          "description": "Watercourse",
+          "mid": "/m/03kj4q",
+          "score": 0.9210059,
+          "topicality": 0.017303044
+        },
+        {
+          "description": "Arch",
+          "mid": "/m/0dpvm",
+          "score": 0.91367894,
+          "topicality": 0.012415676
+        },
+        {
+          "description": "Bank",
+          "mid": "/m/05t0z3q",
+          "score": 0.9123677,
+          "topicality": 0.010309068
+        },
+        {
+          "description": "River",
+          "mid": "/m/06cnp",
+          "score": 0.8709058,
+          "topicality": 0.055029012
+        },
+        {
+          "description": "Lake",
+          "mid": "/m/04h4w",
+          "score": 0.83935475,
+          "topicality": 0.21701582
+        },
+        {
+          "description": "Fluvial landforms of streams",
+          "mid": "/m/019gvf",
+          "score": 0.82691824,
+          "topicality": 0.0030250521
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Titanium",
+          "mid": "/m/025sk56",
+          "score": 0.5040342,
+          "topicality": 0.0010386477
+        },
+        {
+          "description": "Rock-climbing equipment",
+          "mid": "/m/021fpy",
+          "score": 0.50095564,
+          "topicality": 0.0043863333
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.9317887,
+          "topicality": 0.0019466574
+        },
+        {
+          "description": "Corded Phone",
+          "mid": "/m/0h8lkj8",
+          "score": 0.91979903,
+          "topicality": 0.12523353
+        },
+        {
+          "description": "Orange",
+          "mid": "/m/0jc_p",
+          "score": 0.90177935,
+          "topicality": 0.06550665
+        },
+        {
+          "description": "Telephony",
+          "mid": "/m/0bhmh",
+          "score": 0.89774233,
+          "topicality": 0.20505865
+        },
+        {
+          "description": "Telephone",
+          "mid": "/m/07cx4",
+          "score": 0.8951686,
+          "topicality": 0.7886029
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.78722817,
+          "topicality": 0.03698183
+        },
+        {
+          "description": "Communication Device",
+          "mid": "/m/0glmwd6",
+          "score": 0.76115483,
+          "topicality": 0.0006024595
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.72731507,
+          "topicality": 0.007873301
+        },
+        {
+          "description": "Office Equipment",
+          "mid": "/m/03qtgjk",
+          "score": 0.64520127,
+          "topicality": 0.0015126228
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.55937016,
+          "topicality": 0.004364083
+        }
+      ]
+    }
+  ]
+}

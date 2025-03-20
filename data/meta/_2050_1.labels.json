@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Exercise equipment",
+          "mid": "/m/090ljv",
+          "score": 0.9791053,
+          "topicality": 0.015616205
+        },
+        {
+          "description": "Exercise",
+          "mid": "/m/019w6h",
+          "score": 0.9611561,
+          "topicality": 0.68975
+        },
+        {
+          "description": "Physical fitness",
+          "mid": "/m/027x7n",
+          "score": 0.93778515,
+          "topicality": 0.49578518
+        },
+        {
+          "description": "Exercise ball",
+          "mid": "/m/05bvcl",
+          "score": 0.92601275,
+          "topicality": 0.7271766
+        },
+        {
+          "description": "Thigh",
+          "mid": "/m/01j04m",
+          "score": 0.90319306,
+          "topicality": 0.017280959
+        },
+        {
+          "description": "Ball",
+          "mid": "/m/018xm",
+          "score": 0.8913064,
+          "topicality": 0.4535378
+        },
+        {
+          "description": "Pilates",
+          "mid": "/m/02gy5l",
+          "score": 0.85756785,
+          "topicality": 0.29364508
+        },
+        {
+          "description": "Exercise machine",
+          "mid": "/m/097wsh",
+          "score": 0.84196967,
+          "topicality": 0.010779143
+        },
+        {
+          "description": "Muscle",
+          "mid": "/m/04_fs",
+          "score": 0.8384763,
+          "topicality": 0.021444812
+        },
+        {
+          "description": "Abdomen",
+          "mid": "/m/08y7p8",
+          "score": 0.83417886,
+          "topicality": 0.13782953
+        }
+      ]
+    }
+  ]
+}

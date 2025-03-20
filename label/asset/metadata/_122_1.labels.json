@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Vertebrate",
+          "mid": "/m/09686",
+          "score": 0.9622142,
+          "topicality": 0.008240698
+        },
+        {
+          "description": "Bat",
+          "mid": "/m/01h44",
+          "score": 0.9597912,
+          "topicality": 0.6982728
+        },
+        {
+          "description": "Terrestrial animal",
+          "mid": "/m/0fbf1m",
+          "score": 0.8302456,
+          "topicality": 0.0012368502
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.8211119,
+          "topicality": 0.0071258415
+        },
+        {
+          "description": "Wildlife",
+          "mid": "/m/01280g",
+          "score": 0.69964343,
+          "topicality": 0.003819344
+        },
+        {
+          "description": "Common pipistrelle",
+          "mid": "/m/074xb4",
+          "score": 0.6883719,
+          "topicality": 0.12704757
+        },
+        {
+          "description": "Big brown bat",
+          "mid": "/m/06m3_9",
+          "score": 0.6520265,
+          "topicality": 0.09365039
+        },
+        {
+          "description": "Mouse-eared bats",
+          "mid": "/m/070zwp",
+          "score": 0.64637136,
+          "topicality": 0.104857184
+        },
+        {
+          "description": "Common vampire bat",
+          "mid": "/m/079xgg",
+          "score": 0.60891604,
+          "topicality": 0.021987556
+        },
+        {
+          "description": "Little brown bat",
+          "mid": "/m/0b_xdx",
+          "score": 0.579885,
+          "topicality": 0.20632397
+        }
+      ]
+    }
+  ]
+}

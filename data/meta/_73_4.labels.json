@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.89877266,
+          "topicality": 0.024663612
+        },
+        {
+          "description": "Robe",
+          "mid": "/m/01k5yg",
+          "score": 0.89174163,
+          "topicality": 0.05435083
+        },
+        {
+          "description": "Linens",
+          "mid": "/m/06httj",
+          "score": 0.86553186,
+          "topicality": 0.0043852
+        },
+        {
+          "description": "Towel",
+          "mid": "/m/0162_1",
+          "score": 0.86109984,
+          "topicality": 0.52406406
+        },
+        {
+          "description": "Personal care",
+          "mid": "/m/02w3_ws",
+          "score": 0.67442036,
+          "topicality": 0.00749049
+        },
+        {
+          "description": "Nightwear",
+          "mid": "/m/02vzwz",
+          "score": 0.64938045,
+          "topicality": 0.0065765535
+        },
+        {
+          "description": "Wrap",
+          "mid": "/m/09v2ztm",
+          "score": 0.5696011,
+          "topicality": 0.0027235223
+        },
+        {
+          "description": "Household Supply",
+          "mid": "/m/0h8nt1x",
+          "score": 0.56678015,
+          "topicality": 0.0016108782
+        },
+        {
+          "description": "Cleaner",
+          "mid": "/m/02pnv61",
+          "score": 0.55934864,
+          "topicality": 0.027452122
+        },
+        {
+          "description": "Foot",
+          "mid": "/m/031n1",
+          "score": 0.53923404,
+          "topicality": 0.008402774
+        }
+      ]
+    }
+  ]
+}

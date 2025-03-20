@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.90789634,
+          "topicality": 0.031585548
+        },
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.850735,
+          "topicality": 0.13766797
+        },
+        {
+          "description": "Student",
+          "mid": "/m/014cnc",
+          "score": 0.81987184,
+          "topicality": 0.023771435
+        },
+        {
+          "description": "School uniform",
+          "mid": "/m/0fg3h",
+          "score": 0.75756115,
+          "topicality": 0.00023076664
+        },
+        {
+          "description": "Management",
+          "mid": "/m/04_tv",
+          "score": 0.7277219,
+          "topicality": 0.091019504
+        },
+        {
+          "description": "Classroom",
+          "mid": "/m/04hyxm",
+          "score": 0.66279495,
+          "topicality": 0.002751862
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.6607018,
+          "topicality": 0.012442502
+        },
+        {
+          "description": "Academic institution",
+          "mid": "/m/06bdpk",
+          "score": 0.6488976,
+          "topicality": 0.0005119846
+        },
+        {
+          "description": "Peripheral",
+          "mid": "/m/0ggnq",
+          "score": 0.6315837,
+          "topicality": 0.00031021482
+        },
+        {
+          "description": "Learning",
+          "mid": "/m/0191f8",
+          "score": 0.6186038,
+          "topicality": 0.0035932714
+        }
+      ]
+    }
+  ]
+}

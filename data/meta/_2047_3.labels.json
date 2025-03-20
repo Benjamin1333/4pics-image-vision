@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Swimming pool",
+          "mid": "/m/0b_rs",
+          "score": 0.9126777,
+          "topicality": 0.53354955
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.7561969,
+          "topicality": 0.023778634
+        },
+        {
+          "description": "Jumping into the pool",
+          "mid": "/j/fpk0yc",
+          "score": 0.7003518,
+          "topicality": 0.007502291
+        },
+        {
+          "description": "Springboard",
+          "mid": "/m/068fmf",
+          "score": 0.6336617,
+          "topicality": 0.7957983
+        }
+      ]
+    }
+  ]
+}

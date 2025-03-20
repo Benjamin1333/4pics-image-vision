@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Astronomical object",
+          "mid": "/m/01d9ll",
+          "score": 0.94844216,
+          "topicality": 0.14722243
+        },
+        {
+          "description": "Outer space",
+          "mid": "/m/01833w",
+          "score": 0.92030764,
+          "topicality": 0.1790859
+        },
+        {
+          "description": "Universe",
+          "mid": "/m/07v7c",
+          "score": 0.8719335,
+          "topicality": 0.15894586
+        },
+        {
+          "description": "Astronomy",
+          "mid": "/m/0dc_v",
+          "score": 0.8518312,
+          "topicality": 0.099687204
+        },
+        {
+          "description": "Planet",
+          "mid": "/m/05qc_",
+          "score": 0.7775891,
+          "topicality": 0.20707159
+        },
+        {
+          "description": "Meteoroid",
+          "mid": "/m/0h3j0",
+          "score": 0.7165594,
+          "topicality": 0.5808777
+        },
+        {
+          "description": "Earth",
+          "mid": "/m/02j71",
+          "score": 0.6765061,
+          "topicality": 0.7333257
+        },
+        {
+          "description": "Star",
+          "mid": "/m/06ngk",
+          "score": 0.6423372,
+          "topicality": 0.03621681
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.62083966,
+          "topicality": 0.051150683
+        },
+        {
+          "description": "Sun",
+          "mid": "/m/06m_p",
+          "score": 0.5575199,
+          "topicality": 0.09541985
+        }
+      ]
+    }
+  ]
+}

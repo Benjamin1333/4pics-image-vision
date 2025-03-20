@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hard hat",
+          "mid": "/m/01n5_8",
+          "score": 0.97544825,
+          "topicality": 0.4984758
+        },
+        {
+          "description": "Construction worker",
+          "mid": "/m/047x57",
+          "score": 0.95279497,
+          "topicality": 0.7085329
+        },
+        {
+          "description": "Collar",
+          "mid": "/m/091410",
+          "score": 0.94337726,
+          "topicality": 0.00046352376
+        },
+        {
+          "description": "Engineer",
+          "mid": "/m/09j9h",
+          "score": 0.9180405,
+          "topicality": 0.20315538
+        },
+        {
+          "description": "Personal protective equipment",
+          "mid": "/m/0ffjr",
+          "score": 0.90146416,
+          "topicality": 0.0239486
+        },
+        {
+          "description": "Helmet",
+          "mid": "/m/0zvk5",
+          "score": 0.86063015,
+          "topicality": 0.22320497
+        },
+        {
+          "description": "Blue-collar worker",
+          "mid": "/m/01kq3f",
+          "score": 0.80675375,
+          "topicality": 0.19183932
+        },
+        {
+          "description": "Workwear",
+          "mid": "/m/026lc7w",
+          "score": 0.7985019,
+          "topicality": 0.012638341
+        },
+        {
+          "description": "Tradesman",
+          "mid": "/m/01jp3p",
+          "score": 0.74321145,
+          "topicality": 0.08885458
+        },
+        {
+          "description": "Plaid",
+          "mid": "/m/0177t1",
+          "score": 0.64070225,
+          "topicality": 7.3054616e-05
+        }
+      ]
+    }
+  ]
+}

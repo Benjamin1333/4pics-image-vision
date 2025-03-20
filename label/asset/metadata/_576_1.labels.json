@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Elbow",
+          "mid": "/m/01vm1p",
+          "score": 0.9056548,
+          "topicality": 0.0025054903
+        },
+        {
+          "description": "Cleanliness",
+          "mid": "/m/020s4p",
+          "score": 0.5673312,
+          "topicality": 0.00011605317
+        }
+      ]
+    }
+  ]
+}

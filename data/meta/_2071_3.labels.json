@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blackboard",
+          "mid": "/m/02kdvj",
+          "score": 0.7836012,
+          "topicality": 0.02875187
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.7712195,
+          "topicality": 0.0322809
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.6145494,
+          "topicality": 0.024492512
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.5922475,
+          "topicality": 0.059280254
+        },
+        {
+          "description": "Student",
+          "mid": "/m/014cnc",
+          "score": 0.55440927,
+          "topicality": 0.14274916
+        },
+        {
+          "description": "Classroom",
+          "mid": "/m/04hyxm",
+          "score": 0.5102586,
+          "topicality": 0.02669423
+        }
+      ]
+    }
+  ]
+}

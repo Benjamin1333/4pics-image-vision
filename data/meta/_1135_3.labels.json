@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Rock",
+          "mid": "/m/01cbzq",
+          "score": 0.91918916,
+          "topicality": 0.03556674
+        },
+        {
+          "description": "Metalworking hand tool",
+          "mid": "/m/07vc4v",
+          "score": 0.8472816,
+          "topicality": 0.0002813339
+        },
+        {
+          "description": "Hand tool",
+          "mid": "/m/01yc83",
+          "score": 0.8383377,
+          "topicality": 0.030807195
+        },
+        {
+          "description": "Bedrock",
+          "mid": "/m/0308t8",
+          "score": 0.81709677,
+          "topicality": 0.00017390819
+        },
+        {
+          "description": "Tool",
+          "mid": "/m/07k1x",
+          "score": 0.7853004,
+          "topicality": 0.28948048
+        },
+        {
+          "description": "Rubble",
+          "mid": "/m/08qrwn",
+          "score": 0.77622104,
+          "topicality": 0.0044654002
+        },
+        {
+          "description": "Natural material",
+          "mid": "/m/07sx2n",
+          "score": 0.76420254,
+          "topicality": 4.352628e-05
+        },
+        {
+          "description": "Household hardware",
+          "mid": "/m/03jvk",
+          "score": 0.67737997,
+          "topicality": 0.00084108405
+        },
+        {
+          "description": "Building material",
+          "mid": "/m/02cr01",
+          "score": 0.67473465,
+          "topicality": 0.0011356927
+        },
+        {
+          "description": "Rust",
+          "mid": "/m/06lml",
+          "score": 0.6729113,
+          "topicality": 0.071740665
+        }
+      ]
+    }
+  ]
+}

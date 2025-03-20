@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Erg",
+          "mid": "/m/0d79jq",
+          "score": 0.9828502,
+          "topicality": 0.3881408
+        },
+        {
+          "description": "Desert",
+          "mid": "/m/0284w",
+          "score": 0.9814734,
+          "topicality": 0.7399669
+        },
+        {
+          "description": "Natural environment",
+          "mid": "/m/02py09",
+          "score": 0.97576594,
+          "topicality": 0.022770235
+        },
+        {
+          "description": "Dune",
+          "mid": "/m/026dd",
+          "score": 0.9756346,
+          "topicality": 0.58262247
+        },
+        {
+          "description": "Aeolian landform",
+          "mid": "/m/04gvhhy",
+          "score": 0.9709803,
+          "topicality": 0.037144203
+        },
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.96128947,
+          "topicality": 0.005196139
+        },
+        {
+          "description": "Sand",
+          "mid": "/m/099fz",
+          "score": 0.9507303,
+          "topicality": 0.5419705
+        },
+        {
+          "description": "Landscape",
+          "mid": "/m/025s3q0",
+          "score": 0.93739015,
+          "topicality": 0.062578015
+        },
+        {
+          "description": "Ecoregion",
+          "mid": "/m/0cblv",
+          "score": 0.91932607,
+          "topicality": 0.0011592683
+        },
+        {
+          "description": "Singing sand",
+          "mid": "/m/0194v4",
+          "score": 0.91432995,
+          "topicality": 0.029077688
+        }
+      ]
+    }
+  ]
+}

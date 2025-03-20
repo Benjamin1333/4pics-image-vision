@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Telephony",
+          "mid": "/m/0bhmh",
+          "score": 0.9563302,
+          "topicality": 0.15568087
+        },
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.93138564,
+          "topicality": 0.00043506976
+        },
+        {
+          "description": "Telephone",
+          "mid": "/m/07cx4",
+          "score": 0.92400223,
+          "topicality": 0.92871666
+        },
+        {
+          "description": "Corded Phone",
+          "mid": "/m/0h8lkj8",
+          "score": 0.9027355,
+          "topicality": 0.18608287
+        },
+        {
+          "description": "Communication Device",
+          "mid": "/m/0glmwd6",
+          "score": 0.902036,
+          "topicality": 8.076775e-05
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.6452504,
+          "topicality": 0.003764271
+        }
+      ]
+    }
+  ]
+}

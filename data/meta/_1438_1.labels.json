@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Eyewear",
+          "mid": "/m/0j272k5",
+          "score": 0.99593455,
+          "topicality": 0.12978065
+        },
+        {
+          "description": "Glasses",
+          "mid": "/m/0jyfg",
+          "score": 0.9877628,
+          "topicality": 0.7949757
+        },
+        {
+          "description": "Vision Care",
+          "mid": "/m/0h8jxfl",
+          "score": 0.98616004,
+          "topicality": 0.0051451577
+        },
+        {
+          "description": "Eyebrow",
+          "mid": "/m/027n3_",
+          "score": 0.9858797,
+          "topicality": 0.019929372
+        },
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.98479605,
+          "topicality": 0.02134885
+        },
+        {
+          "description": "Beauty",
+          "mid": "/m/01f43",
+          "score": 0.94783545,
+          "topicality": 0.09061237
+        },
+        {
+          "description": "Fashion",
+          "mid": "/m/032tl",
+          "score": 0.94718176
+        },
+        {
+          "description": "Eyelash",
+          "mid": "/m/03f52z",
+          "score": 0.9337039,
+          "topicality": 0.0085586775
+        },
+        {
+          "description": "Lipstick",
+          "mid": "/m/06c7f7",
+          "score": 0.84285873,
+          "topicality": 0.0015272466
+        },
+        {
+          "description": "Goggles",
+          "mid": "/m/02_n6y",
+          "score": 0.8121667,
+          "topicality": 0.014751597
+        }
+      ]
+    }
+  ]
+}

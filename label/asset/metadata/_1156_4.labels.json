@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Jewel Case",
+          "mid": "/m/0h8kwjk",
+          "score": 0.6225958,
+          "topicality": 0.27706218
+        },
+        {
+          "description": "Data storage",
+          "mid": "/m/06_6r",
+          "score": 0.54738766,
+          "topicality": 0.020293564
+        }
+      ]
+    }
+  ]
+}

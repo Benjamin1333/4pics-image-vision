@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.98885006,
+          "topicality": 0.07802002
+        },
+        {
+          "description": "Bird",
+          "mid": "/m/015p6",
+          "score": 0.97937244,
+          "topicality": 0.6152005
+        },
+        {
+          "description": "Vertebrate",
+          "mid": "/m/09686",
+          "score": 0.9594061,
+          "topicality": 0.0017510827
+        },
+        {
+          "description": "Wing",
+          "mid": "/m/083s2",
+          "score": 0.93790257,
+          "topicality": 0.021170747
+        },
+        {
+          "description": "Beak",
+          "mid": "/m/01c4rd",
+          "score": 0.85156953,
+          "topicality": 0.020648444
+        },
+        {
+          "description": "Feather",
+          "mid": "/m/0dfgf",
+          "score": 0.8319753,
+          "topicality": 0.0048810886
+        },
+        {
+          "description": "Flight",
+          "mid": "/m/01515d",
+          "score": 0.71968126,
+          "topicality": 0.17442566
+        },
+        {
+          "description": "Wire",
+          "mid": "/m/083kv",
+          "score": 0.6359093,
+          "topicality": 0.0039383657
+        },
+        {
+          "description": "Wind",
+          "mid": "/m/03m9d0z",
+          "score": 0.5537452,
+          "topicality": 0.010260831
+        },
+        {
+          "description": "Electrical cable",
+          "mid": "/m/0bmz2",
+          "score": 0.52823424,
+          "topicality": 1.6215562e-06
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Mint",
+          "mid": "/m/04sg5",
+          "score": 0.84645915,
+          "topicality": 0.56901646
+        },
+        {
+          "description": "Fines herbes",
+          "mid": "/m/01bp4g",
+          "score": 0.7647291,
+          "topicality": 0.011833921
+        },
+        {
+          "description": "Peppermint",
+          "mid": "/m/05s38",
+          "score": 0.7407814,
+          "topicality": 0.615885
+        },
+        {
+          "description": "Leaf vegetable",
+          "mid": "/m/05f725",
+          "score": 0.73543894,
+          "topicality": 0.00876093
+        },
+        {
+          "description": "Herb",
+          "mid": "/m/03gq1",
+          "score": 0.65433615,
+          "topicality": 0.38657197
+        },
+        {
+          "description": "Herbal",
+          "mid": "/m/02kdzb",
+          "score": 0.6082871,
+          "topicality": 0.00038306424
+        },
+        {
+          "description": "Candyleaf",
+          "mid": "/m/0g8n6t1",
+          "score": 0.60137826,
+          "topicality": 0.050214596
+        },
+        {
+          "description": "Basil",
+          "mid": "/m/01yt8c",
+          "score": 0.59047246,
+          "topicality": 0.30718243
+        },
+        {
+          "description": "Mint",
+          "mid": "/m/03c_6l",
+          "score": 0.5530023,
+          "topicality": 0.048878405
+        },
+        {
+          "description": "Urticaceae",
+          "mid": "/m/01_2jf",
+          "score": 0.5236597,
+          "topicality": 0.0005479377
+        }
+      ]
+    }
+  ]
+}

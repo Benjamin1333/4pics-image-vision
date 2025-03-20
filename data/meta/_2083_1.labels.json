@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Metropolitan area",
+          "mid": "/m/0j_s4",
+          "score": 0.9285406,
+          "topicality": 0.025961857
+        },
+        {
+          "description": "Bridge",
+          "mid": "/m/015kr",
+          "score": 0.919747,
+          "topicality": 0.036402475
+        },
+        {
+          "description": "Landmark",
+          "mid": "/m/05_5t0l",
+          "score": 0.90982634,
+          "topicality": 0.05895703
+        },
+        {
+          "description": "Night",
+          "mid": "/m/01d74z",
+          "score": 0.9088627,
+          "topicality": 0.06789971
+        },
+        {
+          "description": "Metropolis",
+          "mid": "/m/056mk",
+          "score": 0.8910333,
+          "topicality": 0.11322631
+        },
+        {
+          "description": "Tourist attraction",
+          "mid": "/m/0pgl9",
+          "score": 0.8776434,
+          "topicality": 0.16389576
+        },
+        {
+          "description": "List of nonbuilding structure types",
+          "mid": "/m/0df8xq",
+          "score": 0.80197805,
+          "topicality": 0.00036351418
+        },
+        {
+          "description": "Cityscape",
+          "mid": "/m/034z7h",
+          "score": 0.79706377,
+          "topicality": 0.03783877
+        },
+        {
+          "description": "Evening",
+          "mid": "/m/04mx32",
+          "score": 0.7747843,
+          "topicality": 0.0147120785
+        },
+        {
+          "description": "High-rise building",
+          "mid": "/m/0vlys",
+          "score": 0.6796796,
+          "topicality": 0.0038211315
+        }
+      ]
+    }
+  ]
+}

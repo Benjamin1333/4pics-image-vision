@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Audio equipment",
+          "mid": "/m/01yttv",
+          "score": 0.9625415,
+          "topicality": 0.011099226
+        },
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.96120375,
+          "topicality": 0.0005554401
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.88738537,
+          "topicality": 0.020949943
+        },
+        {
+          "description": "Electronics",
+          "mid": "/m/02mrp",
+          "score": 0.85982984,
+          "topicality": 0.035971485
+        },
+        {
+          "description": "Studio",
+          "mid": "/m/035zq3",
+          "score": 0.8561811,
+          "topicality": 0.12920067
+        },
+        {
+          "description": "Mixing console",
+          "mid": "/m/01bfwv",
+          "score": 0.853956,
+          "topicality": 0.5336168
+        },
+        {
+          "description": "Recording",
+          "mid": "/m/025l19",
+          "score": 0.62488925,
+          "topicality": 0.23437883
+        },
+        {
+          "description": "Electronic musical instrument",
+          "mid": "/m/02qjv",
+          "score": 0.6162757,
+          "topicality": 0.011429969
+        },
+        {
+          "description": "Recording studio",
+          "mid": "/m/01j3j8",
+          "score": 0.5708301,
+          "topicality": 0.4079164
+        },
+        {
+          "description": "Still life photography",
+          "mid": "/m/027_ny3",
+          "score": 0.56051594,
+          "topicality": 5.5920802e-05
+        }
+      ]
+    }
+  ]
+}

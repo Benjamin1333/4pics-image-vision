@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Smoke",
+          "mid": "/m/06q40",
+          "score": 0.782253,
+          "topicality": 0.12885368
+        },
+        {
+          "description": "Lens flare",
+          "mid": "/m/017bm6",
+          "score": 0.6350352,
+          "topicality": 0.0050068735
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.56653243,
+          "topicality": 0.053944595
+        },
+        {
+          "description": "Night",
+          "mid": "/m/01d74z",
+          "score": 0.5326514,
+          "topicality": 0.013400177
+        },
+        {
+          "description": "Flashlight",
+          "mid": "/m/01kb5b",
+          "score": 0.51434004,
+          "topicality": 0.004263556
+        }
+      ]
+    }
+  ]
+}

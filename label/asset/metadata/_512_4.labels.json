@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Factory",
+          "mid": "/m/0168g6",
+          "score": 0.7131552,
+          "topicality": 0.40463856
+        },
+        {
+          "description": "Assembly line",
+          "mid": "/m/0mfz",
+          "score": 0.5804565,
+          "topicality": 0.62392396
+        },
+        {
+          "description": "Workshop",
+          "mid": "/m/026zs_",
+          "score": 0.5664163,
+          "topicality": 0.017261961
+        },
+        {
+          "description": "Sedan",
+          "mid": "/m/021mp2",
+          "score": 0.5548041,
+          "topicality": 0.0033999905
+        },
+        {
+          "description": "Industry",
+          "mid": "/m/03rnh",
+          "score": 0.5250109,
+          "topicality": 0.18473645
+        },
+        {
+          "description": "Kit car",
+          "mid": "/m/0gm56",
+          "score": 0.5147513,
+          "topicality": 6.252027e-05
+        }
+      ]
+    }
+  ]
+}

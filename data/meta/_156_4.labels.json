@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Spa",
+          "mid": "/m/05jh_c",
+          "score": 0.96287614,
+          "topicality": 0.5085461
+        },
+        {
+          "description": "Massage",
+          "mid": "/m/0b_nd",
+          "score": 0.94961923,
+          "topicality": 0.86576664
+        },
+        {
+          "description": "Therapy",
+          "mid": "/m/03c1dkx",
+          "score": 0.8707704,
+          "topicality": 0.31283867
+        },
+        {
+          "description": "Beauty salon",
+          "mid": "/m/0569zg",
+          "score": 0.78856975,
+          "topicality": 0.09725081
+        },
+        {
+          "description": "Massage table",
+          "mid": "/m/027b95w",
+          "score": 0.69326824,
+          "topicality": 0.069065176
+        },
+        {
+          "description": "Chiropractor",
+          "mid": "/m/02h6nbj",
+          "score": 0.5384212,
+          "topicality": 0.010433611
+        },
+        {
+          "description": "Jasmine",
+          "mid": "/m/0p83l",
+          "score": 0.514971,
+          "topicality": 0.00062017515
+        },
+        {
+          "description": "Geraniums",
+          "mid": "/m/01y1_z",
+          "score": 0.5038497,
+          "topicality": 6.022617e-05
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sheep",
+          "mid": "/m/07bgp",
+          "score": 0.97983456,
+          "topicality": 0.41974673
+        },
+        {
+          "description": "Herd",
+          "mid": "/m/03vd46",
+          "score": 0.9685961,
+          "topicality": 0.41755417
+        },
+        {
+          "description": "Vertebrate",
+          "mid": "/m/09686",
+          "score": 0.9624019,
+          "topicality": 0.002650861
+        },
+        {
+          "description": "Ovis",
+          "mid": "/m/08hhz2",
+          "score": 0.94997627,
+          "topicality": 0.27404928
+        },
+        {
+          "description": "Terrestrial animal",
+          "mid": "/m/0fbf1m",
+          "score": 0.9321064,
+          "topicality": 0.0035039575
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.9021305,
+          "topicality": 0.0014429896
+        },
+        {
+          "description": "Pasture",
+          "mid": "/m/01gd91",
+          "score": 0.8881788,
+          "topicality": 0.1223871
+        },
+        {
+          "description": "Livestock",
+          "mid": "/m/0ch8v",
+          "score": 0.86728626,
+          "topicality": 0.15392996
+        },
+        {
+          "description": "Farm",
+          "mid": "/m/0g8p9",
+          "score": 0.79463893,
+          "topicality": 0.019089594
+        },
+        {
+          "description": "Wildlife",
+          "mid": "/m/01280g",
+          "score": 0.75273585,
+          "topicality": 0.004274458
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Insect",
+          "mid": "/m/03vt0",
+          "score": 0.98671573,
+          "topicality": 0.2167753
+        },
+        {
+          "description": "Arthropod",
+          "mid": "/m/0zkm",
+          "score": 0.9608223,
+          "topicality": 0.023891179
+        },
+        {
+          "description": "Mosquito",
+          "mid": "/m/09f96",
+          "score": 0.9122471,
+          "topicality": 0.9094186
+        },
+        {
+          "description": "Pest",
+          "mid": "/m/01dqkc",
+          "score": 0.8892247,
+          "topicality": 0.047323726
+        },
+        {
+          "description": "Fly",
+          "mid": "/m/0h2mp",
+          "score": 0.79379964,
+          "topicality": 0.23310302
+        },
+        {
+          "description": "Macro photography",
+          "mid": "/m/03rbf6",
+          "score": 0.7306105,
+          "topicality": 0.012241849
+        },
+        {
+          "description": "Parasitism",
+          "mid": "/m/0b_l7",
+          "score": 0.66242707,
+          "topicality": 0.038726825
+        },
+        {
+          "description": "Hymenopterans",
+          "mid": "/m/03mp1",
+          "score": 0.63506395,
+          "topicality": 0.0005097828
+        },
+        {
+          "description": "Net-winged insects",
+          "mid": "/m/02c4kg",
+          "score": 0.5158703,
+          "topicality": 0.00021189242
+        },
+        {
+          "description": "Long-legged flies",
+          "mid": "/m/0fmrlk",
+          "score": 0.5131997,
+          "topicality": 0.0047575883
+        }
+      ]
+    }
+  ]
+}

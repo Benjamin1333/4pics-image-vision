@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Turnstile",
+          "mid": "/m/0209pm",
+          "score": 0.92481077,
+          "topicality": 0.9933406
+        },
+        {
+          "description": "Security",
+          "mid": "/m/0bg2p",
+          "score": 0.54614,
+          "topicality": 0.13814637
+        }
+      ]
+    }
+  ]
+}

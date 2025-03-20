@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.9893914,
+          "topicality": 0.17999564
+        },
+        {
+          "description": "Fluid",
+          "mid": "/m/02yfx",
+          "score": 0.9559586,
+          "topicality": 0.00762691
+        },
+        {
+          "description": "Wave",
+          "mid": "/m/02p0sll",
+          "score": 0.94282866,
+          "topicality": 0.5283025
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.9351476,
+          "topicality": 0.5640047
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.9215204,
+          "topicality": 0.0028402405
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.90161127,
+          "topicality": 0.4852432
+        },
+        {
+          "description": "Wind wave",
+          "mid": "/m/034srq",
+          "score": 0.8892123,
+          "topicality": 0.4609994
+        },
+        {
+          "description": "Wind",
+          "mid": "/m/03m9d0z",
+          "score": 0.66819453,
+          "topicality": 0.024592152
+        }
+      ]
+    }
+  ]
+}

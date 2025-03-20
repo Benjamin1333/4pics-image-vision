@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9778058,
+          "topicality": 0.2921713
+        },
+        {
+          "description": "Heart",
+          "mid": "/m/07bg4p",
+          "score": 0.96620077,
+          "topicality": 0.6917962
+        },
+        {
+          "description": "Love",
+          "mid": "/m/048knlz",
+          "score": 0.90168077,
+          "topicality": 0.31439033
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.79386836,
+          "topicality": 0.1344005
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.64795417,
+          "topicality": 0.014129074
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.64247376,
+          "topicality": 0.044783276
+        },
+        {
+          "description": "Card game",
+          "mid": "/m/01mtt",
+          "score": 0.60383904,
+          "topicality": 0.07847698
+        },
+        {
+          "description": "Heart",
+          "mid": "/m/095_n",
+          "score": 0.51008475,
+          "topicality": 0.34964392
+        }
+      ]
+    }
+  ]
+}

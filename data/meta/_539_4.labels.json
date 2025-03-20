@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Football",
+          "mid": "/m/02vx4",
+          "score": 0.7705569,
+          "topicality": 0.48424265
+        },
+        {
+          "description": "Football player",
+          "mid": "/m/0gl2ny2",
+          "score": 0.66751224,
+          "topicality": 0.080078036
+        },
+        {
+          "description": "Sports venue",
+          "mid": "/m/0bmgjqz",
+          "score": 0.6364787,
+          "topicality": 0.002331461
+        },
+        {
+          "description": "Ball",
+          "mid": "/m/018xm",
+          "score": 0.58232474,
+          "topicality": 0.1389348
+        },
+        {
+          "description": "Football",
+          "mid": "/m/01226z",
+          "score": 0.57937336,
+          "topicality": 0.05557472
+        },
+        {
+          "description": "Soccer player",
+          "mid": "/m/0pcq81q",
+          "score": 0.5475202,
+          "topicality": 0.016464816
+        }
+      ]
+    }
+  ]
+}

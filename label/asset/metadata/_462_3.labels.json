@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Physical fitness",
+          "mid": "/m/027x7n",
+          "score": 0.97880894,
+          "topicality": 0.5346695
+        },
+        {
+          "description": "Exercise",
+          "mid": "/m/019w6h",
+          "score": 0.97666854,
+          "topicality": 0.4947641
+        },
+        {
+          "description": "Exercise equipment",
+          "mid": "/m/090ljv",
+          "score": 0.9003584,
+          "topicality": 0.010919383
+        },
+        {
+          "description": "Exercise machine",
+          "mid": "/m/097wsh",
+          "score": 0.8610389,
+          "topicality": 0.011808288
+        },
+        {
+          "description": "Gym",
+          "mid": "/m/016yx7",
+          "score": 0.8457669,
+          "topicality": 0.44102433
+        },
+        {
+          "description": "Professional fitness coach",
+          "mid": "/m/0bxzbs3",
+          "score": 0.81565076,
+          "topicality": 0.09339677
+        },
+        {
+          "description": "Thorax",
+          "mid": "/m/0dzdr",
+          "score": 0.80406624,
+          "topicality": 0.002920854
+        },
+        {
+          "description": "Training",
+          "mid": "/m/014jg3",
+          "score": 0.7540804,
+          "topicality": 0.29787222
+        },
+        {
+          "description": "Balloon",
+          "mid": "/m/01j51",
+          "score": 0.7149555,
+          "topicality": 0.0001892386
+        },
+        {
+          "description": "Circuit training",
+          "mid": "/m/09z1ww",
+          "score": 0.7138723,
+          "topicality": 0.0068372223
+        }
+      ]
+    }
+  ]
+}

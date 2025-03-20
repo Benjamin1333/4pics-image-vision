@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.98934364,
+          "topicality": 0.041675966
+        },
+        {
+          "description": "Daytime",
+          "mid": "/m/02q7ylj",
+          "score": 0.9810729,
+          "topicality": 0.006863437
+        },
+        {
+          "description": "Glass",
+          "mid": "/m/039jq",
+          "score": 0.89707214,
+          "topicality": 0.22127335
+        },
+        {
+          "description": "Reflection",
+          "mid": "/m/02l215",
+          "score": 0.8576912,
+          "topicality": 0.1191831
+        },
+        {
+          "description": "Commercial building",
+          "mid": "/m/05hg54",
+          "score": 0.85498166,
+          "topicality": 0.028927764
+        },
+        {
+          "description": "Engineering",
+          "mid": "/m/02ky346",
+          "score": 0.7851133,
+          "topicality": 0.018764433
+        },
+        {
+          "description": "High-rise building",
+          "mid": "/m/0vlys",
+          "score": 0.72689384,
+          "topicality": 0.038218766
+        },
+        {
+          "description": "Symmetry",
+          "mid": "/m/0f28m",
+          "score": 0.6894125,
+          "topicality": 0.0072572324
+        },
+        {
+          "description": "Headquarters",
+          "mid": "/m/037rzs",
+          "score": 0.66255254,
+          "topicality": 0.016992254
+        },
+        {
+          "description": "Skyscraper",
+          "mid": "/m/079cl",
+          "score": 0.6534476,
+          "topicality": 0.21762654
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Dog Bed",
+          "mid": "/m/0h8n6f9",
+          "score": 0.9238139,
+          "topicality": 0.8051015
+        },
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.92086416,
+          "topicality": 0.067960665
+        },
+        {
+          "description": "Pet Supply",
+          "mid": "/m/0h8ks17",
+          "score": 0.90456796,
+          "topicality": 0.0006538783
+        },
+        {
+          "description": "Cat Bed",
+          "mid": "/m/0h8n6b3",
+          "score": 0.81322944,
+          "topicality": 0.12405086
+        },
+        {
+          "description": "Cat",
+          "mid": "/m/01yrx",
+          "score": 0.7672089,
+          "topicality": 0.37069216
+        },
+        {
+          "description": "Fur",
+          "mid": "/m/0cnmr",
+          "score": 0.7641453,
+          "topicality": 0.0037280312
+        },
+        {
+          "description": "Cat Supply",
+          "mid": "/m/0h8n00v",
+          "score": 0.74166346,
+          "topicality": 0.0011110981
+        },
+        {
+          "description": "Dog Supply",
+          "mid": "/m/0h8nm96",
+          "score": 0.726355,
+          "topicality": 0.00027278115
+        },
+        {
+          "description": "Felinae",
+          "mid": "/m/07k6w8",
+          "score": 0.57079524,
+          "topicality": 0.0016709438
+        },
+        {
+          "description": "Polka dot",
+          "mid": "/m/04vtz0",
+          "score": 0.5559221,
+          "topicality": 0.02454948
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Football",
+          "mid": "/m/01226z",
+          "score": 0.9843122,
+          "topicality": 0.4282531
+        },
+        {
+          "description": "Ball",
+          "mid": "/m/018xm",
+          "score": 0.9764249,
+          "topicality": 0.47674552
+        },
+        {
+          "description": "Football",
+          "mid": "/m/02vx4",
+          "score": 0.9748768,
+          "topicality": 0.87270087
+        },
+        {
+          "description": "Player",
+          "mid": "/m/02vzx9",
+          "score": 0.9630794,
+          "topicality": 0.15003923
+        },
+        {
+          "description": "Soccer player",
+          "mid": "/m/0pcq81q",
+          "score": 0.9628523,
+          "topicality": 0.0535558
+        },
+        {
+          "description": "Soccer ball",
+          "mid": "/m/0dpm1v",
+          "score": 0.95775926,
+          "topicality": 0.3161785
+        },
+        {
+          "description": "Jersey",
+          "mid": "/m/02h00q",
+          "score": 0.9400368,
+          "topicality": 0.0010454253
+        },
+        {
+          "description": "Ball game",
+          "mid": "/m/020m7t",
+          "score": 0.92916095,
+          "topicality": 0.042033605
+        },
+        {
+          "description": "Sports equipment",
+          "mid": "/m/05y5lj",
+          "score": 0.92607516,
+          "topicality": 0.01865613
+        },
+        {
+          "description": "Football player",
+          "mid": "/m/0gl2ny2",
+          "score": 0.9051239,
+          "topicality": 0.48742968
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9443796,
+          "topicality": 0.0013226292
+        },
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.9426592,
+          "topicality": 0.0004548189
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.9309918,
+          "topicality": 0.028387636
+        },
+        {
+          "description": "Eyelash",
+          "mid": "/m/03f52z",
+          "score": 0.91081613,
+          "topicality": 7.487514e-05
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.88771725,
+          "topicality": 0.14894885
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.86130995,
+          "topicality": 0.0071475594
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8457657,
+          "topicality": 0.011017136
+        },
+        {
+          "description": "Electrical cable",
+          "mid": "/m/0bmz2",
+          "score": 0.7928363,
+          "topicality": 0.010642698
+        },
+        {
+          "description": "Blond",
+          "mid": "/m/0294jb",
+          "score": 0.7728742,
+          "topicality": 0.0005760001
+        },
+        {
+          "description": "Brown hair",
+          "mid": "/m/02ksmb",
+          "score": 0.7650363,
+          "topicality": 0.000111161244
+        }
+      ]
+    }
+  ]
+}

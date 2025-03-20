@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Brain",
+          "mid": "/m/017cc",
+          "score": 0.8193342,
+          "topicality": 0.7365115
+        },
+        {
+          "description": "Brain",
+          "mid": "/m/04n0b__",
+          "score": 0.66073847,
+          "topicality": 0.01151074
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6059395,
+          "topicality": 0.008982179
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.57814556,
+          "topicality": 0.037878666
+        }
+      ]
+    }
+  ]
+}

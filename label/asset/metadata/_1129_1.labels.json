@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "People",
+          "mid": "/m/09g5pq",
+          "score": 0.99432856,
+          "topicality": 0.0014843513
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.98560476,
+          "topicality": 0.017594099
+        },
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.9847889,
+          "topicality": 0.012757895
+        },
+        {
+          "description": "Forehead",
+          "mid": "/m/025kyy",
+          "score": 0.98069495,
+          "topicality": 0.026291082
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.9669825,
+          "topicality": 0.05086728
+        },
+        {
+          "description": "Jaw",
+          "mid": "/m/01k9lj",
+          "score": 0.96510524,
+          "topicality": 0.010931431
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.944949,
+          "topicality": 0.008763792
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.93557835,
+          "topicality": 0.08709493
+        },
+        {
+          "description": "Eyelash",
+          "mid": "/m/03f52z",
+          "score": 0.89708483,
+          "topicality": 0.00092204084
+        },
+        {
+          "description": "Love",
+          "mid": "/m/048knlz",
+          "score": 0.87527895,
+          "topicality": 0.13094577
+        }
+      ]
+    }
+  ]
+}

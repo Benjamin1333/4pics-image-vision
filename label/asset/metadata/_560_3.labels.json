@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Flooring",
+          "mid": "/m/01c34b",
+          "score": 0.92049885,
+          "topicality": 0.014497583
+        },
+        {
+          "description": "Floor",
+          "mid": "/m/0l7_8",
+          "score": 0.897963,
+          "topicality": 0.12100478
+        },
+        {
+          "description": "Grey",
+          "mid": "/m/036k5h",
+          "score": 0.8293831,
+          "topicality": 0.007012375
+        },
+        {
+          "description": "Tile",
+          "mid": "/m/021w6f",
+          "score": 0.69408983,
+          "topicality": 0.036631808
+        },
+        {
+          "description": "Shadow",
+          "mid": "/m/01ft8k",
+          "score": 0.5964558,
+          "topicality": 0.011971531
+        }
+      ]
+    }
+  ]
+}

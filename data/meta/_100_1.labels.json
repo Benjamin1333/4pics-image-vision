@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Audio equipment",
+          "mid": "/m/01yttv",
+          "score": 0.98923564,
+          "topicality": 0.007200996
+        },
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.9780953,
+          "topicality": 0.0026245664
+        },
+        {
+          "description": "Hand",
+          "mid": "/m/0k65p",
+          "score": 0.97075,
+          "topicality": 0.03619259
+        },
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.96526784,
+          "topicality": 0.011435714
+        },
+        {
+          "description": "Microphone",
+          "mid": "/m/0hg7b",
+          "score": 0.9543587,
+          "topicality": 0.5299788
+        },
+        {
+          "description": "Formal wear",
+          "mid": "/m/02w3_2",
+          "score": 0.9308033,
+          "topicality": 0.0009693423
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8739034,
+          "topicality": 0.0056896866
+        },
+        {
+          "description": "Public address system",
+          "mid": "/m/02jf2p",
+          "score": 0.8698695,
+          "topicality": 0.014026939
+        },
+        {
+          "description": "Thumb",
+          "mid": "/m/01bmhj",
+          "score": 0.83785874,
+          "topicality": 0.0058751972
+        },
+        {
+          "description": "Blazer",
+          "mid": "/m/04xz_5",
+          "score": 0.83115214,
+          "topicality": 0.0002386095
+        }
+      ]
+    }
+  ]
+}

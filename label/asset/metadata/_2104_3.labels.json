@@ -1,0 +1,43 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "V sign",
+          "mid": "/m/01zf7q",
+          "score": 0.9762152,
+          "topicality": 0.7370515
+        },
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9646922,
+          "topicality": 0.015516039
+        },
+        {
+          "description": "Peace symbols",
+          "mid": "/m/01psxn",
+          "score": 0.87688833,
+          "topicality": 0.44627288
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.84929717,
+          "topicality": 0.3511088
+        },
+        {
+          "description": "Sign language",
+          "mid": "/m/06x0q",
+          "score": 0.68466514,
+          "topicality": 0.31064254
+        },
+        {
+          "description": "Peace",
+          "mid": "/m/065jp",
+          "score": 0.557058
+        }
+      ]
+    }
+  ]
+}

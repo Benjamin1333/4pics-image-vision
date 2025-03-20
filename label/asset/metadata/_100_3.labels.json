@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9758359,
+          "topicality": 0.15741718
+        },
+        {
+          "description": "Flower bouquet",
+          "mid": "/m/02p6k8p",
+          "score": 0.9247098,
+          "topicality": 0.023834102
+        },
+        {
+          "description": "Love",
+          "mid": "/m/048knlz",
+          "score": 0.9054907,
+          "topicality": 0.47448245
+        },
+        {
+          "description": "Flower Arranging",
+          "mid": "/m/0ggjrhd",
+          "score": 0.8887925,
+          "topicality": 0.00038677626
+        },
+        {
+          "description": "Petal",
+          "mid": "/m/016q19",
+          "score": 0.8862371,
+          "topicality": 0.0026625225
+        },
+        {
+          "description": "Floristry",
+          "mid": "/m/02hcw1",
+          "score": 0.88446635,
+          "topicality": 0.006104036
+        },
+        {
+          "description": "Cut flowers",
+          "mid": "/m/0ds61d1",
+          "score": 0.87403816,
+          "topicality": 0.004155281
+        },
+        {
+          "description": "Artificial flower",
+          "mid": "/m/07sg02",
+          "score": 0.7917274,
+          "topicality": 0.0003839312
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.7479842,
+          "topicality": 0.0045670285
+        },
+        {
+          "description": "Romance",
+          "mid": "/m/01pxgq",
+          "score": 0.730116,
+          "topicality": 0.24501239
+        }
+      ]
+    }
+  ]
+}

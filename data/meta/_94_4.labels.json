@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Eyewear",
+          "mid": "/m/0j272k5",
+          "score": 0.9954831,
+          "topicality": 0.0030585518
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.9924313,
+          "topicality": 0.27990893
+        },
+        {
+          "description": "Glasses",
+          "mid": "/m/0jyfg",
+          "score": 0.9869074,
+          "topicality": 0.12136938
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9863918,
+          "topicality": 0.15077619
+        },
+        {
+          "description": "Vision Care",
+          "mid": "/m/0h8jxfl",
+          "score": 0.9849638,
+          "topicality": 0.0006323682
+        },
+        {
+          "description": "Sleeve",
+          "mid": "/m/062581",
+          "score": 0.98451746,
+          "topicality": 0.00037974384
+        },
+        {
+          "description": "Forehead",
+          "mid": "/m/025kyy",
+          "score": 0.9815044,
+          "topicality": 0.01589473
+        },
+        {
+          "description": "Mouth",
+          "mid": "/m/0283dt1",
+          "score": 0.9560811,
+          "topicality": 0.04103914
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94494975,
+          "topicality": 0.24869335
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.935054,
+          "topicality": 0.1508476
+        }
+      ]
+    }
+  ]
+}

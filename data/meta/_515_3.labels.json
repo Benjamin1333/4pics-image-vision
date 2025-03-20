@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Elbow",
+          "mid": "/m/01vm1p",
+          "score": 0.893592,
+          "topicality": 0.0119593935
+        },
+        {
+          "description": "Wrist",
+          "mid": "/m/01j48b",
+          "score": 0.8790862,
+          "topicality": 0.0145884715
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.8482318,
+          "topicality": 0.0309186
+        },
+        {
+          "description": "Active Shirt",
+          "mid": "/m/0hgnxbq",
+          "score": 0.8236314,
+          "topicality": 0.00016822694
+        },
+        {
+          "description": "Crew cut",
+          "mid": "/m/03gj44",
+          "score": 0.52698743,
+          "topicality": 0.0032903806
+        },
+        {
+          "description": "Caesar cut",
+          "mid": "/m/06j1y6",
+          "score": 0.5160321,
+          "topicality": 0.0008615177
+        }
+      ]
+    }
+  ]
+}

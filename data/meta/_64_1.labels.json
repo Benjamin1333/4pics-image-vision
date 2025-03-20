@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Coffee",
+          "mid": "/m/02vqfm",
+          "score": 0.96366096,
+          "topicality": 0.926436
+        },
+        {
+          "description": "Java coffee",
+          "mid": "/m/046ry",
+          "score": 0.954861,
+          "topicality": 0.029600816
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.94391423,
+          "topicality": 0.0044923024
+        },
+        {
+          "description": "Jamaican Blue Mountain Coffee",
+          "mid": "/m/07kzj3",
+          "score": 0.8856081,
+          "topicality": 0.039463267
+        },
+        {
+          "description": "Kona coffee",
+          "mid": "/m/067b2y",
+          "score": 0.87526965,
+          "topicality": 0.0059148553
+        },
+        {
+          "description": "Drinkware",
+          "mid": "/m/050h26",
+          "score": 0.85895205,
+          "topicality": 0.0003537509
+        },
+        {
+          "description": "Cup",
+          "mid": "/m/07ptj3n",
+          "score": 0.84864736,
+          "topicality": 0.0003564929
+        },
+        {
+          "description": "Serveware",
+          "mid": "/m/0h8n22v",
+          "score": 0.8352402,
+          "topicality": 4.6040943e-05
+        },
+        {
+          "description": "Kapeng barako",
+          "mid": "/m/0gdt_0",
+          "score": 0.8237471,
+          "topicality": 0.022796417
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.81097996,
+          "topicality": 0.02687752
+        }
+      ]
+    }
+  ]
+}

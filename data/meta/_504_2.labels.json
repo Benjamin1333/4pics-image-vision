@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Salt",
+          "mid": "/m/06vrz",
+          "score": 0.9371845,
+          "topicality": 0.6166601
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9332019,
+          "topicality": 0.059150815
+        },
+        {
+          "description": "Table salt",
+          "mid": "/m/05g0_z",
+          "score": 0.91178745,
+          "topicality": 0.8808953
+        },
+        {
+          "description": "Saccharin",
+          "mid": "/m/01vs2h",
+          "score": 0.89105177,
+          "topicality": 0.009061394
+        },
+        {
+          "description": "Sea salt",
+          "mid": "/m/01hm70",
+          "score": 0.8909383,
+          "topicality": 0.57170045
+        },
+        {
+          "description": "Sodium chloride",
+          "mid": "/m/0ksgj",
+          "score": 0.87764657,
+          "topicality": 0.32165852
+        },
+        {
+          "description": "Table sugar",
+          "mid": "/m/0dcfv",
+          "score": 0.8675368,
+          "topicality": 0.042133246
+        },
+        {
+          "description": "Seasoning",
+          "mid": "/m/0dwpk",
+          "score": 0.8628216,
+          "topicality": 0.036783315
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.8176772,
+          "topicality": 0.13930571
+        },
+        {
+          "description": "Spice",
+          "mid": "/m/06p35",
+          "score": 0.81640977,
+          "topicality": 0.04409012
+        }
+      ]
+    }
+  ]
+}

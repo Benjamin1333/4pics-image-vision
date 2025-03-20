@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Swimsuit Top",
+          "mid": "/m/0hgslft",
+          "score": 0.97985166,
+          "topicality": 0.0011152936
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.977303,
+          "topicality": 0.14486217
+        },
+        {
+          "description": "Bra",
+          "mid": "/m/01gmv2",
+          "score": 0.9773005,
+          "topicality": 0.96169597
+        },
+        {
+          "description": "Undergarment",
+          "mid": "/m/09j1x",
+          "score": 0.97152877,
+          "topicality": 0.645777
+        },
+        {
+          "description": "Lingerie",
+          "mid": "/m/09hyx",
+          "score": 0.9599938,
+          "topicality": 0.43345127
+        },
+        {
+          "description": "Bikini",
+          "mid": "/m/01g8j",
+          "score": 0.9510055,
+          "topicality": 0.07376132
+        },
+        {
+          "description": "Lingerie Top",
+          "mid": "/m/0h8k6fc",
+          "score": 0.9392848,
+          "topicality": 0.005316732
+        },
+        {
+          "description": "Swimsuit",
+          "mid": "/m/01gkx_",
+          "score": 0.93310666,
+          "topicality": 0.03658854
+        },
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.9297817,
+          "topicality": 0.13894843
+        },
+        {
+          "description": "Active Undergarment",
+          "mid": "/m/0hgp2z7",
+          "score": 0.89457136,
+          "topicality": 0.00042650403
+        }
+      ]
+    }
+  ]
+}

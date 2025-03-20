@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.9891581,
+          "topicality": 0.002229826
+        },
+        {
+          "description": "Hammock",
+          "mid": "/m/01q8_b",
+          "score": 0.98585147,
+          "topicality": 0.8075003
+        },
+        {
+          "description": "Beach",
+          "mid": "/m/0b3yr",
+          "score": 0.9627456,
+          "topicality": 0.6710149
+        },
+        {
+          "description": "Summer",
+          "mid": "/m/078qz",
+          "score": 0.9405124,
+          "topicality": 0.112483695
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.9070489,
+          "topicality": 0.18704835
+        },
+        {
+          "description": "Coastal and oceanic landforms",
+          "mid": "/m/02c9_23",
+          "score": 0.9025393,
+          "topicality": 0.00019249378
+        },
+        {
+          "description": "Caribbean",
+          "mid": "/m/0261m",
+          "score": 0.88763976,
+          "topicality": 0.23505518
+        },
+        {
+          "description": "Tropics",
+          "mid": "/m/0hl08",
+          "score": 0.88010114,
+          "topicality": 0.4339981
+        },
+        {
+          "description": "Coast",
+          "mid": "/m/01lxd",
+          "score": 0.858269,
+          "topicality": 0.0171938
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.84747463,
+          "topicality": 0.03568894
+        }
+      ]
+    }
+  ]
+}

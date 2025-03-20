@@ -1,0 +1,14 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Steering wheel",
+          "mid": "/m/03b6_4",
+          "score": 0.5311244,
+          "topicality": 0.002592283
+        }
+      ]
+    }
+  ]
+}

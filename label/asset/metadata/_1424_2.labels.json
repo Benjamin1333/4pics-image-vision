@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.96013016,
+          "topicality": 0.01371972
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94482607,
+          "topicality": 0.00020702364
+        },
+        {
+          "description": "Party",
+          "mid": "/m/05_4_",
+          "score": 0.8953324,
+          "topicality": 0.38727105
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.87828624,
+          "topicality": 0.0045371167
+        },
+        {
+          "description": "Alcoholic drink",
+          "mid": "/m/012mj",
+          "score": 0.83785814,
+          "topicality": 0.033058293
+        },
+        {
+          "description": "Bachelorette party",
+          "mid": "/m/051518",
+          "score": 0.8202233,
+          "topicality": 0.3843789
+        },
+        {
+          "description": "Liquor",
+          "mid": "/m/04shl0",
+          "score": 0.8034823,
+          "topicality": 0.001167865
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.7795122,
+          "topicality": 0.0017815148
+        },
+        {
+          "description": "Cosmetics",
+          "mid": "/m/014trl",
+          "score": 0.7026903,
+          "topicality": 0.007595172
+        },
+        {
+          "description": "Cocktail",
+          "mid": "/m/024g6",
+          "score": 0.69640356,
+          "topicality": 0.014166617
+        }
+      ]
+    }
+  ]
+}

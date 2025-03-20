@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Handshake",
+          "mid": "/m/016133",
+          "score": 0.9250607,
+          "topicality": 0.88916016
+        },
+        {
+          "description": "Greeting",
+          "mid": "/m/02q2qc",
+          "score": 0.90028626,
+          "topicality": 0.109030806
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.90012676,
+          "topicality": 0.005192704
+        },
+        {
+          "description": "Holding hands",
+          "mid": "/m/01613k",
+          "score": 0.84153724,
+          "topicality": 0.011041114
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.7943747,
+          "topicality": 0.0034987484
+        },
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.7834859,
+          "topicality": 0.02731433
+        },
+        {
+          "description": "Collaboration",
+          "mid": "/m/01s560",
+          "score": 0.7795098,
+          "topicality": 0.19329324
+        },
+        {
+          "description": "Management",
+          "mid": "/m/04_tv",
+          "score": 0.7775358,
+          "topicality": 0.12123197
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.70815885,
+          "topicality": 0.18335696
+        },
+        {
+          "description": "Meeting",
+          "mid": "/m/01h6cb",
+          "score": 0.6112181,
+          "topicality": 0.10028011
+        }
+      ]
+    }
+  ]
+}

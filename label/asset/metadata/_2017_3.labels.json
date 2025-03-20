@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Tableware",
+          "mid": "/m/04brg2",
+          "score": 0.94652265,
+          "topicality": 0.006428783
+        },
+        {
+          "description": "Serveware",
+          "mid": "/m/0h8n22v",
+          "score": 0.9268161,
+          "topicality": 0.0032780727
+        },
+        {
+          "description": "Cup",
+          "mid": "/m/07ptj3n",
+          "score": 0.9081174,
+          "topicality": 0.004002753
+        },
+        {
+          "description": "Drinkware",
+          "mid": "/m/050h26",
+          "score": 0.9004324,
+          "topicality": 0.0070481305
+        },
+        {
+          "description": "Coffee filter",
+          "mid": "/m/01rw56",
+          "score": 0.831116,
+          "topicality": 0.86438006
+        },
+        {
+          "description": "Dishware",
+          "mid": "/m/0h8nvk9",
+          "score": 0.67257446,
+          "topicality": 2.6037018e-05
+        },
+        {
+          "description": "Coffee cup",
+          "mid": "/m/02p5f1q",
+          "score": 0.64629614,
+          "topicality": 0.20523113
+        },
+        {
+          "description": "Teacup",
+          "mid": "/m/03q5fj",
+          "score": 0.6143113,
+          "topicality": 0.031518184
+        },
+        {
+          "description": "Cup",
+          "mid": "/m/08gqpm",
+          "score": 0.585427,
+          "topicality": 0.09215894
+        },
+        {
+          "description": "Coffee",
+          "mid": "/m/02vqfm",
+          "score": 0.5847435,
+          "topicality": 0.7557779
+        }
+      ]
+    }
+  ]
+}

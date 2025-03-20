@@ -1,0 +1,14 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Cleanliness",
+          "mid": "/m/020s4p",
+          "score": 0.64076155,
+          "topicality": 0.043975692
+        }
+      ]
+    }
+  ]
+}

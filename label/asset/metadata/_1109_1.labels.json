@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Phonograph record",
+          "mid": "/m/0174nj",
+          "score": 0.84536344,
+          "topicality": 0.7525797
+        },
+        {
+          "description": "Data storage",
+          "mid": "/m/06_6r",
+          "score": 0.50134933,
+          "topicality": 0.0017310107
+        }
+      ]
+    }
+  ]
+}

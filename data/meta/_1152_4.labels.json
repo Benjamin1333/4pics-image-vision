@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Shorts",
+          "mid": "/m/01bfm9",
+          "score": 0.9819486,
+          "topicality": 0.018179243
+        },
+        {
+          "description": "Footwear",
+          "mid": "/m/09j5n",
+          "score": 0.9709258,
+          "topicality": 0.004418202
+        },
+        {
+          "description": "Shoe",
+          "mid": "/m/06rrc",
+          "score": 0.9665445,
+          "topicality": 0.0072707557
+        },
+        {
+          "description": "Racket",
+          "mid": "/m/0dv9c",
+          "score": 0.9661463,
+          "topicality": 0.1328376
+        },
+        {
+          "description": "Racquet sport",
+          "mid": "/m/01qhp_",
+          "score": 0.96309936,
+          "topicality": 0.034439616
+        },
+        {
+          "description": "Tennis player",
+          "mid": "/m/02xhr73",
+          "score": 0.9607847,
+          "topicality": 0.23326513
+        },
+        {
+          "description": "Ball game",
+          "mid": "/m/020m7t",
+          "score": 0.9596237,
+          "topicality": 0.0176757
+        },
+        {
+          "description": "Player",
+          "mid": "/m/02vzx9",
+          "score": 0.959009,
+          "topicality": 0.05622974
+        },
+        {
+          "description": "Tennis Racket",
+          "mid": "/m/0h8my_4",
+          "score": 0.94966096,
+          "topicality": 0.020198401
+        },
+        {
+          "description": "Sports Uniform",
+          "mid": "/m/0h8mhzd",
+          "score": 0.94543415,
+          "topicality": 0.00074416597
+        }
+      ]
+    }
+  ]
+}

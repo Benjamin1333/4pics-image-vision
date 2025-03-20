@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.8823017,
+          "topicality": 0.0069590076
+        },
+        {
+          "description": "Writing implement",
+          "mid": "/m/06wybl",
+          "score": 0.86992073,
+          "topicality": 0.0035231705
+        },
+        {
+          "description": "Pen",
+          "mid": "/m/0k1tl",
+          "score": 0.74175596,
+          "topicality": 0.05248494
+        },
+        {
+          "description": "Office Instrument",
+          "mid": "/m/0h8m01z",
+          "score": 0.72476965,
+          "topicality": 0.0005691363
+        },
+        {
+          "description": "Stationery",
+          "mid": "/m/01cndb",
+          "score": 0.66980183,
+          "topicality": 0.007252259
+        },
+        {
+          "description": "Ballpoint pen",
+          "mid": "/m/01f_5",
+          "score": 0.6440038,
+          "topicality": 0.0099014845
+        },
+        {
+          "description": "Document",
+          "mid": "/m/015bv3",
+          "score": 0.64388293,
+          "topicality": 0.1373428
+        }
+      ]
+    }
+  ]
+}

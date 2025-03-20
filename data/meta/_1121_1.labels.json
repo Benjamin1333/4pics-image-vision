@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Camera",
+          "mid": "/m/0dv5r",
+          "score": 0.9921703,
+          "topicality": 0.5779163
+        },
+        {
+          "description": "Cameras & optics",
+          "mid": "/m/0ggjh_8",
+          "score": 0.99208003,
+          "topicality": 0.0043449597
+        },
+        {
+          "description": "Digital camera",
+          "mid": "/m/0dw7n",
+          "score": 0.97844654,
+          "topicality": 0.11698831
+        },
+        {
+          "description": "Photographer",
+          "mid": "/m/0lgw7",
+          "score": 0.9686537,
+          "topicality": 0.60352844
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.96587455,
+          "topicality": 0.009450947
+        },
+        {
+          "description": "Reflex camera",
+          "mid": "/m/0118ms9c",
+          "score": 0.96499974,
+          "topicality": 0.17009008
+        },
+        {
+          "description": "Camera lens",
+          "mid": "/m/01bjxx",
+          "score": 0.95601416,
+          "topicality": 0.036613844
+        },
+        {
+          "description": "Lens",
+          "mid": "/m/04n4x",
+          "score": 0.95557475,
+          "topicality": 0.039341513
+        },
+        {
+          "description": "Single-lens reflex camera",
+          "mid": "/m/07bjf",
+          "score": 0.95484245,
+          "topicality": 0.21434075
+        },
+        {
+          "description": "Digital SLR",
+          "mid": "/m/04f20t",
+          "score": 0.948145,
+          "topicality": 0.3484087
+        }
+      ]
+    }
+  ]
+}

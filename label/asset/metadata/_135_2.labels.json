@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Chordophone",
+          "mid": "/m/011_f4",
+          "score": 0.98493826,
+          "topicality": 0.0010157408
+        },
+        {
+          "description": "String instrument",
+          "mid": "/m/0d8lm",
+          "score": 0.9812778,
+          "topicality": 0.044512656
+        },
+        {
+          "description": "Guitar",
+          "mid": "/m/0342h",
+          "score": 0.97819525,
+          "topicality": 0.5279321
+        },
+        {
+          "description": "Musical instrument",
+          "mid": "/m/04szw",
+          "score": 0.976679,
+          "topicality": 0.044497408
+        },
+        {
+          "description": "Entertainment",
+          "mid": "/m/02jjt",
+          "score": 0.97358924,
+          "topicality": 0.03122726
+        },
+        {
+          "description": "Plucked string instrument",
+          "mid": "/m/0fx80y",
+          "score": 0.97268575,
+          "topicality": 0.007845107
+        },
+        {
+          "description": "Guitarist",
+          "mid": "/m/039v1",
+          "score": 0.97091025,
+          "topicality": 0.13638902
+        },
+        {
+          "description": "Performing Arts",
+          "mid": "/m/05qjc",
+          "score": 0.9569421,
+          "topicality": 0.014457919
+        },
+        {
+          "description": "Music",
+          "mid": "/m/04rlf",
+          "score": 0.94610614,
+          "topicality": 0.32534638
+        },
+        {
+          "description": "Musician",
+          "mid": "/m/09jwl",
+          "score": 0.94210094,
+          "topicality": 0.1158102
+        }
+      ]
+    }
+  ]
+}

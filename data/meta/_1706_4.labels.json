@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Square academic cap",
+          "mid": "/m/01v4sn",
+          "score": 0.9593858,
+          "topicality": 0.73227924
+        },
+        {
+          "description": "Academic dress",
+          "mid": "/m/01xqvb",
+          "score": 0.92329085,
+          "topicality": 0.05987322
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.8404336,
+          "topicality": 0.0026055684
+        },
+        {
+          "description": "Scholar",
+          "mid": "/m/05km25g",
+          "score": 0.7868475,
+          "topicality": 0.0656427
+        },
+        {
+          "description": "Graduation ceremony",
+          "mid": "/m/016c3c",
+          "score": 0.6839926,
+          "topicality": 0.6743745
+        },
+        {
+          "description": "Education",
+          "mid": "/m/02jfc",
+          "score": 0.63743895,
+          "topicality": 0.5214037
+        },
+        {
+          "description": "Doctor of Philosophy",
+          "mid": "/m/04zx3q1",
+          "score": 0.60260767,
+          "topicality": 0.23709524
+        },
+        {
+          "description": "Student",
+          "mid": "/m/014cnc",
+          "score": 0.55789626,
+          "topicality": 0.35986793
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.539311,
+          "topicality": 0.014972825
+        },
+        {
+          "description": "Diploma",
+          "mid": "/m/01ysy9",
+          "score": 0.51324606,
+          "topicality": 0.295432
+        }
+      ]
+    }
+  ]
+}

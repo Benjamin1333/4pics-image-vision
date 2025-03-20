@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Farmworker",
+          "mid": "/m/02qn83t",
+          "score": 0.96557194,
+          "topicality": 0.043472562
+        },
+        {
+          "description": "Agriculture",
+          "mid": "/m/0hkf",
+          "score": 0.9530965,
+          "topicality": 0.21276914
+        },
+        {
+          "description": "Field",
+          "mid": "/m/0brn2d",
+          "score": 0.9204974,
+          "topicality": 0.13452789
+        },
+        {
+          "description": "Plantation",
+          "mid": "/m/011yvr",
+          "score": 0.9073933,
+          "topicality": 0.02430111
+        },
+        {
+          "description": "Crop",
+          "mid": "/m/0263lr1",
+          "score": 0.9043592,
+          "topicality": 0.20297493
+        },
+        {
+          "description": "Agriculturist",
+          "mid": "/m/0g0vx",
+          "score": 0.88350034,
+          "topicality": 0.18951619
+        },
+        {
+          "description": "Farm",
+          "mid": "/m/0g8p9",
+          "score": 0.80176747,
+          "topicality": 0.0078167645
+        }
+      ]
+    }
+  ]
+}

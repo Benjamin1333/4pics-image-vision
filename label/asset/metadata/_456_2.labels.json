@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Boat",
+          "mid": "/m/019jd",
+          "score": 0.8836774,
+          "topicality": 0.1435904
+        },
+        {
+          "description": "Shipwreck",
+          "mid": "/m/01nzyt",
+          "score": 0.8751143,
+          "topicality": 0.9682498
+        },
+        {
+          "description": "Watercraft",
+          "mid": "/m/01rzcn",
+          "score": 0.8364677,
+          "topicality": 0.044199042
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.81811047,
+          "topicality": 0.18132648
+        },
+        {
+          "description": "Sand",
+          "mid": "/m/099fz",
+          "score": 0.78623104,
+          "topicality": 0.04008763
+        },
+        {
+          "description": "Beach",
+          "mid": "/m/0b3yr",
+          "score": 0.76906854,
+          "topicality": 0.16312395
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.7572038,
+          "topicality": 0.0445855
+        },
+        {
+          "description": "Ship",
+          "mid": "/m/06q74",
+          "score": 0.73422015,
+          "topicality": 0.5429654
+        },
+        {
+          "description": "Naval architecture",
+          "mid": "/m/0k5qm",
+          "score": 0.5885518,
+          "topicality": 0.00068482023
+        },
+        {
+          "description": "Rust",
+          "mid": "/m/06lml",
+          "score": 0.5515953,
+          "topicality": 0.03393928
+        }
+      ]
+    }
+  ]
+}

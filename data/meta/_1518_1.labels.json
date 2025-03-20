@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Combat vehicle",
+          "mid": "/m/0gvss07",
+          "score": 0.9837775,
+          "topicality": 0.24624489
+        },
+        {
+          "description": "Tank",
+          "mid": "/m/07cmd",
+          "score": 0.9723572,
+          "topicality": 0.9191059
+        },
+        {
+          "description": "Self-propelled artillery",
+          "mid": "/m/0728h",
+          "score": 0.94017524,
+          "topicality": 0.028922796
+        },
+        {
+          "description": "Military vehicle",
+          "mid": "/m/0g54v5d",
+          "score": 0.89709955,
+          "topicality": 0.122032486
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.82981724,
+          "topicality": 0.014977813
+        },
+        {
+          "description": "Armored car",
+          "mid": "/m/0y8r",
+          "score": 0.7922462,
+          "topicality": 0.031987295
+        },
+        {
+          "description": "Gun turret",
+          "mid": "/m/05t_pq",
+          "score": 0.7112844,
+          "topicality": 0.29624012
+        },
+        {
+          "description": "Gun barrel",
+          "mid": "/m/02zn54",
+          "score": 0.62351483,
+          "topicality": 0.0019161134
+        },
+        {
+          "description": "Military",
+          "mid": "/m/01h6rj",
+          "score": 0.57883775,
+          "topicality": 0.17916775
+        }
+      ]
+    }
+  ]
+}

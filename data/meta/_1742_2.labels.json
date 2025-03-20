@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9776885,
+          "topicality": 0.134359
+        },
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9656583,
+          "topicality": 0.027619911
+        },
+        {
+          "description": "Heart",
+          "mid": "/m/07bg4p",
+          "score": 0.93896043,
+          "topicality": 0.5996793
+        },
+        {
+          "description": "Love",
+          "mid": "/m/048knlz",
+          "score": 0.81186694,
+          "topicality": 0.39601403
+        },
+        {
+          "description": "Heart",
+          "mid": "/m/095_n",
+          "score": 0.5124388,
+          "topicality": 0.916097
+        }
+      ]
+    }
+  ]
+}

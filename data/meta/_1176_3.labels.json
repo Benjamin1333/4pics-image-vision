@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9796157,
+          "topicality": 0.062501214
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9449084,
+          "topicality": 0.000757285
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.92485857,
+          "topicality": 0.0016945762
+        },
+        {
+          "description": "Love",
+          "mid": "/m/048knlz",
+          "score": 0.7788586,
+          "topicality": 0.052810747
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.7383038,
+          "topicality": 0.0026553553
+        },
+        {
+          "description": "Grandparent",
+          "mid": "/m/03c866",
+          "score": 0.73787314,
+          "topicality": 0.36412233
+        },
+        {
+          "description": "Wrinkle",
+          "mid": "/m/02_x63",
+          "score": 0.6481731,
+          "topicality": 0.015472565
+        },
+        {
+          "description": "Laughter",
+          "mid": "/m/01j3sz",
+          "score": 0.57373494,
+          "topicality": 0.035164606
+        },
+        {
+          "description": "Hearing",
+          "mid": "/m/01wymn",
+          "score": 0.5446792,
+          "topicality": 0.071274675
+        },
+        {
+          "description": "Retirement home",
+          "mid": "/m/05bq6s",
+          "score": 0.5409792,
+          "topicality": 0.23108788
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bird",
+          "mid": "/m/015p6",
+          "score": 0.99059045,
+          "topicality": 0.3405272
+        },
+        {
+          "description": "Swans",
+          "mid": "/m/0dftk",
+          "score": 0.9792655,
+          "topicality": 0.9185602
+        },
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.97141904,
+          "topicality": 0.24576679
+        },
+        {
+          "description": "Beak",
+          "mid": "/m/01c4rd",
+          "score": 0.968272,
+          "topicality": 0.053544708
+        },
+        {
+          "description": "Vertebrate",
+          "mid": "/m/09686",
+          "score": 0.9593579,
+          "topicality": 0.0026881762
+        },
+        {
+          "description": "Ducks",
+          "mid": "/m/01c_0l",
+          "score": 0.95795476,
+          "topicality": 0.026269669
+        },
+        {
+          "description": "Wing",
+          "mid": "/m/083s2",
+          "score": 0.9363381,
+          "topicality": 0.02974974
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.91999596,
+          "topicality": 0.00016970739
+        },
+        {
+          "description": "Water bird",
+          "mid": "/m/02p0_xl",
+          "score": 0.88981515,
+          "topicality": 0.07245287
+        },
+        {
+          "description": "Feather",
+          "mid": "/m/0dfgf",
+          "score": 0.73884916,
+          "topicality": 0.0026698892
+        }
+      ]
+    }
+  ]
+}

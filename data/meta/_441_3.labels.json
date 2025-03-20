@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Dress",
+          "mid": "/m/01d40f",
+          "score": 0.95926934,
+          "topicality": 0.6305596
+        },
+        {
+          "description": "Day Dress",
+          "mid": "/m/0hgsb5g",
+          "score": 0.9565113,
+          "topicality": 0.0077671725
+        },
+        {
+          "description": "One-piece garment",
+          "mid": "/m/0142sg",
+          "score": 0.9517932,
+          "topicality": 0.004542283
+        },
+        {
+          "description": "Textile",
+          "mid": "/m/0dnr7",
+          "score": 0.94939315,
+          "topicality": 0.058083013
+        },
+        {
+          "description": "Fashion",
+          "mid": "/m/032tl",
+          "score": 0.94722724
+        },
+        {
+          "description": "Cocktail dress",
+          "mid": "/m/05sfw_",
+          "score": 0.84235907,
+          "topicality": 0.049006894
+        },
+        {
+          "description": "Fashion design",
+          "mid": "/m/02qqd4n",
+          "score": 0.7885165,
+          "topicality": 0.058045797
+        },
+        {
+          "description": "Ruffle",
+          "mid": "/m/027kkg3",
+          "score": 0.74314106,
+          "topicality": 0.10648813
+        },
+        {
+          "description": "Vintage clothing",
+          "mid": "/m/08v4gh",
+          "score": 0.69976765,
+          "topicality": 0.061407678
+        },
+        {
+          "description": "Costume design",
+          "mid": "/m/04s5jq",
+          "score": 0.61769843,
+          "topicality": 0.005545047
+        }
+      ]
+    }
+  ]
+}

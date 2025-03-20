@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.9890566,
+          "topicality": 0.064253956
+        },
+        {
+          "description": "Flower",
+          "mid": "/m/0c9ph5",
+          "score": 0.96987295,
+          "topicality": 0.32761428
+        },
+        {
+          "description": "Common Dandelion",
+          "mid": "/m/02qpvtx",
+          "score": 0.7830931,
+          "topicality": 0.65078336
+        },
+        {
+          "description": "Dandelion",
+          "mid": "/m/0fr19",
+          "score": 0.7781843,
+          "topicality": 0.8600738
+        },
+        {
+          "description": "Plant stem",
+          "mid": "/m/01ttd6",
+          "score": 0.73064184,
+          "topicality": 0.0077319983
+        },
+        {
+          "description": "Wildflower",
+          "mid": "/m/03f35r",
+          "score": 0.69854575,
+          "topicality": 0.00044569853
+        },
+        {
+          "description": "Wind",
+          "mid": "/m/03m9d0z",
+          "score": 0.6567798,
+          "topicality": 0.1292876
+        },
+        {
+          "description": "Pedicel",
+          "mid": "/m/02r4lqp",
+          "score": 0.64136076,
+          "topicality": 0.00010807431
+        }
+      ]
+    }
+  ]
+}

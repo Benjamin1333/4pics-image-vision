@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Chin",
+          "mid": "/m/0f9swq",
+          "score": 0.98860174,
+          "topicality": 0.0129038
+        },
+        {
+          "description": "Eyebrow",
+          "mid": "/m/027n3_",
+          "score": 0.9859727,
+          "topicality": 0.0031087035
+        },
+        {
+          "description": "Head",
+          "mid": "/m/04hgtk",
+          "score": 0.98551977,
+          "topicality": 0.0047048046
+        },
+        {
+          "description": "Forehead",
+          "mid": "/m/025kyy",
+          "score": 0.98451054,
+          "topicality": 0.0076476526
+        },
+        {
+          "description": "Collar",
+          "mid": "/m/091410",
+          "score": 0.9826127,
+          "topicality": 0.0034349663
+        },
+        {
+          "description": "Face",
+          "mid": "/m/0dzct",
+          "score": 0.98028564,
+          "topicality": 0.013838761
+        },
+        {
+          "description": "Facial hair",
+          "mid": "/m/0ds5b",
+          "score": 0.9770513,
+          "topicality": 0.044404514
+        },
+        {
+          "description": "Formal wear",
+          "mid": "/m/02w3_2",
+          "score": 0.9766087,
+          "topicality": 0.0019861269
+        },
+        {
+          "description": "Nose",
+          "mid": "/m/0k0pj",
+          "score": 0.97554964,
+          "topicality": 0.0017217199
+        },
+        {
+          "description": "Jaw",
+          "mid": "/m/01k9lj",
+          "score": 0.97230387,
+          "topicality": 0.0046436354
+        }
+      ]
+    }
+  ]
+}

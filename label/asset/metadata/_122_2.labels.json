@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Moon",
+          "mid": "/m/04wv_",
+          "score": 0.97336936,
+          "topicality": 0.095764264
+        },
+        {
+          "description": "Astronomical object",
+          "mid": "/m/01d9ll",
+          "score": 0.9286001,
+          "topicality": 0.0008356626
+        },
+        {
+          "description": "Full moon",
+          "mid": "/m/0314n",
+          "score": 0.9131706,
+          "topicality": 0.35752007
+        },
+        {
+          "description": "Moonlight",
+          "mid": "/m/03qwvw",
+          "score": 0.90819514,
+          "topicality": 0.31393924
+        },
+        {
+          "description": "Celestial event",
+          "mid": "/m/02rhkz",
+          "score": 0.8515676,
+          "topicality": 0.0001743733
+        },
+        {
+          "description": "Night",
+          "mid": "/m/01d74z",
+          "score": 0.7609913,
+          "topicality": 0.42627463
+        },
+        {
+          "description": "Animation",
+          "mid": "/m/0hcr",
+          "score": 0.5347841,
+          "topicality": 0.00088895607
+        }
+      ]
+    }
+  ]
+}

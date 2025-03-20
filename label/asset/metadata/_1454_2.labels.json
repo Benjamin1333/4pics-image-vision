@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Banana",
+          "mid": "/m/09qck",
+          "score": 0.9716653,
+          "topicality": 0.898927
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.9650328,
+          "topicality": 0.37810197
+        },
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.95957935,
+          "topicality": 0.15560475
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.9385781,
+          "topicality": 0.0051264637
+        },
+        {
+          "description": "Eating",
+          "mid": "/m/01f5gx",
+          "score": 0.9379675,
+          "topicality": 0.49457318
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.927285,
+          "topicality": 0.09410063
+        },
+        {
+          "description": "Taste",
+          "mid": "/m/0cp_p",
+          "score": 0.9227287,
+          "topicality": 0.028866857
+        },
+        {
+          "description": "Bananas",
+          "mid": "/m/013xk6",
+          "score": 0.92249095,
+          "topicality": 0.012470047
+        },
+        {
+          "description": "Biting",
+          "mid": "/m/0k3p6k9",
+          "score": 0.87155205,
+          "topicality": 0.027178947
+        },
+        {
+          "description": "Cooking banana",
+          "mid": "/m/09qdd",
+          "score": 0.8706662,
+          "topicality": 0.18176228
+        }
+      ]
+    }
+  ]
+}

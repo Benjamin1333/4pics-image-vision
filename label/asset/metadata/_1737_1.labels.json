@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Gold",
+          "mid": "/m/01l849",
+          "score": 0.8075509,
+          "topicality": 0.066316776
+        },
+        {
+          "description": "Brass",
+          "mid": "/m/01504",
+          "score": 0.7367362,
+          "topicality": 0.110867426
+        },
+        {
+          "description": "Treasure",
+          "mid": "/m/012rq8",
+          "score": 0.6405787,
+          "topicality": 0.898463
+        },
+        {
+          "description": "Bronze",
+          "mid": "/m/01brf",
+          "score": 0.6367199,
+          "topicality": 0.03701032
+        },
+        {
+          "description": "Gold",
+          "mid": "/m/025rs2z",
+          "score": 0.609468,
+          "topicality": 0.6860379
+        },
+        {
+          "description": "Money",
+          "mid": "/m/04_x4",
+          "score": 0.5898892,
+          "topicality": 0.22392432
+        },
+        {
+          "description": "Currency",
+          "mid": "/m/01q7l",
+          "score": 0.57393396,
+          "topicality": 0.050671812
+        },
+        {
+          "description": "Money Handling",
+          "mid": "/m/0h8n2s1",
+          "score": 0.5045931,
+          "topicality": 0.0009312513
+        }
+      ]
+    }
+  ]
+}

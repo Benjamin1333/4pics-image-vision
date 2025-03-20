@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Meeting",
+          "mid": "/m/01h6cb",
+          "score": 0.91379714,
+          "topicality": 0.28129888
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.9075677,
+          "topicality": 0.023391498
+        },
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.90005326,
+          "topicality": 0.15277405
+        },
+        {
+          "description": "Management",
+          "mid": "/m/04_tv",
+          "score": 0.8691185,
+          "topicality": 0.3068522
+        },
+        {
+          "description": "Learning",
+          "mid": "/m/0191f8",
+          "score": 0.85254395,
+          "topicality": 0.0258518
+        },
+        {
+          "description": "Student",
+          "mid": "/m/014cnc",
+          "score": 0.8204854,
+          "topicality": 0.04700038
+        },
+        {
+          "description": "Collaboration",
+          "mid": "/m/01s560",
+          "score": 0.79943144,
+          "topicality": 0.13529682
+        },
+        {
+          "description": "Conversation",
+          "mid": "/m/01h8n0",
+          "score": 0.78894717,
+          "topicality": 0.046546526
+        },
+        {
+          "description": "Communication Device",
+          "mid": "/m/0glmwd6",
+          "score": 0.75664765,
+          "topicality": 8.555563e-06
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.74787056,
+          "topicality": 0.094747774
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.9277183,
+          "topicality": 0.65551406
+        },
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.889657,
+          "topicality": 0.0032762724
+        },
+        {
+          "description": "Dentures",
+          "mid": "/m/02zb48",
+          "score": 0.88900864,
+          "topicality": 0.9562555
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.98912203,
+          "topicality": 0.082285605
+        },
+        {
+          "description": "Sun",
+          "mid": "/m/06m_p",
+          "score": 0.9863083,
+          "topicality": 0.5901523
+        },
+        {
+          "description": "Daytime",
+          "mid": "/m/02q7ylj",
+          "score": 0.9814011,
+          "topicality": 0.04161393
+        },
+        {
+          "description": "Astronomical object",
+          "mid": "/m/01d9ll",
+          "score": 0.9417283,
+          "topicality": 0.0054785414
+        },
+        {
+          "description": "Sunlight",
+          "mid": "/m/06z0n",
+          "score": 0.85037446,
+          "topicality": 0.39543554
+        },
+        {
+          "description": "Lens flare",
+          "mid": "/m/017bm6",
+          "score": 0.825338,
+          "topicality": 0.4351399
+        },
+        {
+          "description": "Backlighting",
+          "mid": "/m/0b0lbv",
+          "score": 0.6209073,
+          "topicality": 0.00036526134
+        },
+        {
+          "description": "Star",
+          "mid": "/m/06ngk",
+          "score": 0.5897549,
+          "topicality": 0.015951263
+        }
+      ]
+    }
+  ]
+}

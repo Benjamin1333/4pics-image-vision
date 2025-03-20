@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Shoulder",
+          "mid": "/m/01ssh5",
+          "score": 0.9762869,
+          "topicality": 0.014527263
+        },
+        {
+          "description": "Neck",
+          "mid": "/m/0dzd8",
+          "score": 0.95627683,
+          "topicality": 0.037757903
+        },
+        {
+          "description": "Barechestedness",
+          "mid": "/m/0dm6dl",
+          "score": 0.92126256,
+          "topicality": 0.16773786
+        },
+        {
+          "description": "Abdomen",
+          "mid": "/m/08y7p8",
+          "score": 0.9199737,
+          "topicality": 0.042485602
+        },
+        {
+          "description": "Muscle",
+          "mid": "/m/04_fs",
+          "score": 0.9191587,
+          "topicality": 0.040489152
+        },
+        {
+          "description": "Torso",
+          "mid": "/m/031vtq",
+          "score": 0.90125734,
+          "topicality": 0.19631976
+        },
+        {
+          "description": "Stomach",
+          "mid": "/m/09x8z",
+          "score": 0.87862986,
+          "topicality": 0.0052278335
+        },
+        {
+          "description": "Thorax",
+          "mid": "/m/0dzdr",
+          "score": 0.8694639,
+          "topicality": 0.37665728
+        },
+        {
+          "description": "Waist",
+          "mid": "/m/031974",
+          "score": 0.84413475,
+          "topicality": 0.003836449
+        },
+        {
+          "description": "Bodybuilder",
+          "mid": "/m/02h6dmm",
+          "score": 0.826264,
+          "topicality": 0.0034720646
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8432765,
+          "topicality": 0.20463596
+        },
+        {
+          "description": "Diagram",
+          "mid": "/m/02v0m2",
+          "score": 0.73172474,
+          "topicality": 0.022740914
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.68829954,
+          "topicality": 0.035440005
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.6575616,
+          "topicality": 0.0077002975
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.638857,
+          "topicality": 0.018699232
+        },
+        {
+          "description": "Triangle",
+          "mid": "/m/07jx7",
+          "score": 0.634595,
+          "topicality": 0.004977822
+        }
+      ]
+    }
+  ]
+}

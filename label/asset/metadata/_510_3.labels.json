@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Formal wear",
+          "mid": "/m/02w3_2",
+          "score": 0.9810444,
+          "topicality": 0.15678258
+        },
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9682809,
+          "topicality": 0.03367148
+        },
+        {
+          "description": "Fashion",
+          "mid": "/m/032tl",
+          "score": 0.95666915
+        },
+        {
+          "description": "Collar",
+          "mid": "/m/091410",
+          "score": 0.9546808,
+          "topicality": 0.054137092
+        },
+        {
+          "description": "Suit trousers",
+          "mid": "/m/03cvmmd",
+          "score": 0.93286,
+          "topicality": 0.04022532
+        },
+        {
+          "description": "Dress shirt",
+          "mid": "/m/06hwcd",
+          "score": 0.9151566,
+          "topicality": 0.11590235
+        },
+        {
+          "description": "Pocket",
+          "mid": "/m/025rhd",
+          "score": 0.9121235,
+          "topicality": 0.04104997
+        },
+        {
+          "description": "Black",
+          "mid": "/m/019sc",
+          "score": 0.91101146,
+          "topicality": 0.04965775
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.88365245,
+          "topicality": 0.01709033
+        },
+        {
+          "description": "Waist",
+          "mid": "/m/031974",
+          "score": 0.8740231,
+          "topicality": 0.0215043
+        }
+      ]
+    }
+  ]
+}

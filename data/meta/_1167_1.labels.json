@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Cheek",
+          "mid": "/m/037p5b",
+          "score": 0.98687744,
+          "topicality": 0.013073835
+        },
+        {
+          "description": "Eyebrow",
+          "mid": "/m/027n3_",
+          "score": 0.985983,
+          "topicality": 0.011325652
+        },
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.9847963,
+          "topicality": 0.06823707
+        },
+        {
+          "description": "Skin",
+          "mid": "/m/06z04",
+          "score": 0.9819849,
+          "topicality": 0.023271265
+        },
+        {
+          "description": "Nose",
+          "mid": "/m/0k0pj",
+          "score": 0.97526294,
+          "topicality": 0.038336575
+        },
+        {
+          "description": "Beauty",
+          "mid": "/m/01f43",
+          "score": 0.9717282,
+          "topicality": 0.123599745
+        },
+        {
+          "description": "Jaw",
+          "mid": "/m/01k9lj",
+          "score": 0.97092664,
+          "topicality": 0.0025962496
+        },
+        {
+          "description": "Eyelash",
+          "mid": "/m/03f52z",
+          "score": 0.968948,
+          "topicality": 0.010325851
+        },
+        {
+          "description": "Monochrome photography",
+          "mid": "/m/03d49p1",
+          "score": 0.9626566,
+          "topicality": 0.11065582
+        },
+        {
+          "description": "Black hair",
+          "mid": "/m/0fc1fy",
+          "score": 0.955409,
+          "topicality": 0.00734086
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Fluid",
+          "mid": "/m/02yfx",
+          "score": 0.9545599,
+          "topicality": 0.0057948567
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.9212383,
+          "topicality": 0.012233124
+        },
+        {
+          "description": "Precipitation",
+          "mid": "/m/01q18m",
+          "score": 0.8358291,
+          "topicality": 0.08256991
+        },
+        {
+          "description": "Drop",
+          "mid": "/m/0b7z1",
+          "score": 0.7813935,
+          "topicality": 0.7466582
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.6988378,
+          "topicality": 0.0007888448
+        },
+        {
+          "description": "Rain",
+          "mid": "/m/06mb1",
+          "score": 0.6946576,
+          "topicality": 0.910484
+        },
+        {
+          "description": "Moisture",
+          "mid": "/m/02t59k",
+          "score": 0.5715652,
+          "topicality": 0.18492913
+        }
+      ]
+    }
+  ]
+}

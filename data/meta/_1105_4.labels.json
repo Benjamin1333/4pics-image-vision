@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Soil",
+          "mid": "/m/09dv7",
+          "score": 0.84022695,
+          "topicality": 0.20977493
+        },
+        {
+          "description": "Sand",
+          "mid": "/m/099fz",
+          "score": 0.7206487,
+          "topicality": 0.07311303
+        }
+      ]
+    }
+  ]
+}

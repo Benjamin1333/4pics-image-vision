@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.98478645,
+          "topicality": 0.027041765
+        },
+        {
+          "description": "Beauty",
+          "mid": "/m/01f43",
+          "score": 0.9529838,
+          "topicality": 0.22753093
+        },
+        {
+          "description": "Brush",
+          "mid": "/m/02chd9",
+          "score": 0.8804899,
+          "topicality": 0.21533832
+        },
+        {
+          "description": "Cosmetics",
+          "mid": "/m/014trl",
+          "score": 0.8572496,
+          "topicality": 0.40149993
+        },
+        {
+          "description": "Makeup brushes",
+          "mid": "/m/0gfgrpc",
+          "score": 0.8338821,
+          "topicality": 0.008714039
+        },
+        {
+          "description": "Makeover",
+          "mid": "/m/02qp_b",
+          "score": 0.8333433,
+          "topicality": 0.023896264
+        },
+        {
+          "description": "Eye shadow",
+          "mid": "/m/025zp2s",
+          "score": 0.7954301,
+          "topicality": 0.036423847
+        },
+        {
+          "description": "Personal care",
+          "mid": "/m/02w3_ws",
+          "score": 0.7945822,
+          "topicality": 0.0010506209
+        },
+        {
+          "description": "Lipstick",
+          "mid": "/m/06c7f7",
+          "score": 0.7789652,
+          "topicality": 0.0340917
+        },
+        {
+          "description": "Brown hair",
+          "mid": "/m/02ksmb",
+          "score": 0.77728426,
+          "topicality": 0.013176326
+        }
+      ]
+    }
+  ]
+}

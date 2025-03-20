@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Water",
+          "mid": "/m/0838f",
+          "score": 0.98626035,
+          "topicality": 0.20296499
+        },
+        {
+          "description": "Water resources",
+          "mid": "/m/015s2f",
+          "score": 0.9835874,
+          "topicality": 0.026095213
+        },
+        {
+          "description": "Body of water",
+          "mid": "/m/03ktm1",
+          "score": 0.9805024,
+          "topicality": 0.054615878
+        },
+        {
+          "description": "Green",
+          "mid": "/m/038hg",
+          "score": 0.9783682,
+          "topicality": 0.03253147
+        },
+        {
+          "description": "Nature",
+          "mid": "/m/05h0n",
+          "score": 0.9736537,
+          "topicality": 0.21697488
+        },
+        {
+          "description": "Natural landscape",
+          "mid": "/m/03d28y3",
+          "score": 0.95365536,
+          "topicality": 0.05794645
+        },
+        {
+          "description": "Wetland",
+          "mid": "/m/0pvlz",
+          "score": 0.9393027,
+          "topicality": 0.3244093
+        },
+        {
+          "description": "Reflection",
+          "mid": "/m/02l215",
+          "score": 0.92987376,
+          "topicality": 0.10394717
+        },
+        {
+          "description": "Cloud",
+          "mid": "/m/0csby",
+          "score": 0.9235365,
+          "topicality": 0.029540012
+        },
+        {
+          "description": "Watercourse",
+          "mid": "/m/03kj4q",
+          "score": 0.91174966,
+          "topicality": 0.007864059
+        }
+      ]
+    }
+  ]
+}

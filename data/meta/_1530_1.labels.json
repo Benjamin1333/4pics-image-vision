@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9766227,
+          "topicality": 0.0031490412
+        },
+        {
+          "description": "Flag",
+          "mid": "/m/03120",
+          "score": 0.9548947,
+          "topicality": 0.3494384
+        },
+        {
+          "description": "Government",
+          "mid": "/m/036nz",
+          "score": 0.66807497,
+          "topicality": 0.056025352
+        },
+        {
+          "description": "Wind",
+          "mid": "/m/03m9d0z",
+          "score": 0.5903073,
+          "topicality": 0.0009525834
+        },
+        {
+          "description": "Flag of the United States",
+          "mid": "/m/0317s",
+          "score": 0.53769976,
+          "topicality": 0.015641278
+        }
+      ]
+    }
+  ]
+}

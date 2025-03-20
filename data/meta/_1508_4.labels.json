@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.97726107,
+          "topicality": 0.04003665
+        },
+        {
+          "description": "Emoticon",
+          "mid": "/m/02ngh",
+          "score": 0.9770955,
+          "topicality": 0.86257625
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.9641473,
+          "topicality": 0.089558035
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94494975,
+          "topicality": 0.11916655
+        },
+        {
+          "description": "Smiley",
+          "mid": "/m/06n05",
+          "score": 0.94006526,
+          "topicality": 0.7226449
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.91904694,
+          "topicality": 0.013279565
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.8353368,
+          "topicality": 0.16929084
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.75946087,
+          "topicality": 0.0069422186
+        },
+        {
+          "description": "Laughter",
+          "mid": "/m/01j3sz",
+          "score": 0.7523295,
+          "topicality": 0.05330745
+        },
+        {
+          "description": "Tongue",
+          "mid": "/m/0fjkt",
+          "score": 0.6443975,
+          "topicality": 0.022202043
+        }
+      ]
+    }
+  ]
+}

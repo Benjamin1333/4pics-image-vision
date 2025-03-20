@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Wall",
+          "mid": "/m/09qqq",
+          "score": 0.9756474,
+          "topicality": 0.71111083
+        },
+        {
+          "description": "Flooring",
+          "mid": "/m/01c34b",
+          "score": 0.9662561,
+          "topicality": 0.030652598
+        },
+        {
+          "description": "Wood",
+          "mid": "/m/083vt",
+          "score": 0.964189,
+          "topicality": 0.11577561
+        },
+        {
+          "description": "Wood flooring",
+          "mid": "/m/027xhm0",
+          "score": 0.94428355,
+          "topicality": 0.031619582
+        },
+        {
+          "description": "Floor",
+          "mid": "/m/0l7_8",
+          "score": 0.933635,
+          "topicality": 0.17282315
+        },
+        {
+          "description": "Composite material",
+          "mid": "/m/014qzr",
+          "score": 0.87522316,
+          "topicality": 5.8035348e-05
+        },
+        {
+          "description": "Brick",
+          "mid": "/m/01g0g",
+          "score": 0.8678421,
+          "topicality": 0.2075685
+        },
+        {
+          "description": "Hardwood",
+          "mid": "/m/020g49",
+          "score": 0.83829886,
+          "topicality": 0.004661486
+        },
+        {
+          "description": "Grey",
+          "mid": "/m/036k5h",
+          "score": 0.8293831,
+          "topicality": 0.012201326
+        },
+        {
+          "description": "Plank",
+          "mid": "/m/0fq0fnf",
+          "score": 0.82591724,
+          "topicality": 0.012800594
+        }
+      ]
+    }
+  ]
+}

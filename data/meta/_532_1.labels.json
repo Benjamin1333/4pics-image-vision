@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sleeveless shirt",
+          "mid": "/m/077p0h",
+          "score": 0.9700981,
+          "topicality": 0.014639011
+        },
+        {
+          "description": "Physical fitness",
+          "mid": "/m/027x7n",
+          "score": 0.9678624,
+          "topicality": 0.34185812
+        },
+        {
+          "description": "Undershirt",
+          "mid": "/m/079f77",
+          "score": 0.9571061,
+          "topicality": 0.005588421
+        },
+        {
+          "description": "Sports bra",
+          "mid": "/m/027bmhm",
+          "score": 0.9438249,
+          "topicality": 0.019278869
+        },
+        {
+          "description": "Active Tank",
+          "mid": "/m/0hgntgw",
+          "score": 0.9374418,
+          "topicality": 0.0011024062
+        },
+        {
+          "description": "Bra",
+          "mid": "/m/01gmv2",
+          "score": 0.9353972,
+          "topicality": 0.015412086
+        },
+        {
+          "description": "Undergarment",
+          "mid": "/m/09j1x",
+          "score": 0.9227683,
+          "topicality": 0.008690268
+        },
+        {
+          "description": "Sportswear",
+          "mid": "/m/025xryy",
+          "score": 0.9209574,
+          "topicality": 0.021620866
+        },
+        {
+          "description": "Active Undergarment",
+          "mid": "/m/0hgp2z7",
+          "score": 0.9183571,
+          "topicality": 0.0070959358
+        },
+        {
+          "description": "Exercise",
+          "mid": "/m/019w6h",
+          "score": 0.91042197,
+          "topicality": 0.18557565
+        }
+      ]
+    }
+  ]
+}

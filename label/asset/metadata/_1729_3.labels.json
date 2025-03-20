@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hat",
+          "mid": "/m/02dl1y",
+          "score": 0.9858405,
+          "topicality": 0.77217996
+        },
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.98479474,
+          "topicality": 0.0045562712
+        },
+        {
+          "description": "Beauty",
+          "mid": "/m/01f43",
+          "score": 0.9670347,
+          "topicality": 0.08215846
+        },
+        {
+          "description": "Headgear",
+          "mid": "/m/01443y",
+          "score": 0.9589368,
+          "topicality": 0.18615398
+        },
+        {
+          "description": "Fashion",
+          "mid": "/m/032tl",
+          "score": 0.9526943
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9449386,
+          "topicality": 0.0005702703
+        },
+        {
+          "description": "Sun hat",
+          "mid": "/m/02wbtzl",
+          "score": 0.93745965,
+          "topicality": 0.16655819
+        },
+        {
+          "description": "Eyelash",
+          "mid": "/m/03f52z",
+          "score": 0.91160536,
+          "topicality": 0.0002647591
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.9039929,
+          "topicality": 0.017333021
+        },
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.8699844,
+          "topicality": 0.004313342
+        }
+      ]
+    }
+  ]
+}

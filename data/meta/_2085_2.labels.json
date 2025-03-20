@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Drawing",
+          "mid": "/m/02csf",
+          "score": 0.8628917,
+          "topicality": 0.33334547
+        },
+        {
+          "description": "Illustration",
+          "mid": "/m/01kr8f",
+          "score": 0.804835,
+          "topicality": 0.2541515
+        },
+        {
+          "description": "Umbrella",
+          "mid": "/m/0hnnb",
+          "score": 0.797334,
+          "topicality": 0.08856873
+        },
+        {
+          "description": "Line art",
+          "mid": "/m/0919rx",
+          "score": 0.7826103,
+          "topicality": 0.018335814
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.7470947,
+          "topicality": 0.0036691118
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.74377775,
+          "topicality": 0.011010572
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.7213649,
+          "topicality": 0.049387686
+        },
+        {
+          "description": "Sketch",
+          "mid": "/m/07glzq",
+          "score": 0.72081053,
+          "topicality": 0.1366476
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.61463594,
+          "topicality": 0.03583698
+        }
+      ]
+    }
+  ]
+}

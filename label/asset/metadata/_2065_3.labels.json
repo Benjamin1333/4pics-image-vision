@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Fuel dispenser",
+          "mid": "/m/08p43d",
+          "score": 0.9449834,
+          "topicality": 0.7310904
+        },
+        {
+          "description": "Fuel",
+          "mid": "/m/02ywd",
+          "score": 0.94157445,
+          "topicality": 0.53473806
+        },
+        {
+          "description": "Gasoline",
+          "mid": "/m/05wy2",
+          "score": 0.93395716,
+          "topicality": 0.78700876
+        },
+        {
+          "description": "Filling station",
+          "mid": "/m/0gm3m",
+          "score": 0.9040717,
+          "topicality": 0.3895017
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.8317311,
+          "topicality": 0.012720017
+        },
+        {
+          "description": "Hose",
+          "mid": "/m/03xbmk",
+          "score": 0.80593556,
+          "topicality": 0.005530496
+        },
+        {
+          "description": "Nozzle",
+          "mid": "/m/01tywg",
+          "score": 0.7123205,
+          "topicality": 0.24528132
+        },
+        {
+          "description": "Automotive Care",
+          "mid": "/m/0h8nz9n",
+          "score": 0.54790205,
+          "topicality": 0.00028763563
+        }
+      ]
+    }
+  ]
+}

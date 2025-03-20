@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.95315146,
+          "topicality": 0.0032038197
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.8581854,
+          "topicality": 0.0027298897
+        },
+        {
+          "description": "Thumb",
+          "mid": "/m/01bmhj",
+          "score": 0.83693904,
+          "topicality": 0.0012506166
+        },
+        {
+          "description": "Sun",
+          "mid": "/m/06m_p",
+          "score": 0.7827853,
+          "topicality": 0.16018388
+        },
+        {
+          "description": "Lens flare",
+          "mid": "/m/017bm6",
+          "score": 0.7670034,
+          "topicality": 0.0919217
+        },
+        {
+          "description": "Astronomical object",
+          "mid": "/m/01d9ll",
+          "score": 0.7203899,
+          "topicality": 0.004097687
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.6139554,
+          "topicality": 0.00010009531
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.5442367,
+          "topicality": 0.019805973
+        },
+        {
+          "description": "Blessing",
+          "mid": "/m/01xns6",
+          "score": 0.5035037,
+          "topicality": 0.0261517
+        }
+      ]
+    }
+  ]
+}

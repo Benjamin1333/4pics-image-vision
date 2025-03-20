@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Car",
+          "mid": "/m/0k4j",
+          "score": 0.9829847,
+          "topicality": 0.24206549
+        },
+        {
+          "description": "Mode of transport",
+          "mid": "/m/079bkr",
+          "score": 0.9816289,
+          "topicality": 0.01619708
+        },
+        {
+          "description": "Steering wheel",
+          "mid": "/m/03b6_4",
+          "score": 0.97889847,
+          "topicality": 0.2942892
+        },
+        {
+          "description": "Driving",
+          "mid": "/m/0kw6d",
+          "score": 0.9776574,
+          "topicality": 0.7972561
+        },
+        {
+          "description": "Motor vehicle",
+          "mid": "/m/012f08",
+          "score": 0.97654533,
+          "topicality": 0.051627725
+        },
+        {
+          "description": "Automotive Mirror",
+          "mid": "/m/0h8lk4b",
+          "score": 0.9489163,
+          "topicality": 0.00068797887
+        },
+        {
+          "description": "Rear-view mirror",
+          "mid": "/m/05j11x",
+          "score": 0.9359136,
+          "topicality": 0.011453387
+        },
+        {
+          "description": "Road trip",
+          "mid": "/m/0cnfpz",
+          "score": 0.87533313,
+          "topicality": 0.08125719
+        },
+        {
+          "description": "Windshield",
+          "mid": "/m/01lrnl",
+          "score": 0.8719452,
+          "topicality": 0.029655399
+        },
+        {
+          "description": "Vehicle audio",
+          "mid": "/m/0kgy7",
+          "score": 0.86993706,
+          "topicality": 0.0008807791
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Ice cream cone",
+          "mid": "/m/027kl1",
+          "score": 0.9886928,
+          "topicality": 0.36806184
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.98485374,
+          "topicality": 0.13381445
+        },
+        {
+          "description": "Ice cream",
+          "mid": "/m/0cxn2",
+          "score": 0.9772247,
+          "topicality": 0.90282506
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9721629,
+          "topicality": 0.0068383655
+        },
+        {
+          "description": "Frozen dessert",
+          "mid": "/m/0465mr4",
+          "score": 0.9623505,
+          "topicality": 0.15623441
+        },
+        {
+          "description": "Dessert",
+          "mid": "/m/0270h",
+          "score": 0.9586716,
+          "topicality": 0.06908235
+        },
+        {
+          "description": "Gelato",
+          "mid": "/m/02fz11",
+          "score": 0.94938654,
+          "topicality": 0.3820893
+        },
+        {
+          "description": "Cream",
+          "mid": "/m/01tv9",
+          "score": 0.92942345,
+          "topicality": 0.36524904
+        },
+        {
+          "description": "Dairy product",
+          "mid": "/m/0284d",
+          "score": 0.92142284,
+          "topicality": 0.020752462
+        },
+        {
+          "description": "Sorbetes",
+          "mid": "/m/04n1t0n",
+          "score": 0.9162347,
+          "topicality": 0.017813522
+        }
+      ]
+    }
+  ]
+}

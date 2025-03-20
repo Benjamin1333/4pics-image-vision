@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.96883917,
+          "topicality": 0.036546297
+        },
+        {
+          "description": "Metal",
+          "mid": "/m/04t7l",
+          "score": 0.8457537,
+          "topicality": 0.024661515
+        },
+        {
+          "description": "Gold",
+          "mid": "/m/01l849",
+          "score": 0.8254615,
+          "topicality": 0.39011225
+        },
+        {
+          "description": "Brass",
+          "mid": "/m/01504",
+          "score": 0.82411623,
+          "topicality": 0.034074467
+        },
+        {
+          "description": "Gold",
+          "mid": "/m/025rs2z",
+          "score": 0.78183556,
+          "topicality": 0.9093794
+        }
+      ]
+    }
+  ]
+}

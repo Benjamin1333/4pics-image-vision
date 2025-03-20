@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Advertising",
+          "mid": "/m/011s0",
+          "score": 0.8383786,
+          "topicality": 0.07090198
+        },
+        {
+          "description": "Monument",
+          "mid": "/m/02ljgl",
+          "score": 0.80064106,
+          "topicality": 0.002587072
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.7262409,
+          "topicality": 0.0030345598
+        },
+        {
+          "description": "Flag of the United States",
+          "mid": "/m/0317s",
+          "score": 0.7234506,
+          "topicality": 0.14303137
+        },
+        {
+          "description": "Flag",
+          "mid": "/m/03120",
+          "score": 0.54451734,
+          "topicality": 0.035130277
+        },
+        {
+          "description": "Holiday",
+          "mid": "/m/03gkl",
+          "score": 0.52385706,
+          "topicality": 0.0070925364
+        },
+        {
+          "description": "Billboard",
+          "mid": "/m/01knjb",
+          "score": 0.520904,
+          "topicality": 0.04310451
+        }
+      ]
+    }
+  ]
+}

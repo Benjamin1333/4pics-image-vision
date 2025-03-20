@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Football",
+          "mid": "/m/01226z",
+          "score": 0.98360425,
+          "topicality": 0.08702323
+        },
+        {
+          "description": "Ball",
+          "mid": "/m/018xm",
+          "score": 0.97578764,
+          "topicality": 0.3094373
+        },
+        {
+          "description": "Soccer player",
+          "mid": "/m/0pcq81q",
+          "score": 0.9744045,
+          "topicality": 0.030227305
+        },
+        {
+          "description": "Football",
+          "mid": "/m/02vx4",
+          "score": 0.9732916,
+          "topicality": 0.65734494
+        },
+        {
+          "description": "Player",
+          "mid": "/m/02vzx9",
+          "score": 0.9687754,
+          "topicality": 0.07821812
+        },
+        {
+          "description": "Shorts",
+          "mid": "/m/01bfm9",
+          "score": 0.96738267,
+          "topicality": 0.0012378824
+        },
+        {
+          "description": "Jersey",
+          "mid": "/m/02h00q",
+          "score": 0.941037,
+          "topicality": 0.0009166277
+        },
+        {
+          "description": "Ball game",
+          "mid": "/m/020m7t",
+          "score": 0.9372721,
+          "topicality": 0.018639233
+        },
+        {
+          "description": "Soccer ball",
+          "mid": "/m/0dpm1v",
+          "score": 0.9348754,
+          "topicality": 0.11040383
+        },
+        {
+          "description": "Football player",
+          "mid": "/m/0gl2ny2",
+          "score": 0.93233323,
+          "topicality": 0.15498064
+        }
+      ]
+    }
+  ]
+}

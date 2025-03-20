@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Performing Arts",
+          "mid": "/m/05qjc",
+          "score": 0.98115873,
+          "topicality": 0.031616487
+        },
+        {
+          "description": "Entertainment",
+          "mid": "/m/02jjt",
+          "score": 0.971366,
+          "topicality": 0.005253964
+        },
+        {
+          "description": "Dance",
+          "mid": "/m/026bk",
+          "score": 0.9706148,
+          "topicality": 0.8570758
+        },
+        {
+          "description": "Choreography",
+          "mid": "/m/018rn4",
+          "score": 0.9601591,
+          "topicality": 0.06705231
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.9264682,
+          "topicality": 8.380753e-05
+        },
+        {
+          "description": "Ballet Dancer",
+          "mid": "/m/0513yzt",
+          "score": 0.90633094,
+          "topicality": 0.7193319
+        },
+        {
+          "description": "Pointe shoe",
+          "mid": "/m/0295_c",
+          "score": 0.9045291,
+          "topicality": 0.26728076
+        },
+        {
+          "description": "Athletic dance move",
+          "mid": "/j/23l6xl",
+          "score": 0.9011171,
+          "topicality": 0.08500787
+        },
+        {
+          "description": "Ballet shoe",
+          "mid": "/m/09nxzp",
+          "score": 0.89868176,
+          "topicality": 0.11206974
+        },
+        {
+          "description": "Modern dance",
+          "mid": "/m/058dw",
+          "score": 0.88972855,
+          "topicality": 0.3312431
+        }
+      ]
+    }
+  ]
+}

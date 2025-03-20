@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.94151735,
+          "topicality": 0.053978305
+        },
+        {
+          "description": "Comfort",
+          "mid": "/m/08xgn7",
+          "score": 0.8944963,
+          "topicality": 0.017235562
+        },
+        {
+          "description": "Fan",
+          "mid": "/m/02x984l",
+          "score": 0.8797292,
+          "topicality": 0.46997237
+        },
+        {
+          "description": "Home appliance",
+          "mid": "/m/019dx1",
+          "score": 0.7254944,
+          "topicality": 0.014086568
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.7143837,
+          "topicality": 0.009448072
+        },
+        {
+          "description": "Living room",
+          "mid": "/m/03f6tq",
+          "score": 0.6425402,
+          "topicality": 0.0077808374
+        },
+        {
+          "description": "Bed",
+          "mid": "/m/03ssj5",
+          "score": 0.556069,
+          "topicality": 0.013692902
+        }
+      ]
+    }
+  ]
+}

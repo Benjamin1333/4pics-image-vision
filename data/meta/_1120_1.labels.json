@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Chordophone",
+          "mid": "/m/011_f4",
+          "score": 0.7794317,
+          "topicality": 0.00083123334
+        },
+        {
+          "description": "Musical instrument",
+          "mid": "/m/04szw",
+          "score": 0.7124804,
+          "topicality": 0.32440615
+        },
+        {
+          "description": "Hardwood",
+          "mid": "/m/020g49",
+          "score": 0.6927839,
+          "topicality": 0.001329972
+        },
+        {
+          "description": "Natural material",
+          "mid": "/m/07sx2n",
+          "score": 0.6816028,
+          "topicality": 0.00046032178
+        },
+        {
+          "description": "Folk instrument",
+          "mid": "/m/06203h",
+          "score": 0.6152528,
+          "topicality": 0.05821346
+        },
+        {
+          "description": "Antique",
+          "mid": "/m/01ys2s",
+          "score": 0.57667863,
+          "topicality": 0.053412903
+        },
+        {
+          "description": "String instrument",
+          "mid": "/m/0d8lm",
+          "score": 0.5012561,
+          "topicality": 0.039849102
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Lightning",
+          "mid": "/m/0gms8",
+          "score": 0.99436986,
+          "topicality": 0.8916113
+        },
+        {
+          "description": "Thunder",
+          "mid": "/m/0ngt1",
+          "score": 0.98983,
+          "topicality": 0.6407597
+        },
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.98765635,
+          "topicality": 0.0061831963
+        },
+        {
+          "description": "Thunderstorm",
+          "mid": "/m/0jb2l",
+          "score": 0.97900975,
+          "topicality": 0.6606078
+        },
+        {
+          "description": "Storm",
+          "mid": "/m/0z71l",
+          "score": 0.9767768,
+          "topicality": 0.501356
+        },
+        {
+          "description": "Electricity",
+          "mid": "/m/02lts",
+          "score": 0.91626334,
+          "topicality": 0.12631497
+        },
+        {
+          "description": "Night",
+          "mid": "/m/01d74z",
+          "score": 0.878032,
+          "topicality": 0.073862754
+        },
+        {
+          "description": "Meteorological phenomenon",
+          "mid": "/g/11k2xz7mr",
+          "score": 0.7748844,
+          "topicality": 0.0012130052
+        },
+        {
+          "description": "Evening",
+          "mid": "/m/04mx32",
+          "score": 0.773078,
+          "topicality": 0.005413519
+        },
+        {
+          "description": "Wind",
+          "mid": "/m/03m9d0z",
+          "score": 0.6334739,
+          "topicality": 0.053514253
+        }
+      ]
+    }
+  ]
+}

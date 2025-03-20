@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Soldier",
+          "mid": "/m/099md",
+          "score": 0.98420143,
+          "topicality": 0.109998465
+        },
+        {
+          "description": "Military Person",
+          "mid": "/m/02h66g5",
+          "score": 0.9831359,
+          "topicality": 0.0010613895
+        },
+        {
+          "description": "Military camouflage",
+          "mid": "/m/09l63h",
+          "score": 0.98101246,
+          "topicality": 0.046595685
+        },
+        {
+          "description": "Camouflage",
+          "mid": "/m/01x2j",
+          "score": 0.9773922,
+          "topicality": 0.02292711
+        },
+        {
+          "description": "Military uniform",
+          "mid": "/m/03w1r4",
+          "score": 0.97736955,
+          "topicality": 0.10132234
+        },
+        {
+          "description": "Uniform",
+          "mid": "/m/09jfs",
+          "score": 0.97283405,
+          "topicality": 0.070541896
+        },
+        {
+          "description": "Army",
+          "mid": "/m/0pd7",
+          "score": 0.9725061,
+          "topicality": 0.16699228
+        },
+        {
+          "description": "Military",
+          "mid": "/m/01h6rj",
+          "score": 0.9538874,
+          "topicality": 0.20788841
+        },
+        {
+          "description": "Military organization",
+          "mid": "/m/0gjwxv",
+          "score": 0.92812437,
+          "topicality": 0.00801542
+        },
+        {
+          "description": "Troop",
+          "mid": "/m/01bq8v",
+          "score": 0.9150464,
+          "topicality": 0.11842741
+        }
+      ]
+    }
+  ]
+}

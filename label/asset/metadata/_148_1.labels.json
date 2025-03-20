@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Money",
+          "mid": "/m/04_x4",
+          "score": 0.9779628,
+          "topicality": 0.29871196
+        },
+        {
+          "description": "Currency",
+          "mid": "/m/01q7l",
+          "score": 0.9778017,
+          "topicality": 0.025110487
+        },
+        {
+          "description": "Cash",
+          "mid": "/m/0fd6q",
+          "score": 0.97750026,
+          "topicality": 0.1419428
+        },
+        {
+          "description": "Banknote",
+          "mid": "/m/01dl3j",
+          "score": 0.9732891,
+          "topicality": 0.020229176
+        },
+        {
+          "description": "Dollar",
+          "mid": "/m/0285v",
+          "score": 0.96122503,
+          "topicality": 0.24076207
+        },
+        {
+          "description": "Tableware",
+          "mid": "/m/04brg2",
+          "score": 0.94752264,
+          "topicality": 0.00093936385
+        },
+        {
+          "description": "Drinkware",
+          "mid": "/m/050h26",
+          "score": 0.9239612,
+          "topicality": 5.3360134e-05
+        },
+        {
+          "description": "Paper",
+          "mid": "/m/0641k",
+          "score": 0.92004883,
+          "topicality": 0.0017419512
+        },
+        {
+          "description": "Money Handling",
+          "mid": "/m/0h8n2s1",
+          "score": 0.9179795,
+          "topicality": 0.004978139
+        },
+        {
+          "description": "Cup",
+          "mid": "/m/07ptj3n",
+          "score": 0.9042807,
+          "topicality": 0.00081384135
+        }
+      ]
+    }
+  ]
+}

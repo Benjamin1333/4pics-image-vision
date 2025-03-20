@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Iaijutsu",
+          "mid": "/m/03bwyww",
+          "score": 0.9272536,
+          "topicality": 0.11045069
+        },
+        {
+          "description": "Iaido",
+          "mid": "/m/0ddhz",
+          "score": 0.91875863,
+          "topicality": 0.7494423
+        },
+        {
+          "description": "Individual sport",
+          "mid": "/m/08t0vy",
+          "score": 0.86859965,
+          "topicality": 7.3123556e-05
+        },
+        {
+          "description": "Sword",
+          "mid": "/m/06y5r",
+          "score": 0.8626927,
+          "topicality": 0.19453359
+        },
+        {
+          "description": "Kenjutsu",
+          "mid": "/m/0dj8k",
+          "score": 0.80780894,
+          "topicality": 0.33921242
+        },
+        {
+          "description": "Japanese martial arts",
+          "mid": "/m/025tjmx",
+          "score": 0.80052435,
+          "topicality": 0.079013556
+        },
+        {
+          "description": "Battōjutsu",
+          "mid": "/m/02bjzr",
+          "score": 0.79819864,
+          "topicality": 0.295009
+        },
+        {
+          "description": "Martial arts",
+          "mid": "/m/04xsv",
+          "score": 0.75600404,
+          "topicality": 0.31480947
+        },
+        {
+          "description": "Haidong Gumdo",
+          "mid": "/m/03n_pf",
+          "score": 0.73416436,
+          "topicality": 0.009865746
+        },
+        {
+          "description": "Martial Arts Uniform",
+          "mid": "/m/0h8n1jq",
+          "score": 0.73103243,
+          "topicality": 0.0010424074
+        }
+      ]
+    }
+  ]
+}

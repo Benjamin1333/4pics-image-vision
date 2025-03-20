@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9588273,
+          "topicality": 0.042308543
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.9450267,
+          "topicality": 0.13202843
+        },
+        {
+          "description": "Ginger",
+          "mid": "/m/0f9n3",
+          "score": 0.8827374,
+          "topicality": 0.51434076
+        },
+        {
+          "description": "Ginger",
+          "mid": "/m/02l4ht",
+          "score": 0.813814,
+          "topicality": 0.06923768
+        },
+        {
+          "description": "Powder",
+          "mid": "/m/0gzznm",
+          "score": 0.79534066,
+          "topicality": 0.5235974
+        },
+        {
+          "description": "Spice",
+          "mid": "/m/06p35",
+          "score": 0.6785024,
+          "topicality": 0.08235519
+        },
+        {
+          "description": "Recipe",
+          "mid": "/m/0p57p",
+          "score": 0.64730144,
+          "topicality": 0.005002948
+        },
+        {
+          "description": "Hidden-lilies",
+          "mid": "/m/02_56m",
+          "score": 0.58988935,
+          "topicality": 0.016055433
+        },
+        {
+          "description": "Ginger family",
+          "mid": "/m/088_7",
+          "score": 0.5882779,
+          "topicality": 0.004514074
+        },
+        {
+          "description": "Superfood",
+          "mid": "/m/04jdhxy",
+          "score": 0.5222534,
+          "topicality": 0.00877704
+        }
+      ]
+    }
+  ]
+}

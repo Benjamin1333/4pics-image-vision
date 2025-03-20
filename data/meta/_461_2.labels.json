@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Deck",
+          "mid": "/m/03q1p7",
+          "score": 0.94775325,
+          "topicality": 0.69164234
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.91729105,
+          "topicality": 0.073189296
+        },
+        {
+          "description": "Watercraft",
+          "mid": "/m/01rzcn",
+          "score": 0.89482445,
+          "topicality": 0.020485438
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.86397713,
+          "topicality": 0.01397564
+        },
+        {
+          "description": "Naval architecture",
+          "mid": "/m/0k5qm",
+          "score": 0.8508446,
+          "topicality": 0.0014581686
+        },
+        {
+          "description": "Boat",
+          "mid": "/m/019jd",
+          "score": 0.8436696,
+          "topicality": 0.028696062
+        },
+        {
+          "description": "Deck",
+          "mid": "/m/03q13l",
+          "score": 0.84062356,
+          "topicality": 0.008094662
+        },
+        {
+          "description": "Ship",
+          "mid": "/m/06q74",
+          "score": 0.8206187,
+          "topicality": 0.33666322
+        },
+        {
+          "description": "Outdoor furniture",
+          "mid": "/m/0cp2d4k",
+          "score": 0.7535192,
+          "topicality": 8.271905e-06
+        },
+        {
+          "description": "Passenger ship",
+          "mid": "/m/020dwk",
+          "score": 0.73412776,
+          "topicality": 0.05052008
+        }
+      ]
+    }
+  ]
+}

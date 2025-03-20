@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9734167,
+          "topicality": 0.020085024
+        },
+        {
+          "description": "Orange",
+          "mid": "/m/0jc_p",
+          "score": 0.9692564,
+          "topicality": 0.348796
+        },
+        {
+          "description": "Sphere",
+          "mid": "/m/06y47",
+          "score": 0.72979385,
+          "topicality": 0.5311234
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.7089599,
+          "topicality": 0.054062653
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.62475634,
+          "topicality": 0.0155013045
+        }
+      ]
+    }
+  ]
+}

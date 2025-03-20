@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.92936146,
+          "topicality": 0.37499848
+        },
+        {
+          "description": "Game",
+          "mid": "/m/03bt1gh",
+          "score": 0.92212033,
+          "topicality": 0.49422368
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.9136561,
+          "topicality": 0.11579046
+        },
+        {
+          "description": "Play",
+          "mid": "/m/06wtgq",
+          "score": 0.9116683,
+          "topicality": 0.0099549
+        },
+        {
+          "description": "Indoor games and sports",
+          "mid": "/m/0b42l9",
+          "score": 0.848551,
+          "topicality": 0.040471688
+        },
+        {
+          "description": "Baby toys",
+          "mid": "/m/0cm3fq4",
+          "score": 0.8248874,
+          "topicality": 0.0062265038
+        },
+        {
+          "description": "Toddler",
+          "mid": "/m/01bgsw",
+          "score": 0.7794015,
+          "topicality": 0.12800613
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.77914095,
+          "topicality": 0.000105809384
+        },
+        {
+          "description": "Baby playing with toys",
+          "mid": "/j/9hb0mf",
+          "score": 0.77106327,
+          "topicality": 0.0056998474
+        },
+        {
+          "description": "Learning",
+          "mid": "/m/0191f8",
+          "score": 0.74437237,
+          "topicality": 0.07014262
+        }
+      ]
+    }
+  ]
+}

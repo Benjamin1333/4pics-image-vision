@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Dog",
+          "mid": "/m/0bt9lr",
+          "score": 0.99544924,
+          "topicality": 0.76680243
+        },
+        {
+          "description": "Carnivores",
+          "mid": "/m/01lrl",
+          "score": 0.9353202,
+          "topicality": 0.0010362774
+        },
+        {
+          "description": "Umbrella",
+          "mid": "/m/0hnnb",
+          "score": 0.8544888,
+          "topicality": 0.046882156
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.8052615,
+          "topicality": 0.007933561
+        },
+        {
+          "description": "Canidae",
+          "mid": "/m/01z5f",
+          "score": 0.8028181,
+          "topicality": 0.02690191
+        },
+        {
+          "description": "Toy dog",
+          "mid": "/m/036hyn",
+          "score": 0.72063285,
+          "topicality": 0.010870198
+        },
+        {
+          "description": "Puppy",
+          "mid": "/m/0d7s3w",
+          "score": 0.65695184,
+          "topicality": 0.084509246
+        },
+        {
+          "description": "Beach",
+          "mid": "/m/0b3yr",
+          "score": 0.592268,
+          "topicality": 0.15502916
+        },
+        {
+          "description": "Pet Supply",
+          "mid": "/m/0h8ks17",
+          "score": 0.5753765,
+          "topicality": 0.00010789925
+        },
+        {
+          "description": "Dog Supply",
+          "mid": "/m/0h8nm96",
+          "score": 0.55500764,
+          "topicality": 0.00044458767
+        }
+      ]
+    }
+  ]
+}

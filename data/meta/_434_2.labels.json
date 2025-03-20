@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Magnifying glass",
+          "mid": "/m/030c3d",
+          "score": 0.7990593,
+          "topicality": 0.4295844
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6643663,
+          "topicality": 0.021480316
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.5966793,
+          "topicality": 0.067487516
+        },
+        {
+          "description": "Magnifier",
+          "mid": "/m/0h8p9x8",
+          "score": 0.57662326,
+          "topicality": 0.007354017
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.5113823,
+          "topicality": 0.015484182
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.5019894,
+          "topicality": 0.0041911295
+        }
+      ]
+    }
+  ]
+}

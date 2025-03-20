@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hair",
+          "mid": "/m/03q69",
+          "score": 0.9914434,
+          "topicality": 0.5995593
+        },
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.9847945,
+          "topicality": 0.008773253
+        },
+        {
+          "description": "Hairstyle",
+          "mid": "/m/0ds4x",
+          "score": 0.97050136,
+          "topicality": 0.6023339
+        },
+        {
+          "description": "Beauty",
+          "mid": "/m/01f43",
+          "score": 0.9667748,
+          "topicality": 0.21184552
+        },
+        {
+          "description": "Ringlet",
+          "mid": "/m/0dqs43",
+          "score": 0.9453914,
+          "topicality": 0.22289805
+        },
+        {
+          "description": "Eyelash",
+          "mid": "/m/03f52z",
+          "score": 0.94417924,
+          "topicality": 0.005975405
+        },
+        {
+          "description": "Blond",
+          "mid": "/m/0294jb",
+          "score": 0.92669773,
+          "topicality": 0.17581606
+        },
+        {
+          "description": "Brown hair",
+          "mid": "/m/02ksmb",
+          "score": 0.91222966,
+          "topicality": 0.034381144
+        },
+        {
+          "description": "Brown",
+          "mid": "/m/09q2t",
+          "score": 0.910782,
+          "topicality": 0.011270651
+        },
+        {
+          "description": "Long hair",
+          "mid": "/m/02pd__z",
+          "score": 0.90133494,
+          "topicality": 0.17317031
+        }
+      ]
+    }
+  ]
+}

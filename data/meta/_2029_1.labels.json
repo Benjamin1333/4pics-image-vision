@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sand",
+          "mid": "/m/099fz",
+          "score": 0.9400449,
+          "topicality": 0.9079091
+        },
+        {
+          "description": "Beach",
+          "mid": "/m/0b3yr",
+          "score": 0.9000579,
+          "topicality": 0.42256734
+        },
+        {
+          "description": "Sand art and play",
+          "mid": "/m/01ddcs",
+          "score": 0.8935647,
+          "topicality": 0.97541165
+        },
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.8764456,
+          "topicality": 0.006067449
+        },
+        {
+          "description": "Vacation",
+          "mid": "/m/02jwqh",
+          "score": 0.8608764,
+          "topicality": 0.047043644
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.8353685,
+          "topicality": 0.015171954
+        },
+        {
+          "description": "Play",
+          "mid": "/m/06wtgq",
+          "score": 0.82355165,
+          "topicality": 0.0009363247
+        },
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.8010229,
+          "topicality": 0.14688553
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.7860607,
+          "topicality": 0.10458113
+        },
+        {
+          "description": "Holiday",
+          "mid": "/m/03gkl",
+          "score": 0.6351861,
+          "topicality": 0.009425688
+        }
+      ]
+    }
+  ]
+}

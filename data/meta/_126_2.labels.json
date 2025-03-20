@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Mural",
+          "mid": "/m/04rd7",
+          "score": 0.9251378,
+          "topicality": 0.019612756
+        },
+        {
+          "description": "Visual arts",
+          "mid": "/m/0p9xx",
+          "score": 0.886812,
+          "topicality": 0.004957274
+        },
+        {
+          "description": "Graffiti",
+          "mid": "/m/034wh",
+          "score": 0.8783375,
+          "topicality": 0.43615818
+        },
+        {
+          "description": "Street art",
+          "mid": "/m/07vwy6",
+          "score": 0.8753126,
+          "topicality": 0.29746976
+        },
+        {
+          "description": "Paint",
+          "mid": "/m/05y4t",
+          "score": 0.8311202,
+          "topicality": 0.006368986
+        },
+        {
+          "description": "Busker",
+          "mid": "/m/02ldsk",
+          "score": 0.5254423,
+          "topicality": 0.111263834
+        }
+      ]
+    }
+  ]
+}

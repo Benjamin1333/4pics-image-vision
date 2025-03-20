@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Cameras & optics",
+          "mid": "/m/0ggjh_8",
+          "score": 0.9919367,
+          "topicality": 0.002054439
+        },
+        {
+          "description": "Camera",
+          "mid": "/m/0dv5r",
+          "score": 0.98097616,
+          "topicality": 0.6140569
+        },
+        {
+          "description": "Camera lens",
+          "mid": "/m/01bjxx",
+          "score": 0.9618448,
+          "topicality": 0.83194137
+        },
+        {
+          "description": "Lens",
+          "mid": "/m/04n4x",
+          "score": 0.9598353,
+          "topicality": 0.54037577
+        },
+        {
+          "description": "Digital camera",
+          "mid": "/m/0dw7n",
+          "score": 0.9148588,
+          "topicality": 0.097827174
+        },
+        {
+          "description": "Reflex camera",
+          "mid": "/m/0118ms9c",
+          "score": 0.9016274,
+          "topicality": 0.028906675
+        },
+        {
+          "description": "Point-and-shoot camera",
+          "mid": "/m/049vf_",
+          "score": 0.83672947,
+          "topicality": 0.032536253
+        },
+        {
+          "description": "Optical instrument",
+          "mid": "/m/05mfbz",
+          "score": 0.8156457,
+          "topicality": 0.00644635
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.8010861,
+          "topicality": 0.0012367241
+        },
+        {
+          "description": "Mirrorless interchangeable-lens camera",
+          "mid": "/m/05p4z41",
+          "score": 0.7953739,
+          "topicality": 0.023176165
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Ball",
+          "mid": "/m/018xm",
+          "score": 0.92838585,
+          "topicality": 0.7237835
+        },
+        {
+          "description": "Basketball",
+          "mid": "/m/018w8",
+          "score": 0.90411067,
+          "topicality": 0.9364279
+        },
+        {
+          "description": "Basketball",
+          "mid": "/m/0frqg3",
+          "score": 0.90187293,
+          "topicality": 0.8053166
+        },
+        {
+          "description": "Basketball Hoop",
+          "mid": "/m/0h8jh3r",
+          "score": 0.7366506,
+          "topicality": 0.4651356
+        },
+        {
+          "description": "Beach basketball",
+          "mid": "/m/07kdh0w",
+          "score": 0.72688186,
+          "topicality": 0.0019073999
+        },
+        {
+          "description": "Sports Toy",
+          "mid": "/m/0h8jsyt",
+          "score": 0.71388894,
+          "topicality": 0.00048308546
+        }
+      ]
+    }
+  ]
+}

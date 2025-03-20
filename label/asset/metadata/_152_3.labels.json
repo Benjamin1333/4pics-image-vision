@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.9872216,
+          "topicality": 0.122720405
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9493401,
+          "topicality": 0.0028743267
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.88140255,
+          "topicality": 0.0023038974
+        },
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.8250005,
+          "topicality": 0.06906203
+        },
+        {
+          "description": "Dried fruit",
+          "mid": "/m/02npt1",
+          "score": 0.6269949,
+          "topicality": 0.23265642
+        },
+        {
+          "description": "Staple food",
+          "mid": "/m/022tld",
+          "score": 0.58998513,
+          "topicality": 0.00019683092
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.544596,
+          "topicality": 0.0004473841
+        }
+      ]
+    }
+  ]
+}

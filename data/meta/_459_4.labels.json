@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.9847944,
+          "topicality": 0.021146799
+        },
+        {
+          "description": "Beauty",
+          "mid": "/m/01f43",
+          "score": 0.9566582,
+          "topicality": 0.082138985
+        },
+        {
+          "description": "Mask",
+          "mid": "/m/01kr41",
+          "score": 0.948702,
+          "topicality": 0.23619547
+        },
+        {
+          "description": "Eyelash",
+          "mid": "/m/03f52z",
+          "score": 0.9451167,
+          "topicality": 0.013347063
+        },
+        {
+          "description": "Masque",
+          "mid": "/m/0jyt6",
+          "score": 0.9276388,
+          "topicality": 0.33866698
+        },
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.8942239,
+          "topicality": 0.0026025758
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.88168544,
+          "topicality": 0.019663848
+        },
+        {
+          "description": "Jewellery",
+          "mid": "/m/0404d",
+          "score": 0.8726388,
+          "topicality": 0.013444366
+        },
+        {
+          "description": "Makeover",
+          "mid": "/m/02qp_b",
+          "score": 0.82452893,
+          "topicality": 0.0029857466
+        },
+        {
+          "description": "Mardi Gras",
+          "mid": "/m/011lf0ff",
+          "score": 0.7884033,
+          "topicality": 0.14285095
+        }
+      ]
+    }
+  ]
+}

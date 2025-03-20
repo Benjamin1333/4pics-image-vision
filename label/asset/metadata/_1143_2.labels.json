@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9698481,
+          "topicality": 0.010720732
+        },
+        {
+          "description": "Footprint",
+          "mid": "/m/0ftdwy",
+          "score": 0.8858139,
+          "topicality": 0.98237616
+        },
+        {
+          "description": "Paw",
+          "mid": "/m/023kp2",
+          "score": 0.8113456,
+          "topicality": 0.031457137
+        },
+        {
+          "description": "Foot",
+          "mid": "/m/031n1",
+          "score": 0.7585738,
+          "topicality": 0.42008737
+        },
+        {
+          "description": "Toe",
+          "mid": "/m/01d_ff",
+          "score": 0.66384774,
+          "topicality": 0.018020576
+        }
+      ]
+    }
+  ]
+}

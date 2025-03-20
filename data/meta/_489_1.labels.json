@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Golf equipment",
+          "mid": "/m/02w7b0t",
+          "score": 0.98370904,
+          "topicality": 0.060743555
+        },
+        {
+          "description": "Golf",
+          "mid": "/m/037hz",
+          "score": 0.9572028,
+          "topicality": 0.71237946
+        },
+        {
+          "description": "Stick and Ball Sports",
+          "mid": "/m/06ft48n",
+          "score": 0.9450954,
+          "topicality": 3.405018e-05
+        },
+        {
+          "description": "Golf club",
+          "mid": "/m/03gzqq",
+          "score": 0.94193363,
+          "topicality": 0.33490536
+        },
+        {
+          "description": "Individual sport",
+          "mid": "/m/08t0vy",
+          "score": 0.92761505,
+          "topicality": 5.901373e-05
+        },
+        {
+          "description": "Wedge",
+          "mid": "/m/068hl_",
+          "score": 0.9179667,
+          "topicality": 0.2842551
+        },
+        {
+          "description": "Iron",
+          "mid": "/m/03cld36",
+          "score": 0.8787304,
+          "topicality": 0.3794409
+        },
+        {
+          "description": "Grasses",
+          "mid": "/m/0fkrk",
+          "score": 0.8614235,
+          "topicality": 0.020762665
+        },
+        {
+          "description": "Sand wedge",
+          "mid": "/m/01gyh6",
+          "score": 0.8491702,
+          "topicality": 0.11105464
+        },
+        {
+          "description": "Precision sports",
+          "mid": "/m/0wgq69z",
+          "score": 0.8231016,
+          "topicality": 0.00043254334
+        }
+      ]
+    }
+  ]
+}

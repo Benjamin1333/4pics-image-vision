@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.79918194,
+          "topicality": 0.030996779
+        },
+        {
+          "description": "Label",
+          "mid": "/m/05c0n6k",
+          "score": 0.6217034,
+          "topicality": 0.018585201
+        },
+        {
+          "description": "Bottle cap",
+          "mid": "/m/02b389",
+          "score": 0.6166559,
+          "topicality": 0.06307486
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.5951675,
+          "topicality": 0.11095812
+        },
+        {
+          "description": "Tin",
+          "mid": "/m/025sk5n",
+          "score": 0.56947106,
+          "topicality": 0.04348876
+        },
+        {
+          "description": "Cylinder",
+          "mid": "/m/03h_4m",
+          "score": 0.54100305,
+          "topicality": 0.0015802184
+        }
+      ]
+    }
+  ]
+}

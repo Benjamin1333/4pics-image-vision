@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sun tanning",
+          "mid": "/m/02n6m5",
+          "score": 0.86151016,
+          "topicality": 0.58910567
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.86001635,
+          "topicality": 0.026868181
+        },
+        {
+          "description": "Swimming pool",
+          "mid": "/m/0b_rs",
+          "score": 0.8583733,
+          "topicality": 0.5742955
+        },
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.8249659,
+          "topicality": 0.003711029
+        },
+        {
+          "description": "Vacation",
+          "mid": "/m/02jwqh",
+          "score": 0.7543846,
+          "topicality": 0.08358569
+        },
+        {
+          "description": "Swimming",
+          "mid": "/m/06z6r",
+          "score": 0.60741025,
+          "topicality": 0.4430588
+        },
+        {
+          "description": "Swimsuit",
+          "mid": "/m/01gkx_",
+          "score": 0.5977347,
+          "topicality": 0.052565563
+        },
+        {
+          "description": "Foot",
+          "mid": "/m/031n1",
+          "score": 0.5606941,
+          "topicality": 0.015391267
+        }
+      ]
+    }
+  ]
+}

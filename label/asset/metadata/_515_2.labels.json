@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Dog",
+          "mid": "/m/0bt9lr",
+          "score": 0.9955652,
+          "topicality": 0.83658266
+        },
+        {
+          "description": "Carnivores",
+          "mid": "/m/01lrl",
+          "score": 0.96588594,
+          "topicality": 0.0026363072
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.9208552,
+          "topicality": 0.038696125
+        },
+        {
+          "description": "Collar",
+          "mid": "/m/09141t",
+          "score": 0.8958869,
+          "topicality": 0.09080135
+        },
+        {
+          "description": "Pet Supply",
+          "mid": "/m/0h8ks17",
+          "score": 0.8861711,
+          "topicality": 0.000914422
+        },
+        {
+          "description": "Dog collar",
+          "mid": "/m/05q778",
+          "score": 0.85069424,
+          "topicality": 0.048896722
+        },
+        {
+          "description": "Leash",
+          "mid": "/m/03011x",
+          "score": 0.81994694,
+          "topicality": 0.08686422
+        },
+        {
+          "description": "Working animal",
+          "mid": "/m/07_gml",
+          "score": 0.8195787,
+          "topicality": 0.0012987597
+        },
+        {
+          "description": "Canidae",
+          "mid": "/m/01z5f",
+          "score": 0.76244754,
+          "topicality": 0.04900211
+        },
+        {
+          "description": "Paw",
+          "mid": "/m/023kp2",
+          "score": 0.6959781,
+          "topicality": 0.02356394
+        }
+      ]
+    }
+  ]
+}

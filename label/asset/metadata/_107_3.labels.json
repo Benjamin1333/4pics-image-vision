@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Football",
+          "mid": "/m/01226z",
+          "score": 0.8709192,
+          "topicality": 0.10586038
+        },
+        {
+          "description": "Ball",
+          "mid": "/m/018xm",
+          "score": 0.8409733,
+          "topicality": 0.44488147
+        },
+        {
+          "description": "Sports",
+          "mid": "/m/06ntj",
+          "score": 0.8004244,
+          "topicality": 0.17071557
+        },
+        {
+          "description": "Number",
+          "mid": "/m/05fwb",
+          "score": 0.7759283,
+          "topicality": 0.002496528
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.652143,
+          "topicality": 0.0010259467
+        },
+        {
+          "description": "Display device",
+          "mid": "/m/029zz6",
+          "score": 0.6414201,
+          "topicality": 0.010114602
+        },
+        {
+          "description": "Soccer ball",
+          "mid": "/m/0dpm1v",
+          "score": 0.5358959,
+          "topicality": 0.09097979
+        }
+      ]
+    }
+  ]
+}

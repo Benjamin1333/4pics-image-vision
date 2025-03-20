@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Meat",
+          "mid": "/m/04scj",
+          "score": 0.656559,
+          "topicality": 0.22746067
+        },
+        {
+          "description": "Red meat",
+          "mid": "/m/05v1q7",
+          "score": 0.6356022,
+          "topicality": 0.0055113947
+        },
+        {
+          "description": "Beef",
+          "mid": "/m/0971v",
+          "score": 0.6041063,
+          "topicality": 0.2608664
+        },
+        {
+          "description": "Pastirma",
+          "mid": "/m/04k291",
+          "score": 0.577374,
+          "topicality": 0.038576107
+        },
+        {
+          "description": "Animal product",
+          "mid": "/m/0ckdlq",
+          "score": 0.55620116,
+          "topicality": 0.00023413403
+        },
+        {
+          "description": "Bresaola",
+          "mid": "/m/04377b",
+          "score": 0.5464,
+          "topicality": 0.33706298
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.5405278,
+          "topicality": 0.055640258
+        },
+        {
+          "description": "Salt-cured meat",
+          "mid": "/m/047kbm",
+          "score": 0.5203222,
+          "topicality": 0.010840687
+        }
+      ]
+    }
+  ]
+}

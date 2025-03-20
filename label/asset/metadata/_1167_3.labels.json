@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Boat",
+          "mid": "/m/019jd",
+          "score": 0.9875024,
+          "topicality": 0.11674119
+        },
+        {
+          "description": "Watercraft",
+          "mid": "/m/01rzcn",
+          "score": 0.97590804,
+          "topicality": 0.07208024
+        },
+        {
+          "description": "Ship",
+          "mid": "/m/06q74",
+          "score": 0.9571178,
+          "topicality": 0.56685907
+        },
+        {
+          "description": "Naval architecture",
+          "mid": "/m/0k5qm",
+          "score": 0.88248473,
+          "topicality": 0.0009743691
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.82052344,
+          "topicality": 0.080928996
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.7987784,
+          "topicality": 0.02496914
+        },
+        {
+          "description": "Shipwreck",
+          "mid": "/m/01nzyt",
+          "score": 0.78282994,
+          "topicality": 0.664288
+        },
+        {
+          "description": "Water transportation",
+          "mid": "/m/08rrcl",
+          "score": 0.5965124,
+          "topicality": 0.00048585847
+        },
+        {
+          "description": "Motor ship",
+          "mid": "/m/093q8j",
+          "score": 0.5626013,
+          "topicality": 0.08156743
+        },
+        {
+          "description": "Rope",
+          "mid": "/m/01xc8d",
+          "score": 0.56192994,
+          "topicality": 0.00031292622
+        }
+      ]
+    }
+  ]
+}

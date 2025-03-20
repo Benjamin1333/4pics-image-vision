@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Building",
+          "mid": "/m/0cgh4",
+          "score": 0.9746566,
+          "topicality": 0.04100619
+        },
+        {
+          "description": "Castle",
+          "mid": "/m/0d5gx",
+          "score": 0.96060866,
+          "topicality": 0.9025534
+        },
+        {
+          "description": "Landmark",
+          "mid": "/m/05_5t0l",
+          "score": 0.9224925,
+          "topicality": 0.034107093
+        },
+        {
+          "description": "Tourist attraction",
+          "mid": "/m/0pgl9",
+          "score": 0.8892312,
+          "topicality": 0.07982328
+        },
+        {
+          "description": "Turret",
+          "mid": "/m/01xgbj",
+          "score": 0.87952214,
+          "topicality": 0.029075442
+        },
+        {
+          "description": "Château",
+          "mid": "/m/0grl_",
+          "score": 0.85188574,
+          "topicality": 0.43667367
+        },
+        {
+          "description": "Palace",
+          "mid": "/m/05zp8",
+          "score": 0.85168874,
+          "topicality": 0.3253713
+        },
+        {
+          "description": "Spire",
+          "mid": "/m/01c6yl",
+          "score": 0.8344618,
+          "topicality": 0.021309448
+        },
+        {
+          "description": "Tower",
+          "mid": "/m/01fdzj",
+          "score": 0.827105,
+          "topicality": 0.06149848
+        },
+        {
+          "description": "Medieval architecture",
+          "mid": "/m/01ht1r",
+          "score": 0.82659423,
+          "topicality": 0.08921699
+        }
+      ]
+    }
+  ]
+}

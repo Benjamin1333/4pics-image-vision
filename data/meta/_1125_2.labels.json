@@ -1,0 +1,14 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Match",
+          "mid": "/m/0h42m",
+          "score": 0.98653483,
+          "topicality": 0.9902112
+        }
+      ]
+    }
+  ]
+}

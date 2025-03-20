@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Aerospace Engineering",
+          "mid": "/m/0w7s",
+          "score": 0.81493866,
+          "topicality": 0.004466094
+        },
+        {
+          "description": "Animation",
+          "mid": "/m/0hcr",
+          "score": 0.74126744,
+          "topicality": 0.012614759
+        },
+        {
+          "description": "Fictional character",
+          "mid": "/m/02h7lkt",
+          "score": 0.68912864,
+          "topicality": 0.0031384493
+        },
+        {
+          "description": "Spacecraft",
+          "mid": "/m/09g5h",
+          "score": 0.6756192,
+          "topicality": 0.39218628
+        },
+        {
+          "description": "Unidentified flying object",
+          "mid": "/m/07tn5",
+          "score": 0.6638569,
+          "topicality": 0.38908568
+        },
+        {
+          "description": "Aircraft",
+          "mid": "/m/0k5j",
+          "score": 0.6162381,
+          "topicality": 0.0017719641
+        },
+        {
+          "description": "Robot",
+          "mid": "/m/06fgw",
+          "score": 0.6151823,
+          "topicality": 0.044921532
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.596431,
+          "topicality": 0.0084654335
+        },
+        {
+          "description": "Fiction",
+          "mid": "/m/02xlf",
+          "score": 0.58060396,
+          "topicality": 0.0037315113
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Car",
+          "mid": "/m/0k4j",
+          "score": 0.92823935,
+          "topicality": 0.06589748
+        },
+        {
+          "description": "Car door",
+          "mid": "/m/02q2kc3",
+          "score": 0.8433436,
+          "topicality": 0.0022328964
+        },
+        {
+          "description": "Family car",
+          "mid": "/m/088l6h",
+          "score": 0.7450483,
+          "topicality": 0.0021254413
+        },
+        {
+          "description": "Traffic collision",
+          "mid": "/m/08q1tg",
+          "score": 0.6753884,
+          "topicality": 0.4417731
+        },
+        {
+          "description": "Hood",
+          "mid": "/m/02df64",
+          "score": 0.65709794,
+          "topicality": 0.0009641493
+        },
+        {
+          "description": "Hubcap",
+          "mid": "/m/01sdr3",
+          "score": 0.6356518,
+          "topicality": 0.00029020043
+        },
+        {
+          "description": "Subcompact car",
+          "mid": "/m/03txxp",
+          "score": 0.6121105,
+          "topicality": 0.0021129483
+        },
+        {
+          "description": "Automotive Side-View Mirror",
+          "mid": "/m/0h8n616",
+          "score": 0.58598953,
+          "topicality": 0.00052505214
+        },
+        {
+          "description": "Hatchback",
+          "mid": "/m/01cmcs",
+          "score": 0.5665726,
+          "topicality": 0.0020479122
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Aerial photography",
+          "mid": "/m/01w5c_",
+          "score": 0.8676894,
+          "topicality": 0.0003849583
+        },
+        {
+          "description": "Adventure",
+          "mid": "/m/0h_m",
+          "score": 0.7996675,
+          "topicality": 0.0131719485
+        },
+        {
+          "description": "Sand",
+          "mid": "/m/099fz",
+          "score": 0.7936812,
+          "topicality": 0.030378792
+        },
+        {
+          "description": "Aeolian landform",
+          "mid": "/m/04gvhhy",
+          "score": 0.669712,
+          "topicality": 0.00060549314
+        },
+        {
+          "description": "Shadow",
+          "mid": "/m/01ft8k",
+          "score": 0.6268795,
+          "topicality": 0.0012901732
+        },
+        {
+          "description": "Parachuting",
+          "mid": "/m/05zmb",
+          "score": 0.6121983,
+          "topicality": 0.015863126
+        },
+        {
+          "description": "Windsport",
+          "mid": "/m/041q5g",
+          "score": 0.5634426,
+          "topicality": 0.0006015383
+        },
+        {
+          "description": "Walking",
+          "mid": "/m/083mg",
+          "score": 0.55784076,
+          "topicality": 0.0026823245
+        },
+        {
+          "description": "Air sports",
+          "mid": "/m/07wpp2",
+          "score": 0.5397997,
+          "topicality": 0.0011261934
+        }
+      ]
+    }
+  ]
+}

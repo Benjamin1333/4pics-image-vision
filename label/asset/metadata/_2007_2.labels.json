@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bovinae",
+          "mid": "/m/0jzz1",
+          "score": 0.838955,
+          "topicality": 0.0526444
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.71165144,
+          "topicality": 0.0009458623
+        },
+        {
+          "description": "Livestock",
+          "mid": "/m/0ch8v",
+          "score": 0.68313056,
+          "topicality": 0.026946789
+        },
+        {
+          "description": "Working animal",
+          "mid": "/m/07_gml",
+          "score": 0.58248335,
+          "topicality": 0.00042210074
+        },
+        {
+          "description": "Foot",
+          "mid": "/m/031n1",
+          "score": 0.53068084,
+          "topicality": 0.002044598
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Night",
+          "mid": "/m/01d74z",
+          "score": 0.6290276,
+          "topicality": 0.01116782
+        }
+      ]
+    }
+  ]
+}

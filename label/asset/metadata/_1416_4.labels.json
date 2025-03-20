@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Demolition",
+          "mid": "/m/02zrvn",
+          "score": 0.95698667,
+          "topicality": 0.94144744
+        },
+        {
+          "description": "Heavy equipment",
+          "mid": "/m/02gx17",
+          "score": 0.93559504,
+          "topicality": 0.052607864
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.84793365,
+          "topicality": 0.014558712
+        },
+        {
+          "description": "Building material",
+          "mid": "/m/02cr01",
+          "score": 0.7852568,
+          "topicality": 0.0035273093
+        },
+        {
+          "description": "Bulldozer",
+          "mid": "/m/01tkqg",
+          "score": 0.72121036,
+          "topicality": 0.0034243404
+        },
+        {
+          "description": "Rubble",
+          "mid": "/m/08qrwn",
+          "score": 0.68031186,
+          "topicality": 0.028103575
+        },
+        {
+          "description": "Construction",
+          "mid": "/m/01jnzj",
+          "score": 0.6033511,
+          "topicality": 0.058861732
+        }
+      ]
+    }
+  ]
+}

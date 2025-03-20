@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Symmetry",
+          "mid": "/m/0f28m",
+          "score": 0.6873661,
+          "topicality": 0.011694006
+        },
+        {
+          "description": "Fractal art",
+          "mid": "/m/0cxwt",
+          "score": 0.5437927,
+          "topicality": 0.018605672
+        },
+        {
+          "description": "Psychedelic art",
+          "mid": "/m/04db_z",
+          "score": 0.5421244,
+          "topicality": 0.4352777
+        }
+      ]
+    }
+  ]
+}

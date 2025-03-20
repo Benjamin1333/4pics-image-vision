@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.99511796,
+          "topicality": 0.16317907
+        },
+        {
+          "description": "Ice cream",
+          "mid": "/m/0cxn2",
+          "score": 0.98256224,
+          "topicality": 0.7981957
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.98024744,
+          "topicality": 0.01164412
+        },
+        {
+          "description": "Waffle",
+          "mid": "/m/01dwsz",
+          "score": 0.97451097,
+          "topicality": 0.14549398
+        },
+        {
+          "description": "Frozen dessert",
+          "mid": "/m/0465mr4",
+          "score": 0.9734291,
+          "topicality": 0.13700454
+        },
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.9713786,
+          "topicality": 0.22891873
+        },
+        {
+          "description": "Dessert",
+          "mid": "/m/0270h",
+          "score": 0.9645426,
+          "topicality": 0.20214635
+        },
+        {
+          "description": "Gelato",
+          "mid": "/m/02fz11",
+          "score": 0.9522377,
+          "topicality": 0.11257798
+        },
+        {
+          "description": "Wafer",
+          "mid": "/m/02k8rz",
+          "score": 0.9391547,
+          "topicality": 0.10519256
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.93904734,
+          "topicality": 6.6778644e-05
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bottle",
+          "mid": "/m/04dr76w",
+          "score": 0.9882961,
+          "topicality": 0.18817338
+        },
+        {
+          "description": "Fluid",
+          "mid": "/m/02yfx",
+          "score": 0.9533095,
+          "topicality": 0.0062768855
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.9213967,
+          "topicality": 0.1406345
+        },
+        {
+          "description": "Glass bottle",
+          "mid": "/m/089mxq",
+          "score": 0.8284774,
+          "topicality": 0.021675812
+        },
+        {
+          "description": "Alcoholic drink",
+          "mid": "/m/012mj",
+          "score": 0.7747996,
+          "topicality": 0.05164905
+        },
+        {
+          "description": "Liquor",
+          "mid": "/m/04shl0",
+          "score": 0.7134201,
+          "topicality": 0.10766148
+        },
+        {
+          "description": "Label",
+          "mid": "/m/05c0n6k",
+          "score": 0.67128646,
+          "topicality": 0.010315082
+        },
+        {
+          "description": "Solvent in chemical reactions",
+          "mid": "/m/09bkb",
+          "score": 0.59824204,
+          "topicality": 0.0058076256
+        },
+        {
+          "description": "Solution",
+          "mid": "/m/073l3",
+          "score": 0.59692305,
+          "topicality": 0.011044645
+        },
+        {
+          "description": "Condiment",
+          "mid": "/m/0gtdm",
+          "score": 0.5583322,
+          "topicality": 0.01354612
+        }
+      ]
+    }
+  ]
+}

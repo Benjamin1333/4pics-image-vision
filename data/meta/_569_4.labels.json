@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.98899686,
+          "topicality": 0.10676256
+        },
+        {
+          "description": "Lighting",
+          "mid": "/m/019sc6",
+          "score": 0.92374414,
+          "topicality": 0.3177432
+        },
+        {
+          "description": "Stage",
+          "mid": "/m/04_5hy",
+          "score": 0.89889866,
+          "topicality": 0.67238903
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.84706664,
+          "topicality": 0.010594923
+        },
+        {
+          "description": "Lens flare",
+          "mid": "/m/017bm6",
+          "score": 0.7276233,
+          "topicality": 0.257618
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.7033142,
+          "topicality": 0.01427284
+        },
+        {
+          "description": "Stage is empty",
+          "mid": "/j/gm7zd_",
+          "score": 0.70108646,
+          "topicality": 0.1545753
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.67719084,
+          "topicality": 0.012255198
+        },
+        {
+          "description": "Symmetry",
+          "mid": "/m/0f28m",
+          "score": 0.66733706,
+          "topicality": 0.0022040287
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.59730023,
+          "topicality": 0.0017342587
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bubble",
+          "mid": "/m/0g91zf",
+          "score": 0.9396173,
+          "topicality": 0.96363395
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.8787511,
+          "topicality": 0.06674647
+        },
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.76672536,
+          "topicality": 0.19098899
+        },
+        {
+          "description": "Sphere",
+          "mid": "/m/06y47",
+          "score": 0.75774866,
+          "topicality": 0.018589316
+        },
+        {
+          "description": "Play",
+          "mid": "/m/06wtgq",
+          "score": 0.7169292,
+          "topicality": 0.00014798953
+        },
+        {
+          "description": "Toddler",
+          "mid": "/m/01bgsw",
+          "score": 0.71294844,
+          "topicality": 0.06258968
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.6963487,
+          "topicality": 0.032564983
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.6774221,
+          "topicality": 0.00021854669
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.6387776,
+          "topicality": 0.0075498275
+        },
+        {
+          "description": "Baby toys",
+          "mid": "/m/0cm3fq4",
+          "score": 0.60357046,
+          "topicality": 0.0010021146
+        }
+      ]
+    }
+  ]
+}

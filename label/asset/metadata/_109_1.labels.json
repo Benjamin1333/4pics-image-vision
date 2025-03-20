@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Water",
+          "mid": "/m/0838f",
+          "score": 0.9808889,
+          "topicality": 0.060537856
+        },
+        {
+          "description": "Recreational fishing",
+          "mid": "/m/03qc82_",
+          "score": 0.9722901,
+          "topicality": 0.29809064
+        },
+        {
+          "description": "Fisherman",
+          "mid": "/m/01k695",
+          "score": 0.9715139,
+          "topicality": 0.26958475
+        },
+        {
+          "description": "Fishing",
+          "mid": "/m/094jc",
+          "score": 0.96989846,
+          "topicality": 0.7095185
+        },
+        {
+          "description": "Fishing rod",
+          "mid": "/m/0cqrz",
+          "score": 0.96118087,
+          "topicality": 0.22463378
+        },
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.95528144,
+          "topicality": 0.043669567
+        },
+        {
+          "description": "Angling",
+          "mid": "/m/01gl50",
+          "score": 0.94041365,
+          "topicality": 0.5507503
+        },
+        {
+          "description": "Outdoor recreation",
+          "mid": "/m/05b0n7k",
+          "score": 0.9353151,
+          "topicality": 0.013883167
+        },
+        {
+          "description": "Watercourse",
+          "mid": "/m/03kj4q",
+          "score": 0.93432003,
+          "topicality": 0.0064853113
+        },
+        {
+          "description": "Casting",
+          "mid": "/m/05dsq7",
+          "score": 0.8929507,
+          "topicality": 0.20548162
+        }
+      ]
+    }
+  ]
+}

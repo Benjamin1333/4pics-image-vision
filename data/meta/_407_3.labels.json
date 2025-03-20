@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Windshield",
+          "mid": "/m/01lrnl",
+          "score": 0.81830716,
+          "topicality": 0.5206381
+        },
+        {
+          "description": "Glass",
+          "mid": "/m/039jq",
+          "score": 0.81116205,
+          "topicality": 0.21074043
+        },
+        {
+          "description": "Hood",
+          "mid": "/m/02df64",
+          "score": 0.69736755,
+          "topicality": 0.035830554
+        },
+        {
+          "description": "Automotive Care",
+          "mid": "/m/0h8nz9n",
+          "score": 0.6336729,
+          "topicality": 0.00011851554
+        },
+        {
+          "description": "Windscreen wiper",
+          "mid": "/m/02417f",
+          "score": 0.5434108,
+          "topicality": 0.14260213
+        }
+      ]
+    }
+  ]
+}

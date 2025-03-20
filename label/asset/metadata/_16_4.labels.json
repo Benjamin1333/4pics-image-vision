@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sauna",
+          "mid": "/m/0k0_z",
+          "score": 0.95310783,
+          "topicality": 0.9656248
+        },
+        {
+          "description": "Spa",
+          "mid": "/m/05jh_c",
+          "score": 0.8975862,
+          "topicality": 0.5448265
+        },
+        {
+          "description": "Towel",
+          "mid": "/m/0162_1",
+          "score": 0.7731856,
+          "topicality": 0.06155547
+        },
+        {
+          "description": "Linens",
+          "mid": "/m/06httj",
+          "score": 0.7205049,
+          "topicality": 0.00023738778
+        },
+        {
+          "description": "Barechestedness",
+          "mid": "/m/0dm6dl",
+          "score": 0.6668502,
+          "topicality": 0.001211022
+        },
+        {
+          "description": "Wood stain",
+          "mid": "/m/05t06b",
+          "score": 0.6248108,
+          "topicality": 9.519198e-05
+        },
+        {
+          "description": "Hardwood",
+          "mid": "/m/020g49",
+          "score": 0.6186765,
+          "topicality": 0.00045293293
+        },
+        {
+          "description": "Bathing",
+          "mid": "/m/036d30",
+          "score": 0.50087994,
+          "topicality": 0.055212803
+        }
+      ]
+    }
+  ]
+}

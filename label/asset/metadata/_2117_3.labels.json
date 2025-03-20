@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9756132,
+          "topicality": 0.036236256
+        },
+        {
+          "description": "Kick scooter",
+          "mid": "/m/08ml_c",
+          "score": 0.9350826,
+          "topicality": 0.8441316
+        },
+        {
+          "description": "Scooter",
+          "mid": "/m/0dmq2",
+          "score": 0.62136906,
+          "topicality": 0.4889839
+        },
+        {
+          "description": "Motorized scooter",
+          "mid": "/m/0fkw0y",
+          "score": 0.6086581,
+          "topicality": 0.0065243575
+        }
+      ]
+    }
+  ]
+}

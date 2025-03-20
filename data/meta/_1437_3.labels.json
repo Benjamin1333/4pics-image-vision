@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.9847905,
+          "topicality": 0.010617719
+        },
+        {
+          "description": "Skin",
+          "mid": "/m/06z04",
+          "score": 0.9814168,
+          "topicality": 0.006537054
+        },
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.94601625,
+          "topicality": 0.014732614
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94494253,
+          "topicality": 0.05682655
+        },
+        {
+          "description": "Eyelash",
+          "mid": "/m/03f52z",
+          "score": 0.92171615,
+          "topicality": 0.0012219497
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.89824176,
+          "topicality": 0.041159168
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.8909747,
+          "topicality": 0.13444412
+        },
+        {
+          "description": "Brown hair",
+          "mid": "/m/02ksmb",
+          "score": 0.8114245,
+          "topicality": 0.0023010955
+        },
+        {
+          "description": "Sleeveless shirt",
+          "mid": "/m/077p0h",
+          "score": 0.77994406,
+          "topicality": 2.750735e-05
+        },
+        {
+          "description": "Portrait photography",
+          "mid": "/m/0chml9",
+          "score": 0.6589463,
+          "topicality": 0.0057092593
+        }
+      ]
+    }
+  ]
+}

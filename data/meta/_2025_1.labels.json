@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.88436365,
+          "topicality": 0.0055785594
+        },
+        {
+          "description": "Plan",
+          "mid": "/m/018jrr",
+          "score": 0.87509966,
+          "topicality": 0.020499155
+        },
+        {
+          "description": "Diagram",
+          "mid": "/m/02v0m2",
+          "score": 0.8631267,
+          "topicality": 0.083863825
+        },
+        {
+          "description": "Writing",
+          "mid": "/m/081rb",
+          "score": 0.7872324,
+          "topicality": 0.12085527
+        },
+        {
+          "description": "Teacher",
+          "mid": "/m/01d30f",
+          "score": 0.7814648,
+          "topicality": 0.06475558
+        },
+        {
+          "description": "Handwriting",
+          "mid": "/m/0gkxy13",
+          "score": 0.7192242,
+          "topicality": 0.040523637
+        },
+        {
+          "description": "Learning",
+          "mid": "/m/0191f8",
+          "score": 0.6750716,
+          "topicality": 0.02808467
+        },
+        {
+          "description": "Presentation",
+          "mid": "/m/02y3rj",
+          "score": 0.6453044,
+          "topicality": 0.093876176
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6258806,
+          "topicality": 0.060522046
+        },
+        {
+          "description": "Writing implement",
+          "mid": "/m/06wybl",
+          "score": 0.5879395,
+          "topicality": 0.00026575025
+        }
+      ]
+    }
+  ]
+}

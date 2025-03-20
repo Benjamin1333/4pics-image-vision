@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.89777154,
+          "topicality": 0.0013996041
+        },
+        {
+          "description": "Sign",
+          "mid": "/m/06zsq",
+          "score": 0.7932209,
+          "topicality": 0.25926533
+        },
+        {
+          "description": "Advertising",
+          "mid": "/m/011s0",
+          "score": 0.7053779,
+          "topicality": 0.0028179323
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.97295564,
+          "topicality": 0.08338605
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.94873583,
+          "topicality": 0.009544146
+        },
+        {
+          "description": "Candy",
+          "mid": "/m/0gm28",
+          "score": 0.94070894,
+          "topicality": 0.3986042
+        },
+        {
+          "description": "Mixture",
+          "mid": "/m/01q0j8",
+          "score": 0.7396777,
+          "topicality": 0.017710827
+        },
+        {
+          "description": "Junk food",
+          "mid": "/m/0h55b",
+          "score": 0.69536376,
+          "topicality": 0.0017367487
+        },
+        {
+          "description": "Food additive",
+          "mid": "/m/033zy",
+          "score": 0.5521748,
+          "topicality": 0.019173998
+        },
+        {
+          "description": "Superfood",
+          "mid": "/m/04jdhxy",
+          "score": 0.5478359,
+          "topicality": 0.0042531854
+        }
+      ]
+    }
+  ]
+}

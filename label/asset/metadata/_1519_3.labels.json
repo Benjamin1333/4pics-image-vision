@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Watch",
+          "mid": "/m/0gjkl",
+          "score": 0.994961,
+          "topicality": 0.43503088
+        },
+        {
+          "description": "Clock",
+          "mid": "/m/01x3z",
+          "score": 0.9566189,
+          "topicality": 0.8421842
+        },
+        {
+          "description": "Quartz clock",
+          "mid": "/m/06bht",
+          "score": 0.8123008,
+          "topicality": 0.54628885
+        },
+        {
+          "description": "Analog watch",
+          "mid": "/m/031pr7",
+          "score": 0.65105367,
+          "topicality": 0.0146728605
+        },
+        {
+          "description": "Gauge",
+          "mid": "/m/05kc0j",
+          "score": 0.6233878,
+          "topicality": 0.005605071
+        },
+        {
+          "description": "Measuring instrument",
+          "mid": "/m/056hv",
+          "score": 0.57198524,
+          "topicality": 0.00067338767
+        },
+        {
+          "description": "Carbon fibers",
+          "mid": "/m/0155hn",
+          "score": 0.5034573,
+          "topicality": 3.186327e-05
+        }
+      ]
+    }
+  ]
+}

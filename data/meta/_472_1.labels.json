@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Dog",
+          "mid": "/m/0bt9lr",
+          "score": 0.99544275,
+          "topicality": 0.5736022
+        },
+        {
+          "description": "Carnivores",
+          "mid": "/m/01lrl",
+          "score": 0.9431237,
+          "topicality": 0.0035913358
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.8814097,
+          "topicality": 0.010698535
+        },
+        {
+          "description": "Pet Supply",
+          "mid": "/m/0h8ks17",
+          "score": 0.8350627,
+          "topicality": 0.0010008657
+        },
+        {
+          "description": "Canidae",
+          "mid": "/m/01z5f",
+          "score": 0.82130635,
+          "topicality": 0.013232724
+        },
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.8134433,
+          "topicality": 0.000119718396
+        },
+        {
+          "description": "Working animal",
+          "mid": "/m/07_gml",
+          "score": 0.7633785,
+          "topicality": 0.00044630183
+        },
+        {
+          "description": "Dog Supply",
+          "mid": "/m/0h8nm96",
+          "score": 0.6780999,
+          "topicality": 0.011709412
+        },
+        {
+          "description": "Puppy",
+          "mid": "/m/0d7s3w",
+          "score": 0.66378325,
+          "topicality": 0.025654506
+        },
+        {
+          "description": "Collar",
+          "mid": "/m/09141t",
+          "score": 0.6162157,
+          "topicality": 0.0058478
+        }
+      ]
+    }
+  ]
+}

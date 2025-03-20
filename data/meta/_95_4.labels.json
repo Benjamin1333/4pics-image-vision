@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Vertebrate",
+          "mid": "/m/09686",
+          "score": 0.9622544,
+          "topicality": 0.0026462749
+        },
+        {
+          "description": "Terrestrial animal",
+          "mid": "/m/0fbf1m",
+          "score": 0.96033156,
+          "topicality": 0.03582373
+        },
+        {
+          "description": "Wildlife",
+          "mid": "/m/01280g",
+          "score": 0.96006954,
+          "topicality": 0.051469974
+        },
+        {
+          "description": "Cheetah",
+          "mid": "/m/0cd4d",
+          "score": 0.9593162,
+          "topicality": 0.9412497
+        },
+        {
+          "description": "Felidae",
+          "mid": "/m/0307l",
+          "score": 0.95110923,
+          "topicality": 0.06361639
+        },
+        {
+          "description": "Grassland",
+          "mid": "/m/01c7cq",
+          "score": 0.9461846,
+          "topicality": 0.05853599
+        },
+        {
+          "description": "Carnivores",
+          "mid": "/m/01lrl",
+          "score": 0.9384387,
+          "topicality": 0.0313287
+        },
+        {
+          "description": "Ecoregion",
+          "mid": "/m/0cblv",
+          "score": 0.93131584,
+          "topicality": 7.811884e-05
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.9155211,
+          "topicality": 0.0017104443
+        },
+        {
+          "description": "Plain",
+          "mid": "/m/05sm1",
+          "score": 0.8986132,
+          "topicality": 0.005358053
+        }
+      ]
+    }
+  ]
+}

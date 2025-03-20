@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.98012686,
+          "topicality": 0.041234843
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.87569547,
+          "topicality": 0.013935921
+        },
+        {
+          "description": "Ceiling",
+          "mid": "/m/03gfsp",
+          "score": 0.8640529,
+          "topicality": 0.0007084391
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.81932956,
+          "topicality": 0.0077846125
+        },
+        {
+          "description": "Laughter",
+          "mid": "/m/01j3sz",
+          "score": 0.58269995,
+          "topicality": 0.009123746
+        },
+        {
+          "description": "Party",
+          "mid": "/m/05_4_",
+          "score": 0.567713,
+          "topicality": 0.010442911
+        },
+        {
+          "description": "Student",
+          "mid": "/m/014cnc",
+          "score": 0.5309321,
+          "topicality": 0.06629016
+        }
+      ]
+    }
+  ]
+}

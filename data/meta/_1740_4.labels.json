@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Handcuffs",
+          "mid": "/m/016h1k",
+          "score": 0.9508456,
+          "topicality": 0.8714798
+        },
+        {
+          "description": "Security",
+          "mid": "/m/0bg2p",
+          "score": 0.7729081,
+          "topicality": 0.017356409
+        },
+        {
+          "description": "Law enforcement",
+          "mid": "/m/0gty6zf",
+          "score": 0.60510707,
+          "topicality": 0.0012023161
+        }
+      ]
+    }
+  ]
+}

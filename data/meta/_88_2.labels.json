@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9734196,
+          "topicality": 0.015381156
+        },
+        {
+          "description": "Indoor games and sports",
+          "mid": "/m/0b42l9",
+          "score": 0.9688084,
+          "topicality": 0.009922261
+        },
+        {
+          "description": "Number",
+          "mid": "/m/05fwb",
+          "score": 0.90579826,
+          "topicality": 0.010302385
+        },
+        {
+          "description": "Game",
+          "mid": "/m/03bt1gh",
+          "score": 0.90286136,
+          "topicality": 0.42347103
+        },
+        {
+          "description": "Sports",
+          "mid": "/m/06ntj",
+          "score": 0.81531733,
+          "topicality": 0.024021994
+        },
+        {
+          "description": "Ball",
+          "mid": "/m/018xm",
+          "score": 0.7425179,
+          "topicality": 0.11123908
+        },
+        {
+          "description": "Dartboard",
+          "mid": "/m/0h8mjr7",
+          "score": 0.7053801,
+          "topicality": 0.074193604
+        },
+        {
+          "description": "Precision sports",
+          "mid": "/m/0wgq69z",
+          "score": 0.6945274,
+          "topicality": 0.004890399
+        },
+        {
+          "description": "Hardwood",
+          "mid": "/m/020g49",
+          "score": 0.6711415,
+          "topicality": 8.0329235e-05
+        },
+        {
+          "description": "Darts",
+          "mid": "/m/023hb6",
+          "score": 0.57927126,
+          "topicality": 0.2488172
+        }
+      ]
+    }
+  ]
+}

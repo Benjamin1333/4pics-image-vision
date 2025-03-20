@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9488939,
+          "topicality": 0.06409521
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9448444,
+          "topicality": 0.004480772
+        },
+        {
+          "description": "Cartoon",
+          "mid": "/m/0215n",
+          "score": 0.8528153,
+          "topicality": 0.35493717
+        },
+        {
+          "description": "Animation",
+          "mid": "/m/0hcr",
+          "score": 0.83221734,
+          "topicality": 0.037983395
+        },
+        {
+          "description": "Fictional character",
+          "mid": "/m/02h7lkt",
+          "score": 0.73911154,
+          "topicality": 0.0011005381
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.7201713,
+          "topicality": 0.054569524
+        },
+        {
+          "description": "Animated cartoon",
+          "mid": "/m/095bb",
+          "score": 0.6747461,
+          "topicality": 0.0073646
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.6661963,
+          "topicality": 0.011423676
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.62975794,
+          "topicality": 0.024399599
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.6170748,
+          "topicality": 0.10758374
+        }
+      ]
+    }
+  ]
+}

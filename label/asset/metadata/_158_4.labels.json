@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Tin",
+          "mid": "/m/025sk5n",
+          "score": 0.917533,
+          "topicality": 0.57119846
+        },
+        {
+          "description": "Steel and tin cans",
+          "mid": "/m/02jnhm",
+          "score": 0.7751713,
+          "topicality": 0.32474777
+        },
+        {
+          "description": "Brass",
+          "mid": "/m/01504",
+          "score": 0.7257545,
+          "topicality": 0.04678924
+        },
+        {
+          "description": "Food storage containers",
+          "mid": "/m/05p0tsj",
+          "score": 0.7071222,
+          "topicality": 0.0125499815
+        },
+        {
+          "description": "Aluminum can",
+          "mid": "/m/0gjbv4m",
+          "score": 0.54914045,
+          "topicality": 0.11969176
+        },
+        {
+          "description": "Lid",
+          "mid": "/m/074cq5",
+          "score": 0.5280777,
+          "topicality": 0.044084344
+        },
+        {
+          "description": "Money Handling",
+          "mid": "/m/0h8n2s1",
+          "score": 0.5127865,
+          "topicality": 0.00011977547
+        }
+      ]
+    }
+  ]
+}

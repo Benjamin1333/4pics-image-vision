@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Tennis",
+          "mid": "/m/07bs0",
+          "score": 0.97398895,
+          "topicality": 0.91235
+        },
+        {
+          "description": "Tennis ball",
+          "mid": "/m/05ctyq",
+          "score": 0.95672584,
+          "topicality": 0.87370104
+        },
+        {
+          "description": "Ball game",
+          "mid": "/m/020m7t",
+          "score": 0.95435005,
+          "topicality": 0.028027434
+        },
+        {
+          "description": "Ball",
+          "mid": "/m/018xm",
+          "score": 0.9471368,
+          "topicality": 0.6001803
+        },
+        {
+          "description": "Tennis--Equipment and supplies",
+          "mid": "/m/0bps4xh",
+          "score": 0.9376758,
+          "topicality": 0.0010958095
+        },
+        {
+          "description": "Sports equipment",
+          "mid": "/m/05y5lj",
+          "score": 0.93620545,
+          "topicality": 0.039791036
+        },
+        {
+          "description": "Sports",
+          "mid": "/m/06ntj",
+          "score": 0.93074965,
+          "topicality": 0.40972793
+        },
+        {
+          "description": "Racquet sport",
+          "mid": "/m/01qhp_",
+          "score": 0.9293277,
+          "topicality": 0.0065144585
+        },
+        {
+          "description": "Tennis court",
+          "mid": "/m/07gcy",
+          "score": 0.91196394,
+          "topicality": 0.5921109
+        },
+        {
+          "description": "Sports venue",
+          "mid": "/m/0bmgjqz",
+          "score": 0.88055414,
+          "topicality": 0.009476895
+        }
+      ]
+    }
+  ]
+}

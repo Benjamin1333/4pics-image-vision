@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Holding hands",
+          "mid": "/m/01613k",
+          "score": 0.81966823,
+          "topicality": 0.01689568
+        },
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.78403836,
+          "topicality": 0.0926765
+        },
+        {
+          "description": "Torso",
+          "mid": "/m/031vtq",
+          "score": 0.7576,
+          "topicality": 0.04822312
+        },
+        {
+          "description": "Mannequin",
+          "mid": "/m/01gl_m",
+          "score": 0.73146147,
+          "topicality": 0.86710286
+        },
+        {
+          "description": "Stomach",
+          "mid": "/m/09x8z",
+          "score": 0.66825634,
+          "topicality": 0.00024565202
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.61327994,
+          "topicality": 0.0068791863
+        },
+        {
+          "description": "Balance",
+          "mid": "/m/03gs8b2",
+          "score": 0.5539667,
+          "topicality": 0.0028059438
+        },
+        {
+          "description": "Greeting",
+          "mid": "/m/02q2qc",
+          "score": 0.5079181,
+          "topicality": 0.0016973597
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Night",
+          "mid": "/m/01d74z",
+          "score": 0.96834725,
+          "topicality": 0.09889502
+        },
+        {
+          "description": "Landmark",
+          "mid": "/m/05_5t0l",
+          "score": 0.9119487,
+          "topicality": 0.01496327
+        },
+        {
+          "description": "Midnight",
+          "mid": "/m/01kv7h",
+          "score": 0.83601695,
+          "topicality": 0.0031810356
+        },
+        {
+          "description": "Palace",
+          "mid": "/m/05zp8",
+          "score": 0.8344092,
+          "topicality": 0.19450492
+        },
+        {
+          "description": "Tourist attraction",
+          "mid": "/m/0pgl9",
+          "score": 0.8309494,
+          "topicality": 0.05405322
+        },
+        {
+          "description": "Fountain",
+          "mid": "/m/0220r2",
+          "score": 0.7438459,
+          "topicality": 0.041682206
+        },
+        {
+          "description": "Official residence",
+          "mid": "/m/05czsy",
+          "score": 0.70564765,
+          "topicality": 0.041264735
+        },
+        {
+          "description": "Classical architecture",
+          "mid": "/m/0dvh9",
+          "score": 0.6887786,
+          "topicality": 0.008469366
+        },
+        {
+          "description": "Water feature",
+          "mid": "/m/090j23",
+          "score": 0.6540216,
+          "topicality": 0.005610153
+        },
+        {
+          "description": "Landscape lighting",
+          "mid": "/m/090pbr",
+          "score": 0.63716424,
+          "topicality": 0.0048506176
+        }
+      ]
+    }
+  ]
+}

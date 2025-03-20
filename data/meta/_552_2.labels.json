@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Eyebrow",
+          "mid": "/m/027n3_",
+          "score": 0.9854798,
+          "topicality": 0.02640445
+        },
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.98478925,
+          "topicality": 0.023763401
+        },
+        {
+          "description": "Skin",
+          "mid": "/m/06z04",
+          "score": 0.9819436,
+          "topicality": 0.6746609
+        },
+        {
+          "description": "Forehead",
+          "mid": "/m/025kyy",
+          "score": 0.98148364,
+          "topicality": 0.10596856
+        },
+        {
+          "description": "Jaw",
+          "mid": "/m/01k9lj",
+          "score": 0.95775414,
+          "topicality": 0.02608188
+        },
+        {
+          "description": "Neck",
+          "mid": "/m/0dzd8",
+          "score": 0.9565545,
+          "topicality": 0.17766874
+        },
+        {
+          "description": "Temple",
+          "mid": "/m/08g_yr",
+          "score": 0.9517982,
+          "topicality": 0.08156091
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9449075,
+          "topicality": 0.005019594
+        },
+        {
+          "description": "Eyelash",
+          "mid": "/m/03f52z",
+          "score": 0.91236866,
+          "topicality": 0.0037103875
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.9063502,
+          "topicality": 0.017118126
+        }
+      ]
+    }
+  ]
+}

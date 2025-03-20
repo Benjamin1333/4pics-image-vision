@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Industry",
+          "mid": "/m/03rnh",
+          "score": 0.8977528,
+          "topicality": 0.1313423
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.865131,
+          "topicality": 0.0039475197
+        },
+        {
+          "description": "Ceiling",
+          "mid": "/m/03gfsp",
+          "score": 0.8449035,
+          "topicality": 0.0012676087
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.84328,
+          "topicality": 0.07592733
+        },
+        {
+          "description": "Factory",
+          "mid": "/m/0168g6",
+          "score": 0.79972696,
+          "topicality": 0.3665302
+        },
+        {
+          "description": "Engineering",
+          "mid": "/m/02ky346",
+          "score": 0.7765849,
+          "topicality": 0.003286986
+        },
+        {
+          "description": "Steel",
+          "mid": "/m/06qqb",
+          "score": 0.6536171,
+          "topicality": 0.024233736
+        },
+        {
+          "description": "Aluminium",
+          "mid": "/m/027vj2v",
+          "score": 0.61071444,
+          "topicality": 0.04683752
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.5989415,
+          "topicality": 0.04757712
+        },
+        {
+          "description": "Mass production",
+          "mid": "/m/0g_k0",
+          "score": 0.54106677,
+          "topicality": 0.08492004
+        }
+      ]
+    }
+  ]
+}

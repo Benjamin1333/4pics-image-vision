@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Interior design",
+          "mid": "/m/02rfdq",
+          "score": 0.97067827,
+          "topicality": 0.00041831328
+        },
+        {
+          "description": "Ceiling",
+          "mid": "/m/03gfsp",
+          "score": 0.95699966,
+          "topicality": 0.0010523952
+        },
+        {
+          "description": "Religious institute",
+          "mid": "/m/0h64tv6",
+          "score": 0.95649433,
+          "topicality": 0.0030982173
+        },
+        {
+          "description": "Glass",
+          "mid": "/m/039jq",
+          "score": 0.95292264,
+          "topicality": 0.004066218
+        },
+        {
+          "description": "Place of worship",
+          "mid": "/m/02nvjx",
+          "score": 0.9404594,
+          "topicality": 0.038537797
+        },
+        {
+          "description": "Church",
+          "mid": "/m/01wb7",
+          "score": 0.9393092,
+          "topicality": 0.41974065
+        },
+        {
+          "description": "Lighting",
+          "mid": "/m/019sc6",
+          "score": 0.9345233,
+          "topicality": 0.00076449
+        },
+        {
+          "description": "Holy places",
+          "mid": "/m/065zs54",
+          "score": 0.9322727,
+          "topicality": 0.0062319413
+        },
+        {
+          "description": "Hall",
+          "mid": "/m/0d4vn",
+          "score": 0.92935824,
+          "topicality": 7.320623e-05
+        },
+        {
+          "description": "Chapel",
+          "mid": "/m/0173tc",
+          "score": 0.9163687,
+          "topicality": 0.29064474
+        }
+      ]
+    }
+  ]
+}

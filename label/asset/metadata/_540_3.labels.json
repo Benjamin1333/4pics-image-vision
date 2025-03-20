@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Mode of transport",
+          "mid": "/m/079bkr",
+          "score": 0.98288894,
+          "topicality": 0.011854459
+        },
+        {
+          "description": "Motor vehicle",
+          "mid": "/m/012f08",
+          "score": 0.9741601,
+          "topicality": 0.020120468
+        },
+        {
+          "description": "Car",
+          "mid": "/m/0k4j",
+          "score": 0.9676919,
+          "topicality": 0.3391163
+        },
+        {
+          "description": "Automotive lighting",
+          "mid": "/m/0768fx",
+          "score": 0.96064466,
+          "topicality": 0.0009478868
+        },
+        {
+          "description": "Automotive Exterior",
+          "mid": "/m/0h8ls87",
+          "score": 0.9567318,
+          "topicality": 0.0024817702
+        },
+        {
+          "description": "Road",
+          "mid": "/m/06gfj",
+          "score": 0.9562794,
+          "topicality": 0.27638355
+        },
+        {
+          "description": "Automotive Side-View Mirror",
+          "mid": "/m/0h8n616",
+          "score": 0.9275482,
+          "topicality": 0.0030606452
+        },
+        {
+          "description": "Automotive Mirror",
+          "mid": "/m/0h8lk4b",
+          "score": 0.9215206,
+          "topicality": 0.0032702892
+        },
+        {
+          "description": "Asphalt",
+          "mid": "/m/0hr8",
+          "score": 0.91693026,
+          "topicality": 0.025335649
+        },
+        {
+          "description": "Automotive Parking Light",
+          "mid": "/m/0h8n1g1",
+          "score": 0.9081049,
+          "topicality": 0.00095273036
+        }
+      ]
+    }
+  ]
+}

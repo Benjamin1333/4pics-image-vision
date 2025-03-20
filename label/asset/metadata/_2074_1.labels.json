@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bottle",
+          "mid": "/m/04dr76w",
+          "score": 0.9799212,
+          "topicality": 0.22685209
+        },
+        {
+          "description": "Alcoholic drink",
+          "mid": "/m/012mj",
+          "score": 0.92789465,
+          "topicality": 0.090744585
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.92067206,
+          "topicality": 0.0014748585
+        },
+        {
+          "description": "Glass bottle",
+          "mid": "/m/089mxq",
+          "score": 0.90472305,
+          "topicality": 0.042064894
+        },
+        {
+          "description": "Alcohol",
+          "mid": "/m/0lqk",
+          "score": 0.85537386,
+          "topicality": 0.036742534
+        },
+        {
+          "description": "Beer bottle",
+          "mid": "/m/044gvx",
+          "score": 0.7854541,
+          "topicality": 0.13391213
+        },
+        {
+          "description": "Bottle cap",
+          "mid": "/m/02b389",
+          "score": 0.73057866,
+          "topicality": 0.020889977
+        },
+        {
+          "description": "Beer",
+          "mid": "/m/01599",
+          "score": 0.6974972,
+          "topicality": 0.50001746
+        },
+        {
+          "description": "Label",
+          "mid": "/m/05c0n6k",
+          "score": 0.663057,
+          "topicality": 0.015363567
+        },
+        {
+          "description": "Liquor",
+          "mid": "/m/04shl0",
+          "score": 0.6536329,
+          "topicality": 0.027913887
+        }
+      ]
+    }
+  ]
+}

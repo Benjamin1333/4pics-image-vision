@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sports venue",
+          "mid": "/m/0bmgjqz",
+          "score": 0.9019128,
+          "topicality": 0.05985197
+        },
+        {
+          "description": "Stadium",
+          "mid": "/m/019cfy",
+          "score": 0.72820497,
+          "topicality": 0.45555264
+        },
+        {
+          "description": "Field",
+          "mid": "/m/0brn2d",
+          "score": 0.7218425,
+          "topicality": 0.012960987
+        },
+        {
+          "description": "Artificial turf",
+          "mid": "/m/04bzth",
+          "score": 0.72148657,
+          "topicality": 0.033587594
+        },
+        {
+          "description": "Goal",
+          "mid": "/m/023t5p",
+          "score": 0.6437346,
+          "topicality": 0.020002345
+        },
+        {
+          "description": "Soccer-specific stadium",
+          "mid": "/m/0404y4",
+          "score": 0.641495,
+          "topicality": 0.640396
+        }
+      ]
+    }
+  ]
+}

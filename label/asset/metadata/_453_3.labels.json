@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Engine",
+          "mid": "/m/02mk9",
+          "score": 0.9655291,
+          "topicality": 0.4447973
+        },
+        {
+          "description": "Automotive Air Manifold",
+          "mid": "/m/0h8lj6c",
+          "score": 0.77546495,
+          "topicality": 0.0011606737
+        },
+        {
+          "description": "Fuel line",
+          "mid": "/m/0dwrdq",
+          "score": 0.64350057,
+          "topicality": 0.00415538
+        },
+        {
+          "description": "Hood",
+          "mid": "/m/02df64",
+          "score": 0.6290922,
+          "topicality": 0.005245383
+        },
+        {
+          "description": "Automotive Fuel System",
+          "mid": "/m/0h8lk_j",
+          "score": 0.60608286,
+          "topicality": 8.5439075e-05
+        },
+        {
+          "description": "Rocker cover",
+          "mid": "/m/08xdbd",
+          "score": 0.5453215,
+          "topicality": 0.097285084
+        },
+        {
+          "description": "Exhaust manifold",
+          "mid": "/m/0h699qs",
+          "score": 0.50663316,
+          "topicality": 0.029098101
+        }
+      ]
+    }
+  ]
+}

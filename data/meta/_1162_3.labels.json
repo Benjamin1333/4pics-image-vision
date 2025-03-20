@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Party Supply",
+          "mid": "/m/0cmqr_4",
+          "score": 0.76891375,
+          "topicality": 0.003140003
+        },
+        {
+          "description": "Party",
+          "mid": "/m/05_4_",
+          "score": 0.52761734,
+          "topicality": 0.29375076
+        }
+      ]
+    }
+  ]
+}

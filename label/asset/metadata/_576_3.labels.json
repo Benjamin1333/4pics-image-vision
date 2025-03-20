@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Wall",
+          "mid": "/m/09qqq",
+          "score": 0.98062783,
+          "topicality": 0.27630186
+        },
+        {
+          "description": "Brick",
+          "mid": "/m/01g0g",
+          "score": 0.9412223,
+          "topicality": 0.084302485
+        },
+        {
+          "description": "Brickwork",
+          "mid": "/m/01__sk",
+          "score": 0.8845562,
+          "topicality": 0.030018328
+        },
+        {
+          "description": "Stone wall",
+          "mid": "/m/0bysjw",
+          "score": 0.8315914,
+          "topicality": 0.009623807
+        },
+        {
+          "description": "Shadow",
+          "mid": "/m/01ft8k",
+          "score": 0.79421467,
+          "topicality": 0.4391941
+        },
+        {
+          "description": "Building material",
+          "mid": "/m/02cr01",
+          "score": 0.7076618,
+          "topicality": 0.0007194504
+        }
+      ]
+    }
+  ]
+}

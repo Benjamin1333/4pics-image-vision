@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bottle",
+          "mid": "/m/04dr76w",
+          "score": 0.9919128,
+          "topicality": 0.37570664
+        },
+        {
+          "description": "Fluid",
+          "mid": "/m/02yfx",
+          "score": 0.9549837,
+          "topicality": 0.0070908214
+        },
+        {
+          "description": "Glass bottle",
+          "mid": "/m/089mxq",
+          "score": 0.9497761,
+          "topicality": 0.08568021
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.9212627,
+          "topicality": 0.019921856
+        },
+        {
+          "description": "Drinkware",
+          "mid": "/m/050h26",
+          "score": 0.90692663,
+          "topicality": 0.0011468517
+        },
+        {
+          "description": "Plastic bottle",
+          "mid": "/m/02rlncx",
+          "score": 0.85689497,
+          "topicality": 0.023386441
+        },
+        {
+          "description": "Sand",
+          "mid": "/m/099fz",
+          "score": 0.8105638,
+          "topicality": 0.14610052
+        },
+        {
+          "description": "Water bottle",
+          "mid": "/m/0118n_9r",
+          "score": 0.8032395,
+          "topicality": 0.0425821
+        },
+        {
+          "description": "Beach",
+          "mid": "/m/0b3yr",
+          "score": 0.759815,
+          "topicality": 0.13268042
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.5979399,
+          "topicality": 0.010241134
+        }
+      ]
+    }
+  ]
+}

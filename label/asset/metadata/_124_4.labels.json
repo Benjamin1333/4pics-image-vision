@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Steel and tin cans",
+          "mid": "/m/02jnhm",
+          "score": 0.88942796,
+          "topicality": 0.40928134
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.8636592,
+          "topicality": 0.056961257
+        },
+        {
+          "description": "Tin",
+          "mid": "/m/025sk5n",
+          "score": 0.8278979,
+          "topicality": 0.13900833
+        },
+        {
+          "description": "Seafood",
+          "mid": "/m/06nwz",
+          "score": 0.66577256,
+          "topicality": 0.011006928
+        },
+        {
+          "description": "Fish products",
+          "mid": "/m/03ylp97",
+          "score": 0.6273397,
+          "topicality": 0.0006900052
+        },
+        {
+          "description": "Aluminum can",
+          "mid": "/m/0gjbv4m",
+          "score": 0.6195239,
+          "topicality": 0.03998437
+        },
+        {
+          "description": "Fish",
+          "mid": "/m/0ch_cf",
+          "score": 0.5882559,
+          "topicality": 0.020311275
+        }
+      ]
+    }
+  ]
+}

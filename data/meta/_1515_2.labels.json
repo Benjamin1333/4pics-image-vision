@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9803367,
+          "topicality": 0.04275798
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.96356577,
+          "topicality": 0.03296833
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9448665,
+          "topicality": 0.0052454052
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.76715124,
+          "topicality": 0.10737695
+        },
+        {
+          "description": "Teacher",
+          "mid": "/m/01d30f",
+          "score": 0.6233071,
+          "topicality": 0.010034072
+        },
+        {
+          "description": "Laughter",
+          "mid": "/m/01j3sz",
+          "score": 0.6013689,
+          "topicality": 0.0010362555
+        }
+      ]
+    }
+  ]
+}

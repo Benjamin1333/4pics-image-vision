@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hair",
+          "mid": "/m/03q69",
+          "score": 0.9910802,
+          "topicality": 0.29856917
+        },
+        {
+          "description": "Eyebrow",
+          "mid": "/m/027n3_",
+          "score": 0.9855007,
+          "topicality": 0.012295571
+        },
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.9847963,
+          "topicality": 0.05884148
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9776131,
+          "topicality": 0.13417383
+        },
+        {
+          "description": "Eyelash",
+          "mid": "/m/03f52z",
+          "score": 0.97535634,
+          "topicality": 0.0028974027
+        },
+        {
+          "description": "Hairstyle",
+          "mid": "/m/0ds4x",
+          "score": 0.9703339,
+          "topicality": 0.09153076
+        },
+        {
+          "description": "Beauty",
+          "mid": "/m/01f43",
+          "score": 0.9652848,
+          "topicality": 0.14177467
+        },
+        {
+          "description": "Red hair",
+          "mid": "/m/01ntt3",
+          "score": 0.95522904,
+          "topicality": 0.95287234
+        },
+        {
+          "description": "Fashion",
+          "mid": "/m/032tl",
+          "score": 0.9512899
+        },
+        {
+          "description": "Lipstick",
+          "mid": "/m/06c7f7",
+          "score": 0.91901076,
+          "topicality": 0.018210925
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Traffic sign",
+          "mid": "/m/01mqdt",
+          "score": 0.9507706,
+          "topicality": 0.8158719
+        },
+        {
+          "description": "Sign",
+          "mid": "/m/06zsq",
+          "score": 0.9471574,
+          "topicality": 0.66600037
+        },
+        {
+          "description": "Street name sign",
+          "mid": "/m/04jph85",
+          "score": 0.9127779,
+          "topicality": 0.26912674
+        },
+        {
+          "description": "Traffic light",
+          "mid": "/m/015qff",
+          "score": 0.7892382,
+          "topicality": 0.36828998
+        },
+        {
+          "description": "signaling device",
+          "mid": "/m/07q3ylx",
+          "score": 0.7767083,
+          "topicality": 0.01471089
+        }
+      ]
+    }
+  ]
+}

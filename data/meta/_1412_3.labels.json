@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "bowling equipment",
+          "mid": "/m/07pj7bq",
+          "score": 0.98477113,
+          "topicality": 0.05763307
+        },
+        {
+          "description": "Bowling",
+          "mid": "/m/01bdy",
+          "score": 0.97990215,
+          "topicality": 0.81932074
+        },
+        {
+          "description": "Bowling pin",
+          "mid": "/m/09tyrb",
+          "score": 0.96537906,
+          "topicality": 0.38590717
+        },
+        {
+          "description": "Ball game",
+          "mid": "/m/020m7t",
+          "score": 0.9506539,
+          "topicality": 0.011320927
+        },
+        {
+          "description": "Ball",
+          "mid": "/m/018xm",
+          "score": 0.94728297,
+          "topicality": 0.36878964
+        },
+        {
+          "description": "Sports equipment",
+          "mid": "/m/05y5lj",
+          "score": 0.9270709,
+          "topicality": 0.010620539
+        },
+        {
+          "description": "Bowling ball",
+          "mid": "/m/05gk5c",
+          "score": 0.92298776,
+          "topicality": 0.44233382
+        },
+        {
+          "description": "Individual sport",
+          "mid": "/m/08t0vy",
+          "score": 0.9139345,
+          "topicality": 0.00046946676
+        },
+        {
+          "description": "Indoor games and sports",
+          "mid": "/m/0b42l9",
+          "score": 0.9110851,
+          "topicality": 0.0039053385
+        },
+        {
+          "description": "Ten-pin bowling",
+          "mid": "/m/01dhjg",
+          "score": 0.9093477,
+          "topicality": 0.6484781
+        }
+      ]
+    }
+  ]
+}

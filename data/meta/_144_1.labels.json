@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sculpture",
+          "mid": "/m/06msq",
+          "score": 0.9095652,
+          "topicality": 0.022198826
+        },
+        {
+          "description": "Statue",
+          "mid": "/m/013_1c",
+          "score": 0.85408384,
+          "topicality": 0.04604341
+        },
+        {
+          "description": "Classical sculpture",
+          "mid": "/m/095yjj",
+          "score": 0.6780038,
+          "topicality": 0.00076519663
+        },
+        {
+          "description": "Measuring instrument",
+          "mid": "/m/056hv",
+          "score": 0.6036456,
+          "topicality": 0.0004406872
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.92808056,
+          "topicality": 0.15916882
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.87133515,
+          "topicality": 0.011222921
+        },
+        {
+          "description": "Cheese",
+          "mid": "/m/01nkt",
+          "score": 0.8291406,
+          "topicality": 0.58113104
+        },
+        {
+          "description": "Gouda cheese",
+          "mid": "/m/012mpq",
+          "score": 0.6376474,
+          "topicality": 0.29347938
+        },
+        {
+          "description": "Fast food",
+          "mid": "/m/01_bhs",
+          "score": 0.5940822,
+          "topicality": 0.005557177
+        },
+        {
+          "description": "Limburger",
+          "mid": "/m/0f0xk",
+          "score": 0.5924181,
+          "topicality": 0.0034052501
+        },
+        {
+          "description": "Processed cheese",
+          "mid": "/m/02kg_6",
+          "score": 0.5618097,
+          "topicality": 0.008286175
+        },
+        {
+          "description": "British Cuisine",
+          "mid": "/m/0k7r2",
+          "score": 0.5073838,
+          "topicality": 0.0009084463
+        }
+      ]
+    }
+  ]
+}

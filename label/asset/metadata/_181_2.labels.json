@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Fluid",
+          "mid": "/m/02yfx",
+          "score": 0.95593065,
+          "topicality": 0.0130970385
+        },
+        {
+          "description": "Drinking water",
+          "mid": "/m/01c6xf",
+          "score": 0.9426697,
+          "topicality": 0.29221532
+        },
+        {
+          "description": "Drinkware",
+          "mid": "/m/050h26",
+          "score": 0.9312575,
+          "topicality": 0.0106952125
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.92158806,
+          "topicality": 0.0825848
+        },
+        {
+          "description": "Mineral water",
+          "mid": "/m/02267z",
+          "score": 0.9195812,
+          "topicality": 0.13933349
+        },
+        {
+          "description": "Glass",
+          "mid": "/m/039jq",
+          "score": 0.9138022,
+          "topicality": 0.47700554
+        },
+        {
+          "description": "Barware",
+          "mid": "/m/0h8nvcj",
+          "score": 0.8456874,
+          "topicality": 0.0003619432
+        },
+        {
+          "description": "Ice cube",
+          "mid": "/m/03vk79",
+          "score": 0.8300735,
+          "topicality": 0.45979187
+        },
+        {
+          "description": "Distilled water",
+          "mid": "/m/0qlx1",
+          "score": 0.79979867,
+          "topicality": 0.037623376
+        },
+        {
+          "description": "Old Fashioned glass",
+          "mid": "/m/0d97cx",
+          "score": 0.7737482,
+          "topicality": 0.056779888
+        }
+      ]
+    }
+  ]
+}

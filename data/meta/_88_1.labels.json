@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Owl",
+          "mid": "/m/09d5_",
+          "score": 0.98300856,
+          "topicality": 0.7171977
+        },
+        {
+          "description": "Bird",
+          "mid": "/m/015p6",
+          "score": 0.9777056,
+          "topicality": 0.18019225
+        },
+        {
+          "description": "Vertebrate",
+          "mid": "/m/09686",
+          "score": 0.96193033,
+          "topicality": 0.0031440011
+        },
+        {
+          "description": "Bird of prey",
+          "mid": "/m/0f6x8",
+          "score": 0.9221524,
+          "topicality": 0.09099181
+        },
+        {
+          "description": "Beak",
+          "mid": "/m/01c4rd",
+          "score": 0.9076906,
+          "topicality": 0.006914286
+        },
+        {
+          "description": "Screech owl",
+          "mid": "/m/03hjrvl",
+          "score": 0.8179197,
+          "topicality": 0.005545139
+        },
+        {
+          "description": "Great horned owl",
+          "mid": "/m/01_3kg",
+          "score": 0.69804734,
+          "topicality": 0.016816003
+        },
+        {
+          "description": "Feather",
+          "mid": "/m/0dfgf",
+          "score": 0.68527454,
+          "topicality": 0.0010172535
+        },
+        {
+          "description": "Night",
+          "mid": "/m/01d74z",
+          "score": 0.6498004,
+          "topicality": 0.0069665206
+        },
+        {
+          "description": "Falconiformes",
+          "mid": "/m/02w98",
+          "score": 0.5496094,
+          "topicality": 0.0001589025
+        }
+      ]
+    }
+  ]
+}

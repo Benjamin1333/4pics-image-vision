@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Horse",
+          "mid": "/m/03k3r",
+          "score": 0.99375665,
+          "topicality": 0.60521156
+        },
+        {
+          "description": "Bridle",
+          "mid": "/m/04jkpd",
+          "score": 0.98675025,
+          "topicality": 0.0009419126
+        },
+        {
+          "description": "Halter",
+          "mid": "/m/04pzb_",
+          "score": 0.9783849,
+          "topicality": 0.00029542172
+        },
+        {
+          "description": "Jockey",
+          "mid": "/m/01pvc5",
+          "score": 0.97089714,
+          "topicality": 0.2754974
+        },
+        {
+          "description": "Rein",
+          "mid": "/m/07hgcp",
+          "score": 0.96089,
+          "topicality": 0.0035413017
+        },
+        {
+          "description": "Vertebrate",
+          "mid": "/m/09686",
+          "score": 0.96087575,
+          "topicality": 7.575593e-06
+        },
+        {
+          "description": "Sports venue",
+          "mid": "/m/0bmgjqz",
+          "score": 0.9606516,
+          "topicality": 0.00021021572
+        },
+        {
+          "description": "Horse tack",
+          "mid": "/m/03pgm",
+          "score": 0.95947284,
+          "topicality": 0.0022530404
+        },
+        {
+          "description": "Sports",
+          "mid": "/m/06ntj",
+          "score": 0.95409256,
+          "topicality": 0.03558862
+        },
+        {
+          "description": "Animal sports",
+          "mid": "/m/0wfrc8w",
+          "score": 0.9445142,
+          "topicality": 0.0154026095
+        }
+      ]
+    }
+  ]
+}

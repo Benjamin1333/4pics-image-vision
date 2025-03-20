@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Team sport",
+          "mid": "/m/03x045",
+          "score": 0.98008955,
+          "topicality": 0.14128043
+        },
+        {
+          "description": "Sports venue",
+          "mid": "/m/0bmgjqz",
+          "score": 0.97987914,
+          "topicality": 0.0030987405
+        },
+        {
+          "description": "Player",
+          "mid": "/m/02vzx9",
+          "score": 0.9761939,
+          "topicality": 0.03311809
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9753104,
+          "topicality": 0.007555017
+        },
+        {
+          "description": "Team",
+          "mid": "/m/011l78",
+          "score": 0.96764445,
+          "topicality": 0.104744285
+        },
+        {
+          "description": "Shorts",
+          "mid": "/m/01bfm9",
+          "score": 0.9637783,
+          "topicality": 0.002507517
+        },
+        {
+          "description": "Sports Uniform",
+          "mid": "/m/0h8mhzd",
+          "score": 0.96148634,
+          "topicality": 0.0014679112
+        },
+        {
+          "description": "Jersey",
+          "mid": "/m/02h00q",
+          "score": 0.9561682,
+          "topicality": 0.0029187563
+        },
+        {
+          "description": "competition event",
+          "mid": "/m/04stdlw",
+          "score": 0.94273794,
+          "topicality": 0.000775576
+        },
+        {
+          "description": "Youth",
+          "mid": "/m/021dfr",
+          "score": 0.93443114,
+          "topicality": 0.016942812
+        }
+      ]
+    }
+  ]
+}

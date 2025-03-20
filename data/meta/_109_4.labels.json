@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Grassland",
+          "mid": "/m/01c7cq",
+          "score": 0.9353797,
+          "topicality": 0.003098284
+        },
+        {
+          "description": "People in nature",
+          "mid": "/j/3gbwgn",
+          "score": 0.86482006,
+          "topicality": 0.0010536037
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.8640828,
+          "topicality": 0.10115183
+        },
+        {
+          "description": "Field",
+          "mid": "/m/0brn2d",
+          "score": 0.84346217,
+          "topicality": 0.06308035
+        },
+        {
+          "description": "Agriculture",
+          "mid": "/m/0hkf",
+          "score": 0.8044345,
+          "topicality": 0.115911424
+        },
+        {
+          "description": "Meadow",
+          "mid": "/m/025st_8",
+          "score": 0.7936861,
+          "topicality": 0.014023265
+        },
+        {
+          "description": "Wildflower",
+          "mid": "/m/03f35r",
+          "score": 0.7425268,
+          "topicality": 3.1932228e-05
+        },
+        {
+          "description": "Farm",
+          "mid": "/m/0g8p9",
+          "score": 0.6513593,
+          "topicality": 0.0046579777
+        },
+        {
+          "description": "Canola oil",
+          "mid": "/m/0ltws",
+          "score": 0.61022544,
+          "topicality": 0.020005997
+        },
+        {
+          "description": "Mustards",
+          "mid": "/m/01820",
+          "score": 0.59811085,
+          "topicality": 0.004711949
+        }
+      ]
+    }
+  ]
+}

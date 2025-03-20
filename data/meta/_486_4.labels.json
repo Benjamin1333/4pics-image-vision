@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Amusement ride",
+          "mid": "/m/017rnr",
+          "score": 0.98326737,
+          "topicality": 0.40206462
+        },
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.9087062,
+          "topicality": 0.006005092
+        },
+        {
+          "description": "Tourist attraction",
+          "mid": "/m/0pgl9",
+          "score": 0.87828857,
+          "topicality": 0.0917356
+        },
+        {
+          "description": "Amusement park",
+          "mid": "/m/010jjr",
+          "score": 0.87240195,
+          "topicality": 0.42135763
+        },
+        {
+          "description": "List of nonbuilding structure types",
+          "mid": "/m/0df8xq",
+          "score": 0.81006277,
+          "topicality": 9.146564e-05
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.7772132,
+          "topicality": 0.00068714475
+        },
+        {
+          "description": "Entertainment",
+          "mid": "/m/02jjt",
+          "score": 0.76498526,
+          "topicality": 0.0057818657
+        },
+        {
+          "description": "Roller coaster",
+          "mid": "/m/010l12",
+          "score": 0.7043549,
+          "topicality": 0.4297543
+        },
+        {
+          "description": "Adventure",
+          "mid": "/m/0h_m",
+          "score": 0.6809981,
+          "topicality": 0.0011472552
+        },
+        {
+          "description": "Park",
+          "mid": "/m/0166ls",
+          "score": 0.67847604,
+          "topicality": 0.19116886
+        }
+      ]
+    }
+  ]
+}

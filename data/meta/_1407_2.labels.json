@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Eyewear",
+          "mid": "/m/0j272k5",
+          "score": 0.98212487,
+          "topicality": 0.0018786446
+        },
+        {
+          "description": "Vision Care",
+          "mid": "/m/0h8jxfl",
+          "score": 0.9613725,
+          "topicality": 0.00026228157
+        },
+        {
+          "description": "Sunglasses",
+          "mid": "/m/017ftj",
+          "score": 0.8959355,
+          "topicality": 0.03447146
+        },
+        {
+          "description": "Goggles",
+          "mid": "/m/02_n6y",
+          "score": 0.86942405,
+          "topicality": 0.0031089964
+        },
+        {
+          "description": "Poster",
+          "mid": "/m/01n5jq",
+          "score": 0.66177076,
+          "topicality": 0.041327838
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.6402375,
+          "topicality": 0.0028858238
+        },
+        {
+          "description": "Hippie",
+          "mid": "/m/0ctby",
+          "score": 0.6291328,
+          "topicality": 0.94915295
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.5980561,
+          "topicality": 0.007853469
+        }
+      ]
+    }
+  ]
+}

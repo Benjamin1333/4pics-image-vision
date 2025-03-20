@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Nature",
+          "mid": "/m/05h0n",
+          "score": 0.97476536,
+          "topicality": 0.066281565
+        },
+        {
+          "description": "Rock",
+          "mid": "/m/01cbzq",
+          "score": 0.9738808,
+          "topicality": 0.102105945
+        },
+        {
+          "description": "Natural landscape",
+          "mid": "/m/03d28y3",
+          "score": 0.94749725,
+          "topicality": 0.0071107033
+        },
+        {
+          "description": "Landscape",
+          "mid": "/m/025s3q0",
+          "score": 0.9182938,
+          "topicality": 0.05555756
+        },
+        {
+          "description": "Watercourse",
+          "mid": "/m/03kj4q",
+          "score": 0.90979236,
+          "topicality": 0.04520529
+        },
+        {
+          "description": "Stream",
+          "mid": "/m/0j6m2",
+          "score": 0.9061136,
+          "topicality": 0.08303385
+        },
+        {
+          "description": "Plant community",
+          "mid": "/m/06600f2",
+          "score": 0.89991117,
+          "topicality": 0.00052797253
+        },
+        {
+          "description": "Bedrock",
+          "mid": "/m/0308t8",
+          "score": 0.8753437,
+          "topicality": 0.01129849
+        },
+        {
+          "description": "Groundcover",
+          "mid": "/m/018ssc",
+          "score": 0.8746804,
+          "topicality": 0.0009826925
+        },
+        {
+          "description": "Geology",
+          "mid": "/m/036hv",
+          "score": 0.852422,
+          "topicality": 0.0125442045
+        }
+      ]
+    }
+  ]
+}

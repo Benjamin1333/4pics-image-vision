@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hardwood",
+          "mid": "/m/020g49",
+          "score": 0.62793183,
+          "topicality": 0.0012324987
+        },
+        {
+          "description": "Mousetrap",
+          "mid": "/m/02ndjp",
+          "score": 0.61981803,
+          "topicality": 0.982613
+        }
+      ]
+    }
+  ]
+}

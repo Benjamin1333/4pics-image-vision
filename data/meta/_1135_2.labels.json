@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hedgehog",
+          "mid": "/m/0cl4p",
+          "score": 0.98475397,
+          "topicality": 0.89171654
+        },
+        {
+          "description": "Domesticated hedgehog",
+          "mid": "/m/06sn75",
+          "score": 0.9602426,
+          "topicality": 0.014495396
+        },
+        {
+          "description": "Erinaceidae",
+          "mid": "/m/03vrbk",
+          "score": 0.9548291,
+          "topicality": 0.5257766
+        },
+        {
+          "description": "Porcupine",
+          "mid": "/m/0c568",
+          "score": 0.738127,
+          "topicality": 0.03817072
+        }
+      ]
+    }
+  ]
+}

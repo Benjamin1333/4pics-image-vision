@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bag",
+          "mid": "/m/0n5v01m",
+          "score": 0.9677441,
+          "topicality": 0.20924723
+        },
+        {
+          "description": "Luggage & bags",
+          "mid": "/m/0hf58v5",
+          "score": 0.8926957,
+          "topicality": 0.011836731
+        },
+        {
+          "description": "Leather",
+          "mid": "/m/04lbp",
+          "score": 0.82288104,
+          "topicality": 0.4445626
+        },
+        {
+          "description": "Handbag",
+          "mid": "/m/080hkjn",
+          "score": 0.7843128,
+          "topicality": 0.26484928
+        },
+        {
+          "description": "Natural material",
+          "mid": "/m/07sx2n",
+          "score": 0.73685676,
+          "topicality": 0.0013855984
+        },
+        {
+          "description": "Shoulder Bag",
+          "mid": "/m/0hgrzkp",
+          "score": 0.7183495,
+          "topicality": 0.0012568842
+        },
+        {
+          "description": "Strap",
+          "mid": "/m/04lzmz",
+          "score": 0.6142781,
+          "topicality": 0.0018784469
+        },
+        {
+          "description": "Tote bag",
+          "mid": "/m/04jq15f",
+          "score": 0.5284103,
+          "topicality": 0.05029734
+        }
+      ]
+    }
+  ]
+}

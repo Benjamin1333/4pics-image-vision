@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Garden tool",
+          "mid": "/m/0dcjfr",
+          "score": 0.8151399,
+          "topicality": 0.20258988
+        },
+        {
+          "description": "Watering can",
+          "mid": "/m/02x0x5",
+          "score": 0.79222196,
+          "topicality": 0.5886979
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.72606266,
+          "topicality": 0.015626593
+        },
+        {
+          "description": "Money",
+          "mid": "/m/04_x4",
+          "score": 0.6691136,
+          "topicality": 0.15653518
+        },
+        {
+          "description": "Arbor Day",
+          "mid": "/m/0w2h",
+          "score": 0.66823286,
+          "topicality": 0.039941255
+        },
+        {
+          "description": "Tool",
+          "mid": "/m/07k1x",
+          "score": 0.64870274,
+          "topicality": 0.009925962
+        },
+        {
+          "description": "Bucket",
+          "mid": "/m/01zfyk",
+          "score": 0.6030164,
+          "topicality": 0.014463649
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.5672046,
+          "topicality": 0.013584173
+        },
+        {
+          "description": "Gardening",
+          "mid": "/m/034v_",
+          "score": 0.5497753,
+          "topicality": 0.15305278
+        }
+      ]
+    }
+  ]
+}

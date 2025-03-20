@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.9806157,
+          "topicality": 0.01907946
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9563111,
+          "topicality": 0.013388603
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.92093587,
+          "topicality": 0.0012133744
+        },
+        {
+          "description": "Blond",
+          "mid": "/m/0294jb",
+          "score": 0.9002838,
+          "topicality": 0.000601254
+        },
+        {
+          "description": "Sitting",
+          "mid": "/m/015c4z",
+          "score": 0.88186806,
+          "topicality": 0.017334549
+        },
+        {
+          "description": "Comfort",
+          "mid": "/m/08xgn7",
+          "score": 0.85361016,
+          "topicality": 0.0016336609
+        },
+        {
+          "description": "Sharing",
+          "mid": "/m/06h12k",
+          "score": 0.8392795,
+          "topicality": 0.0015121137
+        },
+        {
+          "description": "Conversation",
+          "mid": "/m/01h8n0",
+          "score": 0.79406285,
+          "topicality": 0.062395167
+        },
+        {
+          "description": "Learning",
+          "mid": "/m/0191f8",
+          "score": 0.7514313,
+          "topicality": 0.031704605
+        },
+        {
+          "description": "Publication",
+          "mid": "/m/01h1dd",
+          "score": 0.70882547,
+          "topicality": 0.004989437
+        }
+      ]
+    }
+  ]
+}

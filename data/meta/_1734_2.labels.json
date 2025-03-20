@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Book",
+          "mid": "/m/0bt_c3",
+          "score": 0.9425222,
+          "topicality": 0.6285712
+        },
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.93646437,
+          "topicality": 0.00056554633
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.90467733,
+          "topicality": 0.009400025
+        },
+        {
+          "description": "Paper",
+          "mid": "/m/0641k",
+          "score": 0.90230596,
+          "topicality": 0.04164285
+        },
+        {
+          "description": "Publication",
+          "mid": "/m/01h1dd",
+          "score": 0.8721279,
+          "topicality": 0.0013753156
+        },
+        {
+          "description": "Notebook",
+          "mid": "/m/016vv0",
+          "score": 0.80862886,
+          "topicality": 0.35549057
+        },
+        {
+          "description": "Diary",
+          "mid": "/m/02gsv",
+          "score": 0.7206758,
+          "topicality": 0.5250473
+        },
+        {
+          "description": "Book cover",
+          "mid": "/m/09xbm8",
+          "score": 0.71127784,
+          "topicality": 0.08363649
+        },
+        {
+          "description": "Stationery",
+          "mid": "/m/01cndb",
+          "score": 0.61368006,
+          "topicality": 0.045150906
+        }
+      ]
+    }
+  ]
+}

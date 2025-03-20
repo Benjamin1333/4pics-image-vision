@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Entertainment",
+          "mid": "/m/02jjt",
+          "score": 0.97924995,
+          "topicality": 0.06488435
+        },
+        {
+          "description": "Performing Arts",
+          "mid": "/m/05qjc",
+          "score": 0.9655745,
+          "topicality": 0.013958355
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.948794,
+          "topicality": 0.0084984135
+        },
+        {
+          "description": "Performance",
+          "mid": "/m/01gq53",
+          "score": 0.94722617,
+          "topicality": 0.019063067
+        },
+        {
+          "description": "Music venue",
+          "mid": "/m/07b2m8",
+          "score": 0.9095693,
+          "topicality": 0.08271309
+        },
+        {
+          "description": "Public event",
+          "mid": "/g/116c3n66l",
+          "score": 0.89375377,
+          "topicality": 0.007729537
+        },
+        {
+          "description": "Crowd",
+          "mid": "/m/03qtwd",
+          "score": 0.8852678,
+          "topicality": 0.23756637
+        },
+        {
+          "description": "Concert",
+          "mid": "/m/01jddz",
+          "score": 0.86402863,
+          "topicality": 0.5653363
+        },
+        {
+          "description": "Stage",
+          "mid": "/m/04_5hy",
+          "score": 0.8609743,
+          "topicality": 0.12366376
+        },
+        {
+          "description": "Rock concert",
+          "mid": "/m/06mg_j",
+          "score": 0.8556411,
+          "topicality": 0.4806399
+        }
+      ]
+    }
+  ]
+}

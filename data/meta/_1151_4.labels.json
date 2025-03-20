@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.9933177,
+          "topicality": 0.12640841
+        },
+        {
+          "description": "Meat",
+          "mid": "/m/04scj",
+          "score": 0.9655595,
+          "topicality": 0.44228208
+        },
+        {
+          "description": "Beef",
+          "mid": "/m/0971v",
+          "score": 0.9573413,
+          "topicality": 0.42397085
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9567009,
+          "topicality": 0.0075448523
+        },
+        {
+          "description": "Steak",
+          "mid": "/m/0grtl",
+          "score": 0.95163226,
+          "topicality": 0.52234244
+        },
+        {
+          "description": "Flat iron steak",
+          "mid": "/m/05d6hc",
+          "score": 0.9228694,
+          "topicality": 0.008191288
+        },
+        {
+          "description": "Red meat",
+          "mid": "/m/05v1q7",
+          "score": 0.90125114,
+          "topicality": 0.05692224
+        },
+        {
+          "description": "Roast beef",
+          "mid": "/m/01pldp",
+          "score": 0.8909591,
+          "topicality": 0.0628745
+        },
+        {
+          "description": "Veal",
+          "mid": "/m/07z2l",
+          "score": 0.8842176,
+          "topicality": 0.03660612
+        },
+        {
+          "description": "Beef tenderloin",
+          "mid": "/m/03jmrd",
+          "score": 0.8754736,
+          "topicality": 0.21860334
+        }
+      ]
+    }
+  ]
+}

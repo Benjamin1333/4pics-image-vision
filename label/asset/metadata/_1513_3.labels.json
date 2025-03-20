@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.98478985,
+          "topicality": 0.0012942286
+        },
+        {
+          "description": "Eyelash",
+          "mid": "/m/03f52z",
+          "score": 0.95894855,
+          "topicality": 0.0007726398
+        },
+        {
+          "description": "Mask",
+          "mid": "/m/01kr41",
+          "score": 0.92814845,
+          "topicality": 0.43108556
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.926325,
+          "topicality": 4.782742e-05
+        },
+        {
+          "description": "Masque",
+          "mid": "/m/0jyt6",
+          "score": 0.8644375,
+          "topicality": 0.31012633
+        },
+        {
+          "description": "Feather",
+          "mid": "/m/0dfgf",
+          "score": 0.8522007,
+          "topicality": 0.013615001
+        },
+        {
+          "description": "Mardi Gras",
+          "mid": "/m/011lf0ff",
+          "score": 0.849662,
+          "topicality": 0.56135297
+        },
+        {
+          "description": "Makeover",
+          "mid": "/m/02qp_b",
+          "score": 0.80417997,
+          "topicality": 0.0001449883
+        },
+        {
+          "description": "Natural material",
+          "mid": "/m/07sx2n",
+          "score": 0.80340797,
+          "topicality": 0.00026305264
+        },
+        {
+          "description": "Costume",
+          "mid": "/m/0250x",
+          "score": 0.7560915,
+          "topicality": 0.1186455
+        }
+      ]
+    }
+  ]
+}

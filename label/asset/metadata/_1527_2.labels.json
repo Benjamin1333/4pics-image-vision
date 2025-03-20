@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Boat",
+          "mid": "/m/019jd",
+          "score": 0.9869679,
+          "topicality": 0.2576108
+        },
+        {
+          "description": "Watercraft",
+          "mid": "/m/01rzcn",
+          "score": 0.96369684,
+          "topicality": 0.028621541
+        },
+        {
+          "description": "Sail",
+          "mid": "/m/0jp31",
+          "score": 0.9246414,
+          "topicality": 0.3591866
+        },
+        {
+          "description": "Sailboat",
+          "mid": "/m/0hsrw",
+          "score": 0.9218527,
+          "topicality": 0.47500652
+        },
+        {
+          "description": "Mast",
+          "mid": "/m/03psdn",
+          "score": 0.8783165,
+          "topicality": 0.05720644
+        },
+        {
+          "description": "Sailing",
+          "mid": "/m/0cc6_9k",
+          "score": 0.85701615,
+          "topicality": 0.29537424
+        },
+        {
+          "description": "Sailing",
+          "mid": "/m/06wrt",
+          "score": 0.84714854,
+          "topicality": 0.5644162
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.8387977,
+          "topicality": 0.12601613
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.8311308,
+          "topicality": 0.033708178
+        },
+        {
+          "description": "Naval architecture",
+          "mid": "/m/0k5qm",
+          "score": 0.8153309,
+          "topicality": 0.007581699
+        }
+      ]
+    }
+  ]
+}

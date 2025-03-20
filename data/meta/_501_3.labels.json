@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.92038286,
+          "topicality": 0.094356984
+        },
+        {
+          "description": "Seafood",
+          "mid": "/m/06nwz",
+          "score": 0.9006905,
+          "topicality": 0.083613746
+        },
+        {
+          "description": "Salmon",
+          "mid": "/m/0j9qfzr",
+          "score": 0.8626493,
+          "topicality": 0.35496107
+        },
+        {
+          "description": "Fish products",
+          "mid": "/m/03ylp97",
+          "score": 0.78358,
+          "topicality": 0.0057521057
+        },
+        {
+          "description": "Smoked salmon",
+          "mid": "/m/01hklv",
+          "score": 0.7557279,
+          "topicality": 0.56952846
+        },
+        {
+          "description": "Fish slice",
+          "mid": "/m/02vkskg",
+          "score": 0.73663825,
+          "topicality": 0.0046386523
+        },
+        {
+          "description": "Fish",
+          "mid": "/m/07pbfj",
+          "score": 0.6476135,
+          "topicality": 0.11295279
+        },
+        {
+          "description": "Smoked fish",
+          "mid": "/m/0cjdwc",
+          "score": 0.6197403,
+          "topicality": 0.34267485
+        },
+        {
+          "description": "Fish",
+          "mid": "/m/0ch_cf",
+          "score": 0.60652214,
+          "topicality": 0.020837162
+        },
+        {
+          "description": "Animal product",
+          "mid": "/m/0ckdlq",
+          "score": 0.5212151,
+          "topicality": 2.7284004e-05
+        }
+      ]
+    }
+  ]
+}

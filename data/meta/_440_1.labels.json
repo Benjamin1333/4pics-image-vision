@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Fashion",
+          "mid": "/m/032tl",
+          "score": 0.94593275
+        },
+        {
+          "description": "Jacket",
+          "mid": "/m/032b3c",
+          "score": 0.9415523,
+          "topicality": 0.03871849
+        },
+        {
+          "description": "Hood",
+          "mid": "/m/02h9bf",
+          "score": 0.93358374,
+          "topicality": 0.0017839376
+        },
+        {
+          "description": "Winter",
+          "mid": "/m/086mh",
+          "score": 0.9150929,
+          "topicality": 0.05580424
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.90566796,
+          "topicality": 0.013529965
+        },
+        {
+          "description": "Parka",
+          "mid": "/m/014621",
+          "score": 0.84594136,
+          "topicality": 0.019311193
+        },
+        {
+          "description": "Fur clothing",
+          "mid": "/m/07c97b",
+          "score": 0.80840504,
+          "topicality": 0.0016165071
+        },
+        {
+          "description": "Fur",
+          "mid": "/m/0cnmr",
+          "score": 0.7092229,
+          "topicality": 0.002933725
+        },
+        {
+          "description": "Zipper",
+          "mid": "/m/01s0vc",
+          "score": 0.69471246,
+          "topicality": 4.8312315e-05
+        },
+        {
+          "description": "Portrait photography",
+          "mid": "/m/0chml9",
+          "score": 0.64143866,
+          "topicality": 0.0028268457
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9724834,
+          "topicality": 0.025458604
+        },
+        {
+          "description": "Jigsaw puzzle",
+          "mid": "/m/0_d6n",
+          "score": 0.91784483,
+          "topicality": 0.49890703
+        },
+        {
+          "description": "Puzzle",
+          "mid": "/m/0lvmz",
+          "score": 0.8903398,
+          "topicality": 0.76642925
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.77330774,
+          "topicality": 0.056708064
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.72289747,
+          "topicality": 0.04926307
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.67891407,
+          "topicality": 0.018553002
+        },
+        {
+          "description": "Animation",
+          "mid": "/m/0hcr",
+          "score": 0.58274,
+          "topicality": 0.0020387564
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.57089555,
+          "topicality": 0.007512085
+        }
+      ]
+    }
+  ]
+}

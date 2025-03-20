@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Flower",
+          "mid": "/m/0c9ph5",
+          "score": 0.9910564,
+          "topicality": 0.42721194
+        },
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.97812814,
+          "topicality": 0.117230885
+        },
+        {
+          "description": "Petal",
+          "mid": "/m/016q19",
+          "score": 0.97575366,
+          "topicality": 0.0053151506
+        },
+        {
+          "description": "Sun",
+          "mid": "/m/06m_p",
+          "score": 0.9601812,
+          "topicality": 0.28300163
+        },
+        {
+          "description": "Summer",
+          "mid": "/m/078qz",
+          "score": 0.94202894,
+          "topicality": 0.07353379
+        },
+        {
+          "description": "Common sunflower",
+          "mid": "/m/0ftb8",
+          "score": 0.92122036,
+          "topicality": 0.52706295
+        },
+        {
+          "description": "Flowering plant",
+          "mid": "/m/04sjm",
+          "score": 0.8690274,
+          "topicality": 0.014148588
+        },
+        {
+          "description": "Field",
+          "mid": "/m/0brn2d",
+          "score": 0.8629063,
+          "topicality": 0.07842894
+        },
+        {
+          "description": "Sunlight",
+          "mid": "/m/06z0n",
+          "score": 0.84554577,
+          "topicality": 0.092180595
+        },
+        {
+          "description": "People in nature",
+          "mid": "/j/3gbwgn",
+          "score": 0.8449492,
+          "topicality": 7.4845295e-05
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Football",
+          "mid": "/m/01226z",
+          "score": 0.9896226,
+          "topicality": 0.3944362
+        },
+        {
+          "description": "Ball",
+          "mid": "/m/018xm",
+          "score": 0.98825634,
+          "topicality": 0.66647786
+        },
+        {
+          "description": "Football",
+          "mid": "/m/02vx4",
+          "score": 0.9799212,
+          "topicality": 0.8410466
+        },
+        {
+          "description": "Footwear",
+          "mid": "/m/09j5n",
+          "score": 0.97358465,
+          "topicality": 0.0039724316
+        },
+        {
+          "description": "Soccer ball",
+          "mid": "/m/0dpm1v",
+          "score": 0.9673982,
+          "topicality": 0.611815
+        },
+        {
+          "description": "Ball game",
+          "mid": "/m/020m7t",
+          "score": 0.9517553,
+          "topicality": 0.04302414
+        },
+        {
+          "description": "Sports equipment",
+          "mid": "/m/05y5lj",
+          "score": 0.93733025,
+          "topicality": 0.09765418
+        },
+        {
+          "description": "Sports",
+          "mid": "/m/06ntj",
+          "score": 0.9205422,
+          "topicality": 0.32920307
+        },
+        {
+          "description": "Playing sports",
+          "mid": "/j/cr6rfc",
+          "score": 0.9178877,
+          "topicality": 0.002507424
+        },
+        {
+          "description": "Sock",
+          "mid": "/m/01nq26",
+          "score": 0.81399137,
+          "topicality": 0.0043285177
+        }
+      ]
+    }
+  ]
+}

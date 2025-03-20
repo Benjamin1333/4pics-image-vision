@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.9703592,
+          "topicality": 0.0021696102
+        },
+        {
+          "description": "Tablet computer",
+          "mid": "/m/0bh9flk",
+          "score": 0.9468177,
+          "topicality": 0.22580197
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.9174584,
+          "topicality": 0.0072673224
+        },
+        {
+          "description": "Mobile device",
+          "mid": "/m/030swj",
+          "score": 0.9158164,
+          "topicality": 0.033019375
+        },
+        {
+          "description": "Display device",
+          "mid": "/m/029zz6",
+          "score": 0.9129912,
+          "topicality": 0.027332265
+        },
+        {
+          "description": "Communication Device",
+          "mid": "/m/0glmwd6",
+          "score": 0.87174755,
+          "topicality": 0.00030636223
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8592935,
+          "topicality": 0.017616373
+        },
+        {
+          "description": "Advertising",
+          "mid": "/m/011s0",
+          "score": 0.856939,
+          "topicality": 0.09389305
+        },
+        {
+          "description": "Portable communications device",
+          "mid": "/m/020fsy",
+          "score": 0.8292727,
+          "topicality": 0.0021999765
+        },
+        {
+          "description": "Web page",
+          "mid": "/m/086nh",
+          "score": 0.7929693,
+          "topicality": 0.085563846
+        }
+      ]
+    }
+  ]
+}

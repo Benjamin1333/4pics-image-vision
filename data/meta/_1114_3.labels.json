@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Dress shirt",
+          "mid": "/m/06hwcd",
+          "score": 0.8237636,
+          "topicality": 0.0019994427
+        },
+        {
+          "description": "Customer",
+          "mid": "/m/01j0mk",
+          "score": 0.7401165,
+          "topicality": 0.046596818
+        },
+        {
+          "description": "Makeover",
+          "mid": "/m/02qp_b",
+          "score": 0.6484988,
+          "topicality": 0.0019118293
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.6199289,
+          "topicality": 0.013698287
+        },
+        {
+          "description": "Clinic",
+          "mid": "/m/03fk5c",
+          "score": 0.57898515,
+          "topicality": 0.0026335993
+        },
+        {
+          "description": "Scissors",
+          "mid": "/m/01lsmm",
+          "score": 0.5546907,
+          "topicality": 0.04532038
+        },
+        {
+          "description": "Hearing",
+          "mid": "/m/01wymn",
+          "score": 0.54690355,
+          "topicality": 0.009409998
+        }
+      ]
+    }
+  ]
+}

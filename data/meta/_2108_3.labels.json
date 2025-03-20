@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.97381145,
+          "topicality": 0.014811341
+        },
+        {
+          "description": "Sports venue",
+          "mid": "/m/0bmgjqz",
+          "score": 0.9204901,
+          "topicality": 0.10434804
+        },
+        {
+          "description": "Artificial turf",
+          "mid": "/m/04bzth",
+          "score": 0.67813957,
+          "topicality": 0.027512131
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Performing Arts",
+          "mid": "/m/05qjc",
+          "score": 0.98057294,
+          "topicality": 0.066534944
+        },
+        {
+          "description": "Entertainment",
+          "mid": "/m/02jjt",
+          "score": 0.97627056,
+          "topicality": 0.010926277
+        },
+        {
+          "description": "Choreography",
+          "mid": "/m/018rn4",
+          "score": 0.96757716,
+          "topicality": 0.13559277
+        },
+        {
+          "description": "Dance",
+          "mid": "/m/026bk",
+          "score": 0.9455735,
+          "topicality": 0.70703
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.92288357,
+          "topicality": 0.00023082297
+        },
+        {
+          "description": "Athletic dance move",
+          "mid": "/j/23l6xl",
+          "score": 0.8694022,
+          "topicality": 0.009122526
+        },
+        {
+          "description": "Performance",
+          "mid": "/m/01gq53",
+          "score": 0.86124855,
+          "topicality": 0.01924977
+        },
+        {
+          "description": "Tutu",
+          "mid": "/m/03fk5t",
+          "score": 0.8509638,
+          "topicality": 0.02286997
+        },
+        {
+          "description": "Modern dance",
+          "mid": "/m/058dw",
+          "score": 0.85065013,
+          "topicality": 0.33834085
+        },
+        {
+          "description": "Performance art",
+          "mid": "/m/01350r",
+          "score": 0.79067713,
+          "topicality": 0.04073049
+        }
+      ]
+    }
+  ]
+}

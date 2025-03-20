@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Alley",
+          "mid": "/m/01lwf0",
+          "score": 0.9759376,
+          "topicality": 0.91506284
+        },
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.9571401,
+          "topicality": 0.00083028415
+        },
+        {
+          "description": "Road",
+          "mid": "/m/06gfj",
+          "score": 0.9538471,
+          "topicality": 0.0076983697
+        },
+        {
+          "description": "Street",
+          "mid": "/m/01c8br",
+          "score": 0.951372,
+          "topicality": 0.44718271
+        },
+        {
+          "description": "Neighbourhood",
+          "mid": "/m/0180xr",
+          "score": 0.9426658,
+          "topicality": 0.08957983
+        },
+        {
+          "description": "Town",
+          "mid": "/m/0dx1j",
+          "score": 0.9367392,
+          "topicality": 0.16383998
+        },
+        {
+          "description": "Flooring",
+          "mid": "/m/01c34b",
+          "score": 0.92657673,
+          "topicality": 3.129265e-05
+        },
+        {
+          "description": "Lighting",
+          "mid": "/m/019sc6",
+          "score": 0.91251254,
+          "topicality": 0.0014747637
+        },
+        {
+          "description": "Cobblestone",
+          "mid": "/m/02t2zd",
+          "score": 0.82968646,
+          "topicality": 0.016155574
+        },
+        {
+          "description": "Balcony",
+          "mid": "/m/01748f",
+          "score": 0.72432977,
+          "topicality": 0.015147095
+        }
+      ]
+    }
+  ]
+}

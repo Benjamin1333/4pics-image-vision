@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9682694,
+          "topicality": 0.0018025464
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.7314237,
+          "topicality": 0.16272676
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.67541754,
+          "topicality": 0.019720579
+        },
+        {
+          "description": "Sign",
+          "mid": "/m/06zsq",
+          "score": 0.5608005,
+          "topicality": 0.005184343
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.5468437,
+          "topicality": 0.006753605
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.50857115,
+          "topicality": 0.032726485
+        }
+      ]
+    }
+  ]
+}

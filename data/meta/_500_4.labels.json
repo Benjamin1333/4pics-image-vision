@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Lightning",
+          "mid": "/m/0gms8",
+          "score": 0.99215055,
+          "topicality": 0.848636
+        },
+        {
+          "description": "Thunder",
+          "mid": "/m/0ngt1",
+          "score": 0.97902364,
+          "topicality": 0.57190406
+        },
+        {
+          "description": "Storm",
+          "mid": "/m/0z71l",
+          "score": 0.9487589,
+          "topicality": 0.5132395
+        },
+        {
+          "description": "Thunderstorm",
+          "mid": "/m/0jb2l",
+          "score": 0.9378051,
+          "topicality": 0.65223247
+        },
+        {
+          "description": "Night",
+          "mid": "/m/01d74z",
+          "score": 0.8969511,
+          "topicality": 0.050288722
+        },
+        {
+          "description": "Electricity",
+          "mid": "/m/02lts",
+          "score": 0.8703253,
+          "topicality": 0.0856361
+        },
+        {
+          "description": "geological phenomenon",
+          "mid": "/m/07sn5gn",
+          "score": 0.8266362,
+          "topicality": 0.0004356242
+        },
+        {
+          "description": "Meteorological phenomenon",
+          "mid": "/g/11k2xz7mr",
+          "score": 0.77680755,
+          "topicality": 0.0022175643
+        },
+        {
+          "description": "Wind",
+          "mid": "/m/03m9d0z",
+          "score": 0.6333327,
+          "topicality": 0.040924244
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.5558322,
+          "topicality": 0.017321995
+        }
+      ]
+    }
+  ]
+}

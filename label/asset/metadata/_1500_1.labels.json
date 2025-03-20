@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.87158656,
+          "topicality": 0.002881049
+        },
+        {
+          "description": "Polka dot",
+          "mid": "/m/04vtz0",
+          "score": 0.8283011,
+          "topicality": 0.47097954
+        },
+        {
+          "description": "Retro style",
+          "mid": "/m/01h2w7",
+          "score": 0.651308,
+          "topicality": 0.104255766
+        },
+        {
+          "description": "One-piece garment",
+          "mid": "/m/0142sg",
+          "score": 0.6191037,
+          "topicality": 0.00012842745
+        },
+        {
+          "description": "High-heeled shoe",
+          "mid": "/m/06k2mb",
+          "score": 0.6027918,
+          "topicality": 0.20196694
+        },
+        {
+          "description": "Day Dress",
+          "mid": "/m/0hgsb5g",
+          "score": 0.59280306,
+          "topicality": 0.00026242036
+        },
+        {
+          "description": "Makeover",
+          "mid": "/m/02qp_b",
+          "score": 0.5778586,
+          "topicality": 0.0057163634
+        },
+        {
+          "description": "Tights",
+          "mid": "/m/015mm6",
+          "score": 0.5696178,
+          "topicality": 0.021697544
+        },
+        {
+          "description": "Photo shoot",
+          "mid": "/m/02qbl1m",
+          "score": 0.5581371,
+          "topicality": 0.03932901
+        },
+        {
+          "description": "Lipstick",
+          "mid": "/m/06c7f7",
+          "score": 0.5407942,
+          "topicality": 0.0012141289
+        }
+      ]
+    }
+  ]
+}

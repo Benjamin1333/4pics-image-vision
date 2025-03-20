@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Green",
+          "mid": "/m/038hg",
+          "score": 0.9777418,
+          "topicality": 0.027482312
+        },
+        {
+          "description": "Fungus",
+          "mid": "/m/03154",
+          "score": 0.973225,
+          "topicality": 0.45250496
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.97281015,
+          "topicality": 0.014606374
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9713806,
+          "topicality": 4.0668194e-05
+        },
+        {
+          "description": "Mushroom",
+          "mid": "/m/052sf",
+          "score": 0.9650926,
+          "topicality": 0.4267089
+        },
+        {
+          "description": "Agaric",
+          "mid": "/m/071bgc",
+          "score": 0.95139563,
+          "topicality": 0.37075925
+        },
+        {
+          "description": "Groundcover",
+          "mid": "/m/018ssc",
+          "score": 0.8671502,
+          "topicality": 0.0030752278
+        },
+        {
+          "description": "Bolete",
+          "mid": "/m/039_px",
+          "score": 0.85567254,
+          "topicality": 0.008822399
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.7470712,
+          "topicality": 8.642214e-05
+        },
+        {
+          "description": "Edible mushroom",
+          "mid": "/m/01bjxj",
+          "score": 0.7462373,
+          "topicality": 0.05826309
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Clothes iron",
+          "mid": "/m/04jphh9",
+          "score": 0.9598222,
+          "topicality": 0.77582866
+        },
+        {
+          "description": "Small appliance",
+          "mid": "/m/017z18",
+          "score": 0.8552129,
+          "topicality": 0.017048912
+        },
+        {
+          "description": "Home appliance",
+          "mid": "/m/019dx1",
+          "score": 0.84942126,
+          "topicality": 0.06595638
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.82737094,
+          "topicality": 0.035676815
+        },
+        {
+          "description": "Homemaking",
+          "mid": "/m/0f75y",
+          "score": 0.8121386,
+          "topicality": 0.042995267
+        },
+        {
+          "description": "Kitchen Appliance",
+          "mid": "/m/0h99cwc",
+          "score": 0.68821144,
+          "topicality": 0.0036461062
+        },
+        {
+          "description": "Vacuum cleaner",
+          "mid": "/m/0d31p",
+          "score": 0.6517703,
+          "topicality": 0.08875608
+        },
+        {
+          "description": "Cleanliness",
+          "mid": "/m/020s4p",
+          "score": 0.54695463,
+          "topicality": 0.059728716
+        },
+        {
+          "description": "Cleaner",
+          "mid": "/m/02pnv61",
+          "score": 0.5148004,
+          "topicality": 0.06869979
+        }
+      ]
+    }
+  ]
+}

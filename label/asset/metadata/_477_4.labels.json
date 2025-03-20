@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9446294,
+          "topicality": 0.0022909697
+        },
+        {
+          "description": "Rodent",
+          "mid": "/m/06hps",
+          "score": 0.9431514,
+          "topicality": 0.1062068
+        },
+        {
+          "description": "Cartoon",
+          "mid": "/m/0215n",
+          "score": 0.93087435,
+          "topicality": 0.7243542
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.92440856,
+          "topicality": 0.5484818
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.90663815,
+          "topicality": 0.017101575
+        },
+        {
+          "description": "Animated cartoon",
+          "mid": "/m/095bb",
+          "score": 0.88334435,
+          "topicality": 0.0038649554
+        },
+        {
+          "description": "Muroids",
+          "mid": "/m/02h9rm",
+          "score": 0.8419261,
+          "topicality": 0.19059741
+        },
+        {
+          "description": "Terrestrial animal",
+          "mid": "/m/0fbf1m",
+          "score": 0.8222085,
+          "topicality": 0.0013622928
+        },
+        {
+          "description": "Pest",
+          "mid": "/m/01dqkc",
+          "score": 0.8167137,
+          "topicality": 0.01541334
+        },
+        {
+          "description": "Pack rats",
+          "mid": "/m/0ggwx",
+          "score": 0.80209017,
+          "topicality": 0.003187164
+        }
+      ]
+    }
+  ]
+}

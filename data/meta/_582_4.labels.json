@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Tennis ball",
+          "mid": "/m/05ctyq",
+          "score": 0.97134835,
+          "topicality": 0.9251466
+        },
+        {
+          "description": "Ball",
+          "mid": "/m/018xm",
+          "score": 0.9491699,
+          "topicality": 0.8189122
+        },
+        {
+          "description": "Tennis--Equipment and supplies",
+          "mid": "/m/0bps4xh",
+          "score": 0.73678786,
+          "topicality": 0.00020652187
+        },
+        {
+          "description": "Tennis",
+          "mid": "/m/07bs0",
+          "score": 0.736099,
+          "topicality": 0.61177236
+        },
+        {
+          "description": "Sphere",
+          "mid": "/m/06y47",
+          "score": 0.5755253,
+          "topicality": 0.0314706
+        },
+        {
+          "description": "Football",
+          "mid": "/m/01226z",
+          "score": 0.5404115,
+          "topicality": 0.0146543635
+        },
+        {
+          "description": "Night",
+          "mid": "/m/01d74z",
+          "score": 0.5273375,
+          "topicality": 0.0035706824
+        }
+      ]
+    }
+  ]
+}

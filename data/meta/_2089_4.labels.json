@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.9805346,
+          "topicality": 0.27049273
+        },
+        {
+          "description": "Chef",
+          "mid": "/m/01pn0r",
+          "score": 0.9716562,
+          "topicality": 0.64733535
+        },
+        {
+          "description": "Tableware",
+          "mid": "/m/04brg2",
+          "score": 0.9661683,
+          "topicality": 0.0017234575
+        },
+        {
+          "description": "Cook",
+          "mid": "/m/04y7xr",
+          "score": 0.96476257,
+          "topicality": 0.50640583
+        },
+        {
+          "description": "Uniform",
+          "mid": "/m/09jfs",
+          "score": 0.95758784,
+          "topicality": 0.20311925
+        },
+        {
+          "description": "Cooking",
+          "mid": "/m/01mtb",
+          "score": 0.95374525,
+          "topicality": 0.40488482
+        },
+        {
+          "description": "Chef's uniform",
+          "mid": "/m/0c0t2j",
+          "score": 0.94102716,
+          "topicality": 0.049345523
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9154505,
+          "topicality": 0.0037731384
+        },
+        {
+          "description": "Restaurant",
+          "mid": "/m/06l8d",
+          "score": 0.8818444,
+          "topicality": 0.309316
+        },
+        {
+          "description": "Culinary arts",
+          "mid": "/m/07qn8g",
+          "score": 0.87407845,
+          "topicality": 0.3662925
+        }
+      ]
+    }
+  ]
+}

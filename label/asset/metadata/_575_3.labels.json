@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.96941316,
+          "topicality": 0.0055071684
+        },
+        {
+          "description": "Plumbing fixture",
+          "mid": "/m/02pkr5",
+          "score": 0.76916885,
+          "topicality": 0.011621522
+        },
+        {
+          "description": "Plumbing",
+          "mid": "/m/0b_zf",
+          "score": 0.731645,
+          "topicality": 0.01183971
+        },
+        {
+          "description": "Toilet seat",
+          "mid": "/m/02553v",
+          "score": 0.6798455,
+          "topicality": 0.067205235
+        },
+        {
+          "description": "Bathroom",
+          "mid": "/m/01j2bj",
+          "score": 0.61024547,
+          "topicality": 0.063849375
+        }
+      ]
+    }
+  ]
+}

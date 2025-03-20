@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Cloud",
+          "mid": "/m/0csby",
+          "score": 0.9842499,
+          "topicality": 0.03238216
+        },
+        {
+          "description": "Horizon",
+          "mid": "/m/0d1n2",
+          "score": 0.96457833,
+          "topicality": 0.009075583
+        },
+        {
+          "description": "Ecoregion",
+          "mid": "/m/0cblv",
+          "score": 0.91559255,
+          "topicality": 0.00067126355
+        },
+        {
+          "description": "Cumulus",
+          "mid": "/m/0csh5",
+          "score": 0.8875251,
+          "topicality": 0.0014825254
+        },
+        {
+          "description": "Drought",
+          "mid": "/m/099lp",
+          "score": 0.874138,
+          "topicality": 0.9641559
+        },
+        {
+          "description": "Dry lake",
+          "mid": "/m/0236lc",
+          "score": 0.85624284,
+          "topicality": 0.042191163
+        },
+        {
+          "description": "Sunlight",
+          "mid": "/m/06z0n",
+          "score": 0.83065385,
+          "topicality": 0.019154722
+        },
+        {
+          "description": "Meteorological phenomenon",
+          "mid": "/g/11k2xz7mr",
+          "score": 0.82664025,
+          "topicality": 1.9109373e-05
+        },
+        {
+          "description": "Aeolian landform",
+          "mid": "/m/04gvhhy",
+          "score": 0.75605744,
+          "topicality": 0.00041853418
+        },
+        {
+          "description": "Desert",
+          "mid": "/m/0284w",
+          "score": 0.7509557,
+          "topicality": 0.37593758
+        }
+      ]
+    }
+  ]
+}

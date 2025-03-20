@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.88523734,
+          "topicality": 0.0053635347
+        },
+        {
+          "description": "Paper",
+          "mid": "/m/0641k",
+          "score": 0.86060363,
+          "topicality": 0.48259693
+        },
+        {
+          "description": "Paper bag",
+          "mid": "/m/01x86j",
+          "score": 0.80392843,
+          "topicality": 0.3858285
+        },
+        {
+          "description": "Shopping bag",
+          "mid": "/m/02p4mnq",
+          "score": 0.6249874,
+          "topicality": 0.036527354
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.5796514,
+          "topicality": 0.011934121
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Shirt",
+          "mid": "/m/01n4qj",
+          "score": 0.9503519,
+          "topicality": 0.014452333
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.9014941,
+          "topicality": 0.04024754
+        },
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.8592324,
+          "topicality": 0.0999425
+        },
+        {
+          "description": "Customer",
+          "mid": "/m/01j0mk",
+          "score": 0.6535877,
+          "topicality": 0.13588373
+        },
+        {
+          "description": "Management",
+          "mid": "/m/04_tv",
+          "score": 0.6337896,
+          "topicality": 0.084179096
+        },
+        {
+          "description": "Office Equipment",
+          "mid": "/m/03qtgjk",
+          "score": 0.6123346,
+          "topicality": 0.00042605097
+        },
+        {
+          "description": "Hearing",
+          "mid": "/m/01wymn",
+          "score": 0.6007368,
+          "topicality": 0.00067894376
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.57028425,
+          "topicality": 0.121307045
+        },
+        {
+          "description": "Desk",
+          "mid": "/m/01y9k5",
+          "score": 0.5570811,
+          "topicality": 0.039104976
+        }
+      ]
+    }
+  ]
+}

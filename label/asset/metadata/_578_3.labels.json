@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.96387327,
+          "topicality": 0.017849132
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.9192895,
+          "topicality": 0.018200837
+        },
+        {
+          "description": "Wrist",
+          "mid": "/m/01j48b",
+          "score": 0.8660426,
+          "topicality": 0.0013332563
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.86166155,
+          "topicality": 0.0024619119
+        },
+        {
+          "description": "Thumb",
+          "mid": "/m/01bmhj",
+          "score": 0.85272795,
+          "topicality": 0.004473157
+        },
+        {
+          "description": "Rubber stamp",
+          "mid": "/m/01hr6f",
+          "score": 0.7295184,
+          "topicality": 0.37072006
+        },
+        {
+          "description": "Office Instrument",
+          "mid": "/m/0h8m01z",
+          "score": 0.66464114,
+          "topicality": 0.00025558277
+        },
+        {
+          "description": "Stationery",
+          "mid": "/m/01cndb",
+          "score": 0.628354,
+          "topicality": 0.02140556
+        },
+        {
+          "description": "Office Equipment",
+          "mid": "/m/03qtgjk",
+          "score": 0.626732,
+          "topicality": 0.00019351974
+        },
+        {
+          "description": "Writing implement",
+          "mid": "/m/06wybl",
+          "score": 0.6123352,
+          "topicality": 0.004306483
+        }
+      ]
+    }
+  ]
+}

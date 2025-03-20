@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Publication",
+          "mid": "/m/01h1dd",
+          "score": 0.8692784,
+          "topicality": 0.0069173616
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.8441538,
+          "topicality": 0.010057735
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.8228997,
+          "topicality": 0.016118936
+        },
+        {
+          "description": "Book",
+          "mid": "/m/0bt_c3",
+          "score": 0.8169779,
+          "topicality": 0.38098186
+        },
+        {
+          "description": "Comfort",
+          "mid": "/m/08xgn7",
+          "score": 0.78951293,
+          "topicality": 0.0042474642
+        },
+        {
+          "description": "Reading",
+          "mid": "/m/04yclrg",
+          "score": 0.6772862,
+          "topicality": 0.661111
+        },
+        {
+          "description": "Learning",
+          "mid": "/m/0191f8",
+          "score": 0.6599563,
+          "topicality": 0.112163045
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.590974,
+          "topicality": 0.02420289
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.5685133,
+          "topicality": 0.012660255
+        }
+      ]
+    }
+  ]
+}

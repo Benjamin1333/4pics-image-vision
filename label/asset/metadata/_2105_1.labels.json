@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Astronomical object",
+          "mid": "/m/01d9ll",
+          "score": 0.96045417,
+          "topicality": 0.11883111
+        },
+        {
+          "description": "Orange",
+          "mid": "/m/0jc_p",
+          "score": 0.9217657,
+          "topicality": 0.013822105
+        },
+        {
+          "description": "Outer space",
+          "mid": "/m/01833w",
+          "score": 0.8881665,
+          "topicality": 0.105046935
+        },
+        {
+          "description": "Astronomy",
+          "mid": "/m/0dc_v",
+          "score": 0.8779189,
+          "topicality": 0.13445066
+        },
+        {
+          "description": "Sphere",
+          "mid": "/m/06y47",
+          "score": 0.82947636,
+          "topicality": 0.032508455
+        },
+        {
+          "description": "Planet",
+          "mid": "/m/05qc_",
+          "score": 0.8202164,
+          "topicality": 0.7878048
+        },
+        {
+          "description": "Universe",
+          "mid": "/m/07v7c",
+          "score": 0.7564537,
+          "topicality": 0.07994971
+        },
+        {
+          "description": "Night",
+          "mid": "/m/01d74z",
+          "score": 0.63691705,
+          "topicality": 0.006585214
+        },
+        {
+          "description": "Celestial event",
+          "mid": "/m/02rhkz",
+          "score": 0.61048925,
+          "topicality": 0.009586557
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.59531194,
+          "topicality": 0.04753515
+        }
+      ]
+    }
+  ]
+}

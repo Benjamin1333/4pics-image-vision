@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.96693426,
+          "topicality": 0.2692266
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.9477348,
+          "topicality": 0.051309418
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.9412009,
+          "topicality": 0.12904435
+        },
+        {
+          "description": "Vegetable",
+          "mid": "/m/0f4s2w",
+          "score": 0.9080142,
+          "topicality": 0.53092283
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.90144396,
+          "topicality": 0.010214894
+        },
+        {
+          "description": "Food group",
+          "mid": "/m/08fw1g",
+          "score": 0.87403935,
+          "topicality": 0.04382929
+        },
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.84363323,
+          "topicality": 0.19528036
+        },
+        {
+          "description": "Gourd",
+          "mid": "/m/011jbn",
+          "score": 0.65879834,
+          "topicality": 0.030857136
+        },
+        {
+          "description": "Superfood",
+          "mid": "/m/04jdhxy",
+          "score": 0.64208436,
+          "topicality": 0.03239913
+        },
+        {
+          "description": "Nightshade",
+          "mid": "/m/06rv4",
+          "score": 0.6012913,
+          "topicality": 0.0073978584
+        }
+      ]
+    }
+  ]
+}

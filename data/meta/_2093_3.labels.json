@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Flower",
+          "mid": "/m/0c9ph5",
+          "score": 0.98968226,
+          "topicality": 0.61779624
+        },
+        {
+          "description": "Floristry",
+          "mid": "/m/02hcw1",
+          "score": 0.9541483,
+          "topicality": 0.057782244
+        },
+        {
+          "description": "Flower bouquet",
+          "mid": "/m/02p6k8p",
+          "score": 0.9533251,
+          "topicality": 0.12712297
+        },
+        {
+          "description": "Petal",
+          "mid": "/m/016q19",
+          "score": 0.947201,
+          "topicality": 0.0033586859
+        },
+        {
+          "description": "Flower Arranging",
+          "mid": "/m/0ggjrhd",
+          "score": 0.94418174,
+          "topicality": 0.0021230706
+        },
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.93666595,
+          "topicality": 0.052564163
+        },
+        {
+          "description": "Cut flowers",
+          "mid": "/m/0ds61d1",
+          "score": 0.9151647,
+          "topicality": 0.09392413
+        },
+        {
+          "description": "Flowerpot",
+          "mid": "/m/0fm3zh",
+          "score": 0.9011517,
+          "topicality": 0.041631345
+        },
+        {
+          "description": "Vase",
+          "mid": "/m/02s195",
+          "score": 0.85632724,
+          "topicality": 0.19303814
+        },
+        {
+          "description": "Centrepiece",
+          "mid": "/m/047rwq3",
+          "score": 0.82960606,
+          "topicality": 0.2464376
+        }
+      ]
+    }
+  ]
+}

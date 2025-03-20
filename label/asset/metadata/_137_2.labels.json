@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Boats and boating--Equipment and supplies",
+          "mid": "/m/0bp3j53",
+          "score": 0.9856417,
+          "topicality": 0.03310989
+        },
+        {
+          "description": "Water",
+          "mid": "/m/0838f",
+          "score": 0.980527,
+          "topicality": 0.019438686
+        },
+        {
+          "description": "Oar",
+          "mid": "/m/01kw8y",
+          "score": 0.97318643,
+          "topicality": 0.28294906
+        },
+        {
+          "description": "Water sport",
+          "mid": "/m/02fhdf",
+          "score": 0.97114986,
+          "topicality": 0.03078753
+        },
+        {
+          "description": "Rowing",
+          "mid": "/m/056ks2",
+          "score": 0.9606486,
+          "topicality": 0.43007848
+        },
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.95513594,
+          "topicality": 0.0026791128
+        },
+        {
+          "description": "Boat",
+          "mid": "/m/019jd",
+          "score": 0.9508457,
+          "topicality": 0.13607538
+        },
+        {
+          "description": "Outdoor recreation",
+          "mid": "/m/05b0n7k",
+          "score": 0.9427318,
+          "topicality": 0.0010686498
+        },
+        {
+          "description": "Boating",
+          "mid": "/m/03m4wn",
+          "score": 0.92499393,
+          "topicality": 0.006087612
+        },
+        {
+          "description": "Team",
+          "mid": "/m/011l78",
+          "score": 0.9101915,
+          "topicality": 0.03396951
+        }
+      ]
+    }
+  ]
+}

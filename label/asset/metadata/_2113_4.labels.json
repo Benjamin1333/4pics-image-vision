@@ -1,0 +1,14 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Classical music",
+          "mid": "/m/0ggq0m",
+          "score": 0.658678,
+          "topicality": 0.13443404
+        }
+      ]
+    }
+  ]
+}

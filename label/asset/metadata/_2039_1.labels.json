@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.9665323,
+          "topicality": 0.13567309
+        },
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.96443695,
+          "topicality": 0.05857258
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.96050984,
+          "topicality": 0.013542331
+        },
+        {
+          "description": "Potato",
+          "mid": "/m/05vtc",
+          "score": 0.8480678,
+          "topicality": 0.3857586
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.8222808,
+          "topicality": 0.0008107287
+        },
+        {
+          "description": "Vegetable",
+          "mid": "/m/0f4s2w",
+          "score": 0.79112613,
+          "topicality": 0.17626007
+        },
+        {
+          "description": "Tuber",
+          "mid": "/m/01240d",
+          "score": 0.7835021,
+          "topicality": 0.21157293
+        },
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.7737326,
+          "topicality": 0.059175663
+        },
+        {
+          "description": "Root Vegetables",
+          "mid": "/m/01jc75",
+          "score": 0.75989467,
+          "topicality": 0.047111563
+        },
+        {
+          "description": "Yukon Gold potato",
+          "mid": "/m/0dbl1z",
+          "score": 0.74080986,
+          "topicality": 0.15654719
+        }
+      ]
+    }
+  ]
+}

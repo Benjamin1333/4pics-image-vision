@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Eyewear",
+          "mid": "/m/0j272k5",
+          "score": 0.9956415,
+          "topicality": 0.0019062462
+        },
+        {
+          "description": "Sunglasses",
+          "mid": "/m/017ftj",
+          "score": 0.98712873,
+          "topicality": 0.02376393
+        },
+        {
+          "description": "Glasses",
+          "mid": "/m/0jyfg",
+          "score": 0.98694575,
+          "topicality": 0.013869961
+        },
+        {
+          "description": "Vision Care",
+          "mid": "/m/0h8jxfl",
+          "score": 0.98511386,
+          "topicality": 0.00016810396
+        },
+        {
+          "description": "Goggles",
+          "mid": "/m/02_n6y",
+          "score": 0.9584546,
+          "topicality": 0.0010278847
+        },
+        {
+          "description": "Fashion",
+          "mid": "/m/032tl",
+          "score": 0.94373655
+        },
+        {
+          "description": "Black hair",
+          "mid": "/m/0fc1fy",
+          "score": 0.93204635,
+          "topicality": 0.00676739
+        },
+        {
+          "description": "Denim",
+          "mid": "/m/0hgr6",
+          "score": 0.88244843,
+          "topicality": 0.0005693425
+        },
+        {
+          "description": "Aviator sunglasses",
+          "mid": "/m/0d3z5r",
+          "score": 0.64358544,
+          "topicality": 0.0010758941
+        },
+        {
+          "description": "Photo shoot",
+          "mid": "/m/02qbl1m",
+          "score": 0.61075395,
+          "topicality": 0.016902355
+        }
+      ]
+    }
+  ]
+}

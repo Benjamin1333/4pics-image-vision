@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Wood",
+          "mid": "/m/083vt",
+          "score": 0.96507543,
+          "topicality": 0.08549321
+        },
+        {
+          "description": "Wood stain",
+          "mid": "/m/05t06b",
+          "score": 0.7369237,
+          "topicality": 0.00019796604
+        },
+        {
+          "description": "Hardwood",
+          "mid": "/m/020g49",
+          "score": 0.6248739,
+          "topicality": 0.0003960569
+        },
+        {
+          "description": "Drawer",
+          "mid": "/m/0fqfqc",
+          "score": 0.5273626,
+          "topicality": 0.022306021
+        },
+        {
+          "description": "Locker",
+          "mid": "/m/03cxnw7",
+          "score": 0.5182951,
+          "topicality": 0.008693295
+        },
+        {
+          "description": "Collection",
+          "mid": "/m/08_4sd",
+          "score": 0.5062786,
+          "topicality": 0.0020007524
+        }
+      ]
+    }
+  ]
+}

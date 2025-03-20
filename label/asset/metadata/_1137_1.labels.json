@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Daytime",
+          "mid": "/m/02q7ylj",
+          "score": 0.9811947,
+          "topicality": 0.003408745
+        },
+        {
+          "description": "Clock tower",
+          "mid": "/m/02qd_7",
+          "score": 0.9284824,
+          "topicality": 0.22080588
+        },
+        {
+          "description": "Landmark",
+          "mid": "/m/05_5t0l",
+          "score": 0.9265274,
+          "topicality": 0.037105035
+        },
+        {
+          "description": "Tower",
+          "mid": "/m/01fdzj",
+          "score": 0.9078716,
+          "topicality": 0.32069874
+        },
+        {
+          "description": "Clock",
+          "mid": "/m/01x3z",
+          "score": 0.84739524,
+          "topicality": 0.24067129
+        },
+        {
+          "description": "Finial",
+          "mid": "/m/03jnkr",
+          "score": 0.8427025,
+          "topicality": 0.0013319693
+        },
+        {
+          "description": "Monument",
+          "mid": "/m/02ljgl",
+          "score": 0.7190726,
+          "topicality": 0.039986853
+        },
+        {
+          "description": "Steeple",
+          "mid": "/m/051rmm",
+          "score": 0.6941812,
+          "topicality": 0.086219184
+        },
+        {
+          "description": "Spire",
+          "mid": "/m/01c6yl",
+          "score": 0.64589113,
+          "topicality": 0.034375526
+        },
+        {
+          "description": "Turret",
+          "mid": "/m/01xgbj",
+          "score": 0.6226724,
+          "topicality": 0.0034929747
+        }
+      ]
+    }
+  ]
+}

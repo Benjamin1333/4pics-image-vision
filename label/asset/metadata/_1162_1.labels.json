@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Eyelash",
+          "mid": "/m/03f52z",
+          "score": 0.87283045,
+          "topicality": 0.0006111311
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.7383637,
+          "topicality": 0.10727647
+        },
+        {
+          "description": "Throat",
+          "mid": "/m/0mhy4",
+          "score": 0.5957442,
+          "topicality": 0.022221996
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Heart",
+          "mid": "/m/07bg4p",
+          "score": 0.8457734,
+          "topicality": 0.071146965
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.8430161,
+          "topicality": 0.10243541
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.84196734,
+          "topicality": 0.096026644
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6652091,
+          "topicality": 0.020415636
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.57279706,
+          "topicality": 0.04082133
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.55984455,
+          "topicality": 0.0030590068
+        },
+        {
+          "description": "Tropics",
+          "mid": "/m/0hl08",
+          "score": 0.5582971,
+          "topicality": 0.064342506
+        },
+        {
+          "description": "Dusk",
+          "mid": "/m/01b3l7",
+          "score": 0.5516801,
+          "topicality": 0.0013196383
+        }
+      ]
+    }
+  ]
+}

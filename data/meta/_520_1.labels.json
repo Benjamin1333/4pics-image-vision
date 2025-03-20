@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Martial Arts Uniform",
+          "mid": "/m/0h8n1jq",
+          "score": 0.9908051,
+          "topicality": 0.028130999
+        },
+        {
+          "description": "Martial arts",
+          "mid": "/m/04xsv",
+          "score": 0.9846829,
+          "topicality": 0.55967635
+        },
+        {
+          "description": "Uniform",
+          "mid": "/m/09jfs",
+          "score": 0.9763218,
+          "topicality": 0.05354589
+        },
+        {
+          "description": "Combat sport",
+          "mid": "/m/05kc29",
+          "score": 0.9692662,
+          "topicality": 0.2151484
+        },
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9656372,
+          "topicality": 0.050969563
+        },
+        {
+          "description": "Dobok",
+          "mid": "/m/053kqy",
+          "score": 0.95609474,
+          "topicality": 0.03380498
+        },
+        {
+          "description": "Sports Uniform",
+          "mid": "/m/0h8mhzd",
+          "score": 0.9558094,
+          "topicality": 0.00014727806
+        },
+        {
+          "description": "Black belt",
+          "mid": "/m/02gss8",
+          "score": 0.94558793,
+          "topicality": 0.24638171
+        },
+        {
+          "description": "Japanese martial arts",
+          "mid": "/m/025tjmx",
+          "score": 0.9382578,
+          "topicality": 0.029287066
+        },
+        {
+          "description": "Contact sport",
+          "mid": "/m/08fgwk",
+          "score": 0.933622,
+          "topicality": 0.0020643964
+        }
+      ]
+    }
+  ]
+}

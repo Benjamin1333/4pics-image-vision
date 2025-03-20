@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Leaf",
+          "mid": "/m/09t49",
+          "score": 0.9814443,
+          "topicality": 0.0070865294
+        },
+        {
+          "description": "Tree",
+          "mid": "/m/07j7r",
+          "score": 0.97933257,
+          "topicality": 0.35449114
+        },
+        {
+          "description": "Grass",
+          "mid": "/m/08t9c_",
+          "score": 0.977704,
+          "topicality": 0.0010753246
+        },
+        {
+          "description": "Nature",
+          "mid": "/m/05h0n",
+          "score": 0.97586817,
+          "topicality": 0.052681766
+        },
+        {
+          "description": "Branch",
+          "mid": "/m/0b5gs",
+          "score": 0.970962,
+          "topicality": 0.0065369187
+        },
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.96225744,
+          "topicality": 0.0022113542
+        },
+        {
+          "description": "Plain",
+          "mid": "/m/05sm1",
+          "score": 0.8925587,
+          "topicality": 0.0008549347
+        },
+        {
+          "description": "Trunk",
+          "mid": "/m/02tcwp",
+          "score": 0.87191486,
+          "topicality": 0.0009345654
+        },
+        {
+          "description": "Autumn",
+          "mid": "/m/0134l",
+          "score": 0.8695325,
+          "topicality": 0.27951846
+        },
+        {
+          "description": "Outdoor Bench",
+          "mid": "/m/0h8nqmc",
+          "score": 0.8439243,
+          "topicality": 0.0032765653
+        }
+      ]
+    }
+  ]
+}

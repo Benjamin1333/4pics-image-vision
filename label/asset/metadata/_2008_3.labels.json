@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Heart",
+          "mid": "/m/095_n",
+          "score": 0.76462525,
+          "topicality": 0.93621767
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.58582586,
+          "topicality": 0.014738014
+        }
+      ]
+    }
+  ]
+}

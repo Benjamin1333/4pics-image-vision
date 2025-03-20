@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electric battery",
+          "mid": "/m/01c0z",
+          "score": 0.92055,
+          "topicality": 0.9771908
+        },
+        {
+          "description": "Multipurpose Battery",
+          "mid": "/m/0h8nk31",
+          "score": 0.89960194,
+          "topicality": 0.0011869749
+        },
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.88386935,
+          "topicality": 3.619415e-05
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.61674356,
+          "topicality": 0.0002590552
+        }
+      ]
+    }
+  ]
+}

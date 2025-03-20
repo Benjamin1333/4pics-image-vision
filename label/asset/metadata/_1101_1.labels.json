@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9447611,
+          "topicality": 0.019553976
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.913574,
+          "topicality": 0.0051331683
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.9104889,
+          "topicality": 0.010862051
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.84201044,
+          "topicality": 0.013956445
+        },
+        {
+          "description": "Screaming",
+          "mid": "/m/03qc9zr",
+          "score": 0.6704195,
+          "topicality": 0.050349012
+        },
+        {
+          "description": "Laughter",
+          "mid": "/m/01j3sz",
+          "score": 0.5920661,
+          "topicality": 0.01189874
+        },
+        {
+          "description": "Tongue",
+          "mid": "/m/0fjkt",
+          "score": 0.59048164,
+          "topicality": 0.011667394
+        },
+        {
+          "description": "Hearing",
+          "mid": "/m/01wymn",
+          "score": 0.5369406,
+          "topicality": 0.124290355
+        },
+        {
+          "description": "Love",
+          "mid": "/m/048knlz",
+          "score": 0.5250904,
+          "topicality": 0.005509999
+        }
+      ]
+    }
+  ]
+}

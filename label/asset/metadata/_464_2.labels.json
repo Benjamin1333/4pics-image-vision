@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Branch",
+          "mid": "/m/0b5gs",
+          "score": 0.96816105,
+          "topicality": 0.040190395
+        },
+        {
+          "description": "Trunk",
+          "mid": "/m/02tcwp",
+          "score": 0.8923595,
+          "topicality": 0.09708355
+        },
+        {
+          "description": "Woody plant",
+          "mid": "/m/02hnx9",
+          "score": 0.8413708,
+          "topicality": 0.017474752
+        },
+        {
+          "description": "Twig",
+          "mid": "/m/016nqt",
+          "score": 0.8078343,
+          "topicality": 0.003437488
+        },
+        {
+          "description": "Shade",
+          "mid": "/m/0hndl",
+          "score": 0.7542244,
+          "topicality": 0.0045927553
+        },
+        {
+          "description": "Woodland",
+          "mid": "/m/0hnc1",
+          "score": 0.68444425,
+          "topicality": 0.008672951
+        },
+        {
+          "description": "Temperate broadleaf and mixed forest",
+          "mid": "/m/01cv98",
+          "score": 0.51834583,
+          "topicality": 0.00089259184
+        }
+      ]
+    }
+  ]
+}

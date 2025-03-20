@@ -1,0 +1,13 @@
+{
+  "responses": [
+    {
+      "safeSearchAnnotation": {
+        "adult": "POSSIBLE",
+        "medical": "POSSIBLE",
+        "racy": "POSSIBLE",
+        "spoof": "UNLIKELY",
+        "violence": "UNLIKELY"
+      }
+    }
+  ]
+}

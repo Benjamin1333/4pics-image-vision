@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Clown",
+          "mid": "/m/01sfl",
+          "score": 0.9873717,
+          "topicality": 0.98548424
+        },
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.984778,
+          "topicality": 0.0028139404
+        },
+        {
+          "description": "Entertainment",
+          "mid": "/m/02jjt",
+          "score": 0.97668076,
+          "topicality": 0.004283735
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9693631,
+          "topicality": 0.09444763
+        },
+        {
+          "description": "Performing Arts",
+          "mid": "/m/05qjc",
+          "score": 0.9470067,
+          "topicality": 0.0017198448
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94494927,
+          "topicality": 0.010336245
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.94226944,
+          "topicality": 0.07455563
+        },
+        {
+          "description": "Circus",
+          "mid": "/m/014mnd",
+          "score": 0.9303166,
+          "topicality": 0.08878791
+        },
+        {
+          "description": "Wig",
+          "mid": "/m/01hzl4",
+          "score": 0.87130445,
+          "topicality": 0.058971815
+        },
+        {
+          "description": "Performance",
+          "mid": "/m/01gq53",
+          "score": 0.85536015,
+          "topicality": 0.00055806607
+        }
+      ]
+    }
+  ]
+}

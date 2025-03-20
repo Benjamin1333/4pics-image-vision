@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Jacket",
+          "mid": "/m/032b3c",
+          "score": 0.8816527,
+          "topicality": 0.0034229201
+        },
+        {
+          "description": "Winter",
+          "mid": "/m/086mh",
+          "score": 0.8419775,
+          "topicality": 0.023902811
+        },
+        {
+          "description": "Car door",
+          "mid": "/m/02q2kc3",
+          "score": 0.83367515,
+          "topicality": 0.006781403
+        },
+        {
+          "description": "Windshield",
+          "mid": "/m/01lrnl",
+          "score": 0.8277636,
+          "topicality": 0.059451308
+        },
+        {
+          "description": "Automotive Care",
+          "mid": "/m/0h8nz9n",
+          "score": 0.68095624,
+          "topicality": 0.0013800798
+        },
+        {
+          "description": "Windscreen wiper",
+          "mid": "/m/02417f",
+          "score": 0.66909426,
+          "topicality": 0.008670148
+        },
+        {
+          "description": "Hood",
+          "mid": "/m/02df64",
+          "score": 0.6665062,
+          "topicality": 0.020675154
+        },
+        {
+          "description": "Snow",
+          "mid": "/m/06_dn",
+          "score": 0.5812286,
+          "topicality": 0.12698397
+        },
+        {
+          "description": "Freezing",
+          "mid": "/m/01c791",
+          "score": 0.5783699,
+          "topicality": 0.010319644
+        },
+        {
+          "description": "Glove",
+          "mid": "/m/0174n1",
+          "score": 0.5745872,
+          "topicality": 0.0038032292
+        }
+      ]
+    }
+  ]
+}

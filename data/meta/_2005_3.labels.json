@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.9675418,
+          "topicality": 0.22566418
+        },
+        {
+          "description": "Macro photography",
+          "mid": "/m/03rbf6",
+          "score": 0.6295207,
+          "topicality": 0.0040144795
+        },
+        {
+          "description": "Still life photography",
+          "mid": "/m/027_ny3",
+          "score": 0.5842214,
+          "topicality": 0.0052691544
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.5001263,
+          "topicality": 0.10605886
+        }
+      ]
+    }
+  ]
+}

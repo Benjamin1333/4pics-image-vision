@@ -1,0 +1,14 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Screenshot",
+          "mid": "/m/01zbnw",
+          "score": 0.5409174,
+          "topicality": 0.028993832
+        }
+      ]
+    }
+  ]
+}

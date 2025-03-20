@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.93920213,
+          "topicality": 0.08931459
+        },
+        {
+          "description": "Tool",
+          "mid": "/m/07k1x",
+          "score": 0.8909091,
+          "topicality": 0.5043026
+        },
+        {
+          "description": "Measuring instrument",
+          "mid": "/m/056hv",
+          "score": 0.82329875,
+          "topicality": 0.1514875
+        },
+        {
+          "description": "Office Instrument",
+          "mid": "/m/0h8m01z",
+          "score": 0.8172093,
+          "topicality": 0.0011663532
+        },
+        {
+          "description": "Writing implement",
+          "mid": "/m/06wybl",
+          "score": 0.7660993,
+          "topicality": 0.011497254
+        },
+        {
+          "description": "Pen",
+          "mid": "/m/0k1tl",
+          "score": 0.7629878,
+          "topicality": 0.020123377
+        },
+        {
+          "description": "Hand tool",
+          "mid": "/m/01yc83",
+          "score": 0.757949,
+          "topicality": 0.0724911
+        },
+        {
+          "description": "Ruler",
+          "mid": "/m/0hdln",
+          "score": 0.7273121,
+          "topicality": 0.5367423
+        },
+        {
+          "description": "Compass",
+          "mid": "/m/02g_23",
+          "score": 0.7183491,
+          "topicality": 0.87205523
+        },
+        {
+          "description": "Stationery",
+          "mid": "/m/01cndb",
+          "score": 0.7166392,
+          "topicality": 0.11053425
+        }
+      ]
+    }
+  ]
+}

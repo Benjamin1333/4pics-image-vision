@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Scorpion",
+          "mid": "/m/0755b",
+          "score": 0.98533326,
+          "topicality": 0.99625635
+        },
+        {
+          "description": "Arthropod",
+          "mid": "/m/0zkm",
+          "score": 0.9645487,
+          "topicality": 0.07056672
+        },
+        {
+          "description": "Insect",
+          "mid": "/m/03vt0",
+          "score": 0.94676334,
+          "topicality": 0.12496949
+        },
+        {
+          "description": "Arachnid",
+          "mid": "/m/0lz1c",
+          "score": 0.8819031,
+          "topicality": 0.27570918
+        },
+        {
+          "description": "Terrestrial animal",
+          "mid": "/m/0fbf1m",
+          "score": 0.80285263,
+          "topicality": 0.0015581249
+        },
+        {
+          "description": "Marine invertebrates",
+          "mid": "/m/03hl4l9",
+          "score": 0.69606626,
+          "topicality": 0.0002850406
+        }
+      ]
+    }
+  ]
+}

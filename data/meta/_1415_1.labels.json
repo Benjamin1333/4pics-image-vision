@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Uniform",
+          "mid": "/m/09jfs",
+          "score": 0.9739218,
+          "topicality": 0.7435856
+        },
+        {
+          "description": "Headgear",
+          "mid": "/m/01443y",
+          "score": 0.9475293,
+          "topicality": 0.0015703945
+        },
+        {
+          "description": "Hat",
+          "mid": "/m/02dl1y",
+          "score": 0.92746645,
+          "topicality": 0.030517476
+        },
+        {
+          "description": "Formal wear",
+          "mid": "/m/02w3_2",
+          "score": 0.895754,
+          "topicality": 0.0037618792
+        },
+        {
+          "description": "Peaked cap",
+          "mid": "/m/049_wy",
+          "score": 0.88000095,
+          "topicality": 0.029671159
+        },
+        {
+          "description": "Cap",
+          "mid": "/m/02d46y",
+          "score": 0.82081854,
+          "topicality": 0.01825173
+        },
+        {
+          "description": "Security",
+          "mid": "/m/0bg2p",
+          "score": 0.8164644,
+          "topicality": 0.06479207
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.80639076,
+          "topicality": 0.0018409301
+        },
+        {
+          "description": "Military uniform",
+          "mid": "/m/03w1r4",
+          "score": 0.7837722,
+          "topicality": 0.029451411
+        },
+        {
+          "description": "Military Officer",
+          "mid": "/m/012qdp",
+          "score": 0.7194579,
+          "topicality": 0.039379973
+        }
+      ]
+    }
+  ]
+}

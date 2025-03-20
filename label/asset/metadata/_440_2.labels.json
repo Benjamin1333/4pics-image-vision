@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Dog",
+          "mid": "/m/0bt9lr",
+          "score": 0.99469024,
+          "topicality": 0.62830555
+        },
+        {
+          "description": "Carnivores",
+          "mid": "/m/01lrl",
+          "score": 0.93282014,
+          "topicality": 0.0020732803
+        },
+        {
+          "description": "Veterinary physician",
+          "mid": "/m/01hbsc",
+          "score": 0.87820476,
+          "topicality": 0.3883705
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.8294665,
+          "topicality": 0.019714877
+        },
+        {
+          "description": "Canidae",
+          "mid": "/m/01z5f",
+          "score": 0.77681625,
+          "topicality": 0.03057695
+        },
+        {
+          "description": "Pet Supply",
+          "mid": "/m/0h8ks17",
+          "score": 0.73490334,
+          "topicality": 8.277675e-05
+        },
+        {
+          "description": "Working animal",
+          "mid": "/m/07_gml",
+          "score": 0.7320327,
+          "topicality": 0.00036701828
+        },
+        {
+          "description": "Fur",
+          "mid": "/m/0cnmr",
+          "score": 0.7005673,
+          "topicality": 0.0061040935
+        },
+        {
+          "description": "Retriever",
+          "mid": "/m/020xxc",
+          "score": 0.5920054,
+          "topicality": 0.031506978
+        },
+        {
+          "description": "Puppy",
+          "mid": "/m/0d7s3w",
+          "score": 0.5845648,
+          "topicality": 0.043174844
+        }
+      ]
+    }
+  ]
+}

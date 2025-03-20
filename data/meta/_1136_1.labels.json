@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bottle",
+          "mid": "/m/04dr76w",
+          "score": 0.99360424,
+          "topicality": 0.51504654
+        },
+        {
+          "description": "Fluid",
+          "mid": "/m/02yfx",
+          "score": 0.95400816,
+          "topicality": 0.0034593325
+        },
+        {
+          "description": "Glass bottle",
+          "mid": "/m/089mxq",
+          "score": 0.9515138,
+          "topicality": 0.268886
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.92160064,
+          "topicality": 0.024105145
+        },
+        {
+          "description": "Alcoholic drink",
+          "mid": "/m/012mj",
+          "score": 0.88913673,
+          "topicality": 0.08601783
+        },
+        {
+          "description": "Drinkware",
+          "mid": "/m/050h26",
+          "score": 0.8446343,
+          "topicality": 0.00021790211
+        },
+        {
+          "description": "Soft drink",
+          "mid": "/m/06qrr",
+          "score": 0.8306854,
+          "topicality": 0.22199665
+        },
+        {
+          "description": "Bottle cap",
+          "mid": "/m/02b389",
+          "score": 0.7415379,
+          "topicality": 0.0089790635
+        },
+        {
+          "description": "Non-alcoholic drink",
+          "mid": "/m/0dpj6t",
+          "score": 0.731101,
+          "topicality": 0.057498682
+        },
+        {
+          "description": "Carbonated soft drinks",
+          "mid": "/m/059r7w6",
+          "score": 0.70042527,
+          "topicality": 0.03964284
+        }
+      ]
+    }
+  ]
+}

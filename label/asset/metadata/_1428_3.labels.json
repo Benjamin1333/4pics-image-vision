@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Shoe store",
+          "mid": "/m/0h62vyn",
+          "score": 0.91913956,
+          "topicality": 0.002817136
+        },
+        {
+          "description": "Collection",
+          "mid": "/m/08_4sd",
+          "score": 0.766725,
+          "topicality": 0.033134956
+        },
+        {
+          "description": "Clog",
+          "mid": "/m/01_5wc",
+          "score": 0.70134985,
+          "topicality": 0.7617363
+        },
+        {
+          "description": "Retail",
+          "mid": "/m/0191_7",
+          "score": 0.5236784,
+          "topicality": 0.0005722499
+        }
+      ]
+    }
+  ]
+}

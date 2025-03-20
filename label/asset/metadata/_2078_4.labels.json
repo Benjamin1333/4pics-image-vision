@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Polar bear",
+          "mid": "/m/0633h",
+          "score": 0.9864878,
+          "topicality": 0.9223847
+        },
+        {
+          "description": "Water",
+          "mid": "/m/0838f",
+          "score": 0.9815942,
+          "topicality": 0.049278297
+        },
+        {
+          "description": "Bear",
+          "mid": "/m/01dws",
+          "score": 0.95112103,
+          "topicality": 0.8024936
+        },
+        {
+          "description": "Sea ice",
+          "mid": "/m/01ycvc",
+          "score": 0.9507474,
+          "topicality": 0.35740036
+        },
+        {
+          "description": "Polar ice cap",
+          "mid": "/m/048nfp",
+          "score": 0.9470574,
+          "topicality": 0.08122317
+        },
+        {
+          "description": "Ice cap",
+          "mid": "/m/04b966",
+          "score": 0.9376039,
+          "topicality": 0.040457804
+        },
+        {
+          "description": "Ice",
+          "mid": "/m/03vtj",
+          "score": 0.9329726,
+          "topicality": 0.46372953
+        },
+        {
+          "description": "Carnivores",
+          "mid": "/m/01lrl",
+          "score": 0.9203704,
+          "topicality": 0.0052112998
+        },
+        {
+          "description": "Arctic",
+          "mid": "/m/09738",
+          "score": 0.9115457,
+          "topicality": 0.49728835
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.908246,
+          "topicality": 0.16645122
+        }
+      ]
+    }
+  ]
+}

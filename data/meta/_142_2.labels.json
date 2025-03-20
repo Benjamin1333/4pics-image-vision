@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "People",
+          "mid": "/m/09g5pq",
+          "score": 0.9943518,
+          "topicality": 0.02597217
+        },
+        {
+          "description": "Eyewear",
+          "mid": "/m/0j272k5",
+          "score": 0.98360443,
+          "topicality": 0.0004050731
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9765287,
+          "topicality": 0.041033003
+        },
+        {
+          "description": "Glasses",
+          "mid": "/m/0jyfg",
+          "score": 0.97380894,
+          "topicality": 0.004544918
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.9717748,
+          "topicality": 0.035209388
+        },
+        {
+          "description": "Bag",
+          "mid": "/m/0n5v01m",
+          "score": 0.97073865,
+          "topicality": 0.0048902314
+        },
+        {
+          "description": "Luggage & bags",
+          "mid": "/m/0hf58v5",
+          "score": 0.92541707,
+          "topicality": 0.0014911522
+        },
+        {
+          "description": "Sunglasses",
+          "mid": "/m/017ftj",
+          "score": 0.9107032,
+          "topicality": 0.0030286524
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.9048507,
+          "topicality": 0.018553792
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.89612174,
+          "topicality": 0.042478282
+        }
+      ]
+    }
+  ]
+}

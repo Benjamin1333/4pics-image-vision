@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Shade",
+          "mid": "/m/0hndl",
+          "score": 0.71464753,
+          "topicality": 0.00086984213
+        },
+        {
+          "description": "Daylighting",
+          "mid": "/m/0k2n5",
+          "score": 0.6034154,
+          "topicality": 0.015821984
+        }
+      ]
+    }
+  ]
+}

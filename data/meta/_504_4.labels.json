@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Brown",
+          "mid": "/m/09q2t",
+          "score": 0.9184429,
+          "topicality": 0.0019562347
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.69143105,
+          "topicality": 0.00015849469
+        },
+        {
+          "description": "Still life photography",
+          "mid": "/m/027_ny3",
+          "score": 0.590155,
+          "topicality": 0.0010730348
+        }
+      ]
+    }
+  ]
+}

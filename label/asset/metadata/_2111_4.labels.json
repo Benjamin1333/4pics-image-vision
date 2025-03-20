@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.910411,
+          "topicality": 0.00046015813
+        },
+        {
+          "description": "Paper",
+          "mid": "/m/0641k",
+          "score": 0.86501896,
+          "topicality": 0.32200226
+        },
+        {
+          "description": "Coffee filter",
+          "mid": "/m/01rw56",
+          "score": 0.556498,
+          "topicality": 0.963961
+        },
+        {
+          "description": "cardboard",
+          "mid": "/m/03q7pgh",
+          "score": 0.5363467,
+          "topicality": 0.036773443
+        },
+        {
+          "description": "Label",
+          "mid": "/m/05c0n6k",
+          "score": 0.52530634,
+          "topicality": 0.027555374
+        }
+      ]
+    }
+  ]
+}

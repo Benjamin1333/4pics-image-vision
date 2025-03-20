@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Water",
+          "mid": "/m/0838f",
+          "score": 0.9808049,
+          "topicality": 0.029949065
+        },
+        {
+          "description": "Body of water",
+          "mid": "/m/03ktm1",
+          "score": 0.9801679,
+          "topicality": 0.0018806827
+        },
+        {
+          "description": "Wood",
+          "mid": "/m/083vt",
+          "score": 0.9712027,
+          "topicality": 0.03017999
+        },
+        {
+          "description": "Furniture",
+          "mid": "/m/0c_jw",
+          "score": 0.9659266,
+          "topicality": 0.007953101
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.9453016,
+          "topicality": 0.16108087
+        },
+        {
+          "description": "Horizon",
+          "mid": "/m/0d1n2",
+          "score": 0.9410425,
+          "topicality": 0.0052317856
+        },
+        {
+          "description": "Outdoor furniture",
+          "mid": "/m/0cp2d4k",
+          "score": 0.9094187,
+          "topicality": 0.0009581845
+        },
+        {
+          "description": "Chair",
+          "mid": "/m/01mzpv",
+          "score": 0.9087499,
+          "topicality": 0.029010851
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.90163076,
+          "topicality": 0.014446495
+        },
+        {
+          "description": "Coastal and oceanic landforms",
+          "mid": "/m/02c9_23",
+          "score": 0.8900786,
+          "topicality": 9.0899586e-05
+        }
+      ]
+    }
+  ]
+}

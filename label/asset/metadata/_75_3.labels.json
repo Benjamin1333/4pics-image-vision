@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.9890626,
+          "topicality": 0.015253061
+        },
+        {
+          "description": "Photograph",
+          "mid": "/m/068jd",
+          "score": 0.98789275,
+          "topicality": 0.005204161
+        },
+        {
+          "description": "Daytime",
+          "mid": "/m/02q7ylj",
+          "score": 0.98183626,
+          "topicality": 0.0055648214
+        },
+        {
+          "description": "Skyscraper",
+          "mid": "/m/079cl",
+          "score": 0.97737527,
+          "topicality": 0.4203867
+        },
+        {
+          "description": "High-rise building",
+          "mid": "/m/0vlys",
+          "score": 0.96423143,
+          "topicality": 0.16217174
+        },
+        {
+          "description": "Commercial building",
+          "mid": "/m/05hg54",
+          "score": 0.9378302,
+          "topicality": 0.036288682
+        },
+        {
+          "description": "Glass",
+          "mid": "/m/039jq",
+          "score": 0.9368685,
+          "topicality": 0.03513261
+        },
+        {
+          "description": "Architecture",
+          "mid": "/m/03nfmq",
+          "score": 0.9287466,
+          "topicality": 0.13905004
+        },
+        {
+          "description": "Reflection",
+          "mid": "/m/02l215",
+          "score": 0.9264614,
+          "topicality": 0.01228612
+        },
+        {
+          "description": "Metropolitan area",
+          "mid": "/m/0j_s4",
+          "score": 0.9229969,
+          "topicality": 0.007259586
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Flatfish",
+          "mid": "/m/0cjt2",
+          "score": 0.72598773,
+          "topicality": 0.29603025
+        },
+        {
+          "description": "Fish",
+          "mid": "/m/0ch_cf",
+          "score": 0.62326694,
+          "topicality": 0.32542405
+        },
+        {
+          "description": "Sole",
+          "mid": "/m/0cf0b5",
+          "score": 0.5223722,
+          "topicality": 0.83702123
+        }
+      ]
+    }
+  ]
+}

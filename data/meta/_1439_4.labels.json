@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Spoke",
+          "mid": "/m/016xt7",
+          "score": 0.9503542,
+          "topicality": 0.095026255
+        },
+        {
+          "description": "Bicycle tire",
+          "mid": "/m/0c3vfpc",
+          "score": 0.9447691,
+          "topicality": 0.08873801
+        },
+        {
+          "description": "Bicycle",
+          "mid": "/m/0199g",
+          "score": 0.8966386,
+          "topicality": 0.55296236
+        },
+        {
+          "description": "Bicycle Wheel Rim",
+          "mid": "/m/0h8n90g",
+          "score": 0.8624458,
+          "topicality": 0.0018671989
+        },
+        {
+          "description": "Bicycle wheel",
+          "mid": "/m/01bqk0",
+          "score": 0.82788223,
+          "topicality": 0.08215719
+        },
+        {
+          "description": "Carbon fibers",
+          "mid": "/m/0155hn",
+          "score": 0.758249,
+          "topicality": 0.00249287
+        },
+        {
+          "description": "Bicycles--Equipment and supplies",
+          "mid": "/m/0bpnmk0",
+          "score": 0.73272085,
+          "topicality": 8.263927e-05
+        },
+        {
+          "description": "Titanium",
+          "mid": "/m/025sk56",
+          "score": 0.63942826,
+          "topicality": 0.008911288
+        },
+        {
+          "description": "Bicycle Hub",
+          "mid": "/m/0h8n8m_",
+          "score": 0.6182153,
+          "topicality": 0.00040972728
+        },
+        {
+          "description": "Steel",
+          "mid": "/m/06qqb",
+          "score": 0.5898154,
+          "topicality": 0.018499784
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Footwear",
+          "mid": "/m/09j5n",
+          "score": 0.983098,
+          "topicality": 0.10171447
+        },
+        {
+          "description": "Shoe",
+          "mid": "/m/06rrc",
+          "score": 0.98063743,
+          "topicality": 0.6114541
+        },
+        {
+          "description": "Brown",
+          "mid": "/m/09q2t",
+          "score": 0.9252875,
+          "topicality": 0.024108654
+        },
+        {
+          "description": "Black",
+          "mid": "/m/019sc",
+          "score": 0.9080185,
+          "topicality": 0.018826107
+        },
+        {
+          "description": "Sneakers",
+          "mid": "/m/09kjlm",
+          "score": 0.8438377,
+          "topicality": 0.06586724
+        },
+        {
+          "description": "Walking Shoe",
+          "mid": "/m/0hgs9bq",
+          "score": 0.8402499,
+          "topicality": 0.023084575
+        },
+        {
+          "description": "Leather",
+          "mid": "/m/04lbp",
+          "score": 0.80606484,
+          "topicality": 0.30338687
+        },
+        {
+          "description": "Fashion design",
+          "mid": "/m/02qqd4n",
+          "score": 0.74992406,
+          "topicality": 0.00015613889
+        },
+        {
+          "description": "Outdoor Shoe",
+          "mid": "/m/0hgrj75",
+          "score": 0.7445156,
+          "topicality": 0.012034196
+        },
+        {
+          "description": "Bicycle Shoe",
+          "mid": "/m/0h8mfkx",
+          "score": 0.577918,
+          "topicality": 0.0010331849
+        }
+      ]
+    }
+  ]
+}

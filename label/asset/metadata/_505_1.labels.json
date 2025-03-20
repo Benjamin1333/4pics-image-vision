@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Customer",
+          "mid": "/m/01j0mk",
+          "score": 0.95402247,
+          "topicality": 0.44053304
+        },
+        {
+          "description": "Retail",
+          "mid": "/m/0191_7",
+          "score": 0.84572375,
+          "topicality": 0.09656536
+        },
+        {
+          "description": "Bag",
+          "mid": "/m/0n5v01m",
+          "score": 0.8077827,
+          "topicality": 0.008426834
+        },
+        {
+          "description": "Shopping",
+          "mid": "/m/0hhdb",
+          "score": 0.7488429,
+          "topicality": 0.43647003
+        },
+        {
+          "description": "Handbag",
+          "mid": "/m/080hkjn",
+          "score": 0.6723153,
+          "topicality": 0.0014205117
+        },
+        {
+          "description": "Supermarket",
+          "mid": "/m/0dnkv",
+          "score": 0.6087082,
+          "topicality": 0.29462105
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.5892908,
+          "topicality": 0.18025602
+        },
+        {
+          "description": "Grocery store",
+          "mid": "/m/01jpn4",
+          "score": 0.54967254,
+          "topicality": 0.15907848
+        },
+        {
+          "description": "Mobile phone",
+          "mid": "/m/050k8",
+          "score": 0.5092994,
+          "topicality": 0.0011778962
+        },
+        {
+          "description": "Convenience store",
+          "mid": "/m/0crjs",
+          "score": 0.5038708,
+          "topicality": 0.029321475
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Publication",
+          "mid": "/m/01h1dd",
+          "score": 0.85120374,
+          "topicality": 0.0024718232
+        },
+        {
+          "description": "Book",
+          "mid": "/m/0bt_c3",
+          "score": 0.8066448,
+          "topicality": 0.46502113
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.6800112,
+          "topicality": 0.0004906115
+        },
+        {
+          "description": "Reading",
+          "mid": "/m/04yclrg",
+          "score": 0.61702067,
+          "topicality": 0.63525796
+        },
+        {
+          "description": "Learning",
+          "mid": "/m/0191f8",
+          "score": 0.6096147,
+          "topicality": 0.03166828
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.85453635,
+          "topicality": 0.22211015
+        },
+        {
+          "description": "Metal",
+          "mid": "/m/04t7l",
+          "score": 0.7939443,
+          "topicality": 0.13359581
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.70455384,
+          "topicality": 0.0019179874
+        },
+        {
+          "description": "Ring binder",
+          "mid": "/m/04zwwv",
+          "score": 0.69384086,
+          "topicality": 0.33951476
+        },
+        {
+          "description": "Steel",
+          "mid": "/m/06qqb",
+          "score": 0.5667818,
+          "topicality": 0.008434432
+        },
+        {
+          "description": "Aluminium",
+          "mid": "/m/027vj2v",
+          "score": 0.5433881,
+          "topicality": 0.0037792514
+        },
+        {
+          "description": "Nickel",
+          "mid": "/m/025s4r7",
+          "score": 0.5412713,
+          "topicality": 0.00293476
+        }
+      ]
+    }
+  ]
+}

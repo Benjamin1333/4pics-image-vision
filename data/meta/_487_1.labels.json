@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Entertainment",
+          "mid": "/m/02jjt",
+          "score": 0.78706527,
+          "topicality": 0.011671075
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.77145386,
+          "topicality": 0.00033325903
+        },
+        {
+          "description": "Public event",
+          "mid": "/g/116c3n66l",
+          "score": 0.7632428,
+          "topicality": 0.0011321552
+        },
+        {
+          "description": "Festival",
+          "mid": "/m/0hr5k",
+          "score": 0.73013556,
+          "topicality": 0.1487582
+        },
+        {
+          "description": "Tradition",
+          "mid": "/m/07djv",
+          "score": 0.66101575,
+          "topicality": 0.012863909
+        },
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.65695107,
+          "topicality": 0.0050152447
+        },
+        {
+          "description": "Carnival",
+          "mid": "/m/09l9f",
+          "score": 0.6532458,
+          "topicality": 0.5523088
+        }
+      ]
+    }
+  ]
+}

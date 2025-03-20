@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Steel and tin cans",
+          "mid": "/m/02jnhm",
+          "score": 0.93237466,
+          "topicality": 0.40352643
+        },
+        {
+          "description": "Tin",
+          "mid": "/m/025sk5n",
+          "score": 0.92116034,
+          "topicality": 0.111659214
+        },
+        {
+          "description": "Aluminum can",
+          "mid": "/m/0gjbv4m",
+          "score": 0.70409423,
+          "topicality": 0.153888
+        },
+        {
+          "description": "Lid",
+          "mid": "/m/074cq5",
+          "score": 0.5440675,
+          "topicality": 0.03741514
+        },
+        {
+          "description": "Cylinder",
+          "mid": "/m/03h_4m",
+          "score": 0.5266389,
+          "topicality": 0.0014519802
+        }
+      ]
+    }
+  ]
+}

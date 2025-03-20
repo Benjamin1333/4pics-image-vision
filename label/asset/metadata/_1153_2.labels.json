@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hair",
+          "mid": "/m/03q69",
+          "score": 0.99067783,
+          "topicality": 0.16289052
+        },
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.98478335,
+          "topicality": 0.0026665
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9449458,
+          "topicality": 0.06430287
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.9022359,
+          "topicality": 0.01726192
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.89899707,
+          "topicality": 0.015141563
+        },
+        {
+          "description": "Blond",
+          "mid": "/m/0294jb",
+          "score": 0.88833195,
+          "topicality": 0.055331565
+        },
+        {
+          "description": "Brown hair",
+          "mid": "/m/02ksmb",
+          "score": 0.87197,
+          "topicality": 0.03153793
+        },
+        {
+          "description": "Long hair",
+          "mid": "/m/02pd__z",
+          "score": 0.8693058,
+          "topicality": 0.055935647
+        },
+        {
+          "description": "Screaming",
+          "mid": "/m/03qc9zr",
+          "score": 0.85339785,
+          "topicality": 0.29964137
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.8405955,
+          "topicality": 0.022659294
+        }
+      ]
+    }
+  ]
+}

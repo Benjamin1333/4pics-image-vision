@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Gown",
+          "mid": "/m/0bp_2p",
+          "score": 0.97800326,
+          "topicality": 0.30953985
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.97769314,
+          "topicality": 0.3668247
+        },
+        {
+          "description": "Dress",
+          "mid": "/m/01d40f",
+          "score": 0.9759468,
+          "topicality": 0.55252284
+        },
+        {
+          "description": "Formal wear",
+          "mid": "/m/02w3_2",
+          "score": 0.9756981,
+          "topicality": 0.0761037
+        },
+        {
+          "description": "Fashion",
+          "mid": "/m/032tl",
+          "score": 0.9624663
+        },
+        {
+          "description": "Textile",
+          "mid": "/m/0dnr7",
+          "score": 0.9469101,
+          "topicality": 0.0018671219
+        },
+        {
+          "description": "One-piece garment",
+          "mid": "/m/0142sg",
+          "score": 0.93879414,
+          "topicality": 0.0005911666
+        },
+        {
+          "description": "Satin",
+          "mid": "/m/02xhmrh",
+          "score": 0.9350576,
+          "topicality": 0.29717487
+        },
+        {
+          "description": "Silk",
+          "mid": "/m/0dl6q",
+          "score": 0.92940044,
+          "topicality": 0.07209715
+        },
+        {
+          "description": "Fashion Model",
+          "mid": "/m/02hqr87",
+          "score": 0.92722404,
+          "topicality": 0.053702913
+        }
+      ]
+    }
+  ]
+}

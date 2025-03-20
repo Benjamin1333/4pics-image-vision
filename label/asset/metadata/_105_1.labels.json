@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hair",
+          "mid": "/m/03q69",
+          "score": 0.9907041,
+          "topicality": 0.012158348
+        },
+        {
+          "description": "Shoulder",
+          "mid": "/m/01ssh5",
+          "score": 0.9718284,
+          "topicality": 0.003727735
+        },
+        {
+          "description": "Hand",
+          "mid": "/m/0k65p",
+          "score": 0.9702535,
+          "topicality": 0.0154417185
+        },
+        {
+          "description": "Black hair",
+          "mid": "/m/0fc1fy",
+          "score": 0.96668226,
+          "topicality": 0.0024780286
+        },
+        {
+          "description": "Beauty",
+          "mid": "/m/01f43",
+          "score": 0.94772035,
+          "topicality": 0.006286786
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9448004,
+          "topicality": 0.0059374142
+        },
+        {
+          "description": "Elbow",
+          "mid": "/m/01vm1p",
+          "score": 0.88998455,
+          "topicality": 0.00736711
+        },
+        {
+          "description": "Wrist",
+          "mid": "/m/01j48b",
+          "score": 0.8790312,
+          "topicality": 0.0009630769
+        },
+        {
+          "description": "Eyelash",
+          "mid": "/m/03f52z",
+          "score": 0.8714558,
+          "topicality": 0.00019074441
+        },
+        {
+          "description": "Denim",
+          "mid": "/m/0hgr6",
+          "score": 0.83873636,
+          "topicality": 0.00011291028
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Physical fitness",
+          "mid": "/m/027x7n",
+          "score": 0.97355276,
+          "topicality": 0.25095865
+        },
+        {
+          "description": "Exercise",
+          "mid": "/m/019w6h",
+          "score": 0.96926594,
+          "topicality": 0.4463379
+        },
+        {
+          "description": "Thigh",
+          "mid": "/m/01j04m",
+          "score": 0.9508688,
+          "topicality": 0.0066487277
+        },
+        {
+          "description": "Muscle",
+          "mid": "/m/04_fs",
+          "score": 0.91853255,
+          "topicality": 0.023598576
+        },
+        {
+          "description": "Sportswear",
+          "mid": "/m/025xryy",
+          "score": 0.91397697,
+          "topicality": 0.0012670248
+        },
+        {
+          "description": "Knee",
+          "mid": "/m/019swr",
+          "score": 0.90774155,
+          "topicality": 0.017283173
+        },
+        {
+          "description": "Elbow",
+          "mid": "/m/01vm1p",
+          "score": 0.8913152,
+          "topicality": 0.006093931
+        },
+        {
+          "description": "Wrist",
+          "mid": "/m/01j48b",
+          "score": 0.8782481,
+          "topicality": 0.0004042351
+        },
+        {
+          "description": "Calf",
+          "mid": "/m/0715t2",
+          "score": 0.86594963,
+          "topicality": 0.0028568334
+        },
+        {
+          "description": "Professional fitness coach",
+          "mid": "/m/0bxzbs3",
+          "score": 0.84720904,
+          "topicality": 0.03004313
+        }
+      ]
+    }
+  ]
+}

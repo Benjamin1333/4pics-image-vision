@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Mode of transport",
+          "mid": "/m/079bkr",
+          "score": 0.98573905,
+          "topicality": 0.041195013
+        },
+        {
+          "description": "Transport",
+          "mid": "/m/07bsy",
+          "score": 0.9816329,
+          "topicality": 0.6277802
+        },
+        {
+          "description": "Motor vehicle",
+          "mid": "/m/012f08",
+          "score": 0.97151446,
+          "topicality": 0.011033409
+        },
+        {
+          "description": "Truck",
+          "mid": "/m/07r04",
+          "score": 0.96811235,
+          "topicality": 0.55319405
+        },
+        {
+          "description": "Highway",
+          "mid": "/m/0cz_0",
+          "score": 0.96441334,
+          "topicality": 0.23029357
+        },
+        {
+          "description": "Road",
+          "mid": "/m/06gfj",
+          "score": 0.95872104,
+          "topicality": 0.34622312
+        },
+        {
+          "description": "Commercial vehicle",
+          "mid": "/m/0fkwjg",
+          "score": 0.9535173,
+          "topicality": 0.014388628
+        },
+        {
+          "description": "Freight transport",
+          "mid": "/m/070qm",
+          "score": 0.94138235,
+          "topicality": 0.46876165
+        },
+        {
+          "description": "Asphalt",
+          "mid": "/m/0hr8",
+          "score": 0.92917794,
+          "topicality": 0.011238088
+        },
+        {
+          "description": "Controlled-access highway",
+          "mid": "/m/0335j",
+          "score": 0.913857,
+          "topicality": 0.07534378
+        }
+      ]
+    }
+  ]
+}

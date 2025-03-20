@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Outer space",
+          "mid": "/m/01833w",
+          "score": 0.96728694,
+          "topicality": 0.5075599
+        },
+        {
+          "description": "Astronaut",
+          "mid": "/m/0htp",
+          "score": 0.9507582,
+          "topicality": 0.48266047
+        },
+        {
+          "description": "Satellite",
+          "mid": "/m/06wwc",
+          "score": 0.94564605,
+          "topicality": 0.45375618
+        },
+        {
+          "description": "Astronomical object",
+          "mid": "/m/01d9ll",
+          "score": 0.87793136,
+          "topicality": 0.019328265
+        },
+        {
+          "description": "Astronomy",
+          "mid": "/m/0dc_v",
+          "score": 0.8607065,
+          "topicality": 0.12608635
+        },
+        {
+          "description": "Aerospace Engineering",
+          "mid": "/m/0w7s",
+          "score": 0.85975415,
+          "topicality": 0.022767633
+        },
+        {
+          "description": "Universe",
+          "mid": "/m/07v7c",
+          "score": 0.8258288,
+          "topicality": 0.097046524
+        },
+        {
+          "description": "Space station",
+          "mid": "/m/0dfmm",
+          "score": 0.79938287,
+          "topicality": 0.55877477
+        },
+        {
+          "description": "Spacecraft",
+          "mid": "/m/09g5h",
+          "score": 0.79760104,
+          "topicality": 0.1262475
+        },
+        {
+          "description": "Solar panel",
+          "mid": "/m/0fnrbc",
+          "score": 0.7873193,
+          "topicality": 0.0010941363
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Flooring",
+          "mid": "/m/01c34b",
+          "score": 0.9252001,
+          "topicality": 2.7974293e-05
+        },
+        {
+          "description": "Display device",
+          "mid": "/m/029zz6",
+          "score": 0.9235896,
+          "topicality": 0.015099006
+        },
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.89665693,
+          "topicality": 0.0003381144
+        },
+        {
+          "description": "Floor",
+          "mid": "/m/0l7_8",
+          "score": 0.88494205,
+          "topicality": 0.00011276084
+        },
+        {
+          "description": "Ceiling",
+          "mid": "/m/03gfsp",
+          "score": 0.8687927,
+          "topicality": 0.00024603997
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.85556656,
+          "topicality": 0.008633153
+        },
+        {
+          "description": "Airport",
+          "mid": "/m/09cjl",
+          "score": 0.7975298,
+          "topicality": 0.5782792
+        },
+        {
+          "description": "Metal",
+          "mid": "/m/04t7l",
+          "score": 0.78950727,
+          "topicality": 0.0009596294
+        },
+        {
+          "description": "Glass",
+          "mid": "/m/039jq",
+          "score": 0.73482203,
+          "topicality": 0.0011893137
+        },
+        {
+          "description": "Electronic signage",
+          "mid": "/m/0522cz4",
+          "score": 0.7335571,
+          "topicality": 0.011427782
+        }
+      ]
+    }
+  ]
+}

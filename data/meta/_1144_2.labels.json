@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Shoe",
+          "mid": "/m/06rrc",
+          "score": 0.98512596,
+          "topicality": 0.064263076
+        },
+        {
+          "description": "Shorts",
+          "mid": "/m/01bfm9",
+          "score": 0.98412657,
+          "topicality": 0.011108368
+        },
+        {
+          "description": "Footwear",
+          "mid": "/m/09j5n",
+          "score": 0.9783294,
+          "topicality": 0.035247613
+        },
+        {
+          "description": "Sports Uniform",
+          "mid": "/m/0h8mhzd",
+          "score": 0.9783029,
+          "topicality": 0.0045825043
+        },
+        {
+          "description": "Sports venue",
+          "mid": "/m/0bmgjqz",
+          "score": 0.9780037,
+          "topicality": 0.00039995232
+        },
+        {
+          "description": "Team sport",
+          "mid": "/m/03x045",
+          "score": 0.9722708,
+          "topicality": 0.015494689
+        },
+        {
+          "description": "Player",
+          "mid": "/m/02vzx9",
+          "score": 0.967027,
+          "topicality": 0.05154476
+        },
+        {
+          "description": "competition event",
+          "mid": "/m/04stdlw",
+          "score": 0.9599515,
+          "topicality": 0.0005877771
+        },
+        {
+          "description": "Sleeveless shirt",
+          "mid": "/m/077p0h",
+          "score": 0.95828193,
+          "topicality": 0.0067426115
+        },
+        {
+          "description": "Calf",
+          "mid": "/m/0715t2",
+          "score": 0.9524958,
+          "topicality": 0.010423047
+        }
+      ]
+    }
+  ]
+}

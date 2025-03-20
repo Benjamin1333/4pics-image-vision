@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.98479617,
+          "topicality": 0.015755571
+        },
+        {
+          "description": "Jaw",
+          "mid": "/m/01k9lj",
+          "score": 0.96190554,
+          "topicality": 0.016679721
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.95497334,
+          "topicality": 0.23273326
+        },
+        {
+          "description": "Brush",
+          "mid": "/m/02chd9",
+          "score": 0.9488717,
+          "topicality": 0.16328321
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9449191,
+          "topicality": 0.0018085216
+        },
+        {
+          "description": "Toothbrush",
+          "mid": "/m/012xff",
+          "score": 0.9394349,
+          "topicality": 0.28082213
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.93609047,
+          "topicality": 0.8426758
+        },
+        {
+          "description": "Tooth brushing",
+          "mid": "/m/02ps_43",
+          "score": 0.9158479,
+          "topicality": 0.7873722
+        },
+        {
+          "description": "Personal care",
+          "mid": "/m/02w3_ws",
+          "score": 0.8916655,
+          "topicality": 0.0016584665
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.8336052,
+          "topicality": 0.008957061
+        }
+      ]
+    }
+  ]
+}

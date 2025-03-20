@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Card game",
+          "mid": "/m/01mtt",
+          "score": 0.9111294,
+          "topicality": 0.76773804
+        },
+        {
+          "description": "Game",
+          "mid": "/m/03bt1gh",
+          "score": 0.9066625,
+          "topicality": 0.0942363
+        },
+        {
+          "description": "Gambling",
+          "mid": "/m/034dj",
+          "score": 0.88299054,
+          "topicality": 0.019478852
+        },
+        {
+          "description": "Heart",
+          "mid": "/m/07bg4p",
+          "score": 0.80854297,
+          "topicality": 0.057659388
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.66406727,
+          "topicality": 0.010753512
+        },
+        {
+          "description": "Indoor games and sports",
+          "mid": "/m/0b42l9",
+          "score": 0.64836097,
+          "topicality": 2.9834448e-05
+        },
+        {
+          "description": "Triangle",
+          "mid": "/m/07jx7",
+          "score": 0.648242,
+          "topicality": 0.0024973284
+        },
+        {
+          "description": "Heart",
+          "mid": "/m/095_n",
+          "score": 0.5878367,
+          "topicality": 0.01688647
+        }
+      ]
+    }
+  ]
+}

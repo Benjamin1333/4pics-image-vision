@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.984477,
+          "topicality": 0.028750632
+        },
+        {
+          "description": "Sleeve",
+          "mid": "/m/062581",
+          "score": 0.9838064,
+          "topicality": 0.0006928386
+        },
+        {
+          "description": "Collar",
+          "mid": "/m/091410",
+          "score": 0.96892685,
+          "topicality": 0.007308471
+        },
+        {
+          "description": "Formal wear",
+          "mid": "/m/02w3_2",
+          "score": 0.9676209,
+          "topicality": 0.007722617
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.9657065,
+          "topicality": 0.095756486
+        },
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.9613315,
+          "topicality": 0.088647746
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9449485,
+          "topicality": 0.019288367
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.9364283,
+          "topicality": 0.2716162
+        },
+        {
+          "description": "Blazer",
+          "mid": "/m/04xz_5",
+          "score": 0.9212108,
+          "topicality": 0.004259905
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.911406,
+          "topicality": 0.03904725
+        }
+      ]
+    }
+  ]
+}

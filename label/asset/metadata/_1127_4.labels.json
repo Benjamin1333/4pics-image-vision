@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Traffic light",
+          "mid": "/m/015qff",
+          "score": 0.9863999,
+          "topicality": 0.9911838
+        },
+        {
+          "description": "signaling device",
+          "mid": "/m/07q3ylx",
+          "score": 0.9806461,
+          "topicality": 0.04397943
+        },
+        {
+          "description": "Sign",
+          "mid": "/m/06zsq",
+          "score": 0.8528058,
+          "topicality": 0.020299634
+        },
+        {
+          "description": "Traffic sign",
+          "mid": "/m/01mqdt",
+          "score": 0.55621296,
+          "topicality": 0.037213802
+        },
+        {
+          "description": "Light-emitting diode",
+          "mid": "/m/04myn",
+          "score": 0.52351767,
+          "topicality": 0.039441936
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Textile",
+          "mid": "/m/0dnr7",
+          "score": 0.9491443,
+          "topicality": 0.04368333
+        },
+        {
+          "description": "Fashion",
+          "mid": "/m/032tl",
+          "score": 0.9439939
+        },
+        {
+          "description": "Denim",
+          "mid": "/m/0hgr6",
+          "score": 0.93225634,
+          "topicality": 0.0067598415
+        },
+        {
+          "description": "Clothes hanger",
+          "mid": "/m/0ksls",
+          "score": 0.93130094,
+          "topicality": 0.36783183
+        },
+        {
+          "description": "Retail",
+          "mid": "/m/0191_7",
+          "score": 0.90031576,
+          "topicality": 0.074369304
+        },
+        {
+          "description": "Market",
+          "mid": "/m/09y4pm",
+          "score": 0.6366757,
+          "topicality": 0.011077517
+        },
+        {
+          "description": "Closet",
+          "mid": "/m/0d4w1",
+          "score": 0.5965744,
+          "topicality": 0.3326413
+        },
+        {
+          "description": "Boutique",
+          "mid": "/m/08790l",
+          "score": 0.5784884,
+          "topicality": 0.18266968
+        },
+        {
+          "description": "Collection",
+          "mid": "/m/08_4sd",
+          "score": 0.57273906,
+          "topicality": 0.0035659368
+        }
+      ]
+    }
+  ]
+}

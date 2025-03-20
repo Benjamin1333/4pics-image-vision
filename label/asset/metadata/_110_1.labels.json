@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.9892619,
+          "topicality": 0.13931488
+        },
+        {
+          "description": "Fluid",
+          "mid": "/m/02yfx",
+          "score": 0.95580953,
+          "topicality": 0.0019691018
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.9373701,
+          "topicality": 0.54189515
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.9204938,
+          "topicality": 0.0009213436
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.9184944,
+          "topicality": 0.5165023
+        },
+        {
+          "description": "Underwater",
+          "mid": "/m/01sfb5",
+          "score": 0.9171465,
+          "topicality": 0.6630455
+        },
+        {
+          "description": "Marine biology",
+          "mid": "/m/050vn",
+          "score": 0.9132315,
+          "topicality": 0.033121407
+        },
+        {
+          "description": "Coral reef",
+          "mid": "/m/0l_br",
+          "score": 0.70666283,
+          "topicality": 0.4269278
+        },
+        {
+          "description": "Fish",
+          "mid": "/m/0ch_cf",
+          "score": 0.5835828,
+          "topicality": 0.08284384
+        },
+        {
+          "description": "Stony corals",
+          "mid": "/m/03njrd",
+          "score": 0.5213217,
+          "topicality": 0.0048512807
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Tent",
+          "mid": "/m/01j61q",
+          "score": 0.9854064,
+          "topicality": 0.7951768
+        },
+        {
+          "description": "Camping",
+          "mid": "/m/01h6d4",
+          "score": 0.9723603,
+          "topicality": 0.8411853
+        },
+        {
+          "description": "Tarpaulin",
+          "mid": "/m/02w3fc",
+          "score": 0.89335424,
+          "topicality": 0.010206828
+        },
+        {
+          "description": "Winter",
+          "mid": "/m/086mh",
+          "score": 0.840948,
+          "topicality": 0.051877256
+        },
+        {
+          "description": "Ice cap",
+          "mid": "/m/04b966",
+          "score": 0.8386231,
+          "topicality": 0.005398995
+        },
+        {
+          "description": "Hiking equipment",
+          "mid": "/m/0268lbt",
+          "score": 0.8368441,
+          "topicality": 0.008171598
+        },
+        {
+          "description": "geological phenomenon",
+          "mid": "/m/07sn5gn",
+          "score": 0.82362175,
+          "topicality": 0.00011193379
+        },
+        {
+          "description": "Snow",
+          "mid": "/m/06_dn",
+          "score": 0.7785955,
+          "topicality": 0.04015151
+        },
+        {
+          "description": "Glacier",
+          "mid": "/m/038jz",
+          "score": 0.74565846,
+          "topicality": 0.013060386
+        },
+        {
+          "description": "Arctic",
+          "mid": "/m/09738",
+          "score": 0.7360601,
+          "topicality": 0.25525996
+        }
+      ]
+    }
+  ]
+}

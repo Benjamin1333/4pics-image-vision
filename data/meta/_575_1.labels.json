@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9706289,
+          "topicality": 0.051581353
+        },
+        {
+          "description": "Cartoon",
+          "mid": "/m/0215n",
+          "score": 0.8840329,
+          "topicality": 0.58400303
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.8512123,
+          "topicality": 0.31600556
+        },
+        {
+          "description": "Terrestrial animal",
+          "mid": "/m/0fbf1m",
+          "score": 0.8272973,
+          "topicality": 0.0045195757
+        },
+        {
+          "description": "Animated cartoon",
+          "mid": "/m/095bb",
+          "score": 0.79361147,
+          "topicality": 0.033592537
+        },
+        {
+          "description": "Leporids",
+          "mid": "/m/019dxh",
+          "score": 0.7859155,
+          "topicality": 0.23849784
+        },
+        {
+          "description": "Animation",
+          "mid": "/m/0hcr",
+          "score": 0.7098574,
+          "topicality": 0.020039001
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6972594,
+          "topicality": 0.02549369
+        },
+        {
+          "description": "Rabbit",
+          "mid": "/m/06mf6",
+          "score": 0.6839998,
+          "topicality": 0.41656443
+        },
+        {
+          "description": "European hare",
+          "mid": "/m/01vnr1",
+          "score": 0.53748995,
+          "topicality": 0.0104220435
+        }
+      ]
+    }
+  ]
+}

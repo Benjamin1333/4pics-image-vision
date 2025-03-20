@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.974563,
+          "topicality": 0.109731354
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9615811,
+          "topicality": 0.03456998
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9449457,
+          "topicality": 0.0032152305
+        },
+        {
+          "description": "Drinking",
+          "mid": "/m/0hjbz",
+          "score": 0.9305444,
+          "topicality": 0.7826597
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.9240114,
+          "topicality": 0.0809347
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.9201649,
+          "topicality": 0.010430972
+        },
+        {
+          "description": "Drinking water",
+          "mid": "/m/01c6xf",
+          "score": 0.8228538,
+          "topicality": 0.5522998
+        },
+        {
+          "description": "Brown hair",
+          "mid": "/m/02ksmb",
+          "score": 0.78663665,
+          "topicality": 0.0013699976
+        },
+        {
+          "description": "Blond",
+          "mid": "/m/0294jb",
+          "score": 0.76717925,
+          "topicality": 0.020967573
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.67457265,
+          "topicality": 0.0007533746
+        }
+      ]
+    }
+  ]
+}

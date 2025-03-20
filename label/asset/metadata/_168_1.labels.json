@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.98465556,
+          "topicality": 0.14697097
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9739584,
+          "topicality": 0.08000598
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.96591854,
+          "topicality": 0.06401928
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9449484,
+          "topicality": 0.001478385
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.9179315,
+          "topicality": 0.155812
+        },
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.8915654,
+          "topicality": 0.0047430787
+        },
+        {
+          "description": "Blond",
+          "mid": "/m/0294jb",
+          "score": 0.8184989,
+          "topicality": 0.0030886694
+        },
+        {
+          "description": "Gift",
+          "mid": "/m/0d84n",
+          "score": 0.7490629,
+          "topicality": 0.6150192
+        },
+        {
+          "description": "Gift wrapping",
+          "mid": "/m/03gt__t",
+          "score": 0.7485616,
+          "topicality": 0.0600807
+        },
+        {
+          "description": "Toddler",
+          "mid": "/m/01bgsw",
+          "score": 0.72548985,
+          "topicality": 0.07058672
+        }
+      ]
+    }
+  ]
+}

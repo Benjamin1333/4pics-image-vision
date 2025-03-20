@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Mannequin",
+          "mid": "/m/01gl_m",
+          "score": 0.9301148,
+          "topicality": 0.9859988
+        },
+        {
+          "description": "Black",
+          "mid": "/m/019sc",
+          "score": 0.907392,
+          "topicality": 0.012787386
+        },
+        {
+          "description": "Waist",
+          "mid": "/m/031974",
+          "score": 0.8600451,
+          "topicality": 0.01745412
+        },
+        {
+          "description": "Torso",
+          "mid": "/m/031vtq",
+          "score": 0.80472004,
+          "topicality": 0.48669586
+        },
+        {
+          "description": "Fashion design",
+          "mid": "/m/02qqd4n",
+          "score": 0.7443059,
+          "topicality": 0.0011836267
+        },
+        {
+          "description": "Thorax",
+          "mid": "/m/0dzdr",
+          "score": 0.74015903,
+          "topicality": 0.0013388237
+        },
+        {
+          "description": "Hip",
+          "mid": "/m/06_kbr",
+          "score": 0.6291307,
+          "topicality": 0.0030815685
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.6248791,
+          "topicality": 0.006054215
+        },
+        {
+          "description": "Abdomen",
+          "mid": "/m/08y7p8",
+          "score": 0.60337263,
+          "topicality": 0.0012499491
+        },
+        {
+          "description": "One-piece garment",
+          "mid": "/m/0142sg",
+          "score": 0.5596781,
+          "topicality": 0.0029930703
+        }
+      ]
+    }
+  ]
+}

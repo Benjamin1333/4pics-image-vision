@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Laboratory flask",
+          "mid": "/m/05hw3k",
+          "score": 0.94702876,
+          "topicality": 0.5060439
+        },
+        {
+          "description": "Test tube",
+          "mid": "/m/0qlzq",
+          "score": 0.9368644,
+          "topicality": 0.61249757
+        },
+        {
+          "description": "Laboratory equipment",
+          "mid": "/m/03_5sv",
+          "score": 0.92929107,
+          "topicality": 0.036017593
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.9204974,
+          "topicality": 0.18890665
+        },
+        {
+          "description": "Chemistry",
+          "mid": "/m/01lj9",
+          "score": 0.9175636,
+          "topicality": 0.68491167
+        },
+        {
+          "description": "Laboratory",
+          "mid": "/m/017clw",
+          "score": 0.8792676,
+          "topicality": 0.64159673
+        },
+        {
+          "description": "Flask",
+          "mid": "/m/0h8j_21",
+          "score": 0.87527263,
+          "topicality": 0.0024145294
+        },
+        {
+          "description": "Beaker",
+          "mid": "/m/0d20w4",
+          "score": 0.8469119,
+          "topicality": 0.24505852
+        },
+        {
+          "description": "Glass",
+          "mid": "/m/039jq",
+          "score": 0.7336217,
+          "topicality": 0.21882753
+        },
+        {
+          "description": "Graduated cylinder",
+          "mid": "/m/0qm5d",
+          "score": 0.6575228,
+          "topicality": 0.0687935
+        }
+      ]
+    }
+  ]
+}

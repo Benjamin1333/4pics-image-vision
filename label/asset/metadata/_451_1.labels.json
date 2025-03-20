@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Headgear",
+          "mid": "/m/01443y",
+          "score": 0.95658755,
+          "topicality": 0.0057994025
+        },
+        {
+          "description": "Knit cap",
+          "mid": "/m/021_yc",
+          "score": 0.95129293,
+          "topicality": 0.07277212
+        },
+        {
+          "description": "Beanie",
+          "mid": "/m/02gw_5",
+          "score": 0.8936249,
+          "topicality": 0.037820257
+        },
+        {
+          "description": "Wool",
+          "mid": "/m/09kxp",
+          "score": 0.88903433,
+          "topicality": 0.0081489
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.8569179,
+          "topicality": 0.061063323
+        },
+        {
+          "description": "Woolen",
+          "mid": "/m/01yh65",
+          "score": 0.8393536,
+          "topicality": 0.0041001574
+        },
+        {
+          "description": "Winter",
+          "mid": "/m/086mh",
+          "score": 0.8207962,
+          "topicality": 0.13294764
+        },
+        {
+          "description": "Yarn",
+          "mid": "/m/02kvytt",
+          "score": 0.6333993,
+          "topicality": 0.0024260196
+        },
+        {
+          "description": "Scarf",
+          "mid": "/m/02h19r",
+          "score": 0.62901115,
+          "topicality": 0.031416338
+        },
+        {
+          "description": "Toddler",
+          "mid": "/m/01bgsw",
+          "score": 0.6106367,
+          "topicality": 0.026483068
+        }
+      ]
+    }
+  ]
+}

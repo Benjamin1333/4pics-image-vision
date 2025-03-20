@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Kimono",
+          "mid": "/m/049kc",
+          "score": 0.94035417,
+          "topicality": 0.5603265
+        },
+        {
+          "description": "Spring",
+          "mid": "/m/01txr2",
+          "score": 0.8667931,
+          "topicality": 0.07267988
+        },
+        {
+          "description": "Tradition",
+          "mid": "/m/07djv",
+          "score": 0.8434419,
+          "topicality": 0.06521424
+        },
+        {
+          "description": "Costume",
+          "mid": "/m/0250x",
+          "score": 0.82610726,
+          "topicality": 0.0050932406
+        },
+        {
+          "description": "Sakkō",
+          "mid": "/m/02vqqym",
+          "score": 0.7355753,
+          "topicality": 0.0039902404
+        },
+        {
+          "description": "Blossom",
+          "mid": "/m/0j7ty",
+          "score": 0.7205693,
+          "topicality": 0.044981036
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.71173596,
+          "topicality": 0.011885964
+        },
+        {
+          "description": "Umbrella",
+          "mid": "/m/0hnnb",
+          "score": 0.6570906,
+          "topicality": 0.012756255
+        },
+        {
+          "description": "Cherry blossom",
+          "mid": "/m/01wh_8",
+          "score": 0.6560229,
+          "topicality": 0.4075674
+        },
+        {
+          "description": "Shimada",
+          "mid": "/m/09_x1g",
+          "score": 0.6010513,
+          "topicality": 0.0058704424
+        }
+      ]
+    }
+  ]
+}

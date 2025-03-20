@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.97767806,
+          "topicality": 0.05128332
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.95340925,
+          "topicality": 0.0033695383
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.90853393,
+          "topicality": 0.02385573
+        },
+        {
+          "description": "Cameras & optics",
+          "mid": "/m/0ggjh_8",
+          "score": 0.88895446,
+          "topicality": 0.00020834581
+        },
+        {
+          "description": "Camera",
+          "mid": "/m/0dv5r",
+          "score": 0.881088,
+          "topicality": 0.031430162
+        },
+        {
+          "description": "Mobile phone",
+          "mid": "/m/050k8",
+          "score": 0.83005786,
+          "topicality": 0.00519266
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.7816451,
+          "topicality": 0.0035313356
+        },
+        {
+          "description": "Love",
+          "mid": "/m/048knlz",
+          "score": 0.7271865,
+          "topicality": 0.110049605
+        },
+        {
+          "description": "Digital camera",
+          "mid": "/m/0dw7n",
+          "score": 0.6988999,
+          "topicality": 0.007768301
+        },
+        {
+          "description": "Winter",
+          "mid": "/m/086mh",
+          "score": 0.67426604,
+          "topicality": 0.013488425
+        }
+      ]
+    }
+  ]
+}

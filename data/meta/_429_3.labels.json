@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Beer",
+          "mid": "/m/01599",
+          "score": 0.96522534,
+          "topicality": 0.80516833
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.9547784,
+          "topicality": 0.013575693
+        },
+        {
+          "description": "Alcoholic drink",
+          "mid": "/m/012mj",
+          "score": 0.953596,
+          "topicality": 0.16672185
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9446536,
+          "topicality": 9.103319e-05
+        },
+        {
+          "description": "Beer glassware",
+          "mid": "/m/0bs7sg",
+          "score": 0.91433954,
+          "topicality": 0.21418081
+        },
+        {
+          "description": "Drinkware",
+          "mid": "/m/050h26",
+          "score": 0.913518,
+          "topicality": 0.0004373778
+        },
+        {
+          "description": "Tableware",
+          "mid": "/m/04brg2",
+          "score": 0.912103,
+          "topicality": 0.00019685924
+        },
+        {
+          "description": "Drinking",
+          "mid": "/m/0hjbz",
+          "score": 0.90456337,
+          "topicality": 0.1646635
+        },
+        {
+          "description": "Wheat beer",
+          "mid": "/m/017blf",
+          "score": 0.8654029,
+          "topicality": 0.0645859
+        },
+        {
+          "description": "Alcohol",
+          "mid": "/m/0lqk",
+          "score": 0.85329175,
+          "topicality": 0.04141299
+        }
+      ]
+    }
+  ]
+}

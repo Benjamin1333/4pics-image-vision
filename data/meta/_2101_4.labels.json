@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Heart",
+          "mid": "/m/07bg4p",
+          "score": 0.9906434,
+          "topicality": 0.46489698
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.98422086,
+          "topicality": 0.33246624
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.9795814,
+          "topicality": 0.3641262
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9449476,
+          "topicality": 0.01574183
+        },
+        {
+          "description": "Love",
+          "mid": "/m/048knlz",
+          "score": 0.91099834,
+          "topicality": 0.34216124
+        },
+        {
+          "description": "Valentine's Day",
+          "mid": "/m/018y5m",
+          "score": 0.84755033,
+          "topicality": 0.11037351
+        },
+        {
+          "description": "Heart",
+          "mid": "/m/095_n",
+          "score": 0.8038475,
+          "topicality": 0.3168034
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.7723214,
+          "topicality": 0.058600005
+        },
+        {
+          "description": "Pleased",
+          "mid": "/j/4kr7kk",
+          "score": 0.6917776,
+          "topicality": 0.0014413437
+        },
+        {
+          "description": "Laughter",
+          "mid": "/m/01j3sz",
+          "score": 0.6487651,
+          "topicality": 0.095265724
+        }
+      ]
+    }
+  ]
+}

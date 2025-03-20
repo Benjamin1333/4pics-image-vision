@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.9894797,
+          "topicality": 0.014395285
+        },
+        {
+          "description": "Sky",
+          "mid": "/m/01bqvp",
+          "score": 0.989034,
+          "topicality": 0.10878249
+        },
+        {
+          "description": "Snow",
+          "mid": "/m/06_dn",
+          "score": 0.98758227,
+          "topicality": 0.6477634
+        },
+        {
+          "description": "Branch",
+          "mid": "/m/0b5gs",
+          "score": 0.9838235,
+          "topicality": 0.0041078334
+        },
+        {
+          "description": "Winter",
+          "mid": "/m/086mh",
+          "score": 0.98174196,
+          "topicality": 0.7070156
+        },
+        {
+          "description": "Daytime",
+          "mid": "/m/02q7ylj",
+          "score": 0.9816276,
+          "topicality": 0.021527594
+        },
+        {
+          "description": "Nature",
+          "mid": "/m/05h0n",
+          "score": 0.9738391,
+          "topicality": 0.072193705
+        },
+        {
+          "description": "Cloud",
+          "mid": "/m/0csby",
+          "score": 0.9293857,
+          "topicality": 0.032348532
+        },
+        {
+          "description": "Twig",
+          "mid": "/m/016nqt",
+          "score": 0.91633785,
+          "topicality": 0.0010228325
+        },
+        {
+          "description": "Freezing",
+          "mid": "/m/01c791",
+          "score": 0.9011622,
+          "topicality": 0.083960235
+        }
+      ]
+    }
+  ]
+}

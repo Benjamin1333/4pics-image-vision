@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Car",
+          "mid": "/m/0k4j",
+          "score": 0.988633,
+          "topicality": 0.14328212
+        },
+        {
+          "description": "Land vehicle",
+          "mid": "/m/01prls",
+          "score": 0.98788327,
+          "topicality": 0.0037813329
+        },
+        {
+          "description": "Vehicle",
+          "mid": "/m/07yv9",
+          "score": 0.98457724,
+          "topicality": 0.15888482
+        },
+        {
+          "description": "Wheel",
+          "mid": "/m/083wq",
+          "score": 0.97979933,
+          "topicality": 0.00886822
+        },
+        {
+          "description": "Tire",
+          "mid": "/m/0h9mv",
+          "score": 0.9769387,
+          "topicality": 0.009231652
+        },
+        {
+          "description": "Motor vehicle",
+          "mid": "/m/012f08",
+          "score": 0.97656417,
+          "topicality": 0.07239994
+        },
+        {
+          "description": "Automotive Tire",
+          "mid": "/m/0h8pb3l",
+          "score": 0.9665962,
+          "topicality": 0.0002161519
+        },
+        {
+          "description": "Automotive Exterior",
+          "mid": "/m/0h8ls87",
+          "score": 0.94119966,
+          "topicality": 0.0020345917
+        },
+        {
+          "description": "Automotive Wheel System",
+          "mid": "/m/0h8ly30",
+          "score": 0.9319566,
+          "topicality": 0.00012174869
+        },
+        {
+          "description": "Car door",
+          "mid": "/m/02q2kc3",
+          "score": 0.912343,
+          "topicality": 0.009112162
+        }
+      ]
+    }
+  ]
+}

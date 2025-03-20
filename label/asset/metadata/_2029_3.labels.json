@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Chess",
+          "mid": "/m/01lb5",
+          "score": 0.9861654,
+          "topicality": 0.9714145
+        },
+        {
+          "description": "Tabletop game",
+          "mid": "/m/03jj52",
+          "score": 0.96702695,
+          "topicality": 0.0039326944
+        },
+        {
+          "description": "Chessboard",
+          "mid": "/m/0crsp",
+          "score": 0.9496823,
+          "topicality": 0.8968922
+        },
+        {
+          "description": "Board game",
+          "mid": "/m/015ll",
+          "score": 0.9373461,
+          "topicality": 0.059100907
+        },
+        {
+          "description": "Indoor games and sports",
+          "mid": "/m/0b42l9",
+          "score": 0.9311878,
+          "topicality": 0.0018808577
+        },
+        {
+          "description": "Game",
+          "mid": "/m/03bt1gh",
+          "score": 0.9018062,
+          "topicality": 0.08413072
+        }
+      ]
+    }
+  ]
+}

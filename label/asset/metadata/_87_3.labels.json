@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Ladybird beetle",
+          "mid": "/m/0gj37",
+          "score": 0.98886853,
+          "topicality": 0.9454394
+        },
+        {
+          "description": "Insect",
+          "mid": "/m/03vt0",
+          "score": 0.98773086,
+          "topicality": 0.52062416
+        },
+        {
+          "description": "Green",
+          "mid": "/m/038hg",
+          "score": 0.9781843,
+          "topicality": 0.050635215
+        },
+        {
+          "description": "Arthropod",
+          "mid": "/m/0zkm",
+          "score": 0.97392774,
+          "topicality": 0.020861665
+        },
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.9650336,
+          "topicality": 0.026209569
+        },
+        {
+          "description": "Beetle",
+          "mid": "/m/020jm",
+          "score": 0.9231392,
+          "topicality": 0.46244186
+        },
+        {
+          "description": "Close-up",
+          "mid": "/m/02cqfm",
+          "score": 0.89730126,
+          "topicality": 0.054864414
+        },
+        {
+          "description": "Pest",
+          "mid": "/m/01dqkc",
+          "score": 0.89692456,
+          "topicality": 0.069549054
+        },
+        {
+          "description": "Macro photography",
+          "mid": "/m/03rbf6",
+          "score": 0.8841499,
+          "topicality": 0.08697635
+        },
+        {
+          "description": "Terrestrial animal",
+          "mid": "/m/0fbf1m",
+          "score": 0.85153943,
+          "topicality": 0.0002677589
+        }
+      ]
+    }
+  ]
+}

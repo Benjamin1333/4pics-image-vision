@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9628627,
+          "topicality": 0.19871849
+        },
+        {
+          "description": "Cloud",
+          "mid": "/m/0csby",
+          "score": 0.93454885,
+          "topicality": 0.014229334
+        },
+        {
+          "description": "Terrain",
+          "mid": "/m/025tn5c",
+          "score": 0.90796936,
+          "topicality": 0.00054556166
+        },
+        {
+          "description": "People in nature",
+          "mid": "/j/3gbwgn",
+          "score": 0.86727995,
+          "topicality": 0.010651538
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.7893056,
+          "topicality": 0.005702729
+        },
+        {
+          "description": "Rejoicing",
+          "mid": "/j/6sm44l",
+          "score": 0.70900273,
+          "topicality": 0.07276602
+        },
+        {
+          "description": "Cliff",
+          "mid": "/m/018vpr",
+          "score": 0.69188774,
+          "topicality": 0.012598641
+        },
+        {
+          "description": "Vacation",
+          "mid": "/m/02jwqh",
+          "score": 0.68164414,
+          "topicality": 0.013084385
+        },
+        {
+          "description": "Meteorological phenomenon",
+          "mid": "/g/11k2xz7mr",
+          "score": 0.66669756,
+          "topicality": 1.6452566e-05
+        },
+        {
+          "description": "Outcrop",
+          "mid": "/m/07cwvn",
+          "score": 0.65760344,
+          "topicality": 0.0005435545
+        }
+      ]
+    }
+  ]
+}

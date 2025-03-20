@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Natural environment",
+          "mid": "/m/02py09",
+          "score": 0.9743867,
+          "topicality": 0.030805558
+        },
+        {
+          "description": "Coral",
+          "mid": "/m/0ctsx",
+          "score": 0.9713648,
+          "topicality": 0.12073688
+        },
+        {
+          "description": "Fish",
+          "mid": "/m/0ch_cf",
+          "score": 0.9711515,
+          "topicality": 0.20358367
+        },
+        {
+          "description": "Coral reef",
+          "mid": "/m/0l_br",
+          "score": 0.9691897,
+          "topicality": 0.690268
+        },
+        {
+          "description": "Underwater",
+          "mid": "/m/01sfb5",
+          "score": 0.96794206,
+          "topicality": 0.41134053
+        },
+        {
+          "description": "Fluid",
+          "mid": "/m/02yfx",
+          "score": 0.95430297,
+          "topicality": 6.403057e-05
+        },
+        {
+          "description": "Marine biology",
+          "mid": "/m/050vn",
+          "score": 0.9526182,
+          "topicality": 0.068706304
+        },
+        {
+          "description": "Reef",
+          "mid": "/m/01jypq",
+          "score": 0.94597745,
+          "topicality": 0.6620778
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.9276177,
+          "topicality": 0.3988653
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.9221783,
+          "topicality": 0.20958474
+        }
+      ]
+    }
+  ]
+}

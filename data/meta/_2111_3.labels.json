@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Antique",
+          "mid": "/m/01ys2s",
+          "score": 0.8322788,
+          "topicality": 0.30187967
+        },
+        {
+          "description": "Brass",
+          "mid": "/m/01504",
+          "score": 0.746431,
+          "topicality": 0.20974559
+        },
+        {
+          "description": "Bronze",
+          "mid": "/m/01brf",
+          "score": 0.6997305,
+          "topicality": 0.06311184
+        },
+        {
+          "description": "Collectable",
+          "mid": "/m/0ggr_",
+          "score": 0.64071167,
+          "topicality": 0.0056815622
+        },
+        {
+          "description": "Balance",
+          "mid": "/m/03gs8b2",
+          "score": 0.63304216,
+          "topicality": 3.315325e-05
+        }
+      ]
+    }
+  ]
+}

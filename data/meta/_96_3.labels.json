@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.89295655,
+          "topicality": 0.011730716
+        },
+        {
+          "description": "Fines herbes",
+          "mid": "/m/01bp4g",
+          "score": 0.78379506,
+          "topicality": 0.25769126
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.7800027,
+          "topicality": 0.00076548033
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.6599566,
+          "topicality": 0.00041211795
+        },
+        {
+          "description": "Herb",
+          "mid": "/m/03gq1",
+          "score": 0.65179867,
+          "topicality": 0.7496731
+        },
+        {
+          "description": "Spice",
+          "mid": "/m/06p35",
+          "score": 0.63599837,
+          "topicality": 0.15628022
+        },
+        {
+          "description": "Leaf vegetable",
+          "mid": "/m/05f725",
+          "score": 0.6105033,
+          "topicality": 0.032714672
+        },
+        {
+          "description": "Vegetable",
+          "mid": "/m/0f4s2w",
+          "score": 0.6067759,
+          "topicality": 0.04722405
+        },
+        {
+          "description": "Herbal",
+          "mid": "/m/02kdzb",
+          "score": 0.56719005,
+          "topicality": 0.0028361112
+        }
+      ]
+    }
+  ]
+}

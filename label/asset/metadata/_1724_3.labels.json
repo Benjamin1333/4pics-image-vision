@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.97623354,
+          "topicality": 0.032088116
+        },
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.9559468,
+          "topicality": 0.02329777
+        },
+        {
+          "description": "Textile",
+          "mid": "/m/0dnr7",
+          "score": 0.94685453,
+          "topicality": 0.02265825
+        },
+        {
+          "description": "Laundry",
+          "mid": "/m/012x6l",
+          "score": 0.6131327,
+          "topicality": 0.21386874
+        }
+      ]
+    }
+  ]
+}

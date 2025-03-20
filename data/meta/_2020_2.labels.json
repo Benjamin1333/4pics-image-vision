@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Windmill",
+          "mid": "/m/0bxdx",
+          "score": 0.9620674,
+          "topicality": 0.23434526
+        },
+        {
+          "description": "Wind turbine",
+          "mid": "/m/01d2_z",
+          "score": 0.9540414,
+          "topicality": 0.6842922
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.8468298,
+          "topicality": 0.0070204567
+        },
+        {
+          "description": "Wind farm",
+          "mid": "/m/03j5zb",
+          "score": 0.84393865,
+          "topicality": 0.30007884
+        },
+        {
+          "description": "Wind",
+          "mid": "/m/03m9d0z",
+          "score": 0.8051184,
+          "topicality": 0.4988454
+        },
+        {
+          "description": "Turbine",
+          "mid": "/m/07l5g",
+          "score": 0.73882675,
+          "topicality": 0.53792757
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Household hardware",
+          "mid": "/m/03jvk",
+          "score": 0.61238766,
+          "topicality": 0.08023003
+        },
+        {
+          "description": "Hinge",
+          "mid": "/m/01lsn3",
+          "score": 0.5321415,
+          "topicality": 0.71752715
+        }
+      ]
+    }
+  ]
+}

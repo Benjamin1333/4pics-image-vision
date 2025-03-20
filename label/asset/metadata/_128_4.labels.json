@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Stairs",
+          "mid": "/m/01lynh",
+          "score": 0.9784143,
+          "topicality": 0.3428178
+        },
+        {
+          "description": "Trousers",
+          "mid": "/m/07mhn",
+          "score": 0.9640313,
+          "topicality": 0.011406743
+        },
+        {
+          "description": "Leg",
+          "mid": "/m/035r7c",
+          "score": 0.9568886,
+          "topicality": 0.016437095
+        },
+        {
+          "description": "Standing",
+          "mid": "/m/02wzbmj",
+          "score": 0.9388447
+        },
+        {
+          "description": "Pedestrian",
+          "mid": "/m/017r8p",
+          "score": 0.8476386,
+          "topicality": 0.031166531
+        },
+        {
+          "description": "Bag",
+          "mid": "/m/0n5v01m",
+          "score": 0.80688965,
+          "topicality": 0.008986945
+        },
+        {
+          "description": "Blazer",
+          "mid": "/m/04xz_5",
+          "score": 0.7784628,
+          "topicality": 0.0002384487
+        },
+        {
+          "description": "Suit trousers",
+          "mid": "/m/03cvmmd",
+          "score": 0.753242,
+          "topicality": 0.00023927906
+        },
+        {
+          "description": "Walking",
+          "mid": "/m/083mg",
+          "score": 0.7402289,
+          "topicality": 0.25415307
+        },
+        {
+          "description": "Handrail",
+          "mid": "/m/07p_zw",
+          "score": 0.63665926,
+          "topicality": 0.026290487
+        }
+      ]
+    }
+  ]
+}

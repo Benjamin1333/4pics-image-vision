@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Eyewear",
+          "mid": "/m/0j272k5",
+          "score": 0.99182653,
+          "topicality": 0.004157399
+        },
+        {
+          "description": "Vision Care",
+          "mid": "/m/0h8jxfl",
+          "score": 0.97829056,
+          "topicality": 0.0074494136
+        },
+        {
+          "description": "Close-up",
+          "mid": "/m/02cqfm",
+          "score": 0.8581575,
+          "topicality": 0.022620218
+        },
+        {
+          "description": "Optometry",
+          "mid": "/m/018rtl",
+          "score": 0.6234336,
+          "topicality": 0.057847567
+        },
+        {
+          "description": "Macro photography",
+          "mid": "/m/03rbf6",
+          "score": 0.60871905,
+          "topicality": 0.011379502
+        },
+        {
+          "description": "Lens",
+          "mid": "/m/04n4x",
+          "score": 0.51589423,
+          "topicality": 0.01047184
+        }
+      ]
+    }
+  ]
+}

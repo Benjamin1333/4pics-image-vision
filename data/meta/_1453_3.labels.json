@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.98208964,
+          "topicality": 0.15818705
+        },
+        {
+          "description": "Sausage",
+          "mid": "/m/0kdzn",
+          "score": 0.95337176,
+          "topicality": 0.53865945
+        },
+        {
+          "description": "Bratwurst",
+          "mid": "/m/01gxnj",
+          "score": 0.943502,
+          "topicality": 0.41573843
+        },
+        {
+          "description": "Cooking",
+          "mid": "/m/01mtb",
+          "score": 0.9364927,
+          "topicality": 0.13514332
+        },
+        {
+          "description": "Cervelat",
+          "mid": "/m/04pfxj",
+          "score": 0.91943574,
+          "topicality": 0.010194439
+        },
+        {
+          "description": "Meat",
+          "mid": "/m/04scj",
+          "score": 0.91438985,
+          "topicality": 0.13141434
+        },
+        {
+          "description": "Grilling",
+          "mid": "/m/0dxlf",
+          "score": 0.90737456,
+          "topicality": 0.6509492
+        },
+        {
+          "description": "Italian sausage",
+          "mid": "/m/09z27p",
+          "score": 0.89969194,
+          "topicality": 0.013910225
+        },
+        {
+          "description": "Diot",
+          "mid": "/m/03gy109",
+          "score": 0.89692825,
+          "topicality": 0.0036125737
+        },
+        {
+          "description": "Longaniza",
+          "mid": "/m/03bxpdm",
+          "score": 0.87315744,
+          "topicality": 0.0019767492
+        }
+      ]
+    }
+  ]
+}

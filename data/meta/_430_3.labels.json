@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Boat",
+          "mid": "/m/019jd",
+          "score": 0.9898026,
+          "topicality": 0.15745896
+        },
+        {
+          "description": "Mode of transport",
+          "mid": "/m/079bkr",
+          "score": 0.98317665,
+          "topicality": 0.0038128872
+        },
+        {
+          "description": "Gondola",
+          "mid": "/m/02068x",
+          "score": 0.9826441,
+          "topicality": 0.9820902
+        },
+        {
+          "description": "Watercraft",
+          "mid": "/m/01rzcn",
+          "score": 0.9718895,
+          "topicality": 0.036207575
+        },
+        {
+          "description": "Boats and boating--Equipment and supplies",
+          "mid": "/m/0bp3j53",
+          "score": 0.9674043,
+          "topicality": 0.00072757166
+        },
+        {
+          "description": "Waterway",
+          "mid": "/m/017m8l",
+          "score": 0.94872737,
+          "topicality": 0.013173665
+        },
+        {
+          "description": "Oar",
+          "mid": "/m/01kw8y",
+          "score": 0.9233095,
+          "topicality": 0.004636557
+        },
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.91301507,
+          "topicality": 0.00071854645
+        },
+        {
+          "description": "Canoe",
+          "mid": "/m/0ph39",
+          "score": 0.85127467,
+          "topicality": 0.0012580729
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.83091754,
+          "topicality": 0.00024991352
+        }
+      ]
+    }
+  ]
+}

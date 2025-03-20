@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Cheque",
+          "mid": "/m/04nmy9",
+          "score": 0.7506983,
+          "topicality": 0.35368112
+        },
+        {
+          "description": "Label",
+          "mid": "/m/05c0n6k",
+          "score": 0.5021894,
+          "topicality": 0.012050984
+        }
+      ]
+    }
+  ]
+}

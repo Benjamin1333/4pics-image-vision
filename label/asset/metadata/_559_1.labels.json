@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Kitchen utensil",
+          "mid": "/m/03hlz0c",
+          "score": 0.81246,
+          "topicality": 0.016820196
+        },
+        {
+          "description": "Tool",
+          "mid": "/m/07k1x",
+          "score": 0.7016893,
+          "topicality": 0.07227994
+        },
+        {
+          "description": "Knife",
+          "mid": "/m/04ctx",
+          "score": 0.6791,
+          "topicality": 0.87413436
+        },
+        {
+          "description": "Handle",
+          "mid": "/m/04x0wb",
+          "score": 0.5444641,
+          "topicality": 0.031223848
+        }
+      ]
+    }
+  ]
+}

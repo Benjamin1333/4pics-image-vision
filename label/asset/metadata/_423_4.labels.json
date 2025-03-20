@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.9654331,
+          "topicality": 0.06036394
+        },
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.9488939,
+          "topicality": 0.12106745
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.922433,
+          "topicality": 0.00081295514
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.79632473,
+          "topicality": 0.00011679144
+        },
+        {
+          "description": "Apple",
+          "mid": "/m/014j1m",
+          "score": 0.6183887,
+          "topicality": 0.31567642
+        },
+        {
+          "description": "Granny Smith",
+          "mid": "/m/01_12b",
+          "score": 0.55437756,
+          "topicality": 0.016329272
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.5507822,
+          "topicality": 0.023259398
+        },
+        {
+          "description": "Apples",
+          "mid": "/m/01qd72",
+          "score": 0.5302917,
+          "topicality": 0.02768264
+        }
+      ]
+    }
+  ]
+}

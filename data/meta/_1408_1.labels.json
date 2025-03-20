@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.592823,
+          "topicality": 0.0072641647
+        },
+        {
+          "description": "Video Game Software",
+          "mid": "/m/0987_ns",
+          "score": 0.5556326,
+          "topicality": 4.3649947e-05
+        },
+        {
+          "description": "Animation",
+          "mid": "/m/0hcr",
+          "score": 0.5375343,
+          "topicality": 0.0005090154
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.5365515,
+          "topicality": 3.4067034e-05
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.5089839,
+          "topicality": 2.4335539e-05
+        }
+      ]
+    }
+  ]
+}

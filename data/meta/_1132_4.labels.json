@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bicycle",
+          "mid": "/m/0199g",
+          "score": 0.99215335,
+          "topicality": 0.48601487
+        },
+        {
+          "description": "Bicycle handlebar",
+          "mid": "/m/02rqv26",
+          "score": 0.9905998,
+          "topicality": 0.029212683
+        },
+        {
+          "description": "Bicycle frame",
+          "mid": "/m/01bqgn",
+          "score": 0.9900879,
+          "topicality": 0.0034351186
+        },
+        {
+          "description": "Bicycle helmet",
+          "mid": "/m/03p3bw",
+          "score": 0.98620194,
+          "topicality": 0.015360789
+        },
+        {
+          "description": "Cycling",
+          "mid": "/m/03hs7k",
+          "score": 0.98180026,
+          "topicality": 0.17053722
+        },
+        {
+          "description": "Cycling shorts",
+          "mid": "/m/07vxnt",
+          "score": 0.98115623,
+          "topicality": 0.017502751
+        },
+        {
+          "description": "Bicycle wheel",
+          "mid": "/m/01bqk0",
+          "score": 0.9811516,
+          "topicality": 0.010503243
+        },
+        {
+          "description": "Bicycle tire",
+          "mid": "/m/0c3vfpc",
+          "score": 0.9811084,
+          "topicality": 0.00026064974
+        },
+        {
+          "description": "Bicycles--Equipment and supplies",
+          "mid": "/m/0bpnmk0",
+          "score": 0.97926676,
+          "topicality": 0.01233036
+        },
+        {
+          "description": "Shorts",
+          "mid": "/m/01bfm9",
+          "score": 0.97247213,
+          "topicality": 0.01057784
+        }
+      ]
+    }
+  ]
+}

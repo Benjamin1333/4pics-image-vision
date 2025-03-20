@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Igloo",
+          "mid": "/m/016bql",
+          "score": 0.91990554,
+          "topicality": 0.9679568
+        },
+        {
+          "description": "Dome",
+          "mid": "/m/0c85fd",
+          "score": 0.8207834,
+          "topicality": 0.00027944183
+        },
+        {
+          "description": "Dome",
+          "mid": "/m/016br2",
+          "score": 0.8039772,
+          "topicality": 0.07986733
+        },
+        {
+          "description": "Ice cap",
+          "mid": "/m/04b966",
+          "score": 0.7798958,
+          "topicality": 0.0026249513
+        },
+        {
+          "description": "Winter",
+          "mid": "/m/086mh",
+          "score": 0.71229094,
+          "topicality": 0.105530106
+        },
+        {
+          "description": "Animation",
+          "mid": "/m/0hcr",
+          "score": 0.7121255,
+          "topicality": 0.0013201714
+        },
+        {
+          "description": "Freezing",
+          "mid": "/m/01c791",
+          "score": 0.7111059,
+          "topicality": 0.0073884707
+        },
+        {
+          "description": "Snow",
+          "mid": "/m/06_dn",
+          "score": 0.70883924,
+          "topicality": 0.15338078
+        },
+        {
+          "description": "Ice",
+          "mid": "/m/03vtj",
+          "score": 0.6673346,
+          "topicality": 0.24034145
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.618431,
+          "topicality": 0.0064205304
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Leaf",
+          "mid": "/m/09t49",
+          "score": 0.98064375,
+          "topicality": 0.8113029
+        },
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.9767769,
+          "topicality": 0.14678451
+        },
+        {
+          "description": "Green",
+          "mid": "/m/038hg",
+          "score": 0.9757624,
+          "topicality": 0.0450731
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.975533,
+          "topicality": 0.017903661
+        },
+        {
+          "description": "Orange",
+          "mid": "/m/0jc_p",
+          "score": 0.9406674,
+          "topicality": 0.09596553
+        },
+        {
+          "description": "Close-up",
+          "mid": "/m/02cqfm",
+          "score": 0.8229343,
+          "topicality": 0.017190106
+        },
+        {
+          "description": "Rocky mountain maple",
+          "mid": "/m/0fvjds",
+          "score": 0.7748826,
+          "topicality": 0.0103672845
+        },
+        {
+          "description": "Autumn",
+          "mid": "/m/0134l",
+          "score": 0.75726587,
+          "topicality": 0.71887547
+        },
+        {
+          "description": "Sugar maple",
+          "mid": "/m/017mqg",
+          "score": 0.7162863,
+          "topicality": 0.22110096
+        },
+        {
+          "description": "Maple leaf",
+          "mid": "/m/01rynr",
+          "score": 0.7063434,
+          "topicality": 0.68521017
+        }
+      ]
+    }
+  ]
+}

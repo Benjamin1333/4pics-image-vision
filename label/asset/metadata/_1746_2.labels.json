@@ -1,0 +1,43 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Cylinder",
+          "mid": "/m/03h_4m",
+          "score": 0.8588426,
+          "topicality": 0.026517065
+        },
+        {
+          "description": "Waste container",
+          "mid": "/m/0bjyj5",
+          "score": 0.82106084,
+          "topicality": 0.32469612
+        },
+        {
+          "description": "Metal",
+          "mid": "/m/04t7l",
+          "score": 0.79860514,
+          "topicality": 0.112826146
+        },
+        {
+          "description": "Waste Containment",
+          "mid": "/m/0h8n8sw",
+          "score": 0.7005549,
+          "topicality": 0.022491803
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.6764044,
+          "topicality": 0.03711839
+        },
+        {
+          "description": "Waste",
+          "mid": "/m/01fnck",
+          "score": 0.5817655
+        }
+      ]
+    }
+  ]
+}

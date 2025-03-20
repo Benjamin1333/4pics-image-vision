@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.9894984,
+          "topicality": 0.034805458
+        },
+        {
+          "description": "Photograph",
+          "mid": "/m/068jd",
+          "score": 0.9881141,
+          "topicality": 0.005850693
+        },
+        {
+          "description": "Balloon",
+          "mid": "/m/01j51",
+          "score": 0.98416024,
+          "topicality": 0.5879366
+        },
+        {
+          "description": "Daytime",
+          "mid": "/m/02q7ylj",
+          "score": 0.98199886,
+          "topicality": 0.022192756
+        },
+        {
+          "description": "Hot air balloon",
+          "mid": "/m/09j06",
+          "score": 0.9811764,
+          "topicality": 0.8587126
+        },
+        {
+          "description": "Nature",
+          "mid": "/m/05h0n",
+          "score": 0.9740896,
+          "topicality": 0.023986956
+        },
+        {
+          "description": "Hot air ballooning",
+          "mid": "/m/02p81ht",
+          "score": 0.9622171,
+          "topicality": 0.16399857
+        },
+        {
+          "description": "Air sports",
+          "mid": "/m/07wpp2",
+          "score": 0.9599626,
+          "topicality": 0.009622134
+        },
+        {
+          "description": "Beauty",
+          "mid": "/m/01f43",
+          "score": 0.95214146,
+          "topicality": 0.00025296386
+        },
+        {
+          "description": "Air travel",
+          "mid": "/m/025t3bg",
+          "score": 0.9419656,
+          "topicality": 0.011347676
+        }
+      ]
+    }
+  ]
+}

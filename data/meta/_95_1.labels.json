@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Car",
+          "mid": "/m/0k4j",
+          "score": 0.9917669,
+          "topicality": 0.07470936
+        },
+        {
+          "description": "Land vehicle",
+          "mid": "/m/01prls",
+          "score": 0.99028814,
+          "topicality": 0.0001759783
+        },
+        {
+          "description": "Vehicle",
+          "mid": "/m/07yv9",
+          "score": 0.9873939,
+          "topicality": 0.02045113
+        },
+        {
+          "description": "Automotive lighting",
+          "mid": "/m/0768fx",
+          "score": 0.9683322,
+          "topicality": 0.0035811514
+        },
+        {
+          "description": "Supercar",
+          "mid": "/m/014f__",
+          "score": 0.9548354,
+          "topicality": 0.06292507
+        },
+        {
+          "description": "Sports car",
+          "mid": "/m/012mq4",
+          "score": 0.9021678,
+          "topicality": 0.06226445
+        },
+        {
+          "description": "Luxury vehicle",
+          "mid": "/m/01lcwm",
+          "score": 0.85773253,
+          "topicality": 0.031580202
+        },
+        {
+          "description": "Performance car",
+          "mid": "/m/06j11d",
+          "score": 0.8527253,
+          "topicality": 0.008554032
+        },
+        {
+          "description": "Personal luxury car",
+          "mid": "/m/01w71f",
+          "score": 0.8526212,
+          "topicality": 0.00027861714
+        },
+        {
+          "description": "Game",
+          "mid": "/m/03bt1gh",
+          "score": 0.837777,
+          "topicality": 0.030501006
+        }
+      ]
+    }
+  ]
+}

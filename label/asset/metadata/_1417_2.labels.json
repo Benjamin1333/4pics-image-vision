@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Armour",
+          "mid": "/m/0x44",
+          "score": 0.87299013,
+          "topicality": 0.16467577
+        },
+        {
+          "description": "Breastplate",
+          "mid": "/m/05p5f9",
+          "score": 0.78479046,
+          "topicality": 0.0123715885
+        },
+        {
+          "description": "Facial hair",
+          "mid": "/m/0ds5b",
+          "score": 0.7323199,
+          "topicality": 0.011640295
+        },
+        {
+          "description": "Knight",
+          "mid": "/m/049rd",
+          "score": 0.7292875,
+          "topicality": 0.5546363
+        },
+        {
+          "description": "Hero",
+          "mid": "/m/03kll",
+          "score": 0.64305514,
+          "topicality": 0.0059289266
+        }
+      ]
+    }
+  ]
+}

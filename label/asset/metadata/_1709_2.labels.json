@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Eyewear",
+          "mid": "/m/0j272k5",
+          "score": 0.99516916,
+          "topicality": 0.0052227755
+        },
+        {
+          "description": "Glasses",
+          "mid": "/m/0jyfg",
+          "score": 0.984485,
+          "topicality": 0.041953
+        },
+        {
+          "description": "Vision Care",
+          "mid": "/m/0h8jxfl",
+          "score": 0.9837142,
+          "topicality": 0.00042636477
+        },
+        {
+          "description": "Collar",
+          "mid": "/m/091410",
+          "score": 0.98345816,
+          "topicality": 0.019957295
+        },
+        {
+          "description": "Formal wear",
+          "mid": "/m/02w3_2",
+          "score": 0.98333156,
+          "topicality": 0.041878786
+        },
+        {
+          "description": "Sunglasses",
+          "mid": "/m/017ftj",
+          "score": 0.9814009,
+          "topicality": 0.029264318
+        },
+        {
+          "description": "Blazer",
+          "mid": "/m/04xz_5",
+          "score": 0.96205854,
+          "topicality": 0.017528605
+        },
+        {
+          "description": "Tuxedo",
+          "mid": "/m/0280yrc",
+          "score": 0.95288754,
+          "topicality": 0.14388998
+        },
+        {
+          "description": "Suit",
+          "mid": "/m/01xyhv",
+          "score": 0.94673765,
+          "topicality": 0.4329608
+        },
+        {
+          "description": "Dress shirt",
+          "mid": "/m/06hwcd",
+          "score": 0.92702454,
+          "topicality": 0.014213826
+        }
+      ]
+    }
+  ]
+}

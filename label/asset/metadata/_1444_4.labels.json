@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9448049,
+          "topicality": 0.0011665813
+        },
+        {
+          "description": "Winter",
+          "mid": "/m/086mh",
+          "score": 0.77757514,
+          "topicality": 0.068270706
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.67871857,
+          "topicality": 0.015788488
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.568154,
+          "topicality": 0.0071875383
+        },
+        {
+          "description": "Drinking",
+          "mid": "/m/0hjbz",
+          "score": 0.5444752,
+          "topicality": 0.04091262
+        },
+        {
+          "description": "Scarf",
+          "mid": "/m/02h19r",
+          "score": 0.5414408,
+          "topicality": 0.0020502354
+        },
+        {
+          "description": "Hood",
+          "mid": "/m/02h9bf",
+          "score": 0.5091678,
+          "topicality": 0.0025616344
+        }
+      ]
+    }
+  ]
+}

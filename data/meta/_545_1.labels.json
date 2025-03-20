@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.97777283,
+          "topicality": 0.46891412
+        },
+        {
+          "description": "Textile",
+          "mid": "/m/0dnr7",
+          "score": 0.9469887,
+          "topicality": 0.18621269
+        },
+        {
+          "description": "Lace",
+          "mid": "/m/0m95s",
+          "score": 0.9057873,
+          "topicality": 0.7715829
+        },
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.878455,
+          "topicality": 0.03717014
+        },
+        {
+          "description": "Crochet",
+          "mid": "/m/0230w",
+          "score": 0.72490793,
+          "topicality": 0.054835938
+        },
+        {
+          "description": "Embellishment",
+          "mid": "/m/0btc6_",
+          "score": 0.7000078,
+          "topicality": 0.038010452
+        },
+        {
+          "description": "Creative arts",
+          "mid": "/m/0dw9f6",
+          "score": 0.69906497,
+          "topicality": 1.5587375e-05
+        },
+        {
+          "description": "Motif",
+          "mid": "/m/09m6nf",
+          "score": 0.6375744,
+          "topicality": 0.008862289
+        },
+        {
+          "description": "Needlework",
+          "mid": "/m/0d4cc",
+          "score": 0.5777543,
+          "topicality": 0.0023145867
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Wheel",
+          "mid": "/m/083wq",
+          "score": 0.9846193,
+          "topicality": 0.07800048
+        },
+        {
+          "description": "Spoke",
+          "mid": "/m/016xt7",
+          "score": 0.97536725,
+          "topicality": 0.00082642166
+        },
+        {
+          "description": "Cart",
+          "mid": "/m/018p4k",
+          "score": 0.8871585,
+          "topicality": 0.5707117
+        },
+        {
+          "description": "Automotive Wheel System",
+          "mid": "/m/0h8ly30",
+          "score": 0.8696701,
+          "topicality": 3.148699e-05
+        },
+        {
+          "description": "Wagon",
+          "mid": "/m/0242gd",
+          "score": 0.8076268,
+          "topicality": 0.8828473
+        },
+        {
+          "description": "Field",
+          "mid": "/m/0brn2d",
+          "score": 0.7800441,
+          "topicality": 0.009923019
+        },
+        {
+          "description": "Rolling",
+          "mid": "/m/04c0lt",
+          "score": 0.7776535,
+          "topicality": 0.00016286198
+        },
+        {
+          "description": "Carriage",
+          "mid": "/m/01hffk",
+          "score": 0.61550313,
+          "topicality": 0.24637365
+        },
+        {
+          "description": "Farm",
+          "mid": "/m/0g8p9",
+          "score": 0.5163627,
+          "topicality": 0.0038388805
+        }
+      ]
+    }
+  ]
+}

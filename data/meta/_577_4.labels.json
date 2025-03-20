@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Net",
+          "mid": "/m/02qdwbp",
+          "score": 0.9031718,
+          "topicality": 0.23329328
+        },
+        {
+          "description": "Goal",
+          "mid": "/m/023t5p",
+          "score": 0.88703287,
+          "topicality": 0.8007538
+        },
+        {
+          "description": "Mesh",
+          "mid": "/m/0413y3",
+          "score": 0.8766573,
+          "topicality": 0.04891176
+        },
+        {
+          "description": "Grasses",
+          "mid": "/m/0fkrk",
+          "score": 0.8659265,
+          "topicality": 0.0027765296
+        },
+        {
+          "description": "Lawn",
+          "mid": "/m/01v327",
+          "score": 0.7368156,
+          "topicality": 0.008511325
+        },
+        {
+          "description": "Wire Fencing",
+          "mid": "/m/0h8xdq1",
+          "score": 0.623339,
+          "topicality": 0.0012074704
+        },
+        {
+          "description": "Fence",
+          "mid": "/m/0blz9",
+          "score": 0.6126134,
+          "topicality": 0.146197
+        },
+        {
+          "description": "Football",
+          "mid": "/m/02vx4",
+          "score": 0.60497266,
+          "topicality": 0.36070454
+        },
+        {
+          "description": "Artificial turf",
+          "mid": "/m/04bzth",
+          "score": 0.54637283,
+          "topicality": 0.019900315
+        },
+        {
+          "description": "Sports venue",
+          "mid": "/m/0bmgjqz",
+          "score": 0.5015052,
+          "topicality": 0.005517004
+        }
+      ]
+    }
+  ]
+}

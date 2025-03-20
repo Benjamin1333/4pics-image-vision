@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.9877947,
+          "topicality": 0.1701569
+        },
+        {
+          "description": "Gift wrapping",
+          "mid": "/m/03gt__t",
+          "score": 0.93167186,
+          "topicality": 0.43677828
+        },
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.87290174,
+          "topicality": 5.369883e-05
+        },
+        {
+          "description": "Gift",
+          "mid": "/m/0d84n",
+          "score": 0.8693805,
+          "topicality": 0.7760064
+        },
+        {
+          "description": "Box",
+          "mid": "/m/025dyy",
+          "score": 0.8312626,
+          "topicality": 0.11403459
+        },
+        {
+          "description": "Paper",
+          "mid": "/m/0641k",
+          "score": 0.83073986,
+          "topicality": 0.09334794
+        },
+        {
+          "description": "Ribbon",
+          "mid": "/m/01s77c",
+          "score": 0.724295,
+          "topicality": 0.045535307
+        },
+        {
+          "description": "Snowflake",
+          "mid": "/m/01gmdq",
+          "score": 0.70631176,
+          "topicality": 0.43625942
+        },
+        {
+          "description": "Party favor",
+          "mid": "/m/0dprt0",
+          "score": 0.7033358,
+          "topicality": 0.0021918826
+        },
+        {
+          "description": "Party Supply",
+          "mid": "/m/0cmqr_4",
+          "score": 0.6973806,
+          "topicality": 0.00018807065
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Furniture",
+          "mid": "/m/0c_jw",
+          "score": 0.97989625,
+          "topicality": 0.2942029
+        },
+        {
+          "description": "Outdoor furniture",
+          "mid": "/m/0cp2d4k",
+          "score": 0.93088347,
+          "topicality": 0.027561588
+        },
+        {
+          "description": "Summer",
+          "mid": "/m/078qz",
+          "score": 0.9303759,
+          "topicality": 0.023297066
+        },
+        {
+          "description": "Chair",
+          "mid": "/m/01mzpv",
+          "score": 0.88010156,
+          "topicality": 0.3254298
+        },
+        {
+          "description": "Shade",
+          "mid": "/m/0hndl",
+          "score": 0.7939896,
+          "topicality": 0.020239038
+        },
+        {
+          "description": "Folding chair",
+          "mid": "/m/0bvn8w",
+          "score": 0.7881344,
+          "topicality": 0.040629834
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.7612492,
+          "topicality": 0.0027727203
+        },
+        {
+          "description": "Street furniture",
+          "mid": "/m/020h4z",
+          "score": 0.73002094,
+          "topicality": 0.41305548
+        },
+        {
+          "description": "Bench",
+          "mid": "/m/0cvnqh",
+          "score": 0.62061346,
+          "topicality": 0.24144502
+        },
+        {
+          "description": "Armrest",
+          "mid": "/m/0fy6hp",
+          "score": 0.60508275,
+          "topicality": 0.0016786822
+        }
+      ]
+    }
+  ]
+}

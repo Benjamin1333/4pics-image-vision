@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Superhero",
+          "mid": "/m/0btmb",
+          "score": 0.97268015,
+          "topicality": 0.518667
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9424623,
+          "topicality": 0.049509525
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.83876795,
+          "topicality": 0.08438187
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.83739525,
+          "topicality": 0.024689864
+        },
+        {
+          "description": "Fictional character",
+          "mid": "/m/02h7lkt",
+          "score": 0.8020878,
+          "topicality": 0.0017023613
+        },
+        {
+          "description": "Goggles",
+          "mid": "/m/02_n6y",
+          "score": 0.7854531,
+          "topicality": 0.0032678994
+        },
+        {
+          "description": "Superman",
+          "mid": "/m/070vn",
+          "score": 0.77275026,
+          "topicality": 0.36105505
+        },
+        {
+          "description": "Hero",
+          "mid": "/m/03kll",
+          "score": 0.74865687,
+          "topicality": 0.3084382
+        },
+        {
+          "description": "Sunglasses",
+          "mid": "/m/017ftj",
+          "score": 0.6631775,
+          "topicality": 0.003384526
+        },
+        {
+          "description": "Toddler",
+          "mid": "/m/01bgsw",
+          "score": 0.6592112,
+          "topicality": 0.076434836
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Watch",
+          "mid": "/m/0gjkl",
+          "score": 0.9955436,
+          "topicality": 0.6683066
+        },
+        {
+          "description": "Fashion",
+          "mid": "/m/032tl",
+          "score": 0.95838296
+        },
+        {
+          "description": "Analog watch",
+          "mid": "/m/031pr7",
+          "score": 0.9581839,
+          "topicality": 0.04856814
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.8343459,
+          "topicality": 0.01215632
+        },
+        {
+          "description": "Clock",
+          "mid": "/m/01x3z",
+          "score": 0.8132523,
+          "topicality": 0.026131859
+        },
+        {
+          "description": "Natural material",
+          "mid": "/m/07sx2n",
+          "score": 0.7482399,
+          "topicality": 8.607228e-05
+        },
+        {
+          "description": "Strap",
+          "mid": "/m/04lzmz",
+          "score": 0.71729445,
+          "topicality": 0.028550927
+        },
+        {
+          "description": "Titanium",
+          "mid": "/m/025sk56",
+          "score": 0.65724826,
+          "topicality": 0.015619626
+        },
+        {
+          "description": "Everyday carry",
+          "mid": "/m/03ybby4",
+          "score": 0.6152541,
+          "topicality": 0.00014776982
+        },
+        {
+          "description": "Nickel",
+          "mid": "/m/025s4r7",
+          "score": 0.59196234,
+          "topicality": 0.00016067536
+        }
+      ]
+    }
+  ]
+}

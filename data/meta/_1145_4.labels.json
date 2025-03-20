@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Knee",
+          "mid": "/m/019swr",
+          "score": 0.93422496,
+          "topicality": 0.07602914
+        },
+        {
+          "description": "Abdomen",
+          "mid": "/m/08y7p8",
+          "score": 0.8897777,
+          "topicality": 0.055436168
+        },
+        {
+          "description": "Thigh",
+          "mid": "/m/01j04m",
+          "score": 0.8815461,
+          "topicality": 0.004757763
+        },
+        {
+          "description": "Elbow",
+          "mid": "/m/01vm1p",
+          "score": 0.8783546,
+          "topicality": 0.018022647
+        },
+        {
+          "description": "Wrist",
+          "mid": "/m/01j48b",
+          "score": 0.8669205,
+          "topicality": 0.0019878624
+        },
+        {
+          "description": "Muscle",
+          "mid": "/m/04_fs",
+          "score": 0.8631732,
+          "topicality": 0.04790662
+        },
+        {
+          "description": "Hip",
+          "mid": "/m/06_kbr",
+          "score": 0.78427213,
+          "topicality": 0.06342508
+        },
+        {
+          "description": "Thorax",
+          "mid": "/m/0dzdr",
+          "score": 0.72330946,
+          "topicality": 0.011483746
+        },
+        {
+          "description": "Human back",
+          "mid": "/m/09jc2n",
+          "score": 0.71497643,
+          "topicality": 0.4480002
+        },
+        {
+          "description": "Stomach",
+          "mid": "/m/09x8z",
+          "score": 0.62466305,
+          "topicality": 0.06694812
+        }
+      ]
+    }
+  ]
+}

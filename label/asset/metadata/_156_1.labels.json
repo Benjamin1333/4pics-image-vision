@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.96691823,
+          "topicality": 0.08390262
+        },
+        {
+          "description": "Bottle",
+          "mid": "/m/04dr76w",
+          "score": 0.96086115,
+          "topicality": 0.0077689993
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.90661895,
+          "topicality": 0.11591931
+        },
+        {
+          "description": "Olive oil",
+          "mid": "/m/05ml4",
+          "score": 0.87695503,
+          "topicality": 0.29619458
+        },
+        {
+          "description": "Condiment",
+          "mid": "/m/0gtdm",
+          "score": 0.8531605,
+          "topicality": 0.022710733
+        },
+        {
+          "description": "Extra virgin olive oil",
+          "mid": "/m/05sqq8b",
+          "score": 0.8375868,
+          "topicality": 0.005080887
+        },
+        {
+          "description": "Oil",
+          "mid": "/m/0bp_wy",
+          "score": 0.8369872,
+          "topicality": 0.6648023
+        },
+        {
+          "description": "Cooking oil",
+          "mid": "/m/026nvk",
+          "score": 0.8102122,
+          "topicality": 0.04585551
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.8096252,
+          "topicality": 0.0002350742
+        },
+        {
+          "description": "Fines herbes",
+          "mid": "/m/01bp4g",
+          "score": 0.74368507,
+          "topicality": 0.022453211
+        }
+      ]
+    }
+  ]
+}

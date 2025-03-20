@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.9206055,
+          "topicality": 0.09759262
+        },
+        {
+          "description": "Oil",
+          "mid": "/m/0bp_wy",
+          "score": 0.76940686,
+          "topicality": 0.21330707
+        },
+        {
+          "description": "Pharmaceutical drug",
+          "mid": "/m/018l35",
+          "score": 0.7325749,
+          "topicality": 0.09436719
+        },
+        {
+          "description": "Personal care",
+          "mid": "/m/02w3_ws",
+          "score": 0.6768894,
+          "topicality": 0.0017698694
+        },
+        {
+          "description": "Wheat germ oil",
+          "mid": "/m/0fh_v3",
+          "score": 0.6549907,
+          "topicality": 0.008017641
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.6356735,
+          "topicality": 0.0010328804
+        },
+        {
+          "description": "Peanut oil",
+          "mid": "/m/04gdv9",
+          "score": 0.59585416,
+          "topicality": 0.0014163683
+        },
+        {
+          "description": "Vegetable oil",
+          "mid": "/m/01b9sh",
+          "score": 0.58823884,
+          "topicality": 0.018633364
+        },
+        {
+          "description": "Medicine",
+          "mid": "/m/04sh3",
+          "score": 0.5751642,
+          "topicality": 0.05282922
+        },
+        {
+          "description": "Fish oil",
+          "mid": "/m/03y0gb",
+          "score": 0.55886716,
+          "topicality": 0.038688425
+        }
+      ]
+    }
+  ]
+}

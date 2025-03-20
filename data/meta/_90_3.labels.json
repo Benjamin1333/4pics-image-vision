@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bag",
+          "mid": "/m/0n5v01m",
+          "score": 0.72979325,
+          "topicality": 0.001669824
+        },
+        {
+          "description": "Autumn",
+          "mid": "/m/0134l",
+          "score": 0.72625256,
+          "topicality": 0.033110186
+        },
+        {
+          "description": "Park",
+          "mid": "/m/0166ls",
+          "score": 0.6803543,
+          "topicality": 0.088657565
+        },
+        {
+          "description": "Walking",
+          "mid": "/m/083mg",
+          "score": 0.6676699,
+          "topicality": 0.6110906
+        },
+        {
+          "description": "Bicycle",
+          "mid": "/m/0199g",
+          "score": 0.6442145,
+          "topicality": 0.033658616
+        },
+        {
+          "description": "Overcoat",
+          "mid": "/m/03tvvb",
+          "score": 0.55027014,
+          "topicality": 0.0004942036
+        },
+        {
+          "description": "Walking stick",
+          "mid": "/m/06_y0yh",
+          "score": 0.54823697,
+          "topicality": 0.021676
+        },
+        {
+          "description": "Fedora",
+          "mid": "/m/02fq_6",
+          "score": 0.5443529,
+          "topicality": 0.00015811398
+        },
+        {
+          "description": "Bicycle handlebar",
+          "mid": "/m/02rqv26",
+          "score": 0.5318468,
+          "topicality": 5.8339425e-05
+        },
+        {
+          "description": "Grandparent",
+          "mid": "/m/03c866",
+          "score": 0.5145495,
+          "topicality": 0.045519415
+        }
+      ]
+    }
+  ]
+}

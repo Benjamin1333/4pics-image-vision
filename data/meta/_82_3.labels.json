@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Pyramid",
+          "mid": "/m/05xh2",
+          "score": 0.9876872,
+          "topicality": 0.98647743
+        },
+        {
+          "description": "Wonders of the World",
+          "mid": "/m/02y_3gd",
+          "score": 0.9488415,
+          "topicality": 0.049483377
+        },
+        {
+          "description": "Monument",
+          "mid": "/m/02ljgl",
+          "score": 0.93654025,
+          "topicality": 0.015030187
+        },
+        {
+          "description": "Ancient history",
+          "mid": "/m/0djmp",
+          "score": 0.9360298,
+          "topicality": 0.16693754
+        },
+        {
+          "description": "History",
+          "mid": "/m/03g3w",
+          "score": 0.9203047,
+          "topicality": 0.07377906
+        },
+        {
+          "description": "Landscape",
+          "mid": "/m/025s3q0",
+          "score": 0.91830784,
+          "topicality": 0.00045190196
+        },
+        {
+          "description": "World Heritage Site",
+          "mid": "/m/0c7g7",
+          "score": 0.9140477,
+          "topicality": 0.073409356
+        },
+        {
+          "description": "Landmark",
+          "mid": "/m/05_5t0l",
+          "score": 0.91222787,
+          "topicality": 0.0104881525
+        },
+        {
+          "description": "Historic site",
+          "mid": "/m/07yr8h",
+          "score": 0.90428025,
+          "topicality": 0.015620586
+        },
+        {
+          "description": "Tourist attraction",
+          "mid": "/m/0pgl9",
+          "score": 0.87525326,
+          "topicality": 0.013495824
+        }
+      ]
+    }
+  ]
+}

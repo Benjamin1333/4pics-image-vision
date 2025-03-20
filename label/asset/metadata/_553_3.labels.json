@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.6988243,
+          "topicality": 0.00084555993
+        },
+        {
+          "description": "Clay",
+          "mid": "/m/0975t",
+          "score": 0.6451926,
+          "topicality": 0.00821455
+        }
+      ]
+    }
+  ]
+}

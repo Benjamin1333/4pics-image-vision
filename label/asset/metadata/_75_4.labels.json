@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Mountain",
+          "mid": "/m/09d_r",
+          "score": 0.9920456,
+          "topicality": 0.43380588
+        },
+        {
+          "description": "Mountainous landforms",
+          "mid": "/g/11jxkqbpp",
+          "score": 0.9878209,
+          "topicality": 0.00853017
+        },
+        {
+          "description": "Snow",
+          "mid": "/m/06_dn",
+          "score": 0.97904503,
+          "topicality": 0.05356943
+        },
+        {
+          "description": "Mountain range",
+          "mid": "/m/04wxr",
+          "score": 0.9727548,
+          "topicality": 0.3061528
+        },
+        {
+          "description": "Glacial landform",
+          "mid": "/m/055s40",
+          "score": 0.9610425,
+          "topicality": 0.0072503467
+        },
+        {
+          "description": "Winter",
+          "mid": "/m/086mh",
+          "score": 0.9507884,
+          "topicality": 0.020505497
+        },
+        {
+          "description": "Highland",
+          "mid": "/m/03cjrt",
+          "score": 0.9470461,
+          "topicality": 0.01676336
+        },
+        {
+          "description": "Ridge",
+          "mid": "/m/0355cw",
+          "score": 0.94193023,
+          "topicality": 0.06006977
+        },
+        {
+          "description": "Hill",
+          "mid": "/m/04_5sg",
+          "score": 0.9304619,
+          "topicality": 0.010722877
+        },
+        {
+          "description": "geological phenomenon",
+          "mid": "/m/07sn5gn",
+          "score": 0.9295552,
+          "topicality": 0.0014798414
+        }
+      ]
+    }
+  ]
+}

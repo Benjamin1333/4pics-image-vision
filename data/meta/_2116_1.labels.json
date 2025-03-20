@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Working animal",
+          "mid": "/m/07_gml",
+          "score": 0.977909,
+          "topicality": 0.0051791
+        },
+        {
+          "description": "Bovinae",
+          "mid": "/m/0jzz1",
+          "score": 0.95203656,
+          "topicality": 0.026006527
+        },
+        {
+          "description": "Rural area",
+          "mid": "/m/01f4td",
+          "score": 0.9103779,
+          "topicality": 0.03034182
+        },
+        {
+          "description": "Livestock",
+          "mid": "/m/0ch8v",
+          "score": 0.8819211,
+          "topicality": 0.12124461
+        },
+        {
+          "description": "Ox",
+          "mid": "/m/03bx7vb",
+          "score": 0.86363035,
+          "topicality": 0.40161926
+        },
+        {
+          "description": "Zebu",
+          "mid": "/m/0d8qv",
+          "score": 0.8631154,
+          "topicality": 0.048097618
+        },
+        {
+          "description": "Field",
+          "mid": "/m/0brn2d",
+          "score": 0.84325236,
+          "topicality": 0.025977813
+        },
+        {
+          "description": "Agriculture",
+          "mid": "/m/0hkf",
+          "score": 0.8346037,
+          "topicality": 0.23627521
+        },
+        {
+          "description": "Horn",
+          "mid": "/m/04lmyz",
+          "score": 0.81851983,
+          "topicality": 0.0003646874
+        },
+        {
+          "description": "Village",
+          "mid": "/m/0f0q9",
+          "score": 0.8064193,
+          "topicality": 0.031728424
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Chin",
+          "mid": "/m/0f9swq",
+          "score": 0.9886084,
+          "topicality": 0.012933382
+        },
+        {
+          "description": "Cheek",
+          "mid": "/m/037p5b",
+          "score": 0.98691696,
+          "topicality": 0.0072675557
+        },
+        {
+          "description": "Eyebrow",
+          "mid": "/m/027n3_",
+          "score": 0.9859103,
+          "topicality": 0.0048350887
+        },
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.9847883,
+          "topicality": 0.0029254085
+        },
+        {
+          "description": "Forehead",
+          "mid": "/m/025kyy",
+          "score": 0.98417634,
+          "topicality": 0.0320505
+        },
+        {
+          "description": "Skin",
+          "mid": "/m/06z04",
+          "score": 0.9820199,
+          "topicality": 0.004315104
+        },
+        {
+          "description": "Nose",
+          "mid": "/m/0k0pj",
+          "score": 0.97687435,
+          "topicality": 0.012821449
+        },
+        {
+          "description": "Wrinkle",
+          "mid": "/m/02_x63",
+          "score": 0.9764791,
+          "topicality": 0.4191897
+        },
+        {
+          "description": "Temple",
+          "mid": "/m/08g_yr",
+          "score": 0.95596546,
+          "topicality": 0.0056310953
+        },
+        {
+          "description": "Neck",
+          "mid": "/m/0dzd8",
+          "score": 0.9559168,
+          "topicality": 0.002245371
+        }
+      ]
+    }
+  ]
+}

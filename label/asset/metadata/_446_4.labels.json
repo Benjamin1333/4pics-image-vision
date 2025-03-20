@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Customer",
+          "mid": "/m/01j0mk",
+          "score": 0.9186874,
+          "topicality": 0.18288448
+        },
+        {
+          "description": "Bag",
+          "mid": "/m/0n5v01m",
+          "score": 0.8591962,
+          "topicality": 0.0260613
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.76444,
+          "topicality": 0.00025352038
+        },
+        {
+          "description": "Fashion design",
+          "mid": "/m/02qqd4n",
+          "score": 0.7491242,
+          "topicality": 0.0020642146
+        },
+        {
+          "description": "Conversation",
+          "mid": "/m/01h8n0",
+          "score": 0.73977745,
+          "topicality": 0.06206922
+        },
+        {
+          "description": "Student",
+          "mid": "/m/014cnc",
+          "score": 0.71850604,
+          "topicality": 0.3040387
+        },
+        {
+          "description": "Mobile phone",
+          "mid": "/m/050k8",
+          "score": 0.7061093,
+          "topicality": 0.0035906637
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.6780177,
+          "topicality": 0.002142692
+        },
+        {
+          "description": "Handbag",
+          "mid": "/m/080hkjn",
+          "score": 0.6565894,
+          "topicality": 0.009746137
+        },
+        {
+          "description": "Learning",
+          "mid": "/m/0191f8",
+          "score": 0.6384813,
+          "topicality": 0.037183385
+        }
+      ]
+    }
+  ]
+}

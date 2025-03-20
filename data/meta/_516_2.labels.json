@@ -1,0 +1,14 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.72045183,
+          "topicality": 0.001442065
+        }
+      ]
+    }
+  ]
+}

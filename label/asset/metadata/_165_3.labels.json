@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Dog",
+          "mid": "/m/0bt9lr",
+          "score": 0.99296796,
+          "topicality": 0.59070677
+        },
+        {
+          "description": "Carnivores",
+          "mid": "/m/01lrl",
+          "score": 0.9507842,
+          "topicality": 0.00032279294
+        },
+        {
+          "description": "Mesh",
+          "mid": "/m/0413y3",
+          "score": 0.8855405,
+          "topicality": 0.01417495
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.8650313,
+          "topicality": 0.004141665
+        },
+        {
+          "description": "Pet Supply",
+          "mid": "/m/0h8ks17",
+          "score": 0.7877712,
+          "topicality": 0.0005679688
+        },
+        {
+          "description": "Canidae",
+          "mid": "/m/01z5f",
+          "score": 0.77558994,
+          "topicality": 0.005122316
+        },
+        {
+          "description": "Dog Supply",
+          "mid": "/m/0h8nm96",
+          "score": 0.7662663,
+          "topicality": 0.00029603808
+        },
+        {
+          "description": "Car seat",
+          "mid": "/m/0268t21",
+          "score": 0.72894484,
+          "topicality": 0.056367267
+        },
+        {
+          "description": "Dog crate",
+          "mid": "/m/0bwm8q",
+          "score": 0.7176107,
+          "topicality": 0.10215047
+        },
+        {
+          "description": "Animal shelter",
+          "mid": "/m/01m3tw",
+          "score": 0.643433,
+          "topicality": 0.016280223
+        }
+      ]
+    }
+  ]
+}

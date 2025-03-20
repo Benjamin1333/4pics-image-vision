@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Clothes hanger",
+          "mid": "/m/0ksls",
+          "score": 0.9358461,
+          "topicality": 0.09891376
+        },
+        {
+          "description": "Closet",
+          "mid": "/m/0d4w1",
+          "score": 0.8968413,
+          "topicality": 0.2730674
+        },
+        {
+          "description": "Dress shirt",
+          "mid": "/m/06hwcd",
+          "score": 0.8350993,
+          "topicality": 0.0025532255
+        },
+        {
+          "description": "Retail",
+          "mid": "/m/0191_7",
+          "score": 0.7736023,
+          "topicality": 0.00944408
+        },
+        {
+          "description": "Boutique",
+          "mid": "/m/08790l",
+          "score": 0.76915854,
+          "topicality": 0.009250396
+        },
+        {
+          "description": "Denim",
+          "mid": "/m/0hgr6",
+          "score": 0.71810967,
+          "topicality": 0.0022562123
+        },
+        {
+          "description": "Dry cleaning",
+          "mid": "/m/0174m3",
+          "score": 0.715294,
+          "topicality": 0.45184818
+        },
+        {
+          "description": "Wardrobe",
+          "mid": "/m/02vkqh8",
+          "score": 0.612713,
+          "topicality": 0.12806576
+        },
+        {
+          "description": "Customer",
+          "mid": "/m/01j0mk",
+          "score": 0.53961104,
+          "topicality": 0.012507665
+        }
+      ]
+    }
+  ]
+}

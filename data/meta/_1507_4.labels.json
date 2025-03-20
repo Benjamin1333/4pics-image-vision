@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Drinkware",
+          "mid": "/m/050h26",
+          "score": 0.94269204,
+          "topicality": 0.003721647
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.9212731,
+          "topicality": 0.03181445
+        },
+        {
+          "description": "Highball glass",
+          "mid": "/m/049wwj",
+          "score": 0.9023615,
+          "topicality": 0.022979278
+        },
+        {
+          "description": "Glass",
+          "mid": "/m/039jq",
+          "score": 0.87594295,
+          "topicality": 0.16915955
+        },
+        {
+          "description": "Mineral water",
+          "mid": "/m/02267z",
+          "score": 0.86892605,
+          "topicality": 0.17741975
+        },
+        {
+          "description": "Drinking water",
+          "mid": "/m/01c6xf",
+          "score": 0.79143184,
+          "topicality": 0.11932919
+        },
+        {
+          "description": "Bubble",
+          "mid": "/m/0g91zf",
+          "score": 0.77089995,
+          "topicality": 0.068826064
+        },
+        {
+          "description": "Soft drink",
+          "mid": "/m/06qrr",
+          "score": 0.71634895,
+          "topicality": 0.025104908
+        },
+        {
+          "description": "Cocktail",
+          "mid": "/m/024g6",
+          "score": 0.66071314,
+          "topicality": 0.002162301
+        },
+        {
+          "description": "Pint glass",
+          "mid": "/m/0646xy",
+          "score": 0.6464623,
+          "topicality": 0.0022845636
+        }
+      ]
+    }
+  ]
+}

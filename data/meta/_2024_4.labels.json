@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Safety Glove",
+          "mid": "/m/0hgr9by",
+          "score": 0.74155915,
+          "topicality": 0.00018132312
+        },
+        {
+          "description": "Household hardware",
+          "mid": "/m/03jvk",
+          "score": 0.7340186,
+          "topicality": 0.012701833
+        },
+        {
+          "description": "Security",
+          "mid": "/m/0bg2p",
+          "score": 0.62007684,
+          "topicality": 0.012141458
+        },
+        {
+          "description": "Glove",
+          "mid": "/m/0174n1",
+          "score": 0.61648434,
+          "topicality": 0.0027358339
+        },
+        {
+          "description": "Plumbing",
+          "mid": "/m/0b_zf",
+          "score": 0.547735,
+          "topicality": 0.20548299
+        },
+        {
+          "description": "Tool",
+          "mid": "/m/07k1x",
+          "score": 0.5347929,
+          "topicality": 0.039188962
+        },
+        {
+          "description": "Medical glove",
+          "mid": "/m/03yx9r",
+          "score": 0.5154108,
+          "topicality": 0.007778687
+        }
+      ]
+    }
+  ]
+}

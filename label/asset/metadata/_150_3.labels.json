@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Undergarment",
+          "mid": "/m/09j1x",
+          "score": 0.9794182,
+          "topicality": 0.07432111
+        },
+        {
+          "description": "Thigh",
+          "mid": "/m/01j04m",
+          "score": 0.96828914,
+          "topicality": 0.030702567
+        },
+        {
+          "description": "Physical fitness",
+          "mid": "/m/027x7n",
+          "score": 0.9267294,
+          "topicality": 0.128007
+        },
+        {
+          "description": "Active Undergarment",
+          "mid": "/m/0hgp2z7",
+          "score": 0.9256511,
+          "topicality": 0.03135355
+        },
+        {
+          "description": "Bra",
+          "mid": "/m/01gmv2",
+          "score": 0.91374123,
+          "topicality": 0.05255616
+        },
+        {
+          "description": "Sports bra",
+          "mid": "/m/027bmhm",
+          "score": 0.90629697,
+          "topicality": 0.020890037
+        },
+        {
+          "description": "Muscle",
+          "mid": "/m/04_fs",
+          "score": 0.90485936,
+          "topicality": 0.022321584
+        },
+        {
+          "description": "Swimsuit",
+          "mid": "/m/01gkx_",
+          "score": 0.89820486,
+          "topicality": 0.026671385
+        },
+        {
+          "description": "Abdomen",
+          "mid": "/m/08y7p8",
+          "score": 0.88359034,
+          "topicality": 0.3058089
+        },
+        {
+          "description": "Waist",
+          "mid": "/m/031974",
+          "score": 0.876425,
+          "topicality": 0.08727643
+        }
+      ]
+    }
+  ]
+}

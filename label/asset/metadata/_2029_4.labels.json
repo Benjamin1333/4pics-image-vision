@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Indoor games and sports",
+          "mid": "/m/0b42l9",
+          "score": 0.99003255,
+          "topicality": 0.009436201
+        },
+        {
+          "description": "Chess",
+          "mid": "/m/01lb5",
+          "score": 0.9865098,
+          "topicality": 0.982121
+        },
+        {
+          "description": "Tabletop game",
+          "mid": "/m/03jj52",
+          "score": 0.97487265,
+          "topicality": 0.03236161
+        },
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.97062624,
+          "topicality": 0.0173488
+        },
+        {
+          "description": "Chessboard",
+          "mid": "/m/0crsp",
+          "score": 0.97060686,
+          "topicality": 0.8603859
+        },
+        {
+          "description": "Board game",
+          "mid": "/m/015ll",
+          "score": 0.9700822,
+          "topicality": 0.16435447
+        },
+        {
+          "description": "Game",
+          "mid": "/m/03bt1gh",
+          "score": 0.9267104,
+          "topicality": 0.110104464
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.83765787,
+          "topicality": 0.0003752749
+        },
+        {
+          "description": "Darkness",
+          "mid": "/m/01kyr8",
+          "score": 0.8013414,
+          "topicality": 0.03534328
+        },
+        {
+          "description": "Still life photography",
+          "mid": "/m/027_ny3",
+          "score": 0.69810253,
+          "topicality": 0.017236903
+        }
+      ]
+    }
+  ]
+}

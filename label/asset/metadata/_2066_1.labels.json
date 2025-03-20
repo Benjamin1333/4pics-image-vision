@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9448102,
+          "topicality": 0.0036293557
+        },
+        {
+          "description": "Magnifying glass",
+          "mid": "/m/030c3d",
+          "score": 0.9195192,
+          "topicality": 0.8579348
+        },
+        {
+          "description": "Eyelash",
+          "mid": "/m/03f52z",
+          "score": 0.9166064,
+          "topicality": 0.006264769
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.82464904,
+          "topicality": 0.015030792
+        },
+        {
+          "description": "Magnifier",
+          "mid": "/m/0h8p9x8",
+          "score": 0.7918646,
+          "topicality": 0.010367558
+        },
+        {
+          "description": "Makeover",
+          "mid": "/m/02qp_b",
+          "score": 0.6300806,
+          "topicality": 0.0047464534
+        },
+        {
+          "description": "Portrait photography",
+          "mid": "/m/0chml9",
+          "score": 0.61632824,
+          "topicality": 0.005017539
+        },
+        {
+          "description": "Step cutting",
+          "mid": "/m/026mhtg",
+          "score": 0.5965978,
+          "topicality": 0.00014239222
+        }
+      ]
+    }
+  ]
+}

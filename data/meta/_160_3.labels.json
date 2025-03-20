@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Waiter",
+          "mid": "/m/01t15m",
+          "score": 0.8604506,
+          "topicality": 0.8186876
+        },
+        {
+          "description": "Chef",
+          "mid": "/m/01pn0r",
+          "score": 0.7214429,
+          "topicality": 0.031192396
+        },
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.7083485,
+          "topicality": 0.0598396
+        },
+        {
+          "description": "Cook",
+          "mid": "/m/04y7xr",
+          "score": 0.6340776,
+          "topicality": 0.022448359
+        },
+        {
+          "description": "Bartender",
+          "mid": "/m/02fbcn",
+          "score": 0.5802066,
+          "topicality": 0.35737386
+        },
+        {
+          "description": "Chef's uniform",
+          "mid": "/m/0c0t2j",
+          "score": 0.57317245,
+          "topicality": 0.0021488902
+        },
+        {
+          "description": "Concierge",
+          "mid": "/m/03pqt3",
+          "score": 0.54416156,
+          "topicality": 0.2098172
+        },
+        {
+          "description": "Apron",
+          "mid": "/m/0f748",
+          "score": 0.5032848,
+          "topicality": 0.003653922
+        }
+      ]
+    }
+  ]
+}

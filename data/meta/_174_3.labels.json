@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Fish",
+          "mid": "/m/0ch_cf",
+          "score": 0.9861085,
+          "topicality": 0.4301872
+        },
+        {
+          "description": "Vertebrate",
+          "mid": "/m/09686",
+          "score": 0.9602812,
+          "topicality": 0.0023844547
+        },
+        {
+          "description": "Underwater",
+          "mid": "/m/01sfb5",
+          "score": 0.94825864,
+          "topicality": 0.0916544
+        },
+        {
+          "description": "Marine biology",
+          "mid": "/m/050vn",
+          "score": 0.936252,
+          "topicality": 0.027859699
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.881337,
+          "topicality": 0.23801722
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.8645734,
+          "topicality": 0.23344512
+        },
+        {
+          "description": "Fin",
+          "mid": "/m/02zg_",
+          "score": 0.8612844,
+          "topicality": 0.008089925
+        },
+        {
+          "description": "Animal migration",
+          "mid": "/m/0sxvh",
+          "score": 0.8041327,
+          "topicality": 0.006919297
+        },
+        {
+          "description": "Forage fish",
+          "mid": "/m/04zygmh",
+          "score": 0.6573988,
+          "topicality": 0.01123911
+        },
+        {
+          "description": "Bony fishes",
+          "mid": "/m/05lms",
+          "score": 0.61221147,
+          "topicality": 0.011209088
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Earth",
+          "mid": "/m/02j71",
+          "score": 0.9186836,
+          "topicality": 0.75244373
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.85108757,
+          "topicality": 0.0816436
+        },
+        {
+          "description": "Astronomical object",
+          "mid": "/m/01d9ll",
+          "score": 0.83108157,
+          "topicality": 0.015078589
+        },
+        {
+          "description": "Planet",
+          "mid": "/m/05qc_",
+          "score": 0.8003437,
+          "topicality": 0.244133
+        },
+        {
+          "description": "Globe",
+          "mid": "/m/01q_cy",
+          "score": 0.7999138,
+          "topicality": 0.10350471
+        },
+        {
+          "description": "Sphere",
+          "mid": "/m/06y47",
+          "score": 0.6656797,
+          "topicality": 0.023841845
+        },
+        {
+          "description": "Night",
+          "mid": "/m/01d74z",
+          "score": 0.6618509,
+          "topicality": 0.029520791
+        },
+        {
+          "description": "Map",
+          "mid": "/m/04_tb",
+          "score": 0.6419026,
+          "topicality": 0.1818568
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.6297898,
+          "topicality": 0.03933659
+        },
+        {
+          "description": "Universe",
+          "mid": "/m/07v7c",
+          "score": 0.6273449,
+          "topicality": 0.051153056
+        }
+      ]
+    }
+  ]
+}

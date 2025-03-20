@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Dominoes",
+          "mid": "/m/029g5",
+          "score": 0.90820795,
+          "topicality": 0.9888343
+        },
+        {
+          "description": "Tabletop game",
+          "mid": "/m/03jj52",
+          "score": 0.8213341,
+          "topicality": 0.11521603
+        },
+        {
+          "description": "Indoor games and sports",
+          "mid": "/m/0b42l9",
+          "score": 0.75094026,
+          "topicality": 0.0024211716
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9446253,
+          "topicality": 0.00998535
+        },
+        {
+          "description": "Eating",
+          "mid": "/m/01f5gx",
+          "score": 0.64266104,
+          "topicality": 0.25431627
+        },
+        {
+          "description": "Serveware",
+          "mid": "/m/0h8n22v",
+          "score": 0.64163125,
+          "topicality": 1.3105004e-05
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.6203041,
+          "topicality": 0.22494572
+        },
+        {
+          "description": "Food craving",
+          "mid": "/m/0b76y0",
+          "score": 0.5895179,
+          "topicality": 0.063305855
+        },
+        {
+          "description": "Highball glass",
+          "mid": "/m/049wwj",
+          "score": 0.55301565,
+          "topicality": 1.3142716e-05
+        },
+        {
+          "description": "Worry",
+          "mid": "/m/0bg_x1",
+          "score": 0.52121425,
+          "topicality": 0.040258463
+        }
+      ]
+    }
+  ]
+}

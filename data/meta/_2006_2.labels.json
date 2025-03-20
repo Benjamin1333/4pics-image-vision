@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Number",
+          "mid": "/m/05fwb",
+          "score": 0.88203436,
+          "topicality": 0.7504029
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.8083338,
+          "topicality": 0.020841384
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.68173444,
+          "topicality": 0.0051854677
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.6723642,
+          "topicality": 0.020918895
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6595953,
+          "topicality": 0.004972468
+        },
+        {
+          "description": "House numbering",
+          "mid": "/m/03sp5j",
+          "score": 0.52730215,
+          "topicality": 0.3843205
+        }
+      ]
+    }
+  ]
+}

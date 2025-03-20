@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Operating theater",
+          "mid": "/m/0221lk",
+          "score": 0.9603016,
+          "topicality": 0.5021932
+        },
+        {
+          "description": "Surgeon",
+          "mid": "/m/02y_93f",
+          "score": 0.95414954,
+          "topicality": 0.484558
+        },
+        {
+          "description": "Medical procedure",
+          "mid": "/m/026w9v9",
+          "score": 0.9515396,
+          "topicality": 0.025427615
+        },
+        {
+          "description": "Medical",
+          "mid": "/m/02xht4g",
+          "score": 0.9504355,
+          "topicality": 0.0025938603
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.9378862,
+          "topicality": 0.00053264934
+        },
+        {
+          "description": "Hospital",
+          "mid": "/m/0hpnr",
+          "score": 0.9374875,
+          "topicality": 0.25788683
+        },
+        {
+          "description": "Health Professional",
+          "mid": "/m/0fsbk0",
+          "score": 0.9366351,
+          "topicality": 0.016165828
+        },
+        {
+          "description": "Scrubs",
+          "mid": "/m/0846kq",
+          "score": 0.92927694,
+          "topicality": 0.0060039945
+        },
+        {
+          "description": "Medical assistant",
+          "mid": "/m/06yrfc",
+          "score": 0.9206906,
+          "topicality": 0.0030948776
+        },
+        {
+          "description": "Health Care",
+          "mid": "/m/01mw2x",
+          "score": 0.8824782,
+          "topicality": 0.017958574
+        }
+      ]
+    }
+  ]
+}

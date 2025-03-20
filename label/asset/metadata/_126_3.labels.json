@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Alcoholic drink",
+          "mid": "/m/012mj",
+          "score": 0.8705024,
+          "topicality": 0.028195981
+        },
+        {
+          "description": "Champagne",
+          "mid": "/m/0f2b9",
+          "score": 0.82762897,
+          "topicality": 0.6607926
+        },
+        {
+          "description": "Bottle",
+          "mid": "/m/04dr76w",
+          "score": 0.81474936,
+          "topicality": 0.10400338
+        },
+        {
+          "description": "Bucket",
+          "mid": "/m/01zfyk",
+          "score": 0.8035657,
+          "topicality": 0.5962305
+        },
+        {
+          "description": "Glass",
+          "mid": "/m/039jq",
+          "score": 0.7837309,
+          "topicality": 0.08545318
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.6920148,
+          "topicality": 0.011261371
+        },
+        {
+          "description": "Wine bottle",
+          "mid": "/m/020p1v",
+          "score": 0.68569976,
+          "topicality": 0.02032591
+        },
+        {
+          "description": "Kitchen utensil",
+          "mid": "/m/03hlz0c",
+          "score": 0.67301476,
+          "topicality": 0.022370549
+        },
+        {
+          "description": "Liquor",
+          "mid": "/m/04shl0",
+          "score": 0.65884554,
+          "topicality": 0.0034886969
+        },
+        {
+          "description": "Sparkling wine",
+          "mid": "/m/01224x",
+          "score": 0.63536286,
+          "topicality": 0.10037215
+        }
+      ]
+    }
+  ]
+}

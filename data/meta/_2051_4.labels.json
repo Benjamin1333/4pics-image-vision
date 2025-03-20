@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Teacher",
+          "mid": "/m/01d30f",
+          "score": 0.9262317,
+          "topicality": 0.27819502
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.9048829,
+          "topicality": 0.08738795
+        },
+        {
+          "description": "Learning",
+          "mid": "/m/0191f8",
+          "score": 0.8960934,
+          "topicality": 0.1616054
+        },
+        {
+          "description": "Student",
+          "mid": "/m/014cnc",
+          "score": 0.86121166,
+          "topicality": 0.19582969
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.8578895,
+          "topicality": 0.00015966735
+        },
+        {
+          "description": "Homework",
+          "mid": "/m/01w6nv",
+          "score": 0.8475476,
+          "topicality": 0.46198627
+        },
+        {
+          "description": "Writing",
+          "mid": "/m/081rb",
+          "score": 0.81252456,
+          "topicality": 0.09249364
+        },
+        {
+          "description": "Education",
+          "mid": "/m/02jfc",
+          "score": 0.74248785,
+          "topicality": 0.24968164
+        },
+        {
+          "description": "Classroom",
+          "mid": "/m/04hyxm",
+          "score": 0.71431583,
+          "topicality": 0.04695913
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.7055788,
+          "topicality": 0.0071454286
+        }
+      ]
+    }
+  ]
+}

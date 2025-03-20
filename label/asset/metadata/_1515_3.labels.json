@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.96639967,
+          "topicality": 0.17846362
+        },
+        {
+          "description": "Paper",
+          "mid": "/m/0641k",
+          "score": 0.8763577,
+          "topicality": 0.6099551
+        },
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.86980414,
+          "topicality": 0.002710886
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.616356,
+          "topicality": 0.041784972
+        }
+      ]
+    }
+  ]
+}

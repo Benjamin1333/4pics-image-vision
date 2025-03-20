@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Entertainment",
+          "mid": "/m/02jjt",
+          "score": 0.97058445,
+          "topicality": 0.019031828
+        },
+        {
+          "description": "Performing Arts",
+          "mid": "/m/05qjc",
+          "score": 0.96592855,
+          "topicality": 0.024994971
+        },
+        {
+          "description": "Dress",
+          "mid": "/m/01d40f",
+          "score": 0.9654049,
+          "topicality": 0.072435
+        },
+        {
+          "description": "Human body",
+          "mid": "/m/02p0tk3",
+          "score": 0.9552337,
+          "topicality": 0.0069648656
+        },
+        {
+          "description": "Performance",
+          "mid": "/m/01gq53",
+          "score": 0.9518087,
+          "topicality": 0.011212947
+        },
+        {
+          "description": "Artist",
+          "mid": "/m/0n1h",
+          "score": 0.9068157,
+          "topicality": 0.005874907
+        },
+        {
+          "description": "Audio equipment",
+          "mid": "/m/01yttv",
+          "score": 0.89708745,
+          "topicality": 0.00012022518
+        },
+        {
+          "description": "Day Dress",
+          "mid": "/m/0hgsb5g",
+          "score": 0.8840288,
+          "topicality": 0.00027286052
+        },
+        {
+          "description": "Elbow",
+          "mid": "/m/01vm1p",
+          "score": 0.87011373,
+          "topicality": 0.00095366937
+        },
+        {
+          "description": "Microphone",
+          "mid": "/m/0hg7b",
+          "score": 0.8696657,
+          "topicality": 0.023718905
+        }
+      ]
+    }
+  ]
+}

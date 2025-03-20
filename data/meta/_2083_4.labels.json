@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Flame",
+          "mid": "/m/01f415",
+          "score": 0.9843166,
+          "topicality": 0.24543643
+        },
+        {
+          "description": "Candle",
+          "mid": "/m/0c06p",
+          "score": 0.9759328,
+          "topicality": 0.9230114
+        },
+        {
+          "description": "Fire",
+          "mid": "/m/02_41",
+          "score": 0.9528725,
+          "topicality": 0.036014225
+        },
+        {
+          "description": "Wax",
+          "mid": "/m/0fy__",
+          "score": 0.9517671,
+          "topicality": 0.33468273
+        },
+        {
+          "description": "Cylinder",
+          "mid": "/m/03h_4m",
+          "score": 0.8500263,
+          "topicality": 0.025212664
+        },
+        {
+          "description": "Heat",
+          "mid": "/m/03k2v",
+          "score": 0.8345924,
+          "topicality": 0.0042393124
+        }
+      ]
+    }
+  ]
+}

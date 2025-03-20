@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.9377263,
+          "topicality": 0.23345722
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.8229934,
+          "topicality": 0.006126215
+        },
+        {
+          "description": "Toddler",
+          "mid": "/m/01bgsw",
+          "score": 0.7945286,
+          "topicality": 0.07861068
+        },
+        {
+          "description": "Playing with kids",
+          "mid": "/j/fplffb",
+          "score": 0.714561,
+          "topicality": 0.00077332626
+        },
+        {
+          "description": "Play",
+          "mid": "/m/06wtgq",
+          "score": 0.6402835,
+          "topicality": 0.0002525467
+        },
+        {
+          "description": "Crying",
+          "mid": "/m/0463cq4",
+          "score": 0.5436887,
+          "topicality": 0.13516375
+        },
+        {
+          "description": "Cleanliness",
+          "mid": "/m/020s4p",
+          "score": 0.5201046,
+          "topicality": 0.0003650526
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.6417205,
+          "topicality": 0.28806907
+        },
+        {
+          "description": "Parasitism",
+          "mid": "/m/0b_l7",
+          "score": 0.53628576,
+          "topicality": 0.1071851
+        }
+      ]
+    }
+  ]
+}

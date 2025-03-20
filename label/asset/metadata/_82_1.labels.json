@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.97176075,
+          "topicality": 0.0013104933
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.9098302,
+          "topicality": 0.0047159484
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8835281,
+          "topicality": 0.030115793
+        },
+        {
+          "description": "Communication Device",
+          "mid": "/m/0glmwd6",
+          "score": 0.824561,
+          "topicality": 0.00023523606
+        },
+        {
+          "description": "Learning",
+          "mid": "/m/0191f8",
+          "score": 0.728622,
+          "topicality": 0.027621014
+        },
+        {
+          "description": "Portable communications device",
+          "mid": "/m/020fsy",
+          "score": 0.7113378,
+          "topicality": 0.0010719503
+        },
+        {
+          "description": "Display device",
+          "mid": "/m/029zz6",
+          "score": 0.7030388,
+          "topicality": 0.00026819677
+        },
+        {
+          "description": "Office Equipment",
+          "mid": "/m/03qtgjk",
+          "score": 0.6777583,
+          "topicality": 4.720028e-05
+        },
+        {
+          "description": "Grandparent",
+          "mid": "/m/03c866",
+          "score": 0.6764179,
+          "topicality": 0.20662895
+        },
+        {
+          "description": "Computer",
+          "mid": "/m/01m3v",
+          "score": 0.65777636,
+          "topicality": 0.044898048
+        }
+      ]
+    }
+  ]
+}

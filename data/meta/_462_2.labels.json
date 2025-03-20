@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Axe",
+          "mid": "/m/0c2jj",
+          "score": 0.93448406,
+          "topicality": 0.63161254
+        },
+        {
+          "description": "Hammer",
+          "mid": "/m/03l9g",
+          "score": 0.8472219,
+          "topicality": 0.047245093
+        },
+        {
+          "description": "Hand tool",
+          "mid": "/m/01yc83",
+          "score": 0.8376938,
+          "topicality": 0.0021356565
+        },
+        {
+          "description": "Waist",
+          "mid": "/m/031974",
+          "score": 0.8359559,
+          "topicality": 0.002812885
+        },
+        {
+          "description": "Tool",
+          "mid": "/m/07k1x",
+          "score": 0.82008964,
+          "topicality": 0.027054
+        },
+        {
+          "description": "Throwing axe",
+          "mid": "/m/027p1nh",
+          "score": 0.8095045,
+          "topicality": 0.07504868
+        },
+        {
+          "description": "Blond",
+          "mid": "/m/0294jb",
+          "score": 0.76709056,
+          "topicality": 0.005142639
+        },
+        {
+          "description": "Hatchet",
+          "mid": "/m/0288cd",
+          "score": 0.73098725,
+          "topicality": 0.13605924
+        },
+        {
+          "description": "Splitting maul",
+          "mid": "/m/0288d4",
+          "score": 0.72710043,
+          "topicality": 0.06935927
+        },
+        {
+          "description": "Tomahawk",
+          "mid": "/m/01xxv0",
+          "score": 0.6123856,
+          "topicality": 0.047156785
+        }
+      ]
+    }
+  ]
+}

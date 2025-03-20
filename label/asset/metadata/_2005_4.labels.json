@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.9839856,
+          "topicality": 0.17754702
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9582578,
+          "topicality": 0.03589112
+        },
+        {
+          "description": "Chickpea",
+          "mid": "/m/0fqtq",
+          "score": 0.9366136,
+          "topicality": 0.8043199
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.93480855,
+          "topicality": 0.0012461446
+        },
+        {
+          "description": "Legume",
+          "mid": "/m/01sfdb",
+          "score": 0.9008426,
+          "topicality": 0.21669292
+        },
+        {
+          "description": "Nuts & seeds",
+          "mid": "/m/0ggk1v7",
+          "score": 0.8968168,
+          "topicality": 7.3473246e-05
+        },
+        {
+          "description": "Bean",
+          "mid": "/m/01fp9",
+          "score": 0.891926,
+          "topicality": 0.34345937
+        },
+        {
+          "description": "Nut",
+          "mid": "/m/01lbxg",
+          "score": 0.7982135,
+          "topicality": 0.0018631999
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.7917414,
+          "topicality": 0.00065322436
+        },
+        {
+          "description": "Recipe",
+          "mid": "/m/0p57p",
+          "score": 0.7462747,
+          "topicality": 0.057700578
+        }
+      ]
+    }
+  ]
+}

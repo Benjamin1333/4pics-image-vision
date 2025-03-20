@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Toe",
+          "mid": "/m/01d_ff",
+          "score": 0.9475188,
+          "topicality": 0.09343684
+        },
+        {
+          "description": "Foot",
+          "mid": "/m/031n1",
+          "score": 0.8917823,
+          "topicality": 0.4846941
+        },
+        {
+          "description": "Barefoot",
+          "mid": "/m/049lwx",
+          "score": 0.8533287,
+          "topicality": 0.027625078
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.7444934,
+          "topicality": 0.0004412061
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.73091745,
+          "topicality": 0.015409737
+        },
+        {
+          "description": "Natural material",
+          "mid": "/m/07sx2n",
+          "score": 0.7291551,
+          "topicality": 0.0001064762
+        },
+        {
+          "description": "Ankle",
+          "mid": "/m/01xlvy",
+          "score": 0.65268254,
+          "topicality": 0.05319523
+        }
+      ]
+    }
+  ]
+}

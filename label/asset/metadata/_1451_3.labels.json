@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9648805,
+          "topicality": 0.08765826
+        },
+        {
+          "description": "Prescription drug",
+          "mid": "/m/01_7r6",
+          "score": 0.7791632,
+          "topicality": 0.00090509374
+        },
+        {
+          "description": "Pharmaceutical drug",
+          "mid": "/m/018l35",
+          "score": 0.6919772,
+          "topicality": 0.01682379
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.67673427,
+          "topicality": 0.0453131
+        },
+        {
+          "description": "Medicine",
+          "mid": "/m/04sh3",
+          "score": 0.665693,
+          "topicality": 0.03265046
+        },
+        {
+          "description": "Sugar substitute",
+          "mid": "/m/0g24k",
+          "score": 0.6469268,
+          "topicality": 0.10197037
+        },
+        {
+          "description": "Sugar",
+          "mid": "/m/06x4c",
+          "score": 0.6402455,
+          "topicality": 0.10939189
+        },
+        {
+          "description": "Chewing gum",
+          "mid": "/m/01qcsb",
+          "score": 0.6318065,
+          "topicality": 0.33744836
+        },
+        {
+          "description": "Pill",
+          "mid": "/m/02r537t",
+          "score": 0.58990794,
+          "topicality": 0.00027257582
+        },
+        {
+          "description": "Table sugar",
+          "mid": "/m/0dcfv",
+          "score": 0.5782889,
+          "topicality": 0.07128309
+        }
+      ]
+    }
+  ]
+}

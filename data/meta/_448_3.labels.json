@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Dough",
+          "mid": "/m/01x9mn",
+          "score": 0.9838737,
+          "topicality": 0.4261415
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.95757735,
+          "topicality": 0.06469238
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9359871,
+          "topicality": 0.03603115
+        },
+        {
+          "description": "Masa",
+          "mid": "/m/02tvmk",
+          "score": 0.9214002,
+          "topicality": 0.041120652
+        },
+        {
+          "description": "Powder",
+          "mid": "/m/0gzznm",
+          "score": 0.8916619,
+          "topicality": 0.010064171
+        },
+        {
+          "description": "Flour",
+          "mid": "/m/0fkw3",
+          "score": 0.88159585,
+          "topicality": 0.3001426
+        },
+        {
+          "description": "Bread Flour",
+          "mid": "/m/0hnqgsf",
+          "score": 0.8637262,
+          "topicality": 0.016618859
+        },
+        {
+          "description": "All-purpose Flour",
+          "mid": "/m/05yr1lg",
+          "score": 0.8386724,
+          "topicality": 0.007131319
+        },
+        {
+          "description": "Whole-wheat flour",
+          "mid": "/m/039_xx",
+          "score": 0.806985,
+          "topicality": 0.009289637
+        },
+        {
+          "description": "Wheat flour",
+          "mid": "/m/06zts5l",
+          "score": 0.7686987,
+          "topicality": 0.11901932
+        }
+      ]
+    }
+  ]
+}

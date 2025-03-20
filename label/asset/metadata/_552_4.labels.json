@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.97059476,
+          "topicality": 0.031879954
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.67122954,
+          "topicality": 0.0029539855
+        },
+        {
+          "description": "Lens flare",
+          "mid": "/m/017bm6",
+          "score": 0.6329804,
+          "topicality": 0.09236229
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6139695,
+          "topicality": 0.0016608502
+        }
+      ]
+    }
+  ]
+}

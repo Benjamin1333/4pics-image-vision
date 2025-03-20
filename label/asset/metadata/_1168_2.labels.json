@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Display device",
+          "mid": "/m/029zz6",
+          "score": 0.88312644,
+          "topicality": 0.004790166
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.8087252,
+          "topicality": 0.023012182
+        },
+        {
+          "description": "Electronic signage",
+          "mid": "/m/0522cz4",
+          "score": 0.69547117,
+          "topicality": 0.0015708236
+        }
+      ]
+    }
+  ]
+}

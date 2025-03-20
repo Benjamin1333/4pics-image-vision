@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9775258,
+          "topicality": 0.4052792
+        },
+        {
+          "description": "Rope",
+          "mid": "/m/01xc8d",
+          "score": 0.65938675,
+          "topicality": 0.04571722
+        },
+        {
+          "description": "Twine",
+          "mid": "/m/05yqgq",
+          "score": 0.6015819,
+          "topicality": 0.2631008
+        },
+        {
+          "description": "Yarn",
+          "mid": "/m/02kvytt",
+          "score": 0.59680027,
+          "topicality": 0.45034513
+        },
+        {
+          "description": "Wire",
+          "mid": "/m/083kv",
+          "score": 0.56699425,
+          "topicality": 0.023748228
+        },
+        {
+          "description": "Wool",
+          "mid": "/m/09kxp",
+          "score": 0.5179586,
+          "topicality": 0.035182316
+        }
+      ]
+    }
+  ]
+}

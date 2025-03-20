@@ -1,0 +1,14 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronics",
+          "mid": "/m/02mrp",
+          "score": 0.5201539,
+          "topicality": 0.015564464
+        }
+      ]
+    }
+  ]
+}

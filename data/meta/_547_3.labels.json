@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Card game",
+          "mid": "/m/01mtt",
+          "score": 0.8868001,
+          "topicality": 0.63421196
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.72820145,
+          "topicality": 0.051676944
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.66758823,
+          "topicality": 0.017239861
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.5316708,
+          "topicality": 0.005773938
+        }
+      ]
+    }
+  ]
+}

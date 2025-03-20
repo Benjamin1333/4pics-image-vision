@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Fluid",
+          "mid": "/m/02yfx",
+          "score": 0.95529926,
+          "topicality": 0.017246893
+        },
+        {
+          "description": "Test tube",
+          "mid": "/m/0qlzq",
+          "score": 0.92683864,
+          "topicality": 0.6504286
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.9207408,
+          "topicality": 0.25179642
+        },
+        {
+          "description": "Laboratory equipment",
+          "mid": "/m/03_5sv",
+          "score": 0.9066769,
+          "topicality": 0.009523461
+        },
+        {
+          "description": "Chemistry",
+          "mid": "/m/01lj9",
+          "score": 0.8953314,
+          "topicality": 0.51150256
+        },
+        {
+          "description": "Laboratory",
+          "mid": "/m/017clw",
+          "score": 0.8660191,
+          "topicality": 0.62603295
+        },
+        {
+          "description": "Research",
+          "mid": "/m/06cs1",
+          "score": 0.76954347,
+          "topicality": 0.22078533
+        },
+        {
+          "description": "Laboratory flask",
+          "mid": "/m/05hw3k",
+          "score": 0.7456754,
+          "topicality": 0.05336044
+        },
+        {
+          "description": "Flask",
+          "mid": "/m/0h8j_21",
+          "score": 0.68829346,
+          "topicality": 7.9951395e-05
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.67292994,
+          "topicality": 0.012878359
+        }
+      ]
+    }
+  ]
+}

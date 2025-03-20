@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.9879842,
+          "topicality": 0.0004615888
+        },
+        {
+          "description": "Computer",
+          "mid": "/m/01m3v",
+          "score": 0.9382556,
+          "topicality": 0.09234111
+        },
+        {
+          "description": "Personal computer",
+          "mid": "/m/0643t",
+          "score": 0.9381197,
+          "topicality": 0.010691707
+        },
+        {
+          "description": "Office Equipment",
+          "mid": "/m/03qtgjk",
+          "score": 0.93763125,
+          "topicality": 0.00037900227
+        },
+        {
+          "description": "Communication Device",
+          "mid": "/m/0glmwd6",
+          "score": 0.9278272,
+          "topicality": 6.199816e-05
+        },
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.91235304,
+          "topicality": 0.13832743
+        },
+        {
+          "description": "Display device",
+          "mid": "/m/029zz6",
+          "score": 0.9106296,
+          "topicality": 0.000108901695
+        },
+        {
+          "description": "Learning",
+          "mid": "/m/0191f8",
+          "score": 0.90614694,
+          "topicality": 0.17996264
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.8977208,
+          "topicality": 0.001395568
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.89629626,
+          "topicality": 0.0058444752
+        }
+      ]
+    }
+  ]
+}

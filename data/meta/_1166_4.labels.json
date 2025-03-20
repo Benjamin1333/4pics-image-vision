@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blade",
+          "mid": "/m/01tr_g",
+          "score": 0.94002634,
+          "topicality": 0.21639295
+        },
+        {
+          "description": "Knife",
+          "mid": "/m/04ctx",
+          "score": 0.9349485,
+          "topicality": 0.5891915
+        },
+        {
+          "description": "Tool",
+          "mid": "/m/07k1x",
+          "score": 0.88179696,
+          "topicality": 0.38774383
+        },
+        {
+          "description": "Kitchen utensil",
+          "mid": "/m/03hlz0c",
+          "score": 0.85322195,
+          "topicality": 0.0118053835
+        },
+        {
+          "description": "Kitchen knife",
+          "mid": "/m/058qzx",
+          "score": 0.7007091,
+          "topicality": 0.13751031
+        },
+        {
+          "description": "Utility knife",
+          "mid": "/m/01bq_",
+          "score": 0.68793756,
+          "topicality": 0.18957168
+        },
+        {
+          "description": "Steel",
+          "mid": "/m/06qqb",
+          "score": 0.63863534,
+          "topicality": 0.18906541
+        },
+        {
+          "description": "Hand tool",
+          "mid": "/m/01yc83",
+          "score": 0.6351708,
+          "topicality": 0.040268246
+        },
+        {
+          "description": "Office Instrument",
+          "mid": "/m/0h8m01z",
+          "score": 0.62097466,
+          "topicality": 6.670867e-06
+        },
+        {
+          "description": "Household hardware",
+          "mid": "/m/03jvk",
+          "score": 0.5985114,
+          "topicality": 0.0004793816
+        }
+      ]
+    }
+  ]
+}

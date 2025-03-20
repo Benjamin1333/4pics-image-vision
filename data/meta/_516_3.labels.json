@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8358102,
+          "topicality": 0.013598821
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.59923077,
+          "topicality": 0.006928206
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.55615216,
+          "topicality": 0.0048910095
+        }
+      ]
+    }
+  ]
+}

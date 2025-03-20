@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.9253608,
+          "topicality": 0.112671345
+        },
+        {
+          "description": "Bar Soap",
+          "mid": "/m/0h8ldst",
+          "score": 0.8967926,
+          "topicality": 0.8691649
+        },
+        {
+          "description": "Personal care",
+          "mid": "/m/02w3_ws",
+          "score": 0.8553218,
+          "topicality": 0.016287956
+        },
+        {
+          "description": "Soap",
+          "mid": "/m/0fw68",
+          "score": 0.79871184,
+          "topicality": 0.97488433
+        },
+        {
+          "description": "Wax",
+          "mid": "/m/0fy__",
+          "score": 0.598934,
+          "topicality": 0.014787985
+        },
+        {
+          "description": "Cosmetics",
+          "mid": "/m/014trl",
+          "score": 0.5949059,
+          "topicality": 0.021431299
+        },
+        {
+          "description": "Sponge",
+          "mid": "/m/027y004",
+          "score": 0.52539605,
+          "topicality": 0.25395304
+        }
+      ]
+    }
+  ]
+}

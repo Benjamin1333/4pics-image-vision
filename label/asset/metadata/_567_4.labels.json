@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.9803712,
+          "topicality": 0.0016701533
+        },
+        {
+          "description": "Display device",
+          "mid": "/m/029zz6",
+          "score": 0.95944095,
+          "topicality": 0.09463681
+        },
+        {
+          "description": "Computer monitor",
+          "mid": "/m/02522",
+          "score": 0.9473027,
+          "topicality": 0.52856934
+        },
+        {
+          "description": "Computer",
+          "mid": "/m/01m3v",
+          "score": 0.9299459,
+          "topicality": 0.44441724
+        },
+        {
+          "description": "Peripheral",
+          "mid": "/m/0ggnq",
+          "score": 0.92761797,
+          "topicality": 0.0042732004
+        },
+        {
+          "description": "Output device",
+          "mid": "/m/044_87",
+          "score": 0.9163361,
+          "topicality": 0.044635247
+        },
+        {
+          "description": "Flat-panel display",
+          "mid": "/m/01qwsw",
+          "score": 0.8973517,
+          "topicality": 0.17331874
+        },
+        {
+          "description": "Personal computer",
+          "mid": "/m/0643t",
+          "score": 0.8942375,
+          "topicality": 0.14623462
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8574731,
+          "topicality": 0.013903078
+        },
+        {
+          "description": "Computer hardware",
+          "mid": "/m/01mfj",
+          "score": 0.8335761,
+          "topicality": 0.011018154
+        }
+      ]
+    }
+  ]
+}

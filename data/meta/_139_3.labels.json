@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.98811746,
+          "topicality": 0.0014294364
+        },
+        {
+          "description": "Boat",
+          "mid": "/m/019jd",
+          "score": 0.98577935,
+          "topicality": 0.14965469
+        },
+        {
+          "description": "Watercraft",
+          "mid": "/m/01rzcn",
+          "score": 0.96578056,
+          "topicality": 0.06748821
+        },
+        {
+          "description": "Fluid",
+          "mid": "/m/02yfx",
+          "score": 0.95348513,
+          "topicality": 0.00023198462
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.9489553,
+          "topicality": 0.35663864
+        },
+        {
+          "description": "Beach",
+          "mid": "/m/0b3yr",
+          "score": 0.924602,
+          "topicality": 0.2946681
+        },
+        {
+          "description": "Coastal and oceanic landforms",
+          "mid": "/m/02c9_23",
+          "score": 0.9193165,
+          "topicality": 0.0020986008
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.91163605,
+          "topicality": 0.051287595
+        },
+        {
+          "description": "Coast",
+          "mid": "/m/01lxd",
+          "score": 0.87752926,
+          "topicality": 0.072872944
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.8415302,
+          "topicality": 0.00024466982
+        }
+      ]
+    }
+  ]
+}

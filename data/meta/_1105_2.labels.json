@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sphere",
+          "mid": "/m/06y47",
+          "score": 0.9128023,
+          "topicality": 0.48384812
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.7545343,
+          "topicality": 0.0004003309
+        },
+        {
+          "description": "Glass",
+          "mid": "/m/039jq",
+          "score": 0.75077677,
+          "topicality": 0.09185003
+        },
+        {
+          "description": "Natural material",
+          "mid": "/m/07sx2n",
+          "score": 0.71361476,
+          "topicality": 0.003739289
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.6563766,
+          "topicality": 0.0026555746
+        },
+        {
+          "description": "Christmas ornament",
+          "mid": "/m/04kwhq",
+          "score": 0.6444343,
+          "topicality": 0.008030472
+        },
+        {
+          "description": "Ball",
+          "mid": "/m/018xm",
+          "score": 0.6137061,
+          "topicality": 0.18490194
+        },
+        {
+          "description": "Paperweight",
+          "mid": "/m/0h8k6gj",
+          "score": 0.58472425,
+          "topicality": 0.01245734
+        }
+      ]
+    }
+  ]
+}

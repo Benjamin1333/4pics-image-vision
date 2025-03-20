@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9654964,
+          "topicality": 0.063389495
+        },
+        {
+          "description": "Game",
+          "mid": "/m/03bt1gh",
+          "score": 0.887117,
+          "topicality": 0.13302025
+        },
+        {
+          "description": "Card game",
+          "mid": "/m/01mtt",
+          "score": 0.8132115,
+          "topicality": 0.4713071
+        },
+        {
+          "description": "Indoor games and sports",
+          "mid": "/m/0b42l9",
+          "score": 0.75652695,
+          "topicality": 1.3893872e-05
+        },
+        {
+          "description": "Gambling",
+          "mid": "/m/034dj",
+          "score": 0.7169712,
+          "topicality": 0.12816867
+        },
+        {
+          "description": "Tabletop game",
+          "mid": "/m/03jj52",
+          "score": 0.57295513,
+          "topicality": 0.0035512953
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Binoculars",
+          "mid": "/m/0lt4_",
+          "score": 0.984633,
+          "topicality": 0.83660793
+        },
+        {
+          "description": "Optical instrument",
+          "mid": "/m/05mfbz",
+          "score": 0.8946091,
+          "topicality": 0.014325789
+        },
+        {
+          "description": "People in nature",
+          "mid": "/j/3gbwgn",
+          "score": 0.8318685,
+          "topicality": 0.0008287642
+        },
+        {
+          "description": "Blond",
+          "mid": "/m/0294jb",
+          "score": 0.8143397,
+          "topicality": 0.007860115
+        },
+        {
+          "description": "Brown hair",
+          "mid": "/m/02ksmb",
+          "score": 0.7868162,
+          "topicality": 0.005336495
+        },
+        {
+          "description": "Lens",
+          "mid": "/m/04n4x",
+          "score": 0.6990695,
+          "topicality": 0.05036481
+        }
+      ]
+    }
+  ]
+}

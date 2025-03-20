@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Water resources",
+          "mid": "/m/015s2f",
+          "score": 0.98591226,
+          "topicality": 0.08625454
+        },
+        {
+          "description": "Body of water",
+          "mid": "/m/03ktm1",
+          "score": 0.9791923,
+          "topicality": 0.018742848
+        },
+        {
+          "description": "Waterway",
+          "mid": "/m/017m8l",
+          "score": 0.9577466,
+          "topicality": 0.024342585
+        },
+        {
+          "description": "Watercourse",
+          "mid": "/m/03kj4q",
+          "score": 0.8997727,
+          "topicality": 0.011407282
+        },
+        {
+          "description": "Fluvial landforms of streams",
+          "mid": "/m/019gvf",
+          "score": 0.8950291,
+          "topicality": 0.0009974099
+        },
+        {
+          "description": "Bank",
+          "mid": "/m/05t0z3q",
+          "score": 0.88804775,
+          "topicality": 0.031294454
+        },
+        {
+          "description": "River",
+          "mid": "/m/06cnp",
+          "score": 0.87336546,
+          "topicality": 0.62444466
+        },
+        {
+          "description": "Channel",
+          "mid": "/m/03h5wy",
+          "score": 0.8540573,
+          "topicality": 0.013151883
+        },
+        {
+          "description": "Floodplain",
+          "mid": "/m/0j6jq",
+          "score": 0.75960535,
+          "topicality": 0.011172258
+        },
+        {
+          "description": "Aerial photography",
+          "mid": "/m/01w5c_",
+          "score": 0.75379694,
+          "topicality": 0.005993766
+        }
+      ]
+    }
+  ]
+}

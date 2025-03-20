@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.95106155,
+          "topicality": 0.028308015
+        },
+        {
+          "description": "Powder",
+          "mid": "/m/0gzznm",
+          "score": 0.9231463,
+          "topicality": 0.09014197
+        },
+        {
+          "description": "Flour",
+          "mid": "/m/0fkw3",
+          "score": 0.9033838,
+          "topicality": 0.21214868
+        },
+        {
+          "description": "Bread Flour",
+          "mid": "/m/0hnqgsf",
+          "score": 0.8525445,
+          "topicality": 0.013394606
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.80217415,
+          "topicality": 0.12412522
+        },
+        {
+          "description": "Kitchen utensil",
+          "mid": "/m/03hlz0c",
+          "score": 0.7612212,
+          "topicality": 0.009051475
+        },
+        {
+          "description": "All-purpose Flour",
+          "mid": "/m/05yr1lg",
+          "score": 0.75576586,
+          "topicality": 0.020042274
+        },
+        {
+          "description": "Cooking",
+          "mid": "/m/01mtb",
+          "score": 0.7158624,
+          "topicality": 0.04606634
+        },
+        {
+          "description": "Wheat flour",
+          "mid": "/m/06zts5l",
+          "score": 0.67659515,
+          "topicality": 0.1435434
+        },
+        {
+          "description": "Rice flour",
+          "mid": "/m/027r06p",
+          "score": 0.6717489,
+          "topicality": 0.03559909
+        }
+      ]
+    }
+  ]
+}

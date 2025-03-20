@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Star",
+          "mid": "/m/06ngk",
+          "score": 0.7790211,
+          "topicality": 0.20120475
+        },
+        {
+          "description": "Night",
+          "mid": "/m/01d74z",
+          "score": 0.7740387,
+          "topicality": 0.10660824
+        },
+        {
+          "description": "Nativity scene",
+          "mid": "/m/0170gz",
+          "score": 0.71932906,
+          "topicality": 0.6322495
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.69916934,
+          "topicality": 0.013671244
+        },
+        {
+          "description": "Holiday",
+          "mid": "/m/03gkl",
+          "score": 0.62217724,
+          "topicality": 0.10260541
+        },
+        {
+          "description": "Animation",
+          "mid": "/m/0hcr",
+          "score": 0.6215772,
+          "topicality": 0.00041531568
+        }
+      ]
+    }
+  ]
+}

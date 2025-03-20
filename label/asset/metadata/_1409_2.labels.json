@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Automobile repair shop",
+          "mid": "/m/0dgc3t",
+          "score": 0.9632653,
+          "topicality": 0.7246907
+        },
+        {
+          "description": "Mechanic",
+          "mid": "/m/03f_s3",
+          "score": 0.962402,
+          "topicality": 0.6839438
+        },
+        {
+          "description": "Workwear",
+          "mid": "/m/026lc7w",
+          "score": 0.9255372,
+          "topicality": 0.0022599173
+        },
+        {
+          "description": "Auto mechanic",
+          "mid": "/m/081pl8",
+          "score": 0.918301,
+          "topicality": 0.82881445
+        },
+        {
+          "description": "Blue-collar worker",
+          "mid": "/m/01kq3f",
+          "score": 0.88800174,
+          "topicality": 0.0095172925
+        },
+        {
+          "description": "Workshop",
+          "mid": "/m/026zs_",
+          "score": 0.87171793,
+          "topicality": 0.3838681
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.79219204,
+          "topicality": 0.0027221534
+        },
+        {
+          "description": "Engineering",
+          "mid": "/m/02ky346",
+          "score": 0.7708282,
+          "topicality": 0.009323182
+        },
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.73945665,
+          "topicality": 0.02393722
+        },
+        {
+          "description": "Automotive Care",
+          "mid": "/m/0h8nz9n",
+          "score": 0.73197657,
+          "topicality": 0.008403357
+        }
+      ]
+    }
+  ]
+}

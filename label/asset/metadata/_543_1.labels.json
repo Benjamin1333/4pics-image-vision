@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.99017644,
+          "topicality": 0.18513288
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9726054,
+          "topicality": 0.057785403
+        },
+        {
+          "description": "Tableware",
+          "mid": "/m/04brg2",
+          "score": 0.9182497,
+          "topicality": 0.0011546967
+        },
+        {
+          "description": "Finger food",
+          "mid": "/m/0b3dyl",
+          "score": 0.9008502,
+          "topicality": 0.003946044
+        },
+        {
+          "description": "Totopo",
+          "mid": "/m/025t_hl",
+          "score": 0.89841765,
+          "topicality": 0.021073408
+        },
+        {
+          "description": "Dipping sauce",
+          "mid": "/m/05wgx5",
+          "score": 0.8799832,
+          "topicality": 0.43209887
+        },
+        {
+          "description": "Condiment",
+          "mid": "/m/0gtdm",
+          "score": 0.874078,
+          "topicality": 0.014194788
+        },
+        {
+          "description": "Sauce",
+          "mid": "/m/0grqz",
+          "score": 0.8686692,
+          "topicality": 0.38186082
+        },
+        {
+          "description": "Corn chip",
+          "mid": "/m/06y5g3",
+          "score": 0.8559286,
+          "topicality": 0.07432905
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.84722924,
+          "topicality": 5.584417e-05
+        }
+      ]
+    }
+  ]
+}

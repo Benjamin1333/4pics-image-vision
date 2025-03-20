@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Adapter",
+          "mid": "/m/02ztj6",
+          "score": 0.8180514,
+          "topicality": 0.2420453
+        },
+        {
+          "description": "AC power plugs and sockets",
+          "mid": "/m/03bbps",
+          "score": 0.7161665,
+          "topicality": 0.69694304
+        },
+        {
+          "description": "Adapter",
+          "mid": "/m/0cw1wr",
+          "score": 0.69363487,
+          "topicality": 0.015426487
+        },
+        {
+          "description": "Electrical Supply",
+          "mid": "/m/0cmsl0l",
+          "score": 0.6291352,
+          "topicality": 0.0014510852
+        },
+        {
+          "description": "Wire",
+          "mid": "/m/083kv",
+          "score": 0.57522506,
+          "topicality": 0.0038011381
+        }
+      ]
+    }
+  ]
+}

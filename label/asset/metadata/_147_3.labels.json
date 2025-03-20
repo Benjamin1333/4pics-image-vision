@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Green",
+          "mid": "/m/038hg",
+          "score": 0.9786293,
+          "topicality": 0.44834942
+        },
+        {
+          "description": "Close-up",
+          "mid": "/m/02cqfm",
+          "score": 0.85644543,
+          "topicality": 0.023906115
+        },
+        {
+          "description": "Palm trees",
+          "mid": "/m/0cdl1",
+          "score": 0.7476446,
+          "topicality": 0.8009869
+        },
+        {
+          "description": "Royal palms",
+          "mid": "/m/095r3k",
+          "score": 0.6069125,
+          "topicality": 0.00064779626
+        },
+        {
+          "description": "Cycad",
+          "mid": "/m/01g686",
+          "score": 0.58744633,
+          "topicality": 0.011384644
+        },
+        {
+          "description": "Tropics",
+          "mid": "/m/0hl08",
+          "score": 0.58456343,
+          "topicality": 0.24271311
+        },
+        {
+          "description": "Coconut",
+          "mid": "/m/0djtd",
+          "score": 0.551411,
+          "topicality": 0.2809672
+        },
+        {
+          "description": "Evergreen",
+          "mid": "/m/0hlzc",
+          "score": 0.5375365,
+          "topicality": 0.00813416
+        }
+      ]
+    }
+  ]
+}

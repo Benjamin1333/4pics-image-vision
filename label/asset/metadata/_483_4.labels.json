@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.8873124,
+          "topicality": 0.004062995
+        },
+        {
+          "description": "Child art",
+          "mid": "/m/06h5_j",
+          "score": 0.8546451,
+          "topicality": 0.28215873
+        },
+        {
+          "description": "Writing implement",
+          "mid": "/m/06wybl",
+          "score": 0.82843703,
+          "topicality": 0.0055127484
+        },
+        {
+          "description": "Stationery",
+          "mid": "/m/01cndb",
+          "score": 0.7891611,
+          "topicality": 0.03425066
+        },
+        {
+          "description": "Paint",
+          "mid": "/m/05y4t",
+          "score": 0.6869833,
+          "topicality": 0.07101413
+        },
+        {
+          "description": "Art Paint",
+          "mid": "/m/0h90w5d",
+          "score": 0.6473562,
+          "topicality": 0.0004956313
+        },
+        {
+          "description": "Office Instrument",
+          "mid": "/m/0h8m01z",
+          "score": 0.61808866,
+          "topicality": 0.00031680605
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.6027358,
+          "topicality": 0.008804511
+        },
+        {
+          "description": "Watercolor painting",
+          "mid": "/m/018ktp",
+          "score": 0.56884336,
+          "topicality": 0.051014267
+        }
+      ]
+    }
+  ]
+}

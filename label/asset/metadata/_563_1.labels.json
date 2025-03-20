@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Cheek",
+          "mid": "/m/037p5b",
+          "score": 0.9868365,
+          "topicality": 0.018077755
+        },
+        {
+          "description": "Eyebrow",
+          "mid": "/m/027n3_",
+          "score": 0.98562574,
+          "topicality": 0.0029629986
+        },
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.9847958,
+          "topicality": 0.009080846
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9847447,
+          "topicality": 0.04632742
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.9839015,
+          "topicality": 0.12260984
+        },
+        {
+          "description": "Skin",
+          "mid": "/m/06z04",
+          "score": 0.9820708,
+          "topicality": 0.008309849
+        },
+        {
+          "description": "Forehead",
+          "mid": "/m/025kyy",
+          "score": 0.98073447,
+          "topicality": 0.014548016
+        },
+        {
+          "description": "Hairstyle",
+          "mid": "/m/0ds4x",
+          "score": 0.9697618,
+          "topicality": 0.0049622064
+        },
+        {
+          "description": "Beauty",
+          "mid": "/m/01f43",
+          "score": 0.9660213,
+          "topicality": 0.008576563
+        },
+        {
+          "description": "Eyelash",
+          "mid": "/m/03f52z",
+          "score": 0.9566473,
+          "topicality": 0.0012271141
+        }
+      ]
+    }
+  ]
+}

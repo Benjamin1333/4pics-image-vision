@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Loudspeaker",
+          "mid": "/m/0cfpc",
+          "score": 0.8538308,
+          "topicality": 0.60075027
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.6770596,
+          "topicality": 0.0038684485
+        }
+      ]
+    }
+  ]
+}

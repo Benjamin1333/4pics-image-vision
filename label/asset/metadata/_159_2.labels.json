@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.9349813,
+          "topicality": 0.19766437
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.87384015,
+          "topicality": 0.010920615
+        },
+        {
+          "description": "Fish products",
+          "mid": "/m/03ylp97",
+          "score": 0.8054653,
+          "topicality": 0.036850795
+        },
+        {
+          "description": "Seafood",
+          "mid": "/m/06nwz",
+          "score": 0.79715574,
+          "topicality": 0.14493808
+        },
+        {
+          "description": "Vegetable",
+          "mid": "/m/0f4s2w",
+          "score": 0.64626884,
+          "topicality": 0.16063538
+        },
+        {
+          "description": "Recipe",
+          "mid": "/m/0p57p",
+          "score": 0.624279,
+          "topicality": 0.020458909
+        },
+        {
+          "description": "Fish",
+          "mid": "/m/07pbfj",
+          "score": 0.5991938,
+          "topicality": 0.2382831
+        },
+        {
+          "description": "Fish",
+          "mid": "/m/0ch_cf",
+          "score": 0.56637615,
+          "topicality": 0.73615676
+        }
+      ]
+    }
+  ]
+}

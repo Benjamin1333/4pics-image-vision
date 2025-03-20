@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Display device",
+          "mid": "/m/029zz6",
+          "score": 0.7985463,
+          "topicality": 0.007264753
+        },
+        {
+          "description": "Advertising",
+          "mid": "/m/011s0",
+          "score": 0.5608192,
+          "topicality": 0.010220947
+        },
+        {
+          "description": "Walking",
+          "mid": "/m/083mg",
+          "score": 0.5483686,
+          "topicality": 0.0066622896
+        },
+        {
+          "description": "Airport terminal",
+          "mid": "/m/026smn",
+          "score": 0.5470657,
+          "topicality": 0.025913406
+        }
+      ]
+    }
+  ]
+}

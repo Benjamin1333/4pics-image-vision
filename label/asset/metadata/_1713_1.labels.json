@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.94353414,
+          "topicality": 0.010405527
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.90113646,
+          "topicality": 0.09440485
+        },
+        {
+          "description": "Bread",
+          "mid": "/m/09728",
+          "score": 0.8822805,
+          "topicality": 0.5504182
+        },
+        {
+          "description": "Basket",
+          "mid": "/m/01z562",
+          "score": 0.83477175,
+          "topicality": 0.06077378
+        },
+        {
+          "description": "Staple food",
+          "mid": "/m/022tld",
+          "score": 0.77800536,
+          "topicality": 0.0067293392
+        },
+        {
+          "description": "Rye bread",
+          "mid": "/m/07qmlj",
+          "score": 0.768077,
+          "topicality": 0.1154658
+        },
+        {
+          "description": "Brown bread",
+          "mid": "/m/02pb9jl",
+          "score": 0.74705595,
+          "topicality": 0.026170956
+        },
+        {
+          "description": "Baking",
+          "mid": "/m/0dv34",
+          "score": 0.7185367,
+          "topicality": 0.023756014
+        },
+        {
+          "description": "Still life",
+          "mid": "/m/01spzs",
+          "score": 0.7098341,
+          "topicality": 0.20672461
+        },
+        {
+          "description": "Sourdough",
+          "mid": "/m/019xdq",
+          "score": 0.6869737,
+          "topicality": 0.032356493
+        }
+      ]
+    }
+  ]
+}

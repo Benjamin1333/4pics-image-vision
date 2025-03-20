@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "People",
+          "mid": "/m/09g5pq",
+          "score": 0.9943332,
+          "topicality": 0.0037053586
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9852514,
+          "topicality": 0.06943711
+        },
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.9512049,
+          "topicality": 0.060034245
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.9493755,
+          "topicality": 0.2973536
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.94303167,
+          "topicality": 0.16426013
+        },
+        {
+          "description": "Summer",
+          "mid": "/m/078qz",
+          "score": 0.9320189,
+          "topicality": 0.14121787
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.9266413,
+          "topicality": 0.11003426
+        },
+        {
+          "description": "Friendship",
+          "mid": "/m/019_nn",
+          "score": 0.9046188,
+          "topicality": 0.0647756
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.8876994,
+          "topicality": 0.015311299
+        },
+        {
+          "description": "Spring",
+          "mid": "/m/01txr2",
+          "score": 0.8710138,
+          "topicality": 0.006913602
+        }
+      ]
+    }
+  ]
+}

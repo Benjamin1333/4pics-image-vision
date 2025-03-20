@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sports venue",
+          "mid": "/m/0bmgjqz",
+          "score": 0.9882164,
+          "topicality": 0.0032956563
+        },
+        {
+          "description": "Protective gear in sports",
+          "mid": "/m/0n49352",
+          "score": 0.98407114,
+          "topicality": 0.0028117618
+        },
+        {
+          "description": "Sports Uniform",
+          "mid": "/m/0h8mhzd",
+          "score": 0.9831563,
+          "topicality": 0.014275189
+        },
+        {
+          "description": "Bat-and-ball games",
+          "mid": "/m/027zgtw",
+          "score": 0.98004514,
+          "topicality": 0.012755007
+        },
+        {
+          "description": "Baseball field",
+          "mid": "/m/03v7tf",
+          "score": 0.97624815,
+          "topicality": 0.11844376
+        },
+        {
+          "description": "Baseball",
+          "mid": "/m/018jz",
+          "score": 0.9646567,
+          "topicality": 0.714693
+        },
+        {
+          "description": "Uniform",
+          "mid": "/m/09jfs",
+          "score": 0.96239793,
+          "topicality": 0.004903099
+        },
+        {
+          "description": "Stadium",
+          "mid": "/m/019cfy",
+          "score": 0.9590331,
+          "topicality": 0.02028534
+        },
+        {
+          "description": "baseball equipment",
+          "mid": "/m/07pdzb4",
+          "score": 0.9581833,
+          "topicality": 0.024548886
+        },
+        {
+          "description": "Jersey",
+          "mid": "/m/02h00q",
+          "score": 0.95432144,
+          "topicality": 0.008093926
+        }
+      ]
+    }
+  ]
+}

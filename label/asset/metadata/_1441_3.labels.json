@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Glass",
+          "mid": "/m/039jq",
+          "score": 0.8330477,
+          "topicality": 0.055279776
+        },
+        {
+          "description": "Daylighting",
+          "mid": "/m/0k2n5",
+          "score": 0.6514868,
+          "topicality": 0.005204694
+        }
+      ]
+    }
+  ]
+}

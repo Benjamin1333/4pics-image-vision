@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Pipe",
+          "mid": "/m/09w9qp",
+          "score": 0.97302395,
+          "topicality": 0.036104262
+        },
+        {
+          "description": "Pollution",
+          "mid": "/m/066xq",
+          "score": 0.9647906,
+          "topicality": 0.24889478
+        },
+        {
+          "description": "Industry",
+          "mid": "/m/03rnh",
+          "score": 0.93756545,
+          "topicality": 0.21225846
+        },
+        {
+          "description": "Smoke",
+          "mid": "/m/06q40",
+          "score": 0.9286116,
+          "topicality": 0.19420475
+        },
+        {
+          "description": "Chimney",
+          "mid": "/m/01jk_4",
+          "score": 0.8964332,
+          "topicality": 0.34288037
+        },
+        {
+          "description": "Cylinder",
+          "mid": "/m/03h_4m",
+          "score": 0.7918465,
+          "topicality": 0.006865158
+        },
+        {
+          "description": "Factory",
+          "mid": "/m/0168g6",
+          "score": 0.77201295,
+          "topicality": 0.13795602
+        },
+        {
+          "description": "Steam",
+          "mid": "/m/06wzb",
+          "score": 0.7338744,
+          "topicality": 0.021660242
+        },
+        {
+          "description": "Power station",
+          "mid": "/m/01f2sl",
+          "score": 0.6701331,
+          "topicality": 0.37333733
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.5271537,
+          "topicality": 0.032646954
+        }
+      ]
+    }
+  ]
+}

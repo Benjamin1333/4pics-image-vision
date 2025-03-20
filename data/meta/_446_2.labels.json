@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9736707,
+          "topicality": 0.015356599
+        },
+        {
+          "description": "Payment card",
+          "mid": "/m/09vh0m",
+          "score": 0.9723929,
+          "topicality": 0.30227128
+        },
+        {
+          "description": "Credit card",
+          "mid": "/m/0d7pp",
+          "score": 0.91609687,
+          "topicality": 0.965384
+        },
+        {
+          "description": "Debit card",
+          "mid": "/m/02h5d",
+          "score": 0.9050593,
+          "topicality": 0.75989336
+        }
+      ]
+    }
+  ]
+}

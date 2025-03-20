@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Musical instrument",
+          "mid": "/m/04szw",
+          "score": 0.9938208,
+          "topicality": 0.28934717
+        },
+        {
+          "description": "String instrument",
+          "mid": "/m/0d8lm",
+          "score": 0.99087757,
+          "topicality": 0.2851838
+        },
+        {
+          "description": "Chordophone",
+          "mid": "/m/011_f4",
+          "score": 0.98549783,
+          "topicality": 0.0023310385
+        },
+        {
+          "description": "Music",
+          "mid": "/m/04rlf",
+          "score": 0.9816324,
+          "topicality": 0.6080345
+        },
+        {
+          "description": "Violin family",
+          "mid": "/m/08wxk8",
+          "score": 0.9736504,
+          "topicality": 0.040140595
+        },
+        {
+          "description": "Bowed string instrument",
+          "mid": "/m/0l14_3",
+          "score": 0.9440396,
+          "topicality": 0.10260529
+        },
+        {
+          "description": "Folk instrument",
+          "mid": "/m/06203h",
+          "score": 0.9356261,
+          "topicality": 0.0002372986
+        },
+        {
+          "description": "Violin",
+          "mid": "/m/07y_7",
+          "score": 0.92998326,
+          "topicality": 0.70409644
+        },
+        {
+          "description": "Fiddle",
+          "mid": "/m/02w3w",
+          "score": 0.9290961,
+          "topicality": 0.03284284
+        },
+        {
+          "description": "Classical music",
+          "mid": "/m/0ggq0m",
+          "score": 0.92236483,
+          "topicality": 0.20214225
+        }
+      ]
+    }
+  ]
+}

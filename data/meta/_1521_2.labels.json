@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Lighthouse",
+          "mid": "/m/04h7h",
+          "score": 0.9910239,
+          "topicality": 0.9889052
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9741744,
+          "topicality": 0.022342348
+        },
+        {
+          "description": "Tower",
+          "mid": "/m/01fdzj",
+          "score": 0.9591273,
+          "topicality": 0.13073069
+        },
+        {
+          "description": "Beacon",
+          "mid": "/m/017hf",
+          "score": 0.9546314,
+          "topicality": 0.9270408
+        },
+        {
+          "description": "Cylinder",
+          "mid": "/m/03h_4m",
+          "score": 0.80857855,
+          "topicality": 0.03288334
+        },
+        {
+          "description": "Evening",
+          "mid": "/m/04mx32",
+          "score": 0.742646,
+          "topicality": 0.02850854
+        },
+        {
+          "description": "Dusk",
+          "mid": "/m/01b3l7",
+          "score": 0.7130769,
+          "topicality": 0.020236624
+        },
+        {
+          "description": "Night",
+          "mid": "/m/01d74z",
+          "score": 0.5452467,
+          "topicality": 0.049293254
+        },
+        {
+          "description": "Afterglow",
+          "mid": "/m/013vs",
+          "score": 0.5407616,
+          "topicality": 0.014681109
+        },
+        {
+          "description": "Sunset",
+          "mid": "/m/01b2w5",
+          "score": 0.53747344,
+          "topicality": 0.25657284
+        }
+      ]
+    }
+  ]
+}

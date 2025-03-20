@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Snow",
+          "mid": "/m/06_dn",
+          "score": 0.99090946,
+          "topicality": 0.3335159
+        },
+        {
+          "description": "Winter",
+          "mid": "/m/086mh",
+          "score": 0.9806352,
+          "topicality": 0.32562312
+        },
+        {
+          "description": "Mountainous landforms",
+          "mid": "/g/11jxkqbpp",
+          "score": 0.9764868,
+          "topicality": 0.0017560926
+        },
+        {
+          "description": "Mountain",
+          "mid": "/m/09d_r",
+          "score": 0.9636766,
+          "topicality": 0.27198187
+        },
+        {
+          "description": "Glacial landform",
+          "mid": "/m/055s40",
+          "score": 0.9355975,
+          "topicality": 0.00061890035
+        },
+        {
+          "description": "Mountain range",
+          "mid": "/m/04wxr",
+          "score": 0.9089886,
+          "topicality": 0.02605706
+        },
+        {
+          "description": "Terrain",
+          "mid": "/m/025tn5c",
+          "score": 0.9059088,
+          "topicality": 0.0027119615
+        },
+        {
+          "description": "Freezing",
+          "mid": "/m/01c791",
+          "score": 0.89857984,
+          "topicality": 0.005020646
+        },
+        {
+          "description": "geological phenomenon",
+          "mid": "/m/07sn5gn",
+          "score": 0.8808822,
+          "topicality": 0.00012426825
+        },
+        {
+          "description": "Hill station",
+          "mid": "/m/040h04",
+          "score": 0.8798548,
+          "topicality": 0.01633447
+        }
+      ]
+    }
+  ]
+}

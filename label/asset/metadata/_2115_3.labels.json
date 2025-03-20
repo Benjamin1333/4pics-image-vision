@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bottle",
+          "mid": "/m/04dr76w",
+          "score": 0.97875226,
+          "topicality": 0.15874758
+        },
+        {
+          "description": "Baby bottle",
+          "mid": "/m/01fqc_",
+          "score": 0.9775556,
+          "topicality": 0.49549705
+        },
+        {
+          "description": "Teddy bear",
+          "mid": "/m/0kmg4",
+          "score": 0.9288386,
+          "topicality": 0.017767563
+        },
+        {
+          "description": "Stuffed toy",
+          "mid": "/m/021mh_",
+          "score": 0.877294,
+          "topicality": 0.010237907
+        },
+        {
+          "description": "Personal care",
+          "mid": "/m/02w3_ws",
+          "score": 0.8742598,
+          "topicality": 0.012955993
+        },
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.8649322,
+          "topicality": 0.10153803
+        },
+        {
+          "description": "Plush",
+          "mid": "/m/025rgl",
+          "score": 0.8180066,
+          "topicality": 0.001928528
+        },
+        {
+          "description": "Baby toys",
+          "mid": "/m/0cm3fq4",
+          "score": 0.7831435,
+          "topicality": 0.008666899
+        },
+        {
+          "description": "Plastic bottle",
+          "mid": "/m/02rlncx",
+          "score": 0.7332949,
+          "topicality": 0.004076256
+        },
+        {
+          "description": "Bear",
+          "mid": "/m/01dws",
+          "score": 0.7192992,
+          "topicality": 0.011413137
+        }
+      ]
+    }
+  ]
+}

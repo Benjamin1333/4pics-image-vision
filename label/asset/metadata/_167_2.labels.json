@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.9892982,
+          "topicality": 0.08880442
+        },
+        {
+          "description": "Door",
+          "mid": "/m/02dgv",
+          "score": 0.96746373,
+          "topicality": 0.9040336
+        },
+        {
+          "description": "Wood",
+          "mid": "/m/083vt",
+          "score": 0.9635829,
+          "topicality": 0.016537126
+        },
+        {
+          "description": "Home Door",
+          "mid": "/m/0h8n9b2",
+          "score": 0.95503664,
+          "topicality": 0.045456618
+        },
+        {
+          "description": "Composite material",
+          "mid": "/m/014qzr",
+          "score": 0.8802411,
+          "topicality": 0.0012259206
+        },
+        {
+          "description": "Door handle",
+          "mid": "/m/03c7gz",
+          "score": 0.86209327,
+          "topicality": 0.16557997
+        },
+        {
+          "description": "Grey",
+          "mid": "/m/036k5h",
+          "score": 0.8293831,
+          "topicality": 0.001894374
+        },
+        {
+          "description": "Metal",
+          "mid": "/m/04t7l",
+          "score": 0.8178025,
+          "topicality": 0.008814193
+        },
+        {
+          "description": "Molding",
+          "mid": "/m/04yhpc",
+          "score": 0.78795725,
+          "topicality": 0.021745378
+        },
+        {
+          "description": "Glass",
+          "mid": "/m/039jq",
+          "score": 0.77477986,
+          "topicality": 0.0094994325
+        }
+      ]
+    }
+  ]
+}

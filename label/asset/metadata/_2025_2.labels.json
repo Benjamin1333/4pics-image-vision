@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.9876854,
+          "topicality": 0.46353415
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.9760627,
+          "topicality": 0.22215565
+        },
+        {
+          "description": "Tomato",
+          "mid": "/m/07j87",
+          "score": 0.97421664,
+          "topicality": 0.7135812
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.9684661,
+          "topicality": 0.09336746
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.96722275,
+          "topicality": 0.1604942
+        },
+        {
+          "description": "Vegetable",
+          "mid": "/m/0f4s2w",
+          "score": 0.96447134,
+          "topicality": 0.72735363
+        },
+        {
+          "description": "Cherry tomato",
+          "mid": "/m/08b4g7",
+          "score": 0.95065165,
+          "topicality": 0.24813904
+        },
+        {
+          "description": "Bush tomato",
+          "mid": "/m/025tg_m",
+          "score": 0.950623,
+          "topicality": 0.010098915
+        },
+        {
+          "description": "Plum tomato",
+          "mid": "/m/09y4sj",
+          "score": 0.93247527,
+          "topicality": 0.013449433
+        },
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.9295175,
+          "topicality": 0.12592241
+        }
+      ]
+    }
+  ]
+}

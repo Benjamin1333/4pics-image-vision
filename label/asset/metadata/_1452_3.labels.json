@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.9734092,
+          "topicality": 0.0074761324
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.9166813,
+          "topicality": 0.00372568
+        },
+        {
+          "description": "Thumb",
+          "mid": "/m/01bmhj",
+          "score": 0.8755362,
+          "topicality": 0.0035806312
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.8359092,
+          "topicality": 0.00428328
+        },
+        {
+          "description": "Foot",
+          "mid": "/m/031n1",
+          "score": 0.7948143,
+          "topicality": 0.057574242
+        },
+        {
+          "description": "Barefoot",
+          "mid": "/m/049lwx",
+          "score": 0.7793401,
+          "topicality": 0.019156964
+        },
+        {
+          "description": "Yoga",
+          "mid": "/m/087zy",
+          "score": 0.7137793,
+          "topicality": 0.27548665
+        },
+        {
+          "description": "Toe",
+          "mid": "/m/01d_ff",
+          "score": 0.712626,
+          "topicality": 0.005455575
+        },
+        {
+          "description": "Balance",
+          "mid": "/m/03gs8b2",
+          "score": 0.6012517,
+          "topicality": 0.012933451
+        },
+        {
+          "description": "Exercise",
+          "mid": "/m/019w6h",
+          "score": 0.53705114,
+          "topicality": 0.012547388
+        }
+      ]
+    }
+  ]
+}

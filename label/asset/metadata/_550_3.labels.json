@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sky",
+          "mid": "/m/01bqvp",
+          "score": 0.9897507,
+          "topicality": 0.016736172
+        },
+        {
+          "description": "Tower",
+          "mid": "/m/01fdzj",
+          "score": 0.9623853,
+          "topicality": 0.24493648
+        },
+        {
+          "description": "Wonders of the World",
+          "mid": "/m/02y_3gd",
+          "score": 0.9578337,
+          "topicality": 0.14501014
+        },
+        {
+          "description": "Bridge",
+          "mid": "/m/015kr",
+          "score": 0.95767474,
+          "topicality": 0.05566762
+        },
+        {
+          "description": "Monument",
+          "mid": "/m/02ljgl",
+          "score": 0.948362,
+          "topicality": 0.011410529
+        },
+        {
+          "description": "Architecture",
+          "mid": "/m/03nfmq",
+          "score": 0.9369579,
+          "topicality": 0.018232785
+        },
+        {
+          "description": "Landmark",
+          "mid": "/m/05_5t0l",
+          "score": 0.93688,
+          "topicality": 0.2880623
+        },
+        {
+          "description": "Spire",
+          "mid": "/m/01c6yl",
+          "score": 0.91047406,
+          "topicality": 0.0038987997
+        },
+        {
+          "description": "Tourist attraction",
+          "mid": "/m/0pgl9",
+          "score": 0.8980457,
+          "topicality": 0.1007557
+        },
+        {
+          "description": "Metropolitan area",
+          "mid": "/m/0j_s4",
+          "score": 0.8780544,
+          "topicality": 0.0059592016
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Workwear",
+          "mid": "/m/026lc7w",
+          "score": 0.9454696,
+          "topicality": 0.008538849
+        },
+        {
+          "description": "Floor",
+          "mid": "/m/0l7_8",
+          "score": 0.94305015,
+          "topicality": 0.016446248
+        },
+        {
+          "description": "Pallet jack",
+          "mid": "/m/0g3t4n",
+          "score": 0.8834434,
+          "topicality": 0.45341897
+        },
+        {
+          "description": "Blue-collar worker",
+          "mid": "/m/01kq3f",
+          "score": 0.8810672,
+          "topicality": 0.036592096
+        },
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.8353642,
+          "topicality": 0.011429742
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.8018121,
+          "topicality": 0.018409682
+        },
+        {
+          "description": "Construction worker",
+          "mid": "/m/047x57",
+          "score": 0.7784129,
+          "topicality": 0.012810263
+        },
+        {
+          "description": "Concrete",
+          "mid": "/m/01mxf",
+          "score": 0.76106465,
+          "topicality": 0.032157898
+        },
+        {
+          "description": "Rolling",
+          "mid": "/m/04c0lt",
+          "score": 0.73777556,
+          "topicality": 0.0021111676
+        },
+        {
+          "description": "Cleanliness",
+          "mid": "/m/020s4p",
+          "score": 0.73290855,
+          "topicality": 0.010544307
+        }
+      ]
+    }
+  ]
+}

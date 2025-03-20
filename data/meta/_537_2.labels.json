@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Footwear",
+          "mid": "/m/09j5n",
+          "score": 0.97537094,
+          "topicality": 0.010627006
+        },
+        {
+          "description": "Calf",
+          "mid": "/m/0715t2",
+          "score": 0.9350639,
+          "topicality": 0.038790047
+        },
+        {
+          "description": "Trekking pole",
+          "mid": "/m/07thg6",
+          "score": 0.87667966,
+          "topicality": 0.40495923
+        },
+        {
+          "description": "Nordic walking",
+          "mid": "/m/030wxc",
+          "score": 0.8624902,
+          "topicality": 0.59394485
+        },
+        {
+          "description": "People in nature",
+          "mid": "/j/3gbwgn",
+          "score": 0.8602108,
+          "topicality": 0.0006216979
+        },
+        {
+          "description": "Hiking boot",
+          "mid": "/m/05bjcj",
+          "score": 0.7858481,
+          "topicality": 0.13408843
+        },
+        {
+          "description": "Walking Shoe",
+          "mid": "/m/0hgs9bq",
+          "score": 0.77362233,
+          "topicality": 0.0012146281
+        },
+        {
+          "description": "Walking stick",
+          "mid": "/m/06_y0yh",
+          "score": 0.70002395,
+          "topicality": 0.014587416
+        },
+        {
+          "description": "Walking",
+          "mid": "/m/083mg",
+          "score": 0.6847645,
+          "topicality": 0.62078184
+        },
+        {
+          "description": "Outdoor Shoe",
+          "mid": "/m/0hgrj75",
+          "score": 0.68372923,
+          "topicality": 0.0012788596
+        }
+      ]
+    }
+  ]
+}

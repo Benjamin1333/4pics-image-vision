@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Tableware",
+          "mid": "/m/04brg2",
+          "score": 0.9832926,
+          "topicality": 0.0020977461
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.9832234,
+          "topicality": 0.16610351
+        },
+        {
+          "description": "Egg",
+          "mid": "/m/033cnk",
+          "score": 0.9830885,
+          "topicality": 0.8811676
+        },
+        {
+          "description": "Egg",
+          "mid": "/m/02g387",
+          "score": 0.97960955,
+          "topicality": 0.43645146
+        },
+        {
+          "description": "Yolk",
+          "mid": "/m/02dmz4",
+          "score": 0.9750856,
+          "topicality": 0.46199948
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9747966,
+          "topicality": 0.29016528
+        },
+        {
+          "description": "Flour",
+          "mid": "/m/0fkw3",
+          "score": 0.93801093,
+          "topicality": 0.19569848
+        },
+        {
+          "description": "Powder",
+          "mid": "/m/0gzznm",
+          "score": 0.9189536,
+          "topicality": 0.030796366
+        },
+        {
+          "description": "Kitchen utensil",
+          "mid": "/m/03hlz0c",
+          "score": 0.9133581,
+          "topicality": 0.024131393
+        },
+        {
+          "description": "Bowl",
+          "mid": "/m/04kkgm",
+          "score": 0.9120294,
+          "topicality": 0.060046673
+        }
+      ]
+    }
+  ]
+}

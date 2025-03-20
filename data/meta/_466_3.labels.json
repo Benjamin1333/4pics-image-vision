@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.97446036,
+          "topicality": 0.015517343
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.9714232,
+          "topicality": 0.1280488
+        },
+        {
+          "description": "Headphones",
+          "mid": "/m/01b7fy",
+          "score": 0.95205414,
+          "topicality": 0.10654697
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9449217,
+          "topicality": 0.0027334762
+        },
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.9441603,
+          "topicality": 0.00054670864
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.8921818,
+          "topicality": 0.009602271
+        },
+        {
+          "description": "Call centre",
+          "mid": "/m/021wr",
+          "score": 0.8913847,
+          "topicality": 0.88351244
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.8887942,
+          "topicality": 0.00036349302
+        },
+        {
+          "description": "Headset",
+          "mid": "/m/03mb156",
+          "score": 0.88367885,
+          "topicality": 0.48316923
+        },
+        {
+          "description": "Peripheral",
+          "mid": "/m/0ggnq",
+          "score": 0.87175673,
+          "topicality": 0.00022576243
+        }
+      ]
+    }
+  ]
+}

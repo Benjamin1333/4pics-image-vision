@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Dress",
+          "mid": "/m/01d40f",
+          "score": 0.95927656,
+          "topicality": 0.88646543
+        },
+        {
+          "description": "Day Dress",
+          "mid": "/m/0hgsb5g",
+          "score": 0.955423,
+          "topicality": 0.0041475655
+        },
+        {
+          "description": "One-piece garment",
+          "mid": "/m/0142sg",
+          "score": 0.9540383,
+          "topicality": 0.010567101
+        },
+        {
+          "description": "Formal wear",
+          "mid": "/m/02w3_2",
+          "score": 0.9156253,
+          "topicality": 0.034205206
+        },
+        {
+          "description": "Cocktail dress",
+          "mid": "/m/05sfw_",
+          "score": 0.8880544,
+          "topicality": 0.100144364
+        },
+        {
+          "description": "Waist",
+          "mid": "/m/031974",
+          "score": 0.86717874,
+          "topicality": 0.007742794
+        },
+        {
+          "description": "Polka dot",
+          "mid": "/m/04vtz0",
+          "score": 0.8239591,
+          "topicality": 0.9465316
+        },
+        {
+          "description": "Knee",
+          "mid": "/m/019swr",
+          "score": 0.81271803,
+          "topicality": 0.00020502036
+        },
+        {
+          "description": "Vintage clothing",
+          "mid": "/m/08v4gh",
+          "score": 0.77501994,
+          "topicality": 0.19221255
+        },
+        {
+          "description": "Fashion design",
+          "mid": "/m/02qqd4n",
+          "score": 0.7702506,
+          "topicality": 0.0039654863
+        }
+      ]
+    }
+  ]
+}

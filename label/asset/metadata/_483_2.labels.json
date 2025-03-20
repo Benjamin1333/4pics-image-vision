@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Jaw",
+          "mid": "/m/01k9lj",
+          "score": 0.9553211,
+          "topicality": 0.0029549913
+        },
+        {
+          "description": "Drawing",
+          "mid": "/m/02csf",
+          "score": 0.94552094,
+          "topicality": 0.8627125
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9449495,
+          "topicality": 0.008825307
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.93474936,
+          "topicality": 0.05903359
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.8816787,
+          "topicality": 0.0035939356
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.87726617,
+          "topicality": 0.0016595208
+        },
+        {
+          "description": "Sketch",
+          "mid": "/m/07glzq",
+          "score": 0.85030323,
+          "topicality": 0.63197
+        },
+        {
+          "description": "Paper",
+          "mid": "/m/0641k",
+          "score": 0.8423993,
+          "topicality": 0.0060641975
+        },
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.80036575,
+          "topicality": 4.2120693e-05
+        },
+        {
+          "description": "Black and white",
+          "mid": "/m/01g6gs",
+          "score": 0.7952508,
+          "topicality": 0.012310491
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.9549642,
+          "topicality": 0.0008595015
+        },
+        {
+          "description": "Electronics",
+          "mid": "/m/02mrp",
+          "score": 0.85223746,
+          "topicality": 0.018357972
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.84115696,
+          "topicality": 0.0043075806
+        },
+        {
+          "description": "Display device",
+          "mid": "/m/029zz6",
+          "score": 0.6751376,
+          "topicality": 0.006771528
+        },
+        {
+          "description": "Multimedia",
+          "mid": "/m/0541p",
+          "score": 0.5680172,
+          "topicality": 0.0013379842
+        }
+      ]
+    }
+  ]
+}

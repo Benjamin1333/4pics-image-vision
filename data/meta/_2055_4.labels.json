@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Neck",
+          "mid": "/m/0dzd8",
+          "score": 0.9561434,
+          "topicality": 0.009553419
+        },
+        {
+          "description": "Elbow",
+          "mid": "/m/01vm1p",
+          "score": 0.8760269,
+          "topicality": 0.008534827
+        },
+        {
+          "description": "Waist",
+          "mid": "/m/031974",
+          "score": 0.8613545,
+          "topicality": 0.2597595
+        },
+        {
+          "description": "Thorax",
+          "mid": "/m/0dzdr",
+          "score": 0.80488354,
+          "topicality": 0.016122624
+        },
+        {
+          "description": "Abdomen",
+          "mid": "/m/08y7p8",
+          "score": 0.7630504,
+          "topicality": 0.249125
+        },
+        {
+          "description": "Torso",
+          "mid": "/m/031vtq",
+          "score": 0.74640244,
+          "topicality": 0.025126496
+        },
+        {
+          "description": "Stomach",
+          "mid": "/m/09x8z",
+          "score": 0.64613765,
+          "topicality": 0.14323683
+        }
+      ]
+    }
+  ]
+}

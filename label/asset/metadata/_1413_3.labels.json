@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9714053,
+          "topicality": 0.00032593883
+        },
+        {
+          "description": "Text",
+          "mid": "/m/07s6nbt",
+          "score": 0.95027983,
+          "topicality": 0.00026120752
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.90532625,
+          "topicality": 4.1957403e-05
+        },
+        {
+          "description": "Diagram",
+          "mid": "/m/02v0m2",
+          "score": 0.88412094,
+          "topicality": 0.0081357
+        },
+        {
+          "description": "Triangle",
+          "mid": "/m/07jx7",
+          "score": 0.8092886,
+          "topicality": 0.013448908
+        },
+        {
+          "description": "Technical drawing",
+          "mid": "/m/0f9tj",
+          "score": 0.792563,
+          "topicality": 0.9728276
+        },
+        {
+          "description": "Line art",
+          "mid": "/m/0919rx",
+          "score": 0.69796044,
+          "topicality": 0.0053455816
+        },
+        {
+          "description": "Schematic",
+          "mid": "/m/0bg0t",
+          "score": 0.6264769,
+          "topicality": 0.0022765065
+        }
+      ]
+    }
+  ]
+}

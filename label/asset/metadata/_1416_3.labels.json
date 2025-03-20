@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Ruins",
+          "mid": "/m/03d1rd",
+          "score": 0.9325651,
+          "topicality": 0.5518681
+        },
+        {
+          "description": "Stone wall",
+          "mid": "/m/0bysjw",
+          "score": 0.8685661,
+          "topicality": 0.027183611
+        },
+        {
+          "description": "Historic site",
+          "mid": "/m/07yr8h",
+          "score": 0.80248624,
+          "topicality": 0.03656023
+        },
+        {
+          "description": "Ancient history",
+          "mid": "/m/0djmp",
+          "score": 0.76295495,
+          "topicality": 0.01322981
+        },
+        {
+          "description": "Archaeological site",
+          "mid": "/m/012ww9",
+          "score": 0.75214547,
+          "topicality": 0.02450219
+        },
+        {
+          "description": "Castle",
+          "mid": "/m/0d5gx",
+          "score": 0.7319708,
+          "topicality": 0.2631293
+        },
+        {
+          "description": "Fortification",
+          "mid": "/m/01czv3",
+          "score": 0.66508037,
+          "topicality": 0.159534
+        },
+        {
+          "description": "Meteorological phenomenon",
+          "mid": "/g/11k2xz7mr",
+          "score": 0.6419793,
+          "topicality": 3.6460794e-06
+        },
+        {
+          "description": "Middle Ages",
+          "mid": "/m/04rjz",
+          "score": 0.54455096,
+          "topicality": 0.010727812
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9677334,
+          "topicality": 0.028064217
+        },
+        {
+          "description": "Monochrome photography",
+          "mid": "/m/03d49p1",
+          "score": 0.86142147,
+          "topicality": 0.0013278432
+        },
+        {
+          "description": "Monochrome",
+          "mid": "/m/01mwkf",
+          "score": 0.8130773,
+          "topicality": 0.1475564
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.7210455,
+          "topicality": 0.002060862
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.6787453,
+          "topicality": 0.025043178
+        }
+      ]
+    }
+  ]
+}

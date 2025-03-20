@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.9733234,
+          "topicality": 0.039940286
+        },
+        {
+          "description": "Visual arts",
+          "mid": "/m/0p9xx",
+          "score": 0.9565738,
+          "topicality": 0.04661387
+        },
+        {
+          "description": "Art Paint",
+          "mid": "/m/0h90w5d",
+          "score": 0.9540518,
+          "topicality": 0.066301614
+        },
+        {
+          "description": "Orange",
+          "mid": "/m/0jc_p",
+          "score": 0.95129025,
+          "topicality": 0.017391333
+        },
+        {
+          "description": "Art",
+          "mid": "/m/0jjw",
+          "score": 0.9490477,
+          "topicality": 0.2022271
+        },
+        {
+          "description": "Painting",
+          "mid": "/m/05qdh",
+          "score": 0.8956513,
+          "topicality": 0.5800137
+        },
+        {
+          "description": "Paint",
+          "mid": "/m/05y4t",
+          "score": 0.88570017,
+          "topicality": 0.0581909
+        },
+        {
+          "description": "Modern art",
+          "mid": "/m/015r61",
+          "score": 0.8674143,
+          "topicality": 0.2317608
+        },
+        {
+          "description": "Watercolor painting",
+          "mid": "/m/018ktp",
+          "score": 0.859522,
+          "topicality": 0.034405146
+        },
+        {
+          "description": "Creative arts",
+          "mid": "/m/0dw9f6",
+          "score": 0.77530724,
+          "topicality": 0.00061571714
+        }
+      ]
+    }
+  ]
+}

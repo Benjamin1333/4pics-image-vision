@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Stage",
+          "mid": "/m/04_5hy",
+          "score": 0.9836191,
+          "topicality": 0.84475243
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9780444,
+          "topicality": 0.5014956
+        },
+        {
+          "description": "Theater drapes and stage curtains",
+          "mid": "/m/0d7fvd",
+          "score": 0.96612567,
+          "topicality": 0.9473962
+        },
+        {
+          "description": "Curtain",
+          "mid": "/m/03rszm",
+          "score": 0.96003014,
+          "topicality": 0.87499267
+        },
+        {
+          "description": "Textile",
+          "mid": "/m/0dnr7",
+          "score": 0.9482627,
+          "topicality": 0.013046287
+        },
+        {
+          "description": "Theatre",
+          "mid": "/m/03qsdpk",
+          "score": 0.9204047,
+          "topicality": 0.85681003
+        },
+        {
+          "description": "Stage is empty",
+          "mid": "/j/gm7zd_",
+          "score": 0.88959956,
+          "topicality": 0.29052797
+        },
+        {
+          "description": "Velvet",
+          "mid": "/m/011ljn",
+          "score": 0.86670107,
+          "topicality": 0.03549602
+        },
+        {
+          "description": "Auditorium",
+          "mid": "/m/039l3v",
+          "score": 0.8364603,
+          "topicality": 0.021736845
+        },
+        {
+          "description": "Theater",
+          "mid": "/m/05npqn",
+          "score": 0.82411206,
+          "topicality": 0.8231638
+        }
+      ]
+    }
+  ]
+}

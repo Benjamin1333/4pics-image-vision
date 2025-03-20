@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.9253279,
+          "topicality": 0.010476403
+        },
+        {
+          "description": "Writing implement",
+          "mid": "/m/06wybl",
+          "score": 0.9140889,
+          "topicality": 0.0025113462
+        },
+        {
+          "description": "Pen",
+          "mid": "/m/0k1tl",
+          "score": 0.8194215,
+          "topicality": 0.040443677
+        },
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.7855267,
+          "topicality": 0.00012664498
+        },
+        {
+          "description": "Stationery",
+          "mid": "/m/01cndb",
+          "score": 0.7551164,
+          "topicality": 0.009660873
+        },
+        {
+          "description": "Office Equipment",
+          "mid": "/m/03qtgjk",
+          "score": 0.71038777,
+          "topicality": 0.00015016981
+        },
+        {
+          "description": "Office Instrument",
+          "mid": "/m/0h8m01z",
+          "score": 0.6795739,
+          "topicality": 0.0016520804
+        },
+        {
+          "description": "Ballpoint pen",
+          "mid": "/m/01f_5",
+          "score": 0.583301,
+          "topicality": 0.0035036216
+        },
+        {
+          "description": "Writing",
+          "mid": "/m/081rb",
+          "score": 0.5658589,
+          "topicality": 0.04562756
+        },
+        {
+          "description": "Marker pen",
+          "mid": "/m/02fbz6",
+          "score": 0.50442475,
+          "topicality": 0.064461395
+        }
+      ]
+    }
+  ]
+}

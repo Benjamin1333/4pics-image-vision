@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Flame",
+          "mid": "/m/01f415",
+          "score": 0.97370917,
+          "topicality": 0.106257476
+        },
+        {
+          "description": "Bonfire",
+          "mid": "/m/012ckm",
+          "score": 0.97307,
+          "topicality": 0.7346206
+        },
+        {
+          "description": "Fire",
+          "mid": "/m/02_41",
+          "score": 0.9713259,
+          "topicality": 0.37450144
+        },
+        {
+          "description": "Heat",
+          "mid": "/m/03k2v",
+          "score": 0.9446805,
+          "topicality": 0.039751682
+        },
+        {
+          "description": "Campfire",
+          "mid": "/m/019mk7",
+          "score": 0.9234021,
+          "topicality": 0.63526917
+        },
+        {
+          "description": "Orange",
+          "mid": "/m/0jc_p",
+          "score": 0.9124213,
+          "topicality": 0.017099144
+        },
+        {
+          "description": "geological phenomenon",
+          "mid": "/m/07sn5gn",
+          "score": 0.84996414,
+          "topicality": 0.00013426314
+        },
+        {
+          "description": "Evening",
+          "mid": "/m/04mx32",
+          "score": 0.7627043,
+          "topicality": 0.028711494
+        },
+        {
+          "description": "Night",
+          "mid": "/m/01d74z",
+          "score": 0.7259308,
+          "topicality": 0.23012663
+        },
+        {
+          "description": "Dusk",
+          "mid": "/m/01b3l7",
+          "score": 0.7222351,
+          "topicality": 0.0061110584
+        }
+      ]
+    }
+  ]
+}

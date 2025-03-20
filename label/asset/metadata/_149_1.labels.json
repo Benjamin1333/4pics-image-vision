@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sleeve",
+          "mid": "/m/062581",
+          "score": 0.9854299,
+          "topicality": 0.0018331438
+        },
+        {
+          "description": "Collar",
+          "mid": "/m/091410",
+          "score": 0.97910726,
+          "topicality": 0.007926783
+        },
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.950896,
+          "topicality": 0.045904383
+        },
+        {
+          "description": "Formal wear",
+          "mid": "/m/02w3_2",
+          "score": 0.9498953,
+          "topicality": 0.02940897
+        },
+        {
+          "description": "Standing",
+          "mid": "/m/02wzbmj",
+          "score": 0.9391479
+        },
+        {
+          "description": "Dress shirt",
+          "mid": "/m/06hwcd",
+          "score": 0.92980087,
+          "topicality": 0.012101992
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.88601273,
+          "topicality": 0.022950646
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.86057657,
+          "topicality": 0.14973561
+        },
+        {
+          "description": "Necktie",
+          "mid": "/m/01rkbr",
+          "score": 0.76532835,
+          "topicality": 0.13736898
+        },
+        {
+          "description": "Button",
+          "mid": "/m/01s_bn",
+          "score": 0.68483317,
+          "topicality": 0.00209277
+        }
+      ]
+    }
+  ]
+}

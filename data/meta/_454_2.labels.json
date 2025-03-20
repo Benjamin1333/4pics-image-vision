@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Wall",
+          "mid": "/m/09qqq",
+          "score": 0.9776641,
+          "topicality": 0.031527095
+        },
+        {
+          "description": "Door",
+          "mid": "/m/02dgv",
+          "score": 0.9591432,
+          "topicality": 0.8152384
+        },
+        {
+          "description": "Home Door",
+          "mid": "/m/0h8n9b2",
+          "score": 0.9509834,
+          "topicality": 0.12681513
+        },
+        {
+          "description": "Brick",
+          "mid": "/m/01g0g",
+          "score": 0.9257063,
+          "topicality": 0.012880898
+        },
+        {
+          "description": "Shrub",
+          "mid": "/m/0gqbt",
+          "score": 0.9187432,
+          "topicality": 0.0012031946
+        },
+        {
+          "description": "Flowerpot",
+          "mid": "/m/0fm3zh",
+          "score": 0.9044553,
+          "topicality": 0.02217383
+        },
+        {
+          "description": "Brickwork",
+          "mid": "/m/01__sk",
+          "score": 0.8992517,
+          "topicality": 0.0020161595
+        },
+        {
+          "description": "House numbering",
+          "mid": "/m/03sp5j",
+          "score": 0.8495768,
+          "topicality": 0.06690898
+        },
+        {
+          "description": "Door handle",
+          "mid": "/m/03c7gz",
+          "score": 0.83478665,
+          "topicality": 0.099080324
+        },
+        {
+          "description": "Molding",
+          "mid": "/m/04yhpc",
+          "score": 0.8079712,
+          "topicality": 0.0066105067
+        }
+      ]
+    }
+  ]
+}

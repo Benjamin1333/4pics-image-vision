@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.8948782,
+          "topicality": 0.066169664
+        },
+        {
+          "description": "Pencil",
+          "mid": "/m/063w2",
+          "score": 0.8661389,
+          "topicality": 0.7891116
+        },
+        {
+          "description": "Writing implement",
+          "mid": "/m/06wybl",
+          "score": 0.811869,
+          "topicality": 0.11809362
+        },
+        {
+          "description": "Stationery",
+          "mid": "/m/01cndb",
+          "score": 0.78218937,
+          "topicality": 0.1065283
+        },
+        {
+          "description": "Eraser",
+          "mid": "/m/02fh7f",
+          "score": 0.59048206,
+          "topicality": 0.2750255
+        },
+        {
+          "description": "Office Instrument",
+          "mid": "/m/0h8m01z",
+          "score": 0.5632476,
+          "topicality": 0.0032658936
+        }
+      ]
+    }
+  ]
+}

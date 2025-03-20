@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.97638255,
+          "topicality": 0.04285684
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94494975,
+          "topicality": 0.08830935
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.9389418,
+          "topicality": 0.14120516
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.9354779,
+          "topicality": 0.042805213
+        },
+        {
+          "description": "Baby crying",
+          "mid": "/j/25qg8v",
+          "score": 0.8951956,
+          "topicality": 0.03490354
+        },
+        {
+          "description": "Crying",
+          "mid": "/m/0463cq4",
+          "score": 0.87297964,
+          "topicality": 0.52492774
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.8728509,
+          "topicality": 0.037445895
+        },
+        {
+          "description": "Blond",
+          "mid": "/m/0294jb",
+          "score": 0.85829157,
+          "topicality": 0.0021589885
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.85095733,
+          "topicality": 0.0030048594
+        },
+        {
+          "description": "Screaming",
+          "mid": "/m/03qc9zr",
+          "score": 0.80808395,
+          "topicality": 0.28104287
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9678896,
+          "topicality": 0.0105565125
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.8972497,
+          "topicality": 0.021587119
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.6646983,
+          "topicality": 0.011857431
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6298824,
+          "topicality": 0.00645461
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.53328514,
+          "topicality": 0.011490586
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Metalworking hand tool",
+          "mid": "/m/07vc4v",
+          "score": 0.9400433,
+          "topicality": 0.007870024
+        },
+        {
+          "description": "Hand tool",
+          "mid": "/m/01yc83",
+          "score": 0.909705,
+          "topicality": 0.38112792
+        },
+        {
+          "description": "Tool",
+          "mid": "/m/07k1x",
+          "score": 0.89338416,
+          "topicality": 0.8506122
+        },
+        {
+          "description": "Household hardware",
+          "mid": "/m/03jvk",
+          "score": 0.8272232,
+          "topicality": 0.20638208
+        },
+        {
+          "description": "Hammer",
+          "mid": "/m/03l9g",
+          "score": 0.7738674,
+          "topicality": 0.32764468
+        },
+        {
+          "description": "Set tool",
+          "mid": "/m/02ph9m2",
+          "score": 0.7228785,
+          "topicality": 0.033204257
+        },
+        {
+          "description": "Garden tool",
+          "mid": "/m/0dcjfr",
+          "score": 0.6315836,
+          "topicality": 0.05317771
+        },
+        {
+          "description": "Toolbox",
+          "mid": "/m/06vplw",
+          "score": 0.62150234,
+          "topicality": 0.3469617
+        },
+        {
+          "description": "Power tool",
+          "mid": "/m/0_ksk",
+          "score": 0.59440064,
+          "topicality": 0.042353738
+        },
+        {
+          "description": "Cutting tool",
+          "mid": "/m/09c4c1",
+          "score": 0.58178633,
+          "topicality": 0.032638036
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Agriculture",
+          "mid": "/m/0hkf",
+          "score": 0.9477849,
+          "topicality": 0.42587647
+        },
+        {
+          "description": "Farmworker",
+          "mid": "/m/02qn83t",
+          "score": 0.93767744,
+          "topicality": 0.0997482
+        },
+        {
+          "description": "Field",
+          "mid": "/m/0brn2d",
+          "score": 0.9219122,
+          "topicality": 0.18194416
+        },
+        {
+          "description": "Crop",
+          "mid": "/m/0263lr1",
+          "score": 0.88387275,
+          "topicality": 0.17332989
+        },
+        {
+          "description": "Agriculturist",
+          "mid": "/m/0g0vx",
+          "score": 0.87910676,
+          "topicality": 0.6162776
+        },
+        {
+          "description": "Wheat",
+          "mid": "/m/09696",
+          "score": 0.8723065,
+          "topicality": 0.67528397
+        },
+        {
+          "description": "People in nature",
+          "mid": "/j/3gbwgn",
+          "score": 0.86528057,
+          "topicality": 8.40623e-05
+        },
+        {
+          "description": "Grasses",
+          "mid": "/m/0fkrk",
+          "score": 0.86053175,
+          "topicality": 0.0043774205
+        },
+        {
+          "description": "Farm",
+          "mid": "/m/0g8p9",
+          "score": 0.8245887,
+          "topicality": 0.028026732
+        },
+        {
+          "description": "Cereal",
+          "mid": "/m/01yyk",
+          "score": 0.7855905,
+          "topicality": 0.16022311
+        }
+      ]
+    }
+  ]
+}

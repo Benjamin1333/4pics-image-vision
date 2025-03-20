@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9566219,
+          "topicality": 0.08972801
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94493634,
+          "topicality": 0.006407859
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.94037145,
+          "topicality": 0.1119762
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.73366666,
+          "topicality": 0.09170167
+        },
+        {
+          "description": "Eating",
+          "mid": "/m/01f5gx",
+          "score": 0.68435735,
+          "topicality": 0.11353678
+        },
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.63327765,
+          "topicality": 0.004803869
+        },
+        {
+          "description": "Ball",
+          "mid": "/m/018xm",
+          "score": 0.57586473,
+          "topicality": 0.033064634
+        },
+        {
+          "description": "Photo shoot",
+          "mid": "/m/02qbl1m",
+          "score": 0.5708118,
+          "topicality": 0.0041059437
+        },
+        {
+          "description": "Model",
+          "mid": "/m/0d1pc",
+          "score": 0.54965645,
+          "topicality": 0.024874551
+        },
+        {
+          "description": "Apple",
+          "mid": "/m/014j1m",
+          "score": 0.5324585,
+          "topicality": 0.017904006
+        }
+      ]
+    }
+  ]
+}

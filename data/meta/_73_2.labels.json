@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Teddy bear",
+          "mid": "/m/0kmg4",
+          "score": 0.9844269,
+          "topicality": 0.90456164
+        },
+        {
+          "description": "Stuffed toy",
+          "mid": "/m/021mh_",
+          "score": 0.979395,
+          "topicality": 0.72183335
+        },
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.96726465,
+          "topicality": 0.5447376
+        },
+        {
+          "description": "Brown",
+          "mid": "/m/09q2t",
+          "score": 0.9258663,
+          "topicality": 0.13620332
+        },
+        {
+          "description": "Bear",
+          "mid": "/m/01dws",
+          "score": 0.8983859,
+          "topicality": 0.79192734
+        },
+        {
+          "description": "Plush",
+          "mid": "/m/025rgl",
+          "score": 0.88956124,
+          "topicality": 0.38567036
+        },
+        {
+          "description": "Baby toys",
+          "mid": "/m/0cm3fq4",
+          "score": 0.85644984,
+          "topicality": 0.0059950594
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.85627484,
+          "topicality": 0.0007718623
+        },
+        {
+          "description": "Carnivores",
+          "mid": "/m/01lrl",
+          "score": 0.8500764,
+          "topicality": 0.00017526843
+        },
+        {
+          "description": "Brown bear",
+          "mid": "/m/01dxs",
+          "score": 0.82838035,
+          "topicality": 0.24995992
+        }
+      ]
+    }
+  ]
+}

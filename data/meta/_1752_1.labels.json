@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Performing Arts",
+          "mid": "/m/05qjc",
+          "score": 0.9874341,
+          "topicality": 0.033168294
+        },
+        {
+          "description": "Entertainment",
+          "mid": "/m/02jjt",
+          "score": 0.9805234,
+          "topicality": 0.008758474
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.97329026,
+          "topicality": 0.0004024684
+        },
+        {
+          "description": "Dance",
+          "mid": "/m/026bk",
+          "score": 0.9729234,
+          "topicality": 0.9187116
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.972913,
+          "topicality": 0.051694572
+        },
+        {
+          "description": "Choreography",
+          "mid": "/m/018rn4",
+          "score": 0.9694263,
+          "topicality": 0.058445986
+        },
+        {
+          "description": "Dress",
+          "mid": "/m/01d40f",
+          "score": 0.95934445,
+          "topicality": 0.21517177
+        },
+        {
+          "description": "Performance",
+          "mid": "/m/01gq53",
+          "score": 0.90733415,
+          "topicality": 0.062044077
+        },
+        {
+          "description": "Performance art",
+          "mid": "/m/01350r",
+          "score": 0.9057034,
+          "topicality": 0.0121276025
+        },
+        {
+          "description": "Artist",
+          "mid": "/m/0n1h",
+          "score": 0.8865888,
+          "topicality": 0.004816157
+        }
+      ]
+    }
+  ]
+}

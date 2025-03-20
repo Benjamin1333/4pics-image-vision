@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Volkswagen Type 2",
+          "mid": "/m/02p68t",
+          "score": 0.86367166,
+          "topicality": 0.3661726
+        },
+        {
+          "description": "Volkswagen",
+          "mid": "/m/07ywl",
+          "score": 0.8285002,
+          "topicality": 0.14546259
+        },
+        {
+          "description": "Van",
+          "mid": "/m/0h2r6",
+          "score": 0.75789255,
+          "topicality": 0.018749636
+        },
+        {
+          "description": "Car door",
+          "mid": "/m/02q2kc3",
+          "score": 0.74196094,
+          "topicality": 0.00454401
+        },
+        {
+          "description": "Model car",
+          "mid": "/m/0lyw6",
+          "score": 0.71979254,
+          "topicality": 0.05427914
+        },
+        {
+          "description": "Minibus",
+          "mid": "/m/045jsc",
+          "score": 0.68927026,
+          "topicality": 0.0017074726
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.64444107,
+          "topicality": 0.0037555422
+        },
+        {
+          "description": "Play Vehicle",
+          "mid": "/m/0h8lhhb",
+          "score": 0.62461776,
+          "topicality": 0.020691328
+        },
+        {
+          "description": "Minivan",
+          "mid": "/m/057gn",
+          "score": 0.6004792,
+          "topicality": 0.0039678444
+        },
+        {
+          "description": "Compact van",
+          "mid": "/m/0fmnf5",
+          "score": 0.5757094,
+          "topicality": 0.00028533398
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Cannon",
+          "mid": "/m/020kz",
+          "score": 0.822664,
+          "topicality": 0.8826609
+        },
+        {
+          "description": "Cylinder",
+          "mid": "/m/03h_4m",
+          "score": 0.5027706,
+          "topicality": 0.003629016
+        }
+      ]
+    }
+  ]
+}

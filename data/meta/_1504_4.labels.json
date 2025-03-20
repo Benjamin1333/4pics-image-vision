@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Pedestrian",
+          "mid": "/m/017r8p",
+          "score": 0.9002241,
+          "topicality": 0.029941238
+        },
+        {
+          "description": "Walking",
+          "mid": "/m/083mg",
+          "score": 0.73923075,
+          "topicality": 0.07523955
+        },
+        {
+          "description": "High-rise building",
+          "mid": "/m/0vlys",
+          "score": 0.569364,
+          "topicality": 0.014277799
+        },
+        {
+          "description": "Cleanliness",
+          "mid": "/m/020s4p",
+          "score": 0.55342513,
+          "topicality": 0.0020561356
+        }
+      ]
+    }
+  ]
+}

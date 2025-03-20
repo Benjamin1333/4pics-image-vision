@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Mode of transport",
+          "mid": "/m/079bkr",
+          "score": 0.9814289,
+          "topicality": 0.011112842
+        },
+        {
+          "description": "Motor vehicle",
+          "mid": "/m/012f08",
+          "score": 0.97359335,
+          "topicality": 0.01916034
+        },
+        {
+          "description": "Highway",
+          "mid": "/m/0cz_0",
+          "score": 0.97120994,
+          "topicality": 0.1752872
+        },
+        {
+          "description": "Controlled-access highway",
+          "mid": "/m/0335j",
+          "score": 0.96184754,
+          "topicality": 0.5719206
+        },
+        {
+          "description": "Road",
+          "mid": "/m/06gfj",
+          "score": 0.93998986,
+          "topicality": 0.29840395
+        },
+        {
+          "description": "Asphalt",
+          "mid": "/m/0hr8",
+          "score": 0.888332,
+          "topicality": 0.008705574
+        },
+        {
+          "description": "Lane",
+          "mid": "/m/033j3c",
+          "score": 0.86158174,
+          "topicality": 0.10868255
+        },
+        {
+          "description": "Shoulder",
+          "mid": "/m/02mgm6",
+          "score": 0.8569508,
+          "topicality": 0.05245251
+        },
+        {
+          "description": "Windshield",
+          "mid": "/m/01lrnl",
+          "score": 0.8262086,
+          "topicality": 0.006684982
+        },
+        {
+          "description": "Automotive Mirror",
+          "mid": "/m/0h8lk4b",
+          "score": 0.81275785,
+          "topicality": 0.00023089672
+        }
+      ]
+    }
+  ]
+}

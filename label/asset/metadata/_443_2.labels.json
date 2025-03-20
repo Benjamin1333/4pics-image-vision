@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Calendar",
+          "mid": "/m/01mzw",
+          "score": 0.8961655,
+          "topicality": 0.5855955
+        },
+        {
+          "description": "Number",
+          "mid": "/m/05fwb",
+          "score": 0.8782838,
+          "topicality": 0.020219786
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.84152853,
+          "topicality": 0.0039942185
+        },
+        {
+          "description": "Writing implement",
+          "mid": "/m/06wybl",
+          "score": 0.67860645,
+          "topicality": 0.0037118047
+        },
+        {
+          "description": "Stationery",
+          "mid": "/m/01cndb",
+          "score": 0.5759202,
+          "topicality": 0.0039046807
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.50468254,
+          "topicality": 0.015873488
+        }
+      ]
+    }
+  ]
+}

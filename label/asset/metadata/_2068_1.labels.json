@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.6739049,
+          "topicality": 0.07870076
+        },
+        {
+          "description": "Slingshot",
+          "mid": "/m/0715p",
+          "score": 0.5278261,
+          "topicality": 0.14068541
+        },
+        {
+          "description": "Balance",
+          "mid": "/m/03gs8b2",
+          "score": 0.51596,
+          "topicality": 0.0025075066
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sky",
+          "mid": "/m/01bqvp",
+          "score": 0.99303496,
+          "topicality": 0.18966156
+        },
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.9888688,
+          "topicality": 0.006335043
+        },
+        {
+          "description": "Cloud",
+          "mid": "/m/0csby",
+          "score": 0.98230916,
+          "topicality": 0.14302589
+        },
+        {
+          "description": "Water resources",
+          "mid": "/m/015s2f",
+          "score": 0.981602,
+          "topicality": 0.0015595375
+        },
+        {
+          "description": "Water",
+          "mid": "/m/0838f",
+          "score": 0.9805078,
+          "topicality": 0.1708317
+        },
+        {
+          "description": "Body of water",
+          "mid": "/m/03ktm1",
+          "score": 0.9801248,
+          "topicality": 0.012182648
+        },
+        {
+          "description": "Horizon",
+          "mid": "/m/0d1n2",
+          "score": 0.9746291,
+          "topicality": 0.022404186
+        },
+        {
+          "description": "Coast",
+          "mid": "/m/01lxd",
+          "score": 0.9676716,
+          "topicality": 0.09683322
+        },
+        {
+          "description": "Beach",
+          "mid": "/m/0b3yr",
+          "score": 0.96060133,
+          "topicality": 0.49360946
+        },
+        {
+          "description": "Coastal and oceanic landforms",
+          "mid": "/m/02c9_23",
+          "score": 0.95663476,
+          "topicality": 0.0011646481
+        }
+      ]
+    }
+  ]
+}

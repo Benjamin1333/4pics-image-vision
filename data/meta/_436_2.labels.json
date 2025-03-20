@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Dog",
+          "mid": "/m/0bt9lr",
+          "score": 0.99558336,
+          "topicality": 0.6061076
+        },
+        {
+          "description": "Carnivores",
+          "mid": "/m/01lrl",
+          "score": 0.970903,
+          "topicality": 0.0023866927
+        },
+        {
+          "description": "Vertebrate",
+          "mid": "/m/09686",
+          "score": 0.9623777,
+          "topicality": 0.00044549865
+        },
+        {
+          "description": "Black",
+          "mid": "/m/019sc",
+          "score": 0.9090554,
+          "topicality": 0.009604798
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.9089014,
+          "topicality": 0.0040485184
+        },
+        {
+          "description": "Working animal",
+          "mid": "/m/07_gml",
+          "score": 0.8786193,
+          "topicality": 0.000111577014
+        },
+        {
+          "description": "Toy dog",
+          "mid": "/m/036hyn",
+          "score": 0.8592074,
+          "topicality": 0.15442872
+        },
+        {
+          "description": "Water dog",
+          "mid": "/m/039nn_",
+          "score": 0.85876817,
+          "topicality": 0.06051211
+        },
+        {
+          "description": "Fur",
+          "mid": "/m/0cnmr",
+          "score": 0.85838205,
+          "topicality": 0.010077806
+        },
+        {
+          "description": "Dog collar",
+          "mid": "/m/05q778",
+          "score": 0.79288775,
+          "topicality": 0.00010173029
+        }
+      ]
+    }
+  ]
+}

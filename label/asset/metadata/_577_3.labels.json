@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.76633275,
+          "topicality": 0.07965624
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.65904725,
+          "topicality": 0.021588026
+        }
+      ]
+    }
+  ]
+}

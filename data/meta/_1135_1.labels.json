@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Footwear",
+          "mid": "/m/09j5n",
+          "score": 0.9794911,
+          "topicality": 0.016913151
+        },
+        {
+          "description": "Shoe",
+          "mid": "/m/06rrc",
+          "score": 0.9718286,
+          "topicality": 0.28305665
+        },
+        {
+          "description": "Calf",
+          "mid": "/m/0715t2",
+          "score": 0.9278231,
+          "topicality": 0.01742102
+        },
+        {
+          "description": "Sneakers",
+          "mid": "/m/09kjlm",
+          "score": 0.86255264,
+          "topicality": 0.06860565
+        },
+        {
+          "description": "Knee",
+          "mid": "/m/019swr",
+          "score": 0.8526329,
+          "topicality": 0.0068617924
+        },
+        {
+          "description": "Walking Shoe",
+          "mid": "/m/0hgs9bq",
+          "score": 0.809515,
+          "topicality": 0.00037522602
+        },
+        {
+          "description": "Sports",
+          "mid": "/m/06ntj",
+          "score": 0.7953075,
+          "topicality": 0.1472897
+        },
+        {
+          "description": "Sock",
+          "mid": "/m/01nq26",
+          "score": 0.77565724,
+          "topicality": 0.020720188
+        },
+        {
+          "description": "Track and field athletics",
+          "mid": "/m/0bynt",
+          "score": 0.6852486,
+          "topicality": 0.10456394
+        },
+        {
+          "description": "Sports venue",
+          "mid": "/m/0bmgjqz",
+          "score": 0.65675956,
+          "topicality": 0.000616205
+        }
+      ]
+    }
+  ]
+}

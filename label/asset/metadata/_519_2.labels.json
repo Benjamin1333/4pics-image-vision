@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sheep",
+          "mid": "/m/07bgp",
+          "score": 0.9771135,
+          "topicality": 0.49833307
+        },
+        {
+          "description": "Ovis",
+          "mid": "/m/08hhz2",
+          "score": 0.947823,
+          "topicality": 0.601355
+        },
+        {
+          "description": "Fur",
+          "mid": "/m/0cnmr",
+          "score": 0.90911555,
+          "topicality": 0.015122771
+        },
+        {
+          "description": "Horn",
+          "mid": "/m/04lmyz",
+          "score": 0.90096337,
+          "topicality": 0.1716793
+        },
+        {
+          "description": "Argali",
+          "mid": "/m/06vltj",
+          "score": 0.8390801,
+          "topicality": 0.06225075
+        },
+        {
+          "description": "Terrestrial animal",
+          "mid": "/m/0fbf1m",
+          "score": 0.8362678,
+          "topicality": 0.00050804735
+        },
+        {
+          "description": "Caprinae",
+          "mid": "/m/01jvw5",
+          "score": 0.83430827,
+          "topicality": 0.05882432
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.8304261,
+          "topicality": 0.0022658794
+        },
+        {
+          "description": "Wool",
+          "mid": "/m/09kxp",
+          "score": 0.8240336,
+          "topicality": 0.08464307
+        },
+        {
+          "description": "Livestock",
+          "mid": "/m/0ch8v",
+          "score": 0.8079225,
+          "topicality": 0.10279069
+        }
+      ]
+    }
+  ]
+}

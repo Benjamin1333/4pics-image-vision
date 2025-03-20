@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Card game",
+          "mid": "/m/01mtt",
+          "score": 0.91617346,
+          "topicality": 0.757928
+        },
+        {
+          "description": "Gambling",
+          "mid": "/m/034dj",
+          "score": 0.8734843,
+          "topicality": 0.1033739
+        },
+        {
+          "description": "Game",
+          "mid": "/m/03bt1gh",
+          "score": 0.870826,
+          "topicality": 0.19506605
+        },
+        {
+          "description": "Heart",
+          "mid": "/m/07bg4p",
+          "score": 0.75979507,
+          "topicality": 0.10775245
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.6754632,
+          "topicality": 0.02104794
+        },
+        {
+          "description": "Tabletop game",
+          "mid": "/m/03jj52",
+          "score": 0.5481199,
+          "topicality": 0.00434543
+        }
+      ]
+    }
+  ]
+}

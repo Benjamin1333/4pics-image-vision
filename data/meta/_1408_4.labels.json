@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Eyewear",
+          "mid": "/m/0j272k5",
+          "score": 0.98447603,
+          "topicality": 0.0011771584
+        },
+        {
+          "description": "Vision Care",
+          "mid": "/m/0h8jxfl",
+          "score": 0.96182054,
+          "topicality": 0.0004883504
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9564624,
+          "topicality": 0.0035955359
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.9518751,
+          "topicality": 0.013626666
+        },
+        {
+          "description": "Sunglasses",
+          "mid": "/m/017ftj",
+          "score": 0.9369446,
+          "topicality": 0.0127040865
+        },
+        {
+          "description": "Goggles",
+          "mid": "/m/02_n6y",
+          "score": 0.8708505,
+          "topicality": 0.0016054319
+        },
+        {
+          "description": "Advertising",
+          "mid": "/m/011s0",
+          "score": 0.8000812,
+          "topicality": 0.009715062
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.7876647,
+          "topicality": 0.00049750553
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.73488116,
+          "topicality": 0.0017238178
+        },
+        {
+          "description": "Vacation",
+          "mid": "/m/02jwqh",
+          "score": 0.68265635,
+          "topicality": 0.009497553
+        }
+      ]
+    }
+  ]
+}

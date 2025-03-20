@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.7181528,
+          "topicality": 0.07579324
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.67960274,
+          "topicality": 0.023477271
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.59895563,
+          "topicality": 0.013707968
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.5926752,
+          "topicality": 0.030910626
+        },
+        {
+          "description": "Gear",
+          "mid": "/m/0l7xg",
+          "score": 0.5562935,
+          "topicality": 0.43696678
+        }
+      ]
+    }
+  ]
+}

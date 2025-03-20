@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Rock",
+          "mid": "/m/01cbzq",
+          "score": 0.9635796,
+          "topicality": 0.08432417
+        },
+        {
+          "description": "Badlands",
+          "mid": "/m/01jnvt",
+          "score": 0.9325255,
+          "topicality": 0.011793457
+        },
+        {
+          "description": "Landscape",
+          "mid": "/m/025s3q0",
+          "score": 0.9222828,
+          "topicality": 0.09167575
+        },
+        {
+          "description": "Ecoregion",
+          "mid": "/m/0cblv",
+          "score": 0.91376805,
+          "topicality": 0.0012803008
+        },
+        {
+          "description": "Desert",
+          "mid": "/m/0284w",
+          "score": 0.910881,
+          "topicality": 0.29828355
+        },
+        {
+          "description": "Geological formation",
+          "mid": "/m/03k5cs",
+          "score": 0.9102125,
+          "topicality": 0.13379632
+        },
+        {
+          "description": "Plant community",
+          "mid": "/m/06600f2",
+          "score": 0.8971671,
+          "topicality": 0.0005887288
+        },
+        {
+          "description": "Wilderness",
+          "mid": "/m/023bbt",
+          "score": 0.8905057,
+          "topicality": 0.028292341
+        },
+        {
+          "description": "Aeolian landform",
+          "mid": "/m/04gvhhy",
+          "score": 0.8840809,
+          "topicality": 0.01443846
+        },
+        {
+          "description": "Geology",
+          "mid": "/m/036hv",
+          "score": 0.8715775,
+          "topicality": 0.056831602
+        }
+      ]
+    }
+  ]
+}

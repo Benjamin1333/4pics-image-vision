@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Shopping cart",
+          "mid": "/m/019plg",
+          "score": 0.77711743,
+          "topicality": 0.30996168
+        },
+        {
+          "description": "Document",
+          "mid": "/m/015bv3",
+          "score": 0.61406845,
+          "topicality": 0.04660078
+        },
+        {
+          "description": "News",
+          "mid": "/m/05jhg",
+          "score": 0.5198335,
+          "topicality": 0.0028449185
+        }
+      ]
+    }
+  ]
+}

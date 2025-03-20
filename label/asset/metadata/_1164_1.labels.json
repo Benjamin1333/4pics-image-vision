@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Tableware",
+          "mid": "/m/04brg2",
+          "score": 0.9775962,
+          "topicality": 0.004936661
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9140018,
+          "topicality": 0.048175972
+        },
+        {
+          "description": "Kitchen utensil",
+          "mid": "/m/03hlz0c",
+          "score": 0.9087152,
+          "topicality": 0.004473514
+        },
+        {
+          "description": "Spoon",
+          "mid": "/m/0cmx8",
+          "score": 0.9030894,
+          "topicality": 0.26294115
+        },
+        {
+          "description": "Serveware",
+          "mid": "/m/0h8n22v",
+          "score": 0.89847845,
+          "topicality": 0.0001008449
+        },
+        {
+          "description": "Cup",
+          "mid": "/m/07ptj3n",
+          "score": 0.89668995,
+          "topicality": 0.0007364614
+        },
+        {
+          "description": "Cutlery",
+          "mid": "/m/023pjk",
+          "score": 0.8953093,
+          "topicality": 0.0036955331
+        },
+        {
+          "description": "Table sugar",
+          "mid": "/m/0dcfv",
+          "score": 0.86240673,
+          "topicality": 0.10847982
+        },
+        {
+          "description": "Coffee cup",
+          "mid": "/m/02p5f1q",
+          "score": 0.75603515,
+          "topicality": 0.0060514007
+        },
+        {
+          "description": "Sugar substitute",
+          "mid": "/m/0g24k",
+          "score": 0.7522046,
+          "topicality": 0.137965
+        }
+      ]
+    }
+  ]
+}

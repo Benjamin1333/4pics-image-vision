@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.98532003,
+          "topicality": 0.11179103
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.95507884,
+          "topicality": 0.06678441
+        },
+        {
+          "description": "Dairy product",
+          "mid": "/m/0284d",
+          "score": 0.9278924,
+          "topicality": 0.1409203
+        },
+        {
+          "description": "Tableware",
+          "mid": "/m/04brg2",
+          "score": 0.9151065,
+          "topicality": 0.00080269104
+        },
+        {
+          "description": "Cream",
+          "mid": "/m/01tv9",
+          "score": 0.9013157,
+          "topicality": 0.36153144
+        },
+        {
+          "description": "Mascarpone",
+          "mid": "/m/01sy7q",
+          "score": 0.8741897,
+          "topicality": 0.049421296
+        },
+        {
+          "description": "Cheese",
+          "mid": "/m/01nkt",
+          "score": 0.8572582,
+          "topicality": 0.2856872
+        },
+        {
+          "description": "Clotted cream",
+          "mid": "/m/01pmk3",
+          "score": 0.8422171,
+          "topicality": 0.047483012
+        },
+        {
+          "description": "Cream cheese",
+          "mid": "/m/02p2nn",
+          "score": 0.8158273,
+          "topicality": 0.16994964
+        },
+        {
+          "description": "Butter",
+          "mid": "/m/0chyh",
+          "score": 0.78406185,
+          "topicality": 0.19716102
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Physical fitness",
+          "mid": "/m/027x7n",
+          "score": 0.9139593,
+          "topicality": 0.3459349
+        },
+        {
+          "description": "Rope",
+          "mid": "/m/01xc8d",
+          "score": 0.9045909,
+          "topicality": 0.2712475
+        },
+        {
+          "description": "Waist",
+          "mid": "/m/031974",
+          "score": 0.87293804,
+          "topicality": 0.038863786
+        },
+        {
+          "description": "Abdomen",
+          "mid": "/m/08y7p8",
+          "score": 0.86450124,
+          "topicality": 0.07588547
+        },
+        {
+          "description": "Skipping rope",
+          "mid": "/m/02gy18",
+          "score": 0.8270327,
+          "topicality": 0.6225918
+        },
+        {
+          "description": "Active Pants",
+          "mid": "/m/0hgn_pr",
+          "score": 0.78300303,
+          "topicality": 6.089946e-05
+        },
+        {
+          "description": "Thorax",
+          "mid": "/m/0dzdr",
+          "score": 0.77010185,
+          "topicality": 0.0052899825
+        },
+        {
+          "description": "Torso",
+          "mid": "/m/031vtq",
+          "score": 0.76982594,
+          "topicality": 0.0047867764
+        },
+        {
+          "description": "Exercise",
+          "mid": "/m/019w6h",
+          "score": 0.74704313,
+          "topicality": 0.5004333
+        },
+        {
+          "description": "Sweatpants",
+          "mid": "/m/056f2w",
+          "score": 0.661267,
+          "topicality": 0.000101564154
+        }
+      ]
+    }
+  ]
+}

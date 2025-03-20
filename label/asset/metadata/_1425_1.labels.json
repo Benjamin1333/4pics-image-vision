@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.96984345,
+          "topicality": 0.04488637
+        },
+        {
+          "description": "Line art",
+          "mid": "/m/0919rx",
+          "score": 0.7751882,
+          "topicality": 0.023513982
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.6467982,
+          "topicality": 0.21210968
+        },
+        {
+          "description": "Ghost",
+          "mid": "/m/038_l",
+          "score": 0.6413473,
+          "topicality": 0.87748975
+        },
+        {
+          "description": "Coloring book",
+          "mid": "/m/05h7rm",
+          "score": 0.6324652,
+          "topicality": 0.056794934
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6041463,
+          "topicality": 0.00360474
+        }
+      ]
+    }
+  ]
+}

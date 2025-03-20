@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "People",
+          "mid": "/m/09g5pq",
+          "score": 0.99433756,
+          "topicality": 0.008080248
+        },
+        {
+          "description": "Entertainment",
+          "mid": "/m/02jjt",
+          "score": 0.97410876,
+          "topicality": 0.059757445
+        },
+        {
+          "description": "Crowd",
+          "mid": "/m/03qtwd",
+          "score": 0.9595677,
+          "topicality": 0.44399208
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.9505901,
+          "topicality": 0.004094443
+        },
+        {
+          "description": "Audience",
+          "mid": "/m/033lpr",
+          "score": 0.9290535,
+          "topicality": 0.29476464
+        },
+        {
+          "description": "Party",
+          "mid": "/m/05_4_",
+          "score": 0.90352035,
+          "topicality": 0.19508393
+        },
+        {
+          "description": "Public event",
+          "mid": "/g/116c3n66l",
+          "score": 0.8907946,
+          "topicality": 0.0063187405
+        },
+        {
+          "description": "Cheering",
+          "mid": "/m/053hz1",
+          "score": 0.8855931,
+          "topicality": 0.24272525
+        },
+        {
+          "description": "Performing Arts",
+          "mid": "/m/05qjc",
+          "score": 0.8788248,
+          "topicality": 0.013255089
+        },
+        {
+          "description": "Fan",
+          "mid": "/m/013x8v",
+          "score": 0.87489986,
+          "topicality": 0.05392479
+        }
+      ]
+    }
+  ]
+}

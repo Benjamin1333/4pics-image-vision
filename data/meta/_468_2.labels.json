@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Health Care",
+          "mid": "/m/01mw2x",
+          "score": 0.9491002,
+          "topicality": 0.13582914
+        },
+        {
+          "description": "Medical",
+          "mid": "/m/02xht4g",
+          "score": 0.9482353,
+          "topicality": 0.01282516
+        },
+        {
+          "description": "Medical equipment",
+          "mid": "/m/01xgg_",
+          "score": 0.9069384,
+          "topicality": 0.0016835791
+        },
+        {
+          "description": "Stethoscope",
+          "mid": "/m/073g6",
+          "score": 0.88482416,
+          "topicality": 0.46788263
+        },
+        {
+          "description": "Glucose meter",
+          "mid": "/m/05hsx3",
+          "score": 0.8374987,
+          "topicality": 0.02701153
+        },
+        {
+          "description": "Pain",
+          "mid": "/m/062t2",
+          "score": 0.8063502,
+          "topicality": 0.013993246
+        },
+        {
+          "description": "Physician",
+          "mid": "/m/05t4q",
+          "score": 0.76645994,
+          "topicality": 0.23889321
+        },
+        {
+          "description": "Health Professional",
+          "mid": "/m/0fsbk0",
+          "score": 0.69499344,
+          "topicality": 0.01514533
+        },
+        {
+          "description": "Clinic",
+          "mid": "/m/03fk5c",
+          "score": 0.673186,
+          "topicality": 0.016240774
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.5715743,
+          "topicality": 0.02392745
+        }
+      ]
+    }
+  ]
+}

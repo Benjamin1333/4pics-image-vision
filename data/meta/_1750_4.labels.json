@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.7582158,
+          "topicality": 0.055534024
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.73841435,
+          "topicality": 0.11145089
+        },
+        {
+          "description": "Badge",
+          "mid": "/m/03cny9",
+          "score": 0.7327318,
+          "topicality": 0.06959035
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.66481644,
+          "topicality": 0.027388792
+        },
+        {
+          "description": "Label",
+          "mid": "/m/05c0n6k",
+          "score": 0.61262673,
+          "topicality": 0.21178985
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.5745782,
+          "topicality": 0.012963313
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.5249334,
+          "topicality": 0.020020174
+        }
+      ]
+    }
+  ]
+}

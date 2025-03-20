@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Snow",
+          "mid": "/m/06_dn",
+          "score": 0.9612854,
+          "topicality": 0.49542052
+        },
+        {
+          "description": "Winter",
+          "mid": "/m/086mh",
+          "score": 0.9448412,
+          "topicality": 0.22274126
+        },
+        {
+          "description": "Igloo",
+          "mid": "/m/016bql",
+          "score": 0.9334719,
+          "topicality": 0.9640634
+        },
+        {
+          "description": "Freezing",
+          "mid": "/m/01c791",
+          "score": 0.8997084,
+          "topicality": 0.016490586
+        },
+        {
+          "description": "Ice cap",
+          "mid": "/m/04b966",
+          "score": 0.87766916,
+          "topicality": 0.007548123
+        },
+        {
+          "description": "Ice",
+          "mid": "/m/03vtj",
+          "score": 0.80778617,
+          "topicality": 0.27343282
+        },
+        {
+          "description": "Ice hotel",
+          "mid": "/m/04nf8d",
+          "score": 0.77222985,
+          "topicality": 0.3950046
+        },
+        {
+          "description": "Arctic",
+          "mid": "/m/09738",
+          "score": 0.74979234,
+          "topicality": 0.2102525
+        },
+        {
+          "description": "Daylighting",
+          "mid": "/m/0k2n5",
+          "score": 0.6059335,
+          "topicality": 8.923267e-05
+        },
+        {
+          "description": "Tundra",
+          "mid": "/m/07k3c",
+          "score": 0.5950629,
+          "topicality": 0.011423452
+        }
+      ]
+    }
+  ]
+}

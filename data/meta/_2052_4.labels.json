@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9735534,
+          "topicality": 0.09711603
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.59944487,
+          "topicality": 0.03423811
+        }
+      ]
+    }
+  ]
+}

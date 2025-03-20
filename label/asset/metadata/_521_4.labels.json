@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Performing Arts",
+          "mid": "/m/05qjc",
+          "score": 0.9769517,
+          "topicality": 0.033369757
+        },
+        {
+          "description": "Entertainment",
+          "mid": "/m/02jjt",
+          "score": 0.9768523,
+          "topicality": 0.0076040626
+        },
+        {
+          "description": "Hand",
+          "mid": "/m/0k65p",
+          "score": 0.9714489,
+          "topicality": 0.0006327285
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9657856,
+          "topicality": 0.004598652
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.942263,
+          "topicality": 0.018549457
+        },
+        {
+          "description": "Performance",
+          "mid": "/m/01gq53",
+          "score": 0.9265044,
+          "topicality": 0.051618237
+        },
+        {
+          "description": "Choreography",
+          "mid": "/m/018rn4",
+          "score": 0.8653002,
+          "topicality": 0.041752614
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.8433845,
+          "topicality": 0.0021793214
+        },
+        {
+          "description": "Dance",
+          "mid": "/m/026bk",
+          "score": 0.79857713,
+          "topicality": 0.197428
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.7857815,
+          "topicality": 0.0010549491
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Thigh",
+          "mid": "/m/01j04m",
+          "score": 0.894622,
+          "topicality": 0.002734099
+        },
+        {
+          "description": "Knee",
+          "mid": "/m/019swr",
+          "score": 0.85890263,
+          "topicality": 0.0026863457
+        },
+        {
+          "description": "Foot",
+          "mid": "/m/031n1",
+          "score": 0.81199443,
+          "topicality": 0.0060233558
+        },
+        {
+          "description": "Blond",
+          "mid": "/m/0294jb",
+          "score": 0.7730867,
+          "topicality": 0.017222436
+        },
+        {
+          "description": "Fashion illustration",
+          "mid": "/m/026c0s8",
+          "score": 0.68415916,
+          "topicality": 0.053220402
+        },
+        {
+          "description": "Calf",
+          "mid": "/m/0715t2",
+          "score": 0.6072931,
+          "topicality": 0.0007156468
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.5844186,
+          "topicality": 0.010153163
+        }
+      ]
+    }
+  ]
+}

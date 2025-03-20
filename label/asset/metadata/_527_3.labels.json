@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.9275928,
+          "topicality": 0.01952878
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.8584767,
+          "topicality": 0.025806153
+        },
+        {
+          "description": "Chess",
+          "mid": "/m/01lb5",
+          "score": 0.85627466,
+          "topicality": 0.8852228
+        },
+        {
+          "description": "Game",
+          "mid": "/m/03bt1gh",
+          "score": 0.830305,
+          "topicality": 0.054923404
+        },
+        {
+          "description": "Indoor games and sports",
+          "mid": "/m/0b42l9",
+          "score": 0.7879923,
+          "topicality": 0.000605479
+        },
+        {
+          "description": "Tabletop game",
+          "mid": "/m/03jj52",
+          "score": 0.6790216,
+          "topicality": 0.002462773
+        },
+        {
+          "description": "Play",
+          "mid": "/m/06wtgq",
+          "score": 0.5762436,
+          "topicality": 7.917963e-05
+        },
+        {
+          "description": "Shadow",
+          "mid": "/m/01ft8k",
+          "score": 0.5285366,
+          "topicality": 0.019506572
+        }
+      ]
+    }
+  ]
+}

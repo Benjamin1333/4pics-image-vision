@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.73671377,
+          "topicality": 0.09683378
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.67096895,
+          "topicality": 0.030040229
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.66581416,
+          "topicality": 0.027542617
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.60146964,
+          "topicality": 0.04948541
+        },
+        {
+          "description": "Tool",
+          "mid": "/m/07k1x",
+          "score": 0.51247793,
+          "topicality": 0.0075688153
+        }
+      ]
+    }
+  ]
+}

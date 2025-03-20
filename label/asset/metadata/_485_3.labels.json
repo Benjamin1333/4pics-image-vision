@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Insect",
+          "mid": "/m/03vt0",
+          "score": 0.9836953,
+          "topicality": 0.30538666
+        },
+        {
+          "description": "Arthropod",
+          "mid": "/m/0zkm",
+          "score": 0.95882964,
+          "topicality": 0.017953863
+        },
+        {
+          "description": "Housefly",
+          "mid": "/m/032ghl",
+          "score": 0.95103776,
+          "topicality": 0.6373875
+        },
+        {
+          "description": "Pest",
+          "mid": "/m/01dqkc",
+          "score": 0.89433396,
+          "topicality": 0.07287893
+        },
+        {
+          "description": "Stable fly",
+          "mid": "/m/0cqkwn",
+          "score": 0.8916382,
+          "topicality": 0.052571386
+        },
+        {
+          "description": "Wing",
+          "mid": "/m/083s2",
+          "score": 0.87774765,
+          "topicality": 0.002422084
+        },
+        {
+          "description": "Fly",
+          "mid": "/m/0h2mp",
+          "score": 0.86696965,
+          "topicality": 0.7040686
+        },
+        {
+          "description": "Horse-fly",
+          "mid": "/m/032myv",
+          "score": 0.783291,
+          "topicality": 0.023618722
+        },
+        {
+          "description": "Hymenopterans",
+          "mid": "/m/03mp1",
+          "score": 0.7793089,
+          "topicality": 0.0019281004
+        },
+        {
+          "description": "Pollinator",
+          "mid": "/m/0ql23",
+          "score": 0.75829285,
+          "topicality": 0.0014851522
+        }
+      ]
+    }
+  ]
+}

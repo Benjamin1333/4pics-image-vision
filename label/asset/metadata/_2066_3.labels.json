@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Automotive Mirror",
+          "mid": "/m/0h8lk4b",
+          "score": 0.91177905,
+          "topicality": 0.0009745238
+        },
+        {
+          "description": "Mirror",
+          "mid": "/m/054_l",
+          "score": 0.89043725,
+          "topicality": 0.011322204
+        },
+        {
+          "description": "Driving",
+          "mid": "/m/0kw6d",
+          "score": 0.86590797,
+          "topicality": 0.37760326
+        },
+        {
+          "description": "Automotive Side-View Mirror",
+          "mid": "/m/0h8n616",
+          "score": 0.8540649,
+          "topicality": 0.0005759645
+        },
+        {
+          "description": "Rear-view mirror",
+          "mid": "/m/05j11x",
+          "score": 0.85101193,
+          "topicality": 0.023615448
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.8493206,
+          "topicality": 0.012150545
+        },
+        {
+          "description": "Windshield",
+          "mid": "/m/01lrnl",
+          "score": 0.825724,
+          "topicality": 0.002479571
+        },
+        {
+          "description": "Car door",
+          "mid": "/m/02q2kc3",
+          "score": 0.8117102,
+          "topicality": 0.003520729
+        },
+        {
+          "description": "Thumb",
+          "mid": "/m/01bmhj",
+          "score": 0.8100855,
+          "topicality": 0.04479704
+        },
+        {
+          "description": "Glass",
+          "mid": "/m/039jq",
+          "score": 0.74715346,
+          "topicality": 0.0005251085
+        }
+      ]
+    }
+  ]
+}

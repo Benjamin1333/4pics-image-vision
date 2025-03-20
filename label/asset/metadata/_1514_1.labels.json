@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Solar energy",
+          "mid": "/m/06xbd",
+          "score": 0.9798208,
+          "topicality": 0.8707544
+        },
+        {
+          "description": "Solar panel",
+          "mid": "/m/0fnrbc",
+          "score": 0.9761376,
+          "topicality": 0.48599446
+        },
+        {
+          "description": "Solar power",
+          "mid": "/m/05t0ydv",
+          "score": 0.9567336,
+          "topicality": 0.48692578
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.88516974,
+          "topicality": 0.0244215
+        },
+        {
+          "description": "Solar thermal collector",
+          "mid": "/m/03b9jw",
+          "score": 0.65285856,
+          "topicality": 0.28911743
+        },
+        {
+          "description": "Heat",
+          "mid": "/m/03k2v",
+          "score": 0.5022035,
+          "topicality": 0.021784304
+        }
+      ]
+    }
+  ]
+}

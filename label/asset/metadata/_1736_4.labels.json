@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Primate",
+          "mid": "/m/05qsj",
+          "score": 0.9903918,
+          "topicality": 0.35171628
+        },
+        {
+          "description": "Vertebrate",
+          "mid": "/m/09686",
+          "score": 0.96155685,
+          "topicality": 0.0051762606
+        },
+        {
+          "description": "Chimpanzee",
+          "mid": "/m/0267y",
+          "score": 0.94862086,
+          "topicality": 0.9455495
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9449224,
+          "topicality": 0.004373043
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.8676823,
+          "topicality": 0.0018783038
+        },
+        {
+          "description": "Fur",
+          "mid": "/m/0cnmr",
+          "score": 0.64779377,
+          "topicality": 0.0023293444
+        },
+        {
+          "description": "Macaque",
+          "mid": "/m/01jsqj",
+          "score": 0.5253801,
+          "topicality": 0.06772522
+        }
+      ]
+    }
+  ]
+}

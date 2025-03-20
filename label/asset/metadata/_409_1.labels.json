@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Fluid",
+          "mid": "/m/02yfx",
+          "score": 0.9535169,
+          "topicality": 0.005302135
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.91865355,
+          "topicality": 0.0021238748
+        },
+        {
+          "description": "Balance",
+          "mid": "/m/03gs8b2",
+          "score": 0.78218764,
+          "topicality": 0.059978064
+        },
+        {
+          "description": "Zen",
+          "mid": "/m/0899b",
+          "score": 0.5046812,
+          "topicality": 0.93653184
+        },
+        {
+          "description": "Pebble",
+          "mid": "/m/01tp0c",
+          "score": 0.5029561,
+          "topicality": 0.2811559
+        }
+      ]
+    }
+  ]
+}

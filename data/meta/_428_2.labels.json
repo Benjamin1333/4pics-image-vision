@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Stairs",
+          "mid": "/m/01lynh",
+          "score": 0.9670032,
+          "topicality": 0.5001743
+        },
+        {
+          "description": "Spiral",
+          "mid": "/m/0gn_f",
+          "score": 0.9596234,
+          "topicality": 0.76325864
+        },
+        {
+          "description": "Handrail",
+          "mid": "/m/07p_zw",
+          "score": 0.7289258,
+          "topicality": 0.009751236
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.6764748,
+          "topicality": 0.011774211
+        },
+        {
+          "description": "Wood stain",
+          "mid": "/m/05t06b",
+          "score": 0.61598974,
+          "topicality": 1.4007972e-05
+        }
+      ]
+    }
+  ]
+}

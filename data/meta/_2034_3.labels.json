@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.8660321,
+          "topicality": 0.039888956
+        },
+        {
+          "description": "Blond",
+          "mid": "/m/0294jb",
+          "score": 0.85945046,
+          "topicality": 0.004685946
+        },
+        {
+          "description": "Conversation",
+          "mid": "/m/01h8n0",
+          "score": 0.7855811,
+          "topicality": 0.021466099
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.77004945,
+          "topicality": 0.05054027
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.72863436,
+          "topicality": 0.016261822
+        }
+      ]
+    }
+  ]
+}

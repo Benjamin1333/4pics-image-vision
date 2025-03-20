@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bone",
+          "mid": "/m/01b92",
+          "score": 0.73144054,
+          "topicality": 0.23787595
+        },
+        {
+          "description": "Human anatomy",
+          "mid": "/m/03gg9",
+          "score": 0.6796247,
+          "topicality": 0.06533448
+        },
+        {
+          "description": "Radiography",
+          "mid": "/m/0nqm4",
+          "score": 0.5371026,
+          "topicality": 0.0768203
+        },
+        {
+          "description": "Rib",
+          "mid": "/m/0c4lp",
+          "score": 0.5358613,
+          "topicality": 0.12070844
+        }
+      ]
+    }
+  ]
+}

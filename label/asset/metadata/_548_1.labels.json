@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Musical instrument",
+          "mid": "/m/04szw",
+          "score": 0.9953603,
+          "topicality": 0.06369583
+        },
+        {
+          "description": "String instrument",
+          "mid": "/m/0d8lm",
+          "score": 0.9898705,
+          "topicality": 0.024294673
+        },
+        {
+          "description": "Plucked string instrument",
+          "mid": "/m/0fx80y",
+          "score": 0.9897016,
+          "topicality": 0.0077082184
+        },
+        {
+          "description": "Chordophone",
+          "mid": "/m/011_f4",
+          "score": 0.9855047,
+          "topicality": 0.003297823
+        },
+        {
+          "description": "Guitar",
+          "mid": "/m/0342h",
+          "score": 0.9832121,
+          "topicality": 0.8091258
+        },
+        {
+          "description": "Guitarist",
+          "mid": "/m/039v1",
+          "score": 0.9758972,
+          "topicality": 0.20126909
+        },
+        {
+          "description": "Electric guitar",
+          "mid": "/m/02sgy",
+          "score": 0.97152627,
+          "topicality": 0.45365435
+        },
+        {
+          "description": "Music",
+          "mid": "/m/04rlf",
+          "score": 0.97101945,
+          "topicality": 0.09561849
+        },
+        {
+          "description": "Musician",
+          "mid": "/m/09jwl",
+          "score": 0.96063185,
+          "topicality": 0.038819738
+        },
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.9603096,
+          "topicality": 0.0024965731
+        }
+      ]
+    }
+  ]
+}

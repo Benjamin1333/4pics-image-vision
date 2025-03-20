@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Shipping container",
+          "mid": "/m/064rdf8",
+          "score": 0.94920725,
+          "topicality": 0.14931749
+        },
+        {
+          "description": "Freight transport",
+          "mid": "/m/070qm",
+          "score": 0.85987234,
+          "topicality": 0.4325915
+        },
+        {
+          "description": "Container ship",
+          "mid": "/m/01mwy7",
+          "score": 0.8409354,
+          "topicality": 0.47923058
+        },
+        {
+          "description": "Port",
+          "mid": "/m/0p1c1",
+          "score": 0.83461446,
+          "topicality": 0.51540697
+        },
+        {
+          "description": "Cargo",
+          "mid": "/m/023cbk",
+          "score": 0.82409334,
+          "topicality": 0.48223042
+        },
+        {
+          "description": "Cargo ship",
+          "mid": "/m/03c5wm",
+          "score": 0.81087554,
+          "topicality": 0.24346048
+        },
+        {
+          "description": "Feeder ship",
+          "mid": "/m/07c9x2",
+          "score": 0.8034624,
+          "topicality": 0.029705366
+        },
+        {
+          "description": "Panamax",
+          "mid": "/m/02jfb3",
+          "score": 0.7506625,
+          "topicality": 0.009752102
+        },
+        {
+          "description": "Crane",
+          "mid": "/m/01v50j",
+          "score": 0.67704743,
+          "topicality": 0.046010174
+        },
+        {
+          "description": "Watercraft",
+          "mid": "/m/01rzcn",
+          "score": 0.649832,
+          "topicality": 0.026452096
+        }
+      ]
+    }
+  ]
+}

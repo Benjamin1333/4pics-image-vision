@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Astronaut",
+          "mid": "/m/0htp",
+          "score": 0.9760212,
+          "topicality": 0.9352196
+        },
+        {
+          "description": "Astronomical object",
+          "mid": "/m/01d9ll",
+          "score": 0.857233,
+          "topicality": 0.029315062
+        },
+        {
+          "description": "Outer space",
+          "mid": "/m/01833w",
+          "score": 0.72476465,
+          "topicality": 0.39463916
+        },
+        {
+          "description": "Astronomy",
+          "mid": "/m/0dc_v",
+          "score": 0.68112326,
+          "topicality": 0.06374659
+        },
+        {
+          "description": "Aerospace Engineering",
+          "mid": "/m/0w7s",
+          "score": 0.6652728,
+          "topicality": 0.0005891412
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.6176665,
+          "topicality": 0.027181229
+        },
+        {
+          "description": "Night",
+          "mid": "/m/01d74z",
+          "score": 0.5471535,
+          "topicality": 0.012715808
+        },
+        {
+          "description": "Universe",
+          "mid": "/m/07v7c",
+          "score": 0.51939166,
+          "topicality": 0.057519235
+        }
+      ]
+    }
+  ]
+}

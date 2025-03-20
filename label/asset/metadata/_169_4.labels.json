@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Woody plant",
+          "mid": "/m/02hnx9",
+          "score": 0.83291197,
+          "topicality": 0.0016976749
+        },
+        {
+          "description": "Evergreen",
+          "mid": "/m/0hlzc",
+          "score": 0.68211216,
+          "topicality": 0.020615065
+        },
+        {
+          "description": "Conifers",
+          "mid": "/m/0hv3g",
+          "score": 0.67663395,
+          "topicality": 0.0725233
+        },
+        {
+          "description": "Christmas Day",
+          "mid": "/m/01vq3",
+          "score": 0.6699201,
+          "topicality": 0.14261612
+        },
+        {
+          "description": "Christmas tree",
+          "mid": "/m/025nd",
+          "score": 0.66513383,
+          "topicality": 0.5335062
+        },
+        {
+          "description": "Larch",
+          "mid": "/m/0pcm_",
+          "score": 0.64143926,
+          "topicality": 0.012465063
+        },
+        {
+          "description": "Cupressaceae",
+          "mid": "/m/020w9y",
+          "score": 0.60684377,
+          "topicality": 0.00048593493
+        },
+        {
+          "description": "Pine family",
+          "mid": "/m/01tfm0",
+          "score": 0.5991911,
+          "topicality": 0.02300585
+        },
+        {
+          "description": "Fir",
+          "mid": "/m/016x4z",
+          "score": 0.589916,
+          "topicality": 0.544307
+        },
+        {
+          "description": "Pine",
+          "mid": "/m/09t57",
+          "score": 0.58853567,
+          "topicality": 0.20601532
+        }
+      ]
+    }
+  ]
+}

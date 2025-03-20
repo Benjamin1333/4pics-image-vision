@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Trunk",
+          "mid": "/m/06mr9c",
+          "score": 0.9592404,
+          "topicality": 0.5972607
+        },
+        {
+          "description": "Car",
+          "mid": "/m/0k4j",
+          "score": 0.94963753,
+          "topicality": 0.017381087
+        },
+        {
+          "description": "Automotive Exterior",
+          "mid": "/m/0h8ls87",
+          "score": 0.9480365,
+          "topicality": 5.1200826e-05
+        },
+        {
+          "description": "Car door",
+          "mid": "/m/02q2kc3",
+          "score": 0.88866955,
+          "topicality": 0.00025893055
+        },
+        {
+          "description": "Family car",
+          "mid": "/m/088l6h",
+          "score": 0.85614437,
+          "topicality": 0.012100749
+        },
+        {
+          "description": "Bumper",
+          "mid": "/m/02mnkq",
+          "score": 0.81897515,
+          "topicality": 0.0011479849
+        },
+        {
+          "description": "Compact MPV",
+          "mid": "/m/0cfzkp",
+          "score": 0.8104595,
+          "topicality": 0.014283303
+        },
+        {
+          "description": "Hatchback",
+          "mid": "/m/01cmcs",
+          "score": 0.8047974,
+          "topicality": 0.011026316
+        },
+        {
+          "description": "Hot hatch",
+          "mid": "/m/0215_s",
+          "score": 0.8007562,
+          "topicality": 0.00032579928
+        },
+        {
+          "description": "Automotive Tail & Brake Light",
+          "mid": "/m/0h8m331",
+          "score": 0.794931,
+          "topicality": 3.8394766e-05
+        }
+      ]
+    }
+  ]
+}

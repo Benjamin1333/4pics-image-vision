@@ -1,0 +1,14 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Mousetrap",
+          "mid": "/m/02ndjp",
+          "score": 0.7288137,
+          "topicality": 0.9839645
+        }
+      ]
+    }
+  ]
+}

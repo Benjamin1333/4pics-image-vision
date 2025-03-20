@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Mousetrap",
+          "mid": "/m/02ndjp",
+          "score": 0.75510335,
+          "topicality": 0.9882798
+        },
+        {
+          "description": "Pest",
+          "mid": "/m/01dqkc",
+          "score": 0.52740467,
+          "topicality": 0.032518435
+        }
+      ]
+    }
+  ]
+}

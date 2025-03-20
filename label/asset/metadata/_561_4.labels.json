@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Input device",
+          "mid": "/m/02dwgb",
+          "score": 0.9827151,
+          "topicality": 0.44749346
+        },
+        {
+          "description": "Peripheral",
+          "mid": "/m/0ggnq",
+          "score": 0.97966415,
+          "topicality": 0.28853032
+        },
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.96708477,
+          "topicality": 0.067011125
+        },
+        {
+          "description": "Office Equipment",
+          "mid": "/m/03qtgjk",
+          "score": 0.96634465,
+          "topicality": 0.0014598261
+        },
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.96045005,
+          "topicality": 0.0005023808
+        },
+        {
+          "description": "Computer keyboard",
+          "mid": "/m/01m2v",
+          "score": 0.9602339,
+          "topicality": 0.9626743
+        },
+        {
+          "description": "Computer hardware",
+          "mid": "/m/01mfj",
+          "score": 0.90354073,
+          "topicality": 0.049314957
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.87940156,
+          "topicality": 0.0014975386
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.8709154,
+          "topicality": 0.0015079812
+        },
+        {
+          "description": "Space bar",
+          "mid": "/m/03rb85",
+          "score": 0.866621,
+          "topicality": 0.5462038
+        }
+      ]
+    }
+  ]
+}

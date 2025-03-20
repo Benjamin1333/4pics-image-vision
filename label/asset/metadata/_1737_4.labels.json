@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Crate",
+          "mid": "/m/03yz3h",
+          "score": 0.87261623,
+          "topicality": 0.43141562
+        },
+        {
+          "description": "Trunk",
+          "mid": "/m/03hqlh",
+          "score": 0.85377544,
+          "topicality": 0.3015597
+        },
+        {
+          "description": "Box",
+          "mid": "/m/025dyy",
+          "score": 0.8105368,
+          "topicality": 0.24946365
+        },
+        {
+          "description": "Natural material",
+          "mid": "/m/07sx2n",
+          "score": 0.6881645,
+          "topicality": 0.00071953767
+        },
+        {
+          "description": "Treasure",
+          "mid": "/m/012rq8",
+          "score": 0.6674966,
+          "topicality": 0.2413984
+        },
+        {
+          "description": "Still life photography",
+          "mid": "/m/027_ny3",
+          "score": 0.6220666,
+          "topicality": 0.009758247
+        },
+        {
+          "description": "Coffin",
+          "mid": "/m/019tzr",
+          "score": 0.53891855,
+          "topicality": 0.22761975
+        },
+        {
+          "description": "Chest",
+          "mid": "/m/04bct1",
+          "score": 0.5068983,
+          "topicality": 0.12335966
+        }
+      ]
+    }
+  ]
+}

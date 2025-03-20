@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Semi-trailer truck",
+          "mid": "/m/03hdcz",
+          "score": 0.8768847,
+          "topicality": 0.018730847
+        },
+        {
+          "description": "Boat trailer",
+          "mid": "/m/047rdc3",
+          "score": 0.81523824,
+          "topicality": 0.6041012
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.81209546,
+          "topicality": 0.0055474057
+        },
+        {
+          "description": "Tread",
+          "mid": "/m/04tkfx",
+          "score": 0.6887001,
+          "topicality": 3.84355e-05
+        }
+      ]
+    }
+  ]
+}

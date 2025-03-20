@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Steel and tin cans",
+          "mid": "/m/02jnhm",
+          "score": 0.96217436,
+          "topicality": 0.8108145
+        },
+        {
+          "description": "Tin",
+          "mid": "/m/025sk5n",
+          "score": 0.9558933,
+          "topicality": 0.49597687
+        },
+        {
+          "description": "Aluminum can",
+          "mid": "/m/0gjbv4m",
+          "score": 0.9516325,
+          "topicality": 0.2904451
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.83633876,
+          "topicality": 0.0045037293
+        },
+        {
+          "description": "Food storage containers",
+          "mid": "/m/05p0tsj",
+          "score": 0.77792776,
+          "topicality": 0.011779988
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.7151781,
+          "topicality": 0.08971258
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.6870981,
+          "topicality": 0.0007297281
+        },
+        {
+          "description": "Maize",
+          "mid": "/m/053wn",
+          "score": 0.66308665,
+          "topicality": 0.07142136
+        },
+        {
+          "description": "Lid",
+          "mid": "/m/074cq5",
+          "score": 0.6544378,
+          "topicality": 0.08426822
+        },
+        {
+          "description": "Corn kernel",
+          "mid": "/m/0964p7",
+          "score": 0.6458102,
+          "topicality": 0.06261238
+        }
+      ]
+    }
+  ]
+}

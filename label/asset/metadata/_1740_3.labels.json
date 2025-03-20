@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.935762,
+          "topicality": 0.00073161436
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8914878,
+          "topicality": 0.02963259
+        },
+        {
+          "description": "Payment card",
+          "mid": "/m/09vh0m",
+          "score": 0.80528367,
+          "topicality": 0.15073928
+        },
+        {
+          "description": "Flash memory",
+          "mid": "/m/0dcp0",
+          "score": 0.73976547,
+          "topicality": 0.04434082
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.6774675,
+          "topicality": 0.012531499
+        },
+        {
+          "description": "USB flash drive",
+          "mid": "/m/023s_v",
+          "score": 0.65401876,
+          "topicality": 0.11402401
+        },
+        {
+          "description": "Debit card",
+          "mid": "/m/02h5d",
+          "score": 0.6215445,
+          "topicality": 0.1919298
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.6148431,
+          "topicality": 0.010903015
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.5962325,
+          "topicality": 0.0012515328
+        },
+        {
+          "description": "Data storage",
+          "mid": "/m/06_6r",
+          "score": 0.5541309,
+          "topicality": 0.011977207
+        }
+      ]
+    }
+  ]
+}

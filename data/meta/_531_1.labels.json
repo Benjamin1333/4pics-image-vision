@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Drain",
+          "mid": "/m/02w0815",
+          "score": 0.7851137,
+          "topicality": 0.57753557
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.75902784,
+          "topicality": 0.0011480032
+        },
+        {
+          "description": "Button",
+          "mid": "/m/01s_bn",
+          "score": 0.6367157,
+          "topicality": 0.0020072833
+        },
+        {
+          "description": "Household hardware",
+          "mid": "/m/03jvk",
+          "score": 0.6194937,
+          "topicality": 0.0068325093
+        },
+        {
+          "description": "Nickel",
+          "mid": "/m/025s4r7",
+          "score": 0.60027057,
+          "topicality": 0.005406692
+        }
+      ]
+    }
+  ]
+}

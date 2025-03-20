@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Wall",
+          "mid": "/m/09qqq",
+          "score": 0.9774909,
+          "topicality": 0.015236714
+        },
+        {
+          "description": "Wood",
+          "mid": "/m/083vt",
+          "score": 0.96677065,
+          "topicality": 0.010101608
+        },
+        {
+          "description": "Brick",
+          "mid": "/m/01g0g",
+          "score": 0.8995661,
+          "topicality": 0.028705785
+        },
+        {
+          "description": "Brickwork",
+          "mid": "/m/01__sk",
+          "score": 0.8325621,
+          "topicality": 0.005115514
+        },
+        {
+          "description": "Building material",
+          "mid": "/m/02cr01",
+          "score": 0.77240276,
+          "topicality": 0.00083495735
+        },
+        {
+          "description": "Rust",
+          "mid": "/m/06lml",
+          "score": 0.75148183,
+          "topicality": 0.044193912
+        },
+        {
+          "description": "Natural material",
+          "mid": "/m/07sx2n",
+          "score": 0.6810609,
+          "topicality": 0.00035803617
+        },
+        {
+          "description": "Daylighting",
+          "mid": "/m/0k2n5",
+          "score": 0.6109851,
+          "topicality": 0.00015058464
+        },
+        {
+          "description": "Paint",
+          "mid": "/m/05y4t",
+          "score": 0.6087529,
+          "topicality": 0.0012911278
+        },
+        {
+          "description": "Beam",
+          "mid": "/m/02yj3w",
+          "score": 0.6040042,
+          "topicality": 0.0040052133
+        }
+      ]
+    }
+  ]
+}

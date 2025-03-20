@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Head",
+          "mid": "/m/04hgtk",
+          "score": 0.98846626,
+          "topicality": 0.003077487
+        },
+        {
+          "description": "Forehead",
+          "mid": "/m/025kyy",
+          "score": 0.98493344,
+          "topicality": 0.00045098877
+        },
+        {
+          "description": "Nose",
+          "mid": "/m/0k0pj",
+          "score": 0.98195505,
+          "topicality": 0.0009361766
+        },
+        {
+          "description": "Face",
+          "mid": "/m/0dzct",
+          "score": 0.98033464,
+          "topicality": 0.009157512
+        },
+        {
+          "description": "Sculpture",
+          "mid": "/m/06msq",
+          "score": 0.9730948,
+          "topicality": 0.17600058
+        },
+        {
+          "description": "Jaw",
+          "mid": "/m/01k9lj",
+          "score": 0.9653199,
+          "topicality": 7.7799836e-05
+        },
+        {
+          "description": "Temple",
+          "mid": "/m/08g_yr",
+          "score": 0.96436113,
+          "topicality": 0.0003526032
+        },
+        {
+          "description": "Eye",
+          "mid": "/m/014sv8",
+          "score": 0.9565515,
+          "topicality": 0.0005017879
+        },
+        {
+          "description": "Mouth",
+          "mid": "/m/0283dt1",
+          "score": 0.9565262,
+          "topicality": 0.0010498397
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9443593,
+          "topicality": 0.0006337786
+        }
+      ]
+    }
+  ]
+}

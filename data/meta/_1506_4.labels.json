@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Uniform",
+          "mid": "/m/09jfs",
+          "score": 0.94675803,
+          "topicality": 0.4666776
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.907172,
+          "topicality": 0.007474586
+        },
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.8255896,
+          "topicality": 0.13116285
+        },
+        {
+          "description": "Flight attendant",
+          "mid": "/m/017cv5",
+          "score": 0.78600407,
+          "topicality": 0.6376765
+        },
+        {
+          "description": "Student",
+          "mid": "/m/014cnc",
+          "score": 0.71917677,
+          "topicality": 0.009832514
+        },
+        {
+          "description": "Official",
+          "mid": "/m/035y33",
+          "score": 0.666287,
+          "topicality": 0.0005813
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.63781303,
+          "topicality": 0.038033176
+        },
+        {
+          "description": "Security",
+          "mid": "/m/0bg2p",
+          "score": 0.62765944,
+          "topicality": 0.021278093
+        },
+        {
+          "description": "Customer",
+          "mid": "/m/01j0mk",
+          "score": 0.62589705,
+          "topicality": 0.04630963
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.5783923,
+          "topicality": 0.0025237205
+        }
+      ]
+    }
+  ]
+}

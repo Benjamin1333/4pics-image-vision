@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Horse",
+          "mid": "/m/03k3r",
+          "score": 0.96994406,
+          "topicality": 0.079137854
+        },
+        {
+          "description": "Horse tack",
+          "mid": "/m/03pgm",
+          "score": 0.92342263,
+          "topicality": 0.0010526098
+        },
+        {
+          "description": "Working animal",
+          "mid": "/m/07_gml",
+          "score": 0.9036924,
+          "topicality": 0.0001910294
+        },
+        {
+          "description": "Horse Supplies",
+          "mid": "/m/0h8m5n6",
+          "score": 0.8702807,
+          "topicality": 4.9806255e-05
+        },
+        {
+          "description": "Silhouette",
+          "mid": "/m/03thgk",
+          "score": 0.86777455,
+          "topicality": 0.029701702
+        },
+        {
+          "description": "Rein",
+          "mid": "/m/07hgcp",
+          "score": 0.8582322,
+          "topicality": 0.0025813149
+        },
+        {
+          "description": "Sunset",
+          "mid": "/m/01b2w5",
+          "score": 0.85000306,
+          "topicality": 0.027265335
+        },
+        {
+          "description": "Pack animal",
+          "mid": "/m/0464z4",
+          "score": 0.77598596,
+          "topicality": 0.00024248447
+        },
+        {
+          "description": "Sunrise",
+          "mid": "/m/01b2q6",
+          "score": 0.7167079,
+          "topicality": 0.0014989183
+        },
+        {
+          "description": "Dusk",
+          "mid": "/m/01b3l7",
+          "score": 0.6863826,
+          "topicality": 0.004485469
+        }
+      ]
+    }
+  ]
+}

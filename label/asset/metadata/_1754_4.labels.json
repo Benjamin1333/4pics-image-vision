@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Cylinder",
+          "mid": "/m/03h_4m",
+          "score": 0.85887766,
+          "topicality": 0.009904023
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.83469903,
+          "topicality": 0.25049794
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.8319008,
+          "topicality": 0.10345568
+        },
+        {
+          "description": "Pipe",
+          "mid": "/m/09w9qp",
+          "score": 0.8277695,
+          "topicality": 0.08999704
+        },
+        {
+          "description": "Industry",
+          "mid": "/m/03rnh",
+          "score": 0.6124097,
+          "topicality": 0.055990446
+        },
+        {
+          "description": "Factory",
+          "mid": "/m/0168g6",
+          "score": 0.60998607,
+          "topicality": 0.10614847
+        },
+        {
+          "description": "Steel",
+          "mid": "/m/06qqb",
+          "score": 0.5888944,
+          "topicality": 0.016504353
+        },
+        {
+          "description": "Aluminium",
+          "mid": "/m/027vj2v",
+          "score": 0.5624643,
+          "topicality": 0.06671336
+        },
+        {
+          "description": "Hose",
+          "mid": "/m/03xbmk",
+          "score": 0.50180763,
+          "topicality": 0.0013949003
+        }
+      ]
+    }
+  ]
+}

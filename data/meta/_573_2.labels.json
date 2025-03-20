@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "People",
+          "mid": "/m/09g5pq",
+          "score": 0.99437016,
+          "topicality": 0.0683453
+        },
+        {
+          "description": "Crowd",
+          "mid": "/m/03qtwd",
+          "score": 0.97981083,
+          "topicality": 0.3453935
+        },
+        {
+          "description": "Jacket",
+          "mid": "/m/032b3c",
+          "score": 0.966031,
+          "topicality": 0.00059936015
+        },
+        {
+          "description": "Outerwear",
+          "mid": "/m/047vlmn",
+          "score": 0.96096885,
+          "topicality": 0.0019219988
+        },
+        {
+          "description": "Urban area",
+          "mid": "/m/039jbq",
+          "score": 0.9461068,
+          "topicality": 0.0042673084
+        },
+        {
+          "description": "Public space",
+          "mid": "/m/01lqfm",
+          "score": 0.94304216,
+          "topicality": 0.0010896858
+        },
+        {
+          "description": "Pedestrian",
+          "mid": "/m/017r8p",
+          "score": 0.9332997,
+          "topicality": 0.009359962
+        },
+        {
+          "description": "Hat",
+          "mid": "/m/02dl1y",
+          "score": 0.91206396,
+          "topicality": 0.00040770802
+        },
+        {
+          "description": "Metropolitan area",
+          "mid": "/m/0j_s4",
+          "score": 0.8752278,
+          "topicality": 0.0033794844
+        },
+        {
+          "description": "Hoodie",
+          "mid": "/m/05bhnr",
+          "score": 0.8707664,
+          "topicality": 2.3017743e-05
+        }
+      ]
+    }
+  ]
+}

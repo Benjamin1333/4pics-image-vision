@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.97762614,
+          "topicality": 0.10987953
+        },
+        {
+          "description": "Theater drapes and stage curtains",
+          "mid": "/m/0d7fvd",
+          "score": 0.9153736,
+          "topicality": 0.85372007
+        },
+        {
+          "description": "Curtain",
+          "mid": "/m/03rszm",
+          "score": 0.8577031,
+          "topicality": 0.31605145
+        },
+        {
+          "description": "Stage is empty",
+          "mid": "/j/gm7zd_",
+          "score": 0.8295351,
+          "topicality": 0.046039138
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.68567306,
+          "topicality": 0.019493004
+        },
+        {
+          "description": "Night",
+          "mid": "/m/01d74z",
+          "score": 0.5797735,
+          "topicality": 0.008062566
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.51604044,
+          "topicality": 0.0013268112
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Skin",
+          "mid": "/m/06z04",
+          "score": 0.98024905,
+          "topicality": 0.0027297912
+        },
+        {
+          "description": "Stuffed toy",
+          "mid": "/m/021mh_",
+          "score": 0.9786678,
+          "topicality": 0.1496411
+        },
+        {
+          "description": "Teddy bear",
+          "mid": "/m/0kmg4",
+          "score": 0.97756296,
+          "topicality": 0.32835248
+        },
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.955752,
+          "topicality": 0.04028293
+        },
+        {
+          "description": "Carnivores",
+          "mid": "/m/01lrl",
+          "score": 0.95153475,
+          "topicality": 0.0011276857
+        },
+        {
+          "description": "Textile",
+          "mid": "/m/0dnr7",
+          "score": 0.9491546,
+          "topicality": 0.0012656478
+        },
+        {
+          "description": "Linens",
+          "mid": "/m/06httj",
+          "score": 0.91144484,
+          "topicality": 0.00060609775
+        },
+        {
+          "description": "Plush",
+          "mid": "/m/025rgl",
+          "score": 0.8891455,
+          "topicality": 0.043523252
+        },
+        {
+          "description": "Fur",
+          "mid": "/m/0cnmr",
+          "score": 0.8889674,
+          "topicality": 0.0031070963
+        },
+        {
+          "description": "Comfort",
+          "mid": "/m/08xgn7",
+          "score": 0.88567823,
+          "topicality": 0.020518469
+        }
+      ]
+    }
+  ]
+}

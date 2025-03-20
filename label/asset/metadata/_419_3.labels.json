@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Crankshaft",
+          "mid": "/m/021z3",
+          "score": 0.87564594,
+          "topicality": 0.9667176
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.7864234,
+          "topicality": 0.0047666836
+        },
+        {
+          "description": "Titanium",
+          "mid": "/m/025sk56",
+          "score": 0.54339266,
+          "topicality": 0.0026061542
+        }
+      ]
+    }
+  ]
+}

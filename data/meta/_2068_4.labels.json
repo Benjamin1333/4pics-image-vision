@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.931695,
+          "topicality": 0.030543879
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.8523777,
+          "topicality": 0.08963646
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.8324633,
+          "topicality": 0.08785835
+        },
+        {
+          "description": "Thumb",
+          "mid": "/m/01bmhj",
+          "score": 0.76963866,
+          "topicality": 0.057738695
+        },
+        {
+          "description": "Celebrating",
+          "mid": "/j/6ckqtp",
+          "score": 0.58057076,
+          "topicality": 0.00611772
+        }
+      ]
+    }
+  ]
+}

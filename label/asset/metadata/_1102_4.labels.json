@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.9803192,
+          "topicality": 0.00041940837
+        },
+        {
+          "description": "Telephony",
+          "mid": "/m/0bhmh",
+          "score": 0.9727308,
+          "topicality": 0.2420312
+        },
+        {
+          "description": "Communication Device",
+          "mid": "/m/0glmwd6",
+          "score": 0.9558984,
+          "topicality": 0.00032876694
+        },
+        {
+          "description": "Telephone",
+          "mid": "/m/07cx4",
+          "score": 0.9285576,
+          "topicality": 0.43372783
+        },
+        {
+          "description": "Corded Phone",
+          "mid": "/m/0h8lkj8",
+          "score": 0.91629237,
+          "topicality": 0.0037107242
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.9126218,
+          "topicality": 0.004657835
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8740671,
+          "topicality": 0.015585732
+        },
+        {
+          "description": "Mobile phone",
+          "mid": "/m/050k8",
+          "score": 0.8402793,
+          "topicality": 0.07421027
+        },
+        {
+          "description": "Portable communications device",
+          "mid": "/m/020fsy",
+          "score": 0.63974494,
+          "topicality": 0.00066585705
+        },
+        {
+          "description": "Answering machine",
+          "mid": "/m/01lsc5",
+          "score": 0.62925965,
+          "topicality": 0.009765714
+        }
+      ]
+    }
+  ]
+}

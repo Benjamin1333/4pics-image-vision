@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Cloud",
+          "mid": "/m/0csby",
+          "score": 0.9805936,
+          "topicality": 0.18770505
+        },
+        {
+          "description": "Storm",
+          "mid": "/m/0z71l",
+          "score": 0.9514364,
+          "topicality": 0.5660019
+        },
+        {
+          "description": "Tornado",
+          "mid": "/m/09c5_",
+          "score": 0.91764367,
+          "topicality": 0.9755615
+        },
+        {
+          "description": "Plain",
+          "mid": "/m/05sm1",
+          "score": 0.91074973,
+          "topicality": 0.010267248
+        },
+        {
+          "description": "Cumulus",
+          "mid": "/m/0csh5",
+          "score": 0.8913098,
+          "topicality": 0.005695893
+        },
+        {
+          "description": "Field",
+          "mid": "/m/0brn2d",
+          "score": 0.8355847,
+          "topicality": 0.023720328
+        },
+        {
+          "description": "Thunderstorm",
+          "mid": "/m/0jb2l",
+          "score": 0.83055794,
+          "topicality": 0.39974445
+        },
+        {
+          "description": "Meteorological phenomenon",
+          "mid": "/g/11k2xz7mr",
+          "score": 0.827807,
+          "topicality": 0.002957594
+        },
+        {
+          "description": "Wind",
+          "mid": "/m/03m9d0z",
+          "score": 0.79569787,
+          "topicality": 0.14055035
+        },
+        {
+          "description": "Prairie",
+          "mid": "/m/0hkvx",
+          "score": 0.7523662,
+          "topicality": 0.040696863
+        }
+      ]
+    }
+  ]
+}

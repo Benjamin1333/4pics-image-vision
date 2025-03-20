@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Baby & Toddler Clothing",
+          "mid": "/m/0h8q07j",
+          "score": 0.9708692,
+          "topicality": 0.00021856962
+        },
+        {
+          "description": "Knit cap",
+          "mid": "/m/021_yc",
+          "score": 0.96263105,
+          "topicality": 0.64477015
+        },
+        {
+          "description": "Headgear",
+          "mid": "/m/01443y",
+          "score": 0.9585343,
+          "topicality": 0.023187274
+        },
+        {
+          "description": "Woolen",
+          "mid": "/m/01yh65",
+          "score": 0.95451915,
+          "topicality": 0.10002802
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.9326205,
+          "topicality": 0.039884333
+        },
+        {
+          "description": "Hat",
+          "mid": "/m/02dl1y",
+          "score": 0.92931193,
+          "topicality": 0.43442887
+        },
+        {
+          "description": "Wool",
+          "mid": "/m/09kxp",
+          "score": 0.92786556,
+          "topicality": 0.091419704
+        },
+        {
+          "description": "Beanie",
+          "mid": "/m/02gw_5",
+          "score": 0.9270712,
+          "topicality": 0.33138034
+        },
+        {
+          "description": "Crochet",
+          "mid": "/m/0230w",
+          "score": 0.8835985,
+          "topicality": 0.42500344
+        },
+        {
+          "description": "Knitting",
+          "mid": "/m/047fr",
+          "score": 0.8395886,
+          "topicality": 0.40841997
+        }
+      ]
+    }
+  ]
+}

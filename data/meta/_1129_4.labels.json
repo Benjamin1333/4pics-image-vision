@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Fence",
+          "mid": "/m/0blz9",
+          "score": 0.94024354,
+          "topicality": 0.7807953
+        },
+        {
+          "description": "Iron",
+          "mid": "/m/025rw19",
+          "score": 0.8960201,
+          "topicality": 0.47814655
+        },
+        {
+          "description": "Metal",
+          "mid": "/m/04t7l",
+          "score": 0.862416,
+          "topicality": 0.27547377
+        },
+        {
+          "description": "Grey",
+          "mid": "/m/036k5h",
+          "score": 0.8293831,
+          "topicality": 0.014840304
+        },
+        {
+          "description": "Finial",
+          "mid": "/m/03jnkr",
+          "score": 0.7884077,
+          "topicality": 0.1223591
+        },
+        {
+          "description": "Home Fencing",
+          "mid": "/m/0h8jv05",
+          "score": 0.7238276,
+          "topicality": 0.008636926
+        }
+      ]
+    }
+  ]
+}

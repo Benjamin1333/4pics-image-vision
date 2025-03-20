@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.81677663,
+          "topicality": 0.00024830468
+        },
+        {
+          "description": "Paper",
+          "mid": "/m/0641k",
+          "score": 0.81297696,
+          "topicality": 0.07153463
+        },
+        {
+          "description": "Voting",
+          "mid": "/m/0pgkc",
+          "score": 0.80247486,
+          "topicality": 0.94276285
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.77248156,
+          "topicality": 0.001216196
+        },
+        {
+          "description": "Wood stain",
+          "mid": "/m/05t06b",
+          "score": 0.71833235,
+          "topicality": 1.7809998e-05
+        },
+        {
+          "description": "Varnish",
+          "mid": "/m/01ffcg",
+          "score": 0.7120581,
+          "topicality": 4.2051975e-05
+        },
+        {
+          "description": "Hardwood",
+          "mid": "/m/020g49",
+          "score": 0.68138057,
+          "topicality": 3.8246322e-05
+        },
+        {
+          "description": "Plywood",
+          "mid": "/m/0jh8w",
+          "score": 0.6406208,
+          "topicality": 0.00017969198
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.5124757,
+          "topicality": 0.0005459565
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hat",
+          "mid": "/m/02dl1y",
+          "score": 0.9740181,
+          "topicality": 0.03028155
+        },
+        {
+          "description": "Headgear",
+          "mid": "/m/01443y",
+          "score": 0.9463248,
+          "topicality": 0.0019417307
+        },
+        {
+          "description": "Cap",
+          "mid": "/m/02d46y",
+          "score": 0.8933162,
+          "topicality": 0.019123737
+        },
+        {
+          "description": "Sun hat",
+          "mid": "/m/02wbtzl",
+          "score": 0.8852439,
+          "topicality": 0.0011171432
+        },
+        {
+          "description": "Fedora",
+          "mid": "/m/02fq_6",
+          "score": 0.737802,
+          "topicality": 0.0011835768
+        },
+        {
+          "description": "Baseball cap",
+          "mid": "/m/027xyl",
+          "score": 0.6212892,
+          "topicality": 0.0012596064
+        }
+      ]
+    }
+  ]
+}

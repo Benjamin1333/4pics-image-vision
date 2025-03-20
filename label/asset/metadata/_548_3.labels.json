@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.97739035,
+          "topicality": 0.0002595286
+        },
+        {
+          "description": "Electronics",
+          "mid": "/m/02mrp",
+          "score": 0.9101514,
+          "topicality": 0.11998162
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8866976,
+          "topicality": 0.0005385504
+        },
+        {
+          "description": "Wire",
+          "mid": "/m/083kv",
+          "score": 0.73663205,
+          "topicality": 0.027955642
+        },
+        {
+          "description": "Measuring instrument",
+          "mid": "/m/056hv",
+          "score": 0.6831491,
+          "topicality": 0.14076881
+        },
+        {
+          "description": "Display device",
+          "mid": "/m/029zz6",
+          "score": 0.5696607,
+          "topicality": 0.0077608284
+        },
+        {
+          "description": "Electrical cable",
+          "mid": "/m/0bmz2",
+          "score": 0.50339323,
+          "topicality": 0.0052336324
+        }
+      ]
+    }
+  ]
+}

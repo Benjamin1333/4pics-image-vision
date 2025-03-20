@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Shoulder",
+          "mid": "/m/01ssh5",
+          "score": 0.9730145,
+          "topicality": 0.010598251
+        },
+        {
+          "description": "Abdomen",
+          "mid": "/m/08y7p8",
+          "score": 0.94958967,
+          "topicality": 0.8641039
+        },
+        {
+          "description": "Stomach",
+          "mid": "/m/09x8z",
+          "score": 0.9070622,
+          "topicality": 0.63177353
+        },
+        {
+          "description": "Waist",
+          "mid": "/m/031974",
+          "score": 0.8786203,
+          "topicality": 0.1339048
+        },
+        {
+          "description": "Torso",
+          "mid": "/m/031vtq",
+          "score": 0.8580185,
+          "topicality": 0.03342476
+        },
+        {
+          "description": "Navel",
+          "mid": "/m/01hnnm",
+          "score": 0.83755684,
+          "topicality": 0.65632015
+        },
+        {
+          "description": "Thorax",
+          "mid": "/m/0dzdr",
+          "score": 0.8114731,
+          "topicality": 0.019540636
+        },
+        {
+          "description": "Hip",
+          "mid": "/m/06_kbr",
+          "score": 0.7943837,
+          "topicality": 0.016825499
+        },
+        {
+          "description": "Undergarment",
+          "mid": "/m/09j1x",
+          "score": 0.7655826,
+          "topicality": 0.015029225
+        },
+        {
+          "description": "Active Undergarment",
+          "mid": "/m/0hgp2z7",
+          "score": 0.7513839,
+          "topicality": 0.0006361827
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Metal",
+          "mid": "/m/04t7l",
+          "score": 0.834004,
+          "topicality": 0.02928447
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.8322575,
+          "topicality": 0.04412324
+        },
+        {
+          "description": "Brass",
+          "mid": "/m/01504",
+          "score": 0.80252737,
+          "topicality": 0.30924758
+        },
+        {
+          "description": "Scientific instrument",
+          "mid": "/m/04n4dpy",
+          "score": 0.7536232,
+          "topicality": 0.15212905
+        },
+        {
+          "description": "Antique",
+          "mid": "/m/01ys2s",
+          "score": 0.67283523,
+          "topicality": 0.18133263
+        },
+        {
+          "description": "Bronze",
+          "mid": "/m/01brf",
+          "score": 0.6568383,
+          "topicality": 0.18230869
+        },
+        {
+          "description": "Theodolite",
+          "mid": "/m/01kzpc",
+          "score": 0.60126543,
+          "topicality": 0.9029115
+        },
+        {
+          "description": "Cylinder",
+          "mid": "/m/03h_4m",
+          "score": 0.5754635,
+          "topicality": 0.00015260675
+        }
+      ]
+    }
+  ]
+}

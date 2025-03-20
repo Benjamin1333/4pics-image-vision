@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bathtub",
+          "mid": "/m/03dnzn",
+          "score": 0.96836686,
+          "topicality": 0.3891255
+        },
+        {
+          "description": "Bathing",
+          "mid": "/m/036d30",
+          "score": 0.9368109,
+          "topicality": 0.6263874
+        },
+        {
+          "description": "Bathroom",
+          "mid": "/m/01j2bj",
+          "score": 0.9271586,
+          "topicality": 0.198115
+        },
+        {
+          "description": "Plumbing fixture",
+          "mid": "/m/02pkr5",
+          "score": 0.9174324,
+          "topicality": 0.0019013516
+        },
+        {
+          "description": "Personal care",
+          "mid": "/m/02w3_ws",
+          "score": 0.8781986,
+          "topicality": 0.00070611405
+        },
+        {
+          "description": "Plumbing",
+          "mid": "/m/0b_zf",
+          "score": 0.85627675,
+          "topicality": 0.00058786885
+        },
+        {
+          "description": "Foam",
+          "mid": "/m/01nnqh",
+          "score": 0.7983524,
+          "topicality": 0.14352836
+        },
+        {
+          "description": "Tap",
+          "mid": "/m/02jz0l",
+          "score": 0.7432884,
+          "topicality": 0.0017740123
+        },
+        {
+          "description": "Jacuzzi",
+          "mid": "/m/041r19",
+          "score": 0.55487776,
+          "topicality": 0.20762724
+        },
+        {
+          "description": "Foot",
+          "mid": "/m/031n1",
+          "score": 0.5303203,
+          "topicality": 0.006507143
+        }
+      ]
+    }
+  ]
+}

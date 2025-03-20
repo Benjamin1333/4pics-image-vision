@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.9857078,
+          "topicality": 0.0073056696
+        },
+        {
+          "description": "Peripheral",
+          "mid": "/m/0ggnq",
+          "score": 0.94539833,
+          "topicality": 0.029647335
+        },
+        {
+          "description": "Computer hardware",
+          "mid": "/m/01mfj",
+          "score": 0.90540856,
+          "topicality": 0.024588155
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.8957205,
+          "topicality": 0.03192379
+        },
+        {
+          "description": "Electronics",
+          "mid": "/m/02mrp",
+          "score": 0.8876651,
+          "topicality": 0.05548508
+        },
+        {
+          "description": "Input device",
+          "mid": "/m/02dwgb",
+          "score": 0.8803717,
+          "topicality": 0.0013316534
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8767578,
+          "topicality": 0.047952045
+        },
+        {
+          "description": "Office Equipment",
+          "mid": "/m/03qtgjk",
+          "score": 0.8709471,
+          "topicality": 0.00016428488
+        },
+        {
+          "description": "Netbook",
+          "mid": "/m/0403lcy",
+          "score": 0.82509536,
+          "topicality": 0.0021135174
+        },
+        {
+          "description": "Laptop",
+          "mid": "/m/01c648",
+          "score": 0.8052474,
+          "topicality": 0.08270332
+        }
+      ]
+    }
+  ]
+}

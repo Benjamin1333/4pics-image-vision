@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Drain",
+          "mid": "/m/02w0815",
+          "score": 0.85731816,
+          "topicality": 0.610195
+        },
+        {
+          "description": "Plumbing",
+          "mid": "/m/0b_zf",
+          "score": 0.8314592,
+          "topicality": 0.010492945
+        },
+        {
+          "description": "Plumbing fixture",
+          "mid": "/m/02pkr5",
+          "score": 0.8021854,
+          "topicality": 0.018289875
+        },
+        {
+          "description": "Sink",
+          "mid": "/m/0130jx",
+          "score": 0.79651374,
+          "topicality": 0.14795725
+        },
+        {
+          "description": "Household hardware",
+          "mid": "/m/03jvk",
+          "score": 0.69137686,
+          "topicality": 0.012925661
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.68061185,
+          "topicality": 0.0054235384
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Moon",
+          "mid": "/m/04wv_",
+          "score": 0.9898813,
+          "topicality": 0.3226297
+        },
+        {
+          "description": "Sky",
+          "mid": "/m/01bqvp",
+          "score": 0.9890592,
+          "topicality": 0.41924602
+        },
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.9883632,
+          "topicality": 0.048952203
+        },
+        {
+          "description": "Crescent",
+          "mid": "/m/014kk_",
+          "score": 0.97713965,
+          "topicality": 0.75363773
+        },
+        {
+          "description": "Astronomical object",
+          "mid": "/m/01d9ll",
+          "score": 0.964049,
+          "topicality": 0.060199384
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.94700253,
+          "topicality": 6.0861486e-05
+        },
+        {
+          "description": "atmospheric phenomenon",
+          "mid": "/m/07pw27b",
+          "score": 0.94606394,
+          "topicality": 7.269346e-05
+        },
+        {
+          "description": "Night",
+          "mid": "/m/01d74z",
+          "score": 0.9187674,
+          "topicality": 0.59091365
+        },
+        {
+          "description": "Moonlight",
+          "mid": "/m/03qwvw",
+          "score": 0.905326,
+          "topicality": 0.47841156
+        },
+        {
+          "description": "Celestial event",
+          "mid": "/m/02rhkz",
+          "score": 0.8409843,
+          "topicality": 0.024737412
+        }
+      ]
+    }
+  ]
+}

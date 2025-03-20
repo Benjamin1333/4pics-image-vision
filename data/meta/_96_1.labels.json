@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.94762176,
+          "topicality": 0.011163175
+        },
+        {
+          "description": "Wheat",
+          "mid": "/m/09696",
+          "score": 0.92674077,
+          "topicality": 0.81155914
+        },
+        {
+          "description": "Khorasan wheat",
+          "mid": "/m/04y0z1",
+          "score": 0.90141016,
+          "topicality": 0.03728645
+        },
+        {
+          "description": "Whole grain",
+          "mid": "/m/06hs2r",
+          "score": 0.87627053,
+          "topicality": 0.10886064
+        },
+        {
+          "description": "Staple food",
+          "mid": "/m/022tld",
+          "score": 0.86099946,
+          "topicality": 0.0029596395
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.8571382,
+          "topicality": 0.13827816
+        },
+        {
+          "description": "Einkorn wheat",
+          "mid": "/m/0fsl8",
+          "score": 0.8394699,
+          "topicality": 0.053731363
+        },
+        {
+          "description": "Cereal",
+          "mid": "/m/01yyk",
+          "score": 0.8231101,
+          "topicality": 0.44918498
+        },
+        {
+          "description": "Spelt",
+          "mid": "/m/03gq1m",
+          "score": 0.81736666,
+          "topicality": 0.08051523
+        },
+        {
+          "description": "Agriculture",
+          "mid": "/m/0hkf",
+          "score": 0.77848786,
+          "topicality": 0.022085138
+        }
+      ]
+    }
+  ]
+}

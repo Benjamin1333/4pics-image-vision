@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.93721026,
+          "topicality": 0.07678211
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.81516653,
+          "topicality": 0.011847239
+        },
+        {
+          "description": "Thumb signal",
+          "mid": "/m/0bss51",
+          "score": 0.8100143,
+          "topicality": 0.10406137
+        },
+        {
+          "description": "Thumb",
+          "mid": "/m/01bmhj",
+          "score": 0.7973532,
+          "topicality": 0.13396369
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.76881695,
+          "topicality": 0.059172828
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.743871,
+          "topicality": 0.042245697
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.7393562,
+          "topicality": 0.13037997
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.7315126,
+          "topicality": 0.017522242
+        },
+        {
+          "description": "Sign",
+          "mid": "/m/06zsq",
+          "score": 0.6392737,
+          "topicality": 0.02320128
+        },
+        {
+          "description": "Icon",
+          "mid": "/m/03tqj",
+          "score": 0.56393987,
+          "topicality": 1.5483845e-05
+        }
+      ]
+    }
+  ]
+}

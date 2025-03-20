@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Key",
+          "mid": "/m/03v3yw",
+          "score": 0.97307336,
+          "topicality": 0.3467772
+        },
+        {
+          "description": "Metal",
+          "mid": "/m/04t7l",
+          "score": 0.84747976,
+          "topicality": 0.20900144
+        },
+        {
+          "description": "Brass",
+          "mid": "/m/01504",
+          "score": 0.79351383,
+          "topicality": 0.119311504
+        },
+        {
+          "description": "Household hardware",
+          "mid": "/m/03jvk",
+          "score": 0.79096025,
+          "topicality": 0.043135747
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.7560963,
+          "topicality": 0.00038677605
+        },
+        {
+          "description": "Security",
+          "mid": "/m/0bg2p",
+          "score": 0.7425149,
+          "topicality": 0.0104901735
+        },
+        {
+          "description": "Lock and key",
+          "mid": "/m/02ll1_",
+          "score": 0.7247071,
+          "topicality": 0.20976524
+        },
+        {
+          "description": "Nickel",
+          "mid": "/m/025s4r7",
+          "score": 0.7132109,
+          "topicality": 0.042606745
+        },
+        {
+          "description": "Titanium",
+          "mid": "/m/025sk56",
+          "score": 0.68336076,
+          "topicality": 0.0064235735
+        },
+        {
+          "description": "Lead",
+          "mid": "/m/025r_0t",
+          "score": 0.6724157,
+          "topicality": 0.04796549
+        }
+      ]
+    }
+  ]
+}

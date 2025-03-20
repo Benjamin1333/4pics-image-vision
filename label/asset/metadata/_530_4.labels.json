@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Wood",
+          "mid": "/m/083vt",
+          "score": 0.96530056,
+          "topicality": 0.32480624
+        },
+        {
+          "description": "Hardwood",
+          "mid": "/m/020g49",
+          "score": 0.77857774,
+          "topicality": 0.007811286
+        },
+        {
+          "description": "Wood stain",
+          "mid": "/m/05t06b",
+          "score": 0.7648439,
+          "topicality": 0.0007845757
+        },
+        {
+          "description": "Varnish",
+          "mid": "/m/01ffcg",
+          "score": 0.6957153,
+          "topicality": 0.0013840862
+        },
+        {
+          "description": "Plywood",
+          "mid": "/m/0jh8w",
+          "score": 0.6248726,
+          "topicality": 0.00091421074
+        },
+        {
+          "description": "Brass",
+          "mid": "/m/01504",
+          "score": 0.56858814,
+          "topicality": 0.06839811
+        },
+        {
+          "description": "Balance",
+          "mid": "/m/03gs8b2",
+          "score": 0.52880275,
+          "topicality": 0.0003586973
+        },
+        {
+          "description": "Antique",
+          "mid": "/m/01ys2s",
+          "score": 0.5031607,
+          "topicality": 0.12444333
+        }
+      ]
+    }
+  ]
+}

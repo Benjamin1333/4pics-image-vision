@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9672624,
+          "topicality": 0.0021033753
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.7906724,
+          "topicality": 0.079223685
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.64548016,
+          "topicality": 0.0071411226
+        },
+        {
+          "description": "Line art",
+          "mid": "/m/0919rx",
+          "score": 0.63764673,
+          "topicality": 0.06737695
+        }
+      ]
+    }
+  ]
+}

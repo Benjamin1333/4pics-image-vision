@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hat",
+          "mid": "/m/02dl1y",
+          "score": 0.9614494,
+          "topicality": 0.111481555
+        },
+        {
+          "description": "Headgear",
+          "mid": "/m/01443y",
+          "score": 0.9559621,
+          "topicality": 0.00966858
+        },
+        {
+          "description": "Facial hair",
+          "mid": "/m/0ds5b",
+          "score": 0.9367387,
+          "topicality": 0.022393549
+        },
+        {
+          "description": "Moustache",
+          "mid": "/m/0bby24z",
+          "score": 0.8973225,
+          "topicality": 0.036839418
+        },
+        {
+          "description": "Buccaneer",
+          "mid": "/m/0ddf5",
+          "score": 0.89000404,
+          "topicality": 0.15319459
+        },
+        {
+          "description": "Costume",
+          "mid": "/m/0250x",
+          "score": 0.8362601,
+          "topicality": 0.35407093
+        },
+        {
+          "description": "Beard",
+          "mid": "/m/015h_t",
+          "score": 0.8323629,
+          "topicality": 0.021749623
+        },
+        {
+          "description": "Air gun",
+          "mid": "/m/012fyw",
+          "score": 0.7850867,
+          "topicality": 0.003487916
+        },
+        {
+          "description": "Film",
+          "mid": "/m/02vxn",
+          "score": 0.7109133,
+          "topicality": 0.03938653
+        },
+        {
+          "description": "Kerchief",
+          "mid": "/m/0fjt2",
+          "score": 0.69866925,
+          "topicality": 0.008183703
+        }
+      ]
+    }
+  ]
+}

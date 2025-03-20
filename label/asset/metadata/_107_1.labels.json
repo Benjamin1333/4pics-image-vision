@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Toy block",
+          "mid": "/m/0by9lp",
+          "score": 0.9465703,
+          "topicality": 0.5500772
+        },
+        {
+          "description": "Wooden Block",
+          "mid": "/m/0h8mhqv",
+          "score": 0.92478824,
+          "topicality": 0.8549656
+        },
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.7843263,
+          "topicality": 0.3069124
+        },
+        {
+          "description": "Building sets",
+          "mid": "/j/f7ph4c",
+          "score": 0.6513708,
+          "topicality": 0.002001719
+        },
+        {
+          "description": "Educational toy",
+          "mid": "/m/02w5gwc",
+          "score": 0.63543737,
+          "topicality": 0.10710441
+        },
+        {
+          "description": "Construction Set Toy",
+          "mid": "/m/0h8mwcp",
+          "score": 0.5704863,
+          "topicality": 0.0049924254
+        }
+      ]
+    }
+  ]
+}

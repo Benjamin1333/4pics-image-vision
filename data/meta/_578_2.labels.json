@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Tool",
+          "mid": "/m/07k1x",
+          "score": 0.64413244,
+          "topicality": 0.27531004
+        },
+        {
+          "description": "Antique tool",
+          "mid": "/m/0bpff7",
+          "score": 0.54525304,
+          "topicality": 0.032399304
+        },
+        {
+          "description": "Antique",
+          "mid": "/m/01ys2s",
+          "score": 0.54278034,
+          "topicality": 0.30768165
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.98319,
+          "topicality": 0.051383518
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.97955173,
+          "topicality": 0.018900191
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9780261,
+          "topicality": 0.08282749
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.976743,
+          "topicality": 0.0019172197
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.9755646,
+          "topicality": 0.0008432459
+        },
+        {
+          "description": "Seedless fruit",
+          "mid": "/m/0bvv45",
+          "score": 0.96852314,
+          "topicality": 0.041023154
+        },
+        {
+          "description": "Grape",
+          "mid": "/m/0388q",
+          "score": 0.9629272,
+          "topicality": 0.73991
+        },
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.95339555,
+          "topicality": 0.009318608
+        },
+        {
+          "description": "Grapes",
+          "mid": "/m/0d_4s",
+          "score": 0.9169481,
+          "topicality": 0.025672607
+        },
+        {
+          "description": "Fruit tree",
+          "mid": "/m/0p719",
+          "score": 0.90810716,
+          "topicality": 0.008402611
+        }
+      ]
+    }
+  ]
+}

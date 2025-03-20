@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Diagram",
+          "mid": "/m/02v0m2",
+          "score": 0.87900615,
+          "topicality": 0.16232339
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6391899,
+          "topicality": 0.014834539
+        },
+        {
+          "description": "Triangle",
+          "mid": "/m/07jx7",
+          "score": 0.63851184,
+          "topicality": 0.021526888
+        },
+        {
+          "description": "Schematic",
+          "mid": "/m/0bg0t",
+          "score": 0.6097896,
+          "topicality": 0.019735966
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.5917738,
+          "topicality": 0.004273869
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.5539182,
+          "topicality": 0.027003393
+        },
+        {
+          "description": "Technical drawing",
+          "mid": "/m/0f9tj",
+          "score": 0.5029327,
+          "topicality": 0.22999966
+        }
+      ]
+    }
+  ]
+}

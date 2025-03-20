@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Rust",
+          "mid": "/m/06lml",
+          "score": 0.7525397,
+          "topicality": 0.20269419
+        },
+        {
+          "description": "Fender",
+          "mid": "/m/0d74dx",
+          "score": 0.7480803,
+          "topicality": 0.00038413424
+        },
+        {
+          "description": "Classic car",
+          "mid": "/m/01xsb3",
+          "score": 0.7207077,
+          "topicality": 0.11267728
+        },
+        {
+          "description": "Antique car",
+          "mid": "/m/025qfg",
+          "score": 0.65561914,
+          "topicality": 0.114045836
+        },
+        {
+          "description": "Tread",
+          "mid": "/m/04tkfx",
+          "score": 0.6207598,
+          "topicality": 1.2729569e-05
+        },
+        {
+          "description": "Hood",
+          "mid": "/m/02df64",
+          "score": 0.60631657,
+          "topicality": 0.00040418893
+        },
+        {
+          "description": "Vintage car",
+          "mid": "/m/01xq49",
+          "score": 0.5803465,
+          "topicality": 0.10482164
+        },
+        {
+          "description": "Antique",
+          "mid": "/m/01ys2s",
+          "score": 0.5714688,
+          "topicality": 0.025262345
+        }
+      ]
+    }
+  ]
+}

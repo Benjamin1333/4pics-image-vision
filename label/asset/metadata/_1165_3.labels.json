@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9646783,
+          "topicality": 0.009172492
+        },
+        {
+          "description": "Shoe",
+          "mid": "/m/06rrc",
+          "score": 0.96221197,
+          "topicality": 0.038828317
+        },
+        {
+          "description": "Calf",
+          "mid": "/m/0715t2",
+          "score": 0.95064294,
+          "topicality": 0.0057129036
+        },
+        {
+          "description": "Fashion",
+          "mid": "/m/032tl",
+          "score": 0.9504623
+        },
+        {
+          "description": "High-heeled shoe",
+          "mid": "/m/06k2mb",
+          "score": 0.9496939,
+          "topicality": 0.21840881
+        },
+        {
+          "description": "Monochrome photography",
+          "mid": "/m/03d49p1",
+          "score": 0.9457122,
+          "topicality": 0.06278657
+        },
+        {
+          "description": "Foot",
+          "mid": "/m/031n1",
+          "score": 0.92876476,
+          "topicality": 0.018860096
+        },
+        {
+          "description": "Black",
+          "mid": "/m/019sc",
+          "score": 0.9099744,
+          "topicality": 0.016884863
+        },
+        {
+          "description": "Black and white",
+          "mid": "/m/01g6gs",
+          "score": 0.8969532,
+          "topicality": 0.14931996
+        },
+        {
+          "description": "Ankle",
+          "mid": "/m/01xlvy",
+          "score": 0.88638127,
+          "topicality": 0.0024871188
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Book",
+          "mid": "/m/0bt_c3",
+          "score": 0.9432687,
+          "topicality": 0.8652457
+        },
+        {
+          "description": "Paper",
+          "mid": "/m/0641k",
+          "score": 0.9099847,
+          "topicality": 0.03389497
+        },
+        {
+          "description": "Publication",
+          "mid": "/m/01h1dd",
+          "score": 0.901539,
+          "topicality": 0.03591208
+        },
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.8311547,
+          "topicality": 0.00056093663
+        },
+        {
+          "description": "Novel",
+          "mid": "/m/05hgj",
+          "score": 0.5631292,
+          "topicality": 0.05527782
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.54435575,
+          "topicality": 0.025948893
+        },
+        {
+          "description": "Book cover",
+          "mid": "/m/09xbm8",
+          "score": 0.54370594,
+          "topicality": 0.059791815
+        },
+        {
+          "description": "Education",
+          "mid": "/m/02jfc",
+          "score": 0.5331511,
+          "topicality": 0.08351641
+        },
+        {
+          "description": "Self-help book",
+          "mid": "/m/02pqjcv",
+          "score": 0.52211535,
+          "topicality": 0.03227707
+        }
+      ]
+    }
+  ]
+}

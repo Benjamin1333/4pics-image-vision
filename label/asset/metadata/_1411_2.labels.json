@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Head",
+          "mid": "/m/04hgtk",
+          "score": 0.9856039,
+          "topicality": 0.0094675
+        },
+        {
+          "description": "Sleep",
+          "mid": "/m/06xzh",
+          "score": 0.97943544,
+          "topicality": 0.6879125
+        },
+        {
+          "description": "Nose",
+          "mid": "/m/0k0pj",
+          "score": 0.9771398,
+          "topicality": 0.002681077
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.9673403,
+          "topicality": 0.048558123
+        },
+        {
+          "description": "Comfort",
+          "mid": "/m/08xgn7",
+          "score": 0.9508158,
+          "topicality": 0.010996934
+        },
+        {
+          "description": "Baby sleeping",
+          "mid": "/j/cz_y6g",
+          "score": 0.95032716,
+          "topicality": 0.13387546
+        },
+        {
+          "description": "Nap",
+          "mid": "/m/05c1ypb",
+          "score": 0.94224334,
+          "topicality": 0.29265586
+        },
+        {
+          "description": "Bedtime",
+          "mid": "/m/027s69l",
+          "score": 0.94103867,
+          "topicality": 0.23368882
+        },
+        {
+          "description": "Infant",
+          "mid": "/m/0jnvp",
+          "score": 0.8853415,
+          "topicality": 0.5866862
+        },
+        {
+          "description": "Eyelash",
+          "mid": "/m/03f52z",
+          "score": 0.8675571,
+          "topicality": 0.000114188144
+        }
+      ]
+    }
+  ]
+}

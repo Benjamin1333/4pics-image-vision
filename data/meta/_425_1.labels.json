@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Camping",
+          "mid": "/m/01h6d4",
+          "score": 0.8601211,
+          "topicality": 0.6392559
+        },
+        {
+          "description": "Hiking equipment",
+          "mid": "/m/0268lbt",
+          "score": 0.6626007,
+          "topicality": 0.05780317
+        },
+        {
+          "description": "Tarpaulin",
+          "mid": "/m/02w3fc",
+          "score": 0.6141539,
+          "topicality": 0.029856395
+        },
+        {
+          "description": "Vacation",
+          "mid": "/m/02jwqh",
+          "score": 0.57283854,
+          "topicality": 0.016663564
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.54687434,
+          "topicality": 0.0039555086
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Clown",
+          "mid": "/m/01sfl",
+          "score": 0.98605883,
+          "topicality": 0.9649202
+        },
+        {
+          "description": "Entertainment",
+          "mid": "/m/02jjt",
+          "score": 0.9524199,
+          "topicality": 0.0022198053
+        },
+        {
+          "description": "Performing Arts",
+          "mid": "/m/05qjc",
+          "score": 0.8731102,
+          "topicality": 0.0017557325
+        },
+        {
+          "description": "Hat",
+          "mid": "/m/02dl1y",
+          "score": 0.86638105,
+          "topicality": 0.012314767
+        },
+        {
+          "description": "Party Supply",
+          "mid": "/m/0cmqr_4",
+          "score": 0.7724389,
+          "topicality": 0.0006506316
+        },
+        {
+          "description": "Costume Hat",
+          "mid": "/m/0hgs54_",
+          "score": 0.76129764,
+          "topicality": 0.00022949095
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.74710125,
+          "topicality": 0.023250552
+        },
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.7123359,
+          "topicality": 0.09914183
+        },
+        {
+          "description": "Costume",
+          "mid": "/m/0250x",
+          "score": 0.70145243,
+          "topicality": 0.03907019
+        },
+        {
+          "description": "Performance",
+          "mid": "/m/01gq53",
+          "score": 0.62180954,
+          "topicality": 0.00045806094
+        }
+      ]
+    }
+  ]
+}

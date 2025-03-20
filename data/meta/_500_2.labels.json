@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Lightning",
+          "mid": "/m/0gms8",
+          "score": 0.9936261,
+          "topicality": 0.94853854
+        },
+        {
+          "description": "Thunder",
+          "mid": "/m/0ngt1",
+          "score": 0.9854306,
+          "topicality": 0.7226912
+        },
+        {
+          "description": "Thunderstorm",
+          "mid": "/m/0jb2l",
+          "score": 0.9628187,
+          "topicality": 0.8234003
+        },
+        {
+          "description": "Natural landscape",
+          "mid": "/m/03d28y3",
+          "score": 0.9451414,
+          "topicality": 0.011491288
+        },
+        {
+          "description": "Storm",
+          "mid": "/m/0z71l",
+          "score": 0.94271404,
+          "topicality": 0.65609795
+        },
+        {
+          "description": "Plain",
+          "mid": "/m/05sm1",
+          "score": 0.8877751,
+          "topicality": 0.024134709
+        },
+        {
+          "description": "Rural area",
+          "mid": "/m/01f4td",
+          "score": 0.8780842,
+          "topicality": 0.009058941
+        },
+        {
+          "description": "Field",
+          "mid": "/m/0brn2d",
+          "score": 0.8756928,
+          "topicality": 0.035851512
+        },
+        {
+          "description": "Electricity",
+          "mid": "/m/02lts",
+          "score": 0.8648202,
+          "topicality": 0.049989976
+        },
+        {
+          "description": "Prairie",
+          "mid": "/m/0hkvx",
+          "score": 0.8003538,
+          "topicality": 0.124576405
+        }
+      ]
+    }
+  ]
+}

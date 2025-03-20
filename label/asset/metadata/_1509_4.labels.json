@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.9847952,
+          "topicality": 0.01652686
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.944937,
+          "topicality": 0.00024748524
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9358897,
+          "topicality": 0.0052061635
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.93469954,
+          "topicality": 0.09731699
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.90202063,
+          "topicality": 0.018350905
+        },
+        {
+          "description": "Taste",
+          "mid": "/m/0cp_p",
+          "score": 0.875449,
+          "topicality": 0.1009729
+        },
+        {
+          "description": "Chocolate",
+          "mid": "/m/020vl",
+          "score": 0.81416374,
+          "topicality": 0.35669145
+        },
+        {
+          "description": "Eating",
+          "mid": "/m/01f5gx",
+          "score": 0.751917,
+          "topicality": 0.07704471
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.73467994,
+          "topicality": 0.085084856
+        },
+        {
+          "description": "Biting",
+          "mid": "/m/0k3p6k9",
+          "score": 0.7036411,
+          "topicality": 0.010902366
+        }
+      ]
+    }
+  ]
+}

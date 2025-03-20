@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Car",
+          "mid": "/m/0k4j",
+          "score": 0.9937712,
+          "topicality": 0.1689279
+        },
+        {
+          "description": "Land vehicle",
+          "mid": "/m/01prls",
+          "score": 0.9924922,
+          "topicality": 0.011849192
+        },
+        {
+          "description": "Vehicle",
+          "mid": "/m/07yv9",
+          "score": 0.98964465,
+          "topicality": 0.13082027
+        },
+        {
+          "description": "Mode of transport",
+          "mid": "/m/079bkr",
+          "score": 0.9865843,
+          "topicality": 0.0131359
+        },
+        {
+          "description": "Automotive lighting",
+          "mid": "/m/0768fx",
+          "score": 0.98142684,
+          "topicality": 0.00065732485
+        },
+        {
+          "description": "Tire",
+          "mid": "/m/0h9mv",
+          "score": 0.9797435,
+          "topicality": 0.0021799468
+        },
+        {
+          "description": "Motor vehicle",
+          "mid": "/m/012f08",
+          "score": 0.97755045,
+          "topicality": 0.021975815
+        },
+        {
+          "description": "Transport",
+          "mid": "/m/07bsy",
+          "score": 0.976717,
+          "topicality": 0.05853252
+        },
+        {
+          "description": "Wheel",
+          "mid": "/m/083wq",
+          "score": 0.9749662,
+          "topicality": 0.005692329
+        },
+        {
+          "description": "Automotive Exterior",
+          "mid": "/m/0h8ls87",
+          "score": 0.96492505,
+          "topicality": 0.00033258807
+        }
+      ]
+    }
+  ]
+}

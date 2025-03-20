@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Input device",
+          "mid": "/m/02dwgb",
+          "score": 0.84700006,
+          "topicality": 0.028234659
+        },
+        {
+          "description": "Peripheral",
+          "mid": "/m/0ggnq",
+          "score": 0.8229547,
+          "topicality": 0.019431917
+        },
+        {
+          "description": "Computer keyboard",
+          "mid": "/m/01m2v",
+          "score": 0.6581767,
+          "topicality": 0.4708677
+        },
+        {
+          "description": "Office Equipment",
+          "mid": "/m/03qtgjk",
+          "score": 0.5894503,
+          "topicality": 0.001866649
+        },
+        {
+          "description": "Computer Component",
+          "mid": "/m/0h8lprf",
+          "score": 0.5087636,
+          "topicality": 0.00057008886
+        }
+      ]
+    }
+  ]
+}

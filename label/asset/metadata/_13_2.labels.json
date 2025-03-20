@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.85338223,
+          "topicality": 0.018489625
+        },
+        {
+          "description": "Waist",
+          "mid": "/m/031974",
+          "score": 0.8495532,
+          "topicality": 0.0022382012
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.80050564,
+          "topicality": 0.01836415
+        },
+        {
+          "description": "Denim",
+          "mid": "/m/0hgr6",
+          "score": 0.74636465,
+          "topicality": 6.609582e-05
+        },
+        {
+          "description": "Abdomen",
+          "mid": "/m/08y7p8",
+          "score": 0.7387515,
+          "topicality": 0.0059562987
+        },
+        {
+          "description": "Drinking",
+          "mid": "/m/0hjbz",
+          "score": 0.67084557,
+          "topicality": 0.02305016
+        },
+        {
+          "description": "Lap",
+          "mid": "/m/09fwz6",
+          "score": 0.5225069,
+          "topicality": 0.01544709
+        },
+        {
+          "description": "Hip",
+          "mid": "/m/06_kbr",
+          "score": 0.5160995,
+          "topicality": 0.0032520737
+        },
+        {
+          "description": "Party",
+          "mid": "/m/05_4_",
+          "score": 0.50122076,
+          "topicality": 0.025159517
+        }
+      ]
+    }
+  ]
+}

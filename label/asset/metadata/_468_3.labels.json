@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Wrist",
+          "mid": "/m/01j48b",
+          "score": 0.896749,
+          "topicality": 0.07946205
+        },
+        {
+          "description": "Glove",
+          "mid": "/m/0174n1",
+          "score": 0.86047137,
+          "topicality": 0.14448445
+        },
+        {
+          "description": "Contact sport",
+          "mid": "/m/08fgwk",
+          "score": 0.85381085,
+          "topicality": 0.0014586652
+        },
+        {
+          "description": "Boxing",
+          "mid": "/m/01cgz",
+          "score": 0.81813794,
+          "topicality": 0.43866384
+        },
+        {
+          "description": "Physical fitness",
+          "mid": "/m/027x7n",
+          "score": 0.7895103,
+          "topicality": 0.054322377
+        },
+        {
+          "description": "Punch",
+          "mid": "/m/02jwq3",
+          "score": 0.7132262,
+          "topicality": 0.33046314
+        },
+        {
+          "description": "Combat sport",
+          "mid": "/m/05kc29",
+          "score": 0.7101413,
+          "topicality": 0.023085851
+        },
+        {
+          "description": "Striking combat sports",
+          "mid": "/m/0wgq6y7",
+          "score": 0.69301933,
+          "topicality": 0.0012832129
+        },
+        {
+          "description": "Strike",
+          "mid": "/m/02rj0b",
+          "score": 0.6544059,
+          "topicality": 0.12086289
+        },
+        {
+          "description": "boxing equipment",
+          "mid": "/m/07sz2vf",
+          "score": 0.598832,
+          "topicality": 0.000973645
+        }
+      ]
+    }
+  ]
+}

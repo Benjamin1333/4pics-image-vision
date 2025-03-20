@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Dog",
+          "mid": "/m/0bt9lr",
+          "score": 0.99557185,
+          "topicality": 0.764795
+        },
+        {
+          "description": "Carnivores",
+          "mid": "/m/01lrl",
+          "score": 0.96512073,
+          "topicality": 0.0030908254
+        },
+        {
+          "description": "Bottle",
+          "mid": "/m/04dr76w",
+          "score": 0.92803764,
+          "topicality": 0.029381612
+        },
+        {
+          "description": "Glass bottle",
+          "mid": "/m/089mxq",
+          "score": 0.8140513,
+          "topicality": 0.00017813905
+        },
+        {
+          "description": "Wine bottle",
+          "mid": "/m/020p1v",
+          "score": 0.8122373,
+          "topicality": 0.027965952
+        },
+        {
+          "description": "Canidae",
+          "mid": "/m/01z5f",
+          "score": 0.8080745,
+          "topicality": 0.01475991
+        },
+        {
+          "description": "Wine",
+          "mid": "/m/081qc",
+          "score": 0.7998168,
+          "topicality": 0.16687635
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.79082006,
+          "topicality": 0.011857788
+        },
+        {
+          "description": "Alcoholic drink",
+          "mid": "/m/012mj",
+          "score": 0.7510979,
+          "topicality": 0.016242871
+        },
+        {
+          "description": "Pet Supply",
+          "mid": "/m/0h8ks17",
+          "score": 0.7200341,
+          "topicality": 0.000108662796
+        }
+      ]
+    }
+  ]
+}

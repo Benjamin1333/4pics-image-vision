@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Eyewear",
+          "mid": "/m/0j272k5",
+          "score": 0.9898078,
+          "topicality": 0.0010504032
+        },
+        {
+          "description": "Diving equipment",
+          "mid": "/m/02gq7v",
+          "score": 0.9837419,
+          "topicality": 0.13431807
+        },
+        {
+          "description": "Personal protective equipment",
+          "mid": "/m/0ffjr",
+          "score": 0.9558067,
+          "topicality": 0.0014654832
+        },
+        {
+          "description": "Diving mask",
+          "mid": "/m/02gq5h",
+          "score": 0.934729,
+          "topicality": 0.6900173
+        },
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.91862583,
+          "topicality": 0.0020061936
+        },
+        {
+          "description": "Underwater",
+          "mid": "/m/01sfb5",
+          "score": 0.8811693,
+          "topicality": 0.10434664
+        },
+        {
+          "description": "Goggles",
+          "mid": "/m/02_n6y",
+          "score": 0.8644522,
+          "topicality": 0.02443219
+        },
+        {
+          "description": "Underwater diving",
+          "mid": "/m/09kjpq",
+          "score": 0.8181846,
+          "topicality": 0.5607868
+        },
+        {
+          "description": "Selfie",
+          "mid": "/m/0sgh53y",
+          "score": 0.81068784,
+          "topicality": 0.0008219687
+        },
+        {
+          "description": "Divemaster",
+          "mid": "/m/047vph4",
+          "score": 0.78291297,
+          "topicality": 0.017636554
+        }
+      ]
+    }
+  ]
+}

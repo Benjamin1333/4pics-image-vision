@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Picture frame",
+          "mid": "/m/06z37_",
+          "score": 0.94658387,
+          "topicality": 0.03831131
+        },
+        {
+          "description": "Flooring",
+          "mid": "/m/01c34b",
+          "score": 0.9428739,
+          "topicality": 0.00011190989
+        },
+        {
+          "description": "Visual arts",
+          "mid": "/m/0p9xx",
+          "score": 0.9255597,
+          "topicality": 0.04016538
+        },
+        {
+          "description": "Floor",
+          "mid": "/m/0l7_8",
+          "score": 0.9142418,
+          "topicality": 0.0013788213
+        },
+        {
+          "description": "Wood flooring",
+          "mid": "/m/027xhm0",
+          "score": 0.91058344,
+          "topicality": 6.2750034e-05
+        },
+        {
+          "description": "Exhibition",
+          "mid": "/m/0fq22vb",
+          "score": 0.89359915,
+          "topicality": 0.59771734
+        },
+        {
+          "description": "Art museum",
+          "mid": "/m/0hhbr",
+          "score": 0.88459545,
+          "topicality": 0.6479401
+        },
+        {
+          "description": "Art exhibition",
+          "mid": "/m/0490jd",
+          "score": 0.8801436,
+          "topicality": 0.41493
+        },
+        {
+          "description": "Museum",
+          "mid": "/m/09cmq",
+          "score": 0.804475,
+          "topicality": 0.30576172
+        },
+        {
+          "description": "Collection",
+          "mid": "/m/08_4sd",
+          "score": 0.7534211,
+          "topicality": 0.25610244
+        }
+      ]
+    }
+  ]
+}

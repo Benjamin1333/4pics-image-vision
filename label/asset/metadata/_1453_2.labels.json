@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.98637575,
+          "topicality": 0.18025799
+        },
+        {
+          "description": "Sausage",
+          "mid": "/m/0kdzn",
+          "score": 0.96352345,
+          "topicality": 0.8583856
+        },
+        {
+          "description": "Meat",
+          "mid": "/m/04scj",
+          "score": 0.951514,
+          "topicality": 0.101523824
+        },
+        {
+          "description": "Bratwurst",
+          "mid": "/m/01gxnj",
+          "score": 0.9514588,
+          "topicality": 0.24353454
+        },
+        {
+          "description": "Breakfast sausage",
+          "mid": "/m/01xg0j",
+          "score": 0.94194096,
+          "topicality": 0.10883058
+        },
+        {
+          "description": "Chorizo",
+          "mid": "/m/01xg7s",
+          "score": 0.9328193,
+          "topicality": 0.0407246
+        },
+        {
+          "description": "Diot",
+          "mid": "/m/03gy109",
+          "score": 0.9323116,
+          "topicality": 0.0064458856
+        },
+        {
+          "description": "Cumberland sausage",
+          "mid": "/m/02th9r",
+          "score": 0.9303734,
+          "topicality": 0.22555313
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9285755,
+          "topicality": 0.013009738
+        },
+        {
+          "description": "Italian sausage",
+          "mid": "/m/09z27p",
+          "score": 0.9239735,
+          "topicality": 0.03499424
+        }
+      ]
+    }
+  ]
+}

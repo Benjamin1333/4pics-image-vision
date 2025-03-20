@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Paper",
+          "mid": "/m/0641k",
+          "score": 0.8757289,
+          "topicality": 0.012957327
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.8393687,
+          "topicality": 0.0018731138
+        },
+        {
+          "description": "Money",
+          "mid": "/m/04_x4",
+          "score": 0.838285,
+          "topicality": 0.4058919
+        },
+        {
+          "description": "Currency",
+          "mid": "/m/01q7l",
+          "score": 0.8161027,
+          "topicality": 0.03280461
+        },
+        {
+          "description": "Cash",
+          "mid": "/m/0fd6q",
+          "score": 0.77956516,
+          "topicality": 0.112225756
+        },
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.7700138,
+          "topicality": 0.00018352833
+        },
+        {
+          "description": "Banknote",
+          "mid": "/m/01dl3j",
+          "score": 0.6733315,
+          "topicality": 0.024047092
+        },
+        {
+          "description": "Writing implement",
+          "mid": "/m/06wybl",
+          "score": 0.6542612,
+          "topicality": 0.0027355803
+        },
+        {
+          "description": "Money Handling",
+          "mid": "/m/0h8n2s1",
+          "score": 0.6391231,
+          "topicality": 0.0059552337
+        },
+        {
+          "description": "Saving",
+          "mid": "/m/0hbm6",
+          "score": 0.63412255,
+          "topicality": 0.29646692
+        }
+      ]
+    }
+  ]
+}

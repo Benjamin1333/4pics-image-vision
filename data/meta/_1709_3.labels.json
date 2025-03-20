@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.73577505,
+          "topicality": 0.0007655449
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.6367117,
+          "topicality": 0.047660578
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.6333901,
+          "topicality": 0.008531021
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6036566,
+          "topicality": 0.0054882905
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.5626089,
+          "topicality": 0.017538326
+        }
+      ]
+    }
+  ]
+}

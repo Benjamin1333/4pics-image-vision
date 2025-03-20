@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Flooring",
+          "mid": "/m/01c34b",
+          "score": 0.9658152,
+          "topicality": 0.0018613368
+        },
+        {
+          "description": "Floor",
+          "mid": "/m/0l7_8",
+          "score": 0.9566835,
+          "topicality": 0.15158337
+        },
+        {
+          "description": "Household Cleaning Supply",
+          "mid": "/m/0h8ntf7",
+          "score": 0.922699,
+          "topicality": 0.0010137956
+        },
+        {
+          "description": "Cleaner",
+          "mid": "/m/02pnv61",
+          "score": 0.89609313,
+          "topicality": 0.54204804
+        },
+        {
+          "description": "Vacuum cleaner",
+          "mid": "/m/0d31p",
+          "score": 0.8830913,
+          "topicality": 0.5098113
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.8410089,
+          "topicality": 0.035757873
+        },
+        {
+          "description": "Wood flooring",
+          "mid": "/m/027xhm0",
+          "score": 0.7711126,
+          "topicality": 0.00095754623
+        },
+        {
+          "description": "Homemaking",
+          "mid": "/m/0f75y",
+          "score": 0.7501094,
+          "topicality": 0.004583925
+        },
+        {
+          "description": "Cleanliness",
+          "mid": "/m/020s4p",
+          "score": 0.7057553,
+          "topicality": 0.3514044
+        },
+        {
+          "description": "Laminate flooring",
+          "mid": "/m/04xvs0",
+          "score": 0.6240143,
+          "topicality": 0.00017136158
+        }
+      ]
+    }
+  ]
+}

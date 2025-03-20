@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Plan",
+          "mid": "/m/018jrr",
+          "score": 0.70007414,
+          "topicality": 0.26729372
+        },
+        {
+          "description": "Diagram",
+          "mid": "/m/02v0m2",
+          "score": 0.6986902,
+          "topicality": 0.06595199
+        }
+      ]
+    }
+  ]
+}

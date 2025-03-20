@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bottle",
+          "mid": "/m/04dr76w",
+          "score": 0.7271796,
+          "topicality": 0.0056145494
+        },
+        {
+          "description": "Lavender",
+          "mid": "/m/04gth",
+          "score": 0.70299333,
+          "topicality": 0.98485154
+        },
+        {
+          "description": "English lavender",
+          "mid": "/m/09dj50",
+          "score": 0.6867159,
+          "topicality": 0.7421373
+        },
+        {
+          "description": "Flower bouquet",
+          "mid": "/m/02p6k8p",
+          "score": 0.58565265,
+          "topicality": 0.06254767
+        },
+        {
+          "description": "French lavender",
+          "mid": "/m/054vlz",
+          "score": 0.5560871,
+          "topicality": 0.13800576
+        },
+        {
+          "description": "Geraniums",
+          "mid": "/m/01y1_z",
+          "score": 0.5014955,
+          "topicality": 4.747434e-05
+        }
+      ]
+    }
+  ]
+}

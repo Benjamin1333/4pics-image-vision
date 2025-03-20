@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.9908445,
+          "topicality": 0.10499431
+        },
+        {
+          "description": "Finger food",
+          "mid": "/m/0b3dyl",
+          "score": 0.9502633,
+          "topicality": 0.0014585749
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9450151,
+          "topicality": 0.02215552
+        },
+        {
+          "description": "Dessert",
+          "mid": "/m/0270h",
+          "score": 0.9041496,
+          "topicality": 0.11251051
+        },
+        {
+          "description": "Cookies and Crackers",
+          "mid": "/m/03qtd73",
+          "score": 0.88271135,
+          "topicality": 0.0008049617
+        },
+        {
+          "description": "Baking",
+          "mid": "/m/0dv34",
+          "score": 0.8777751,
+          "topicality": 0.12224862
+        },
+        {
+          "description": "Recipe",
+          "mid": "/m/0p57p",
+          "score": 0.8512282,
+          "topicality": 0.40274546
+        },
+        {
+          "description": "Biscuit",
+          "mid": "/m/01tqs1",
+          "score": 0.83253175,
+          "topicality": 0.42951888
+        },
+        {
+          "description": "Biscotti",
+          "mid": "/m/0528g3",
+          "score": 0.8258576,
+          "topicality": 0.80964327
+        },
+        {
+          "description": "Bredele",
+          "mid": "/m/09q6n_",
+          "score": 0.76411074,
+          "topicality": 0.0031017172
+        }
+      ]
+    }
+  ]
+}

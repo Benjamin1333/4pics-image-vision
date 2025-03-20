@@ -1,0 +1,14 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Clock",
+          "mid": "/m/01x3z",
+          "score": 0.56763804,
+          "topicality": 0.18861912
+        }
+      ]
+    }
+  ]
+}

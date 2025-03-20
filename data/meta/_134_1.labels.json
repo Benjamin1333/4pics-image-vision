@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.98896694,
+          "topicality": 0.025111005
+        },
+        {
+          "description": "Ice cap",
+          "mid": "/m/04b966",
+          "score": 0.91914517,
+          "topicality": 0.06678736
+        },
+        {
+          "description": "Winter",
+          "mid": "/m/086mh",
+          "score": 0.90627724,
+          "topicality": 0.05747767
+        },
+        {
+          "description": "Glacier",
+          "mid": "/m/038jz",
+          "score": 0.8868909,
+          "topicality": 0.07524465
+        },
+        {
+          "description": "Snow",
+          "mid": "/m/06_dn",
+          "score": 0.88569725,
+          "topicality": 0.1274663
+        },
+        {
+          "description": "Arctic",
+          "mid": "/m/09738",
+          "score": 0.8542667,
+          "topicality": 0.38290545
+        },
+        {
+          "description": "Glacial landform",
+          "mid": "/m/055s40",
+          "score": 0.8533828,
+          "topicality": 0.0020455683
+        },
+        {
+          "description": "Freezing",
+          "mid": "/m/01c791",
+          "score": 0.84823066,
+          "topicality": 0.03433633
+        },
+        {
+          "description": "Ice",
+          "mid": "/m/03vtj",
+          "score": 0.7900224,
+          "topicality": 0.4702382
+        },
+        {
+          "description": "Sea ice",
+          "mid": "/m/01ycvc",
+          "score": 0.7713759,
+          "topicality": 0.18468218
+        }
+      ]
+    }
+  ]
+}

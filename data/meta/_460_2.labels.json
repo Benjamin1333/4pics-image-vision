@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.8812034,
+          "topicality": 0.42435357
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.82405967,
+          "topicality": 0.27236623
+        },
+        {
+          "description": "Shovel",
+          "mid": "/m/01bb6j",
+          "score": 0.7229899,
+          "topicality": 0.357565
+        },
+        {
+          "description": "Baby toys",
+          "mid": "/m/0cm3fq4",
+          "score": 0.68425494,
+          "topicality": 0.0022789154
+        },
+        {
+          "description": "Garden tool",
+          "mid": "/m/0dcjfr",
+          "score": 0.6669744,
+          "topicality": 0.039415076
+        },
+        {
+          "description": "Playset",
+          "mid": "/m/0ftf13",
+          "score": 0.61331064,
+          "topicality": 0.018069107
+        },
+        {
+          "description": "Play",
+          "mid": "/m/06wtgq",
+          "score": 0.57532996,
+          "topicality": 7.7829376e-05
+        },
+        {
+          "description": "Tool",
+          "mid": "/m/07k1x",
+          "score": 0.5573481,
+          "topicality": 0.051054552
+        },
+        {
+          "description": "Cleanliness",
+          "mid": "/m/020s4p",
+          "score": 0.538602,
+          "topicality": 0.0014866776
+        },
+        {
+          "description": "Bucket",
+          "mid": "/m/01zfyk",
+          "score": 0.5378196,
+          "topicality": 0.15094295
+        }
+      ]
+    }
+  ]
+}

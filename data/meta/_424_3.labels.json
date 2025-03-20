@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.8544581,
+          "topicality": 0.030423846
+        },
+        {
+          "description": "Handwriting",
+          "mid": "/m/0gkxy13",
+          "score": 0.77716815,
+          "topicality": 0.07618522
+        },
+        {
+          "description": "Diagram",
+          "mid": "/m/02v0m2",
+          "score": 0.7069189,
+          "topicality": 0.0057012932
+        },
+        {
+          "description": "Writing",
+          "mid": "/m/081rb",
+          "score": 0.7006279,
+          "topicality": 0.19151913
+        },
+        {
+          "description": "Plan",
+          "mid": "/m/018jrr",
+          "score": 0.6804296,
+          "topicality": 0.029347327
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.6654884,
+          "topicality": 0.023602601
+        },
+        {
+          "description": "Teacher",
+          "mid": "/m/01d30f",
+          "score": 0.6654596,
+          "topicality": 0.038974628
+        },
+        {
+          "description": "Office Instrument",
+          "mid": "/m/0h8m01z",
+          "score": 0.6386832,
+          "topicality": 7.2399314e-05
+        },
+        {
+          "description": "Writing implement",
+          "mid": "/m/06wybl",
+          "score": 0.59803313,
+          "topicality": 0.0015019465
+        },
+        {
+          "description": "Learning",
+          "mid": "/m/0191f8",
+          "score": 0.5810165,
+          "topicality": 0.010318501
+        }
+      ]
+    }
+  ]
+}

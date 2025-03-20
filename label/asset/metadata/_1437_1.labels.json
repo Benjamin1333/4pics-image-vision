@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sock",
+          "mid": "/m/01nq26",
+          "score": 0.84363014,
+          "topicality": 0.5776607
+        },
+        {
+          "description": "Dog",
+          "mid": "/m/0bt9lr",
+          "score": 0.82348806,
+          "topicality": 0.1639806
+        },
+        {
+          "description": "Foot",
+          "mid": "/m/031n1",
+          "score": 0.81886846,
+          "topicality": 0.36539224
+        },
+        {
+          "description": "Paw",
+          "mid": "/m/023kp2",
+          "score": 0.81165147,
+          "topicality": 0.24993978
+        },
+        {
+          "description": "Woolen",
+          "mid": "/m/01yh65",
+          "score": 0.73238987,
+          "topicality": 0.003687846
+        },
+        {
+          "description": "Fur",
+          "mid": "/m/0cnmr",
+          "score": 0.68316394,
+          "topicality": 0.012911153
+        },
+        {
+          "description": "Wool",
+          "mid": "/m/09kxp",
+          "score": 0.643735,
+          "topicality": 0.018208675
+        },
+        {
+          "description": "Toe",
+          "mid": "/m/01d_ff",
+          "score": 0.58460957,
+          "topicality": 0.13722852
+        },
+        {
+          "description": "Pet Supply",
+          "mid": "/m/0h8ks17",
+          "score": 0.5492243,
+          "topicality": 0.00074312254
+        },
+        {
+          "description": "Canidae",
+          "mid": "/m/01z5f",
+          "score": 0.5459887,
+          "topicality": 0.0056105545
+        }
+      ]
+    }
+  ]
+}

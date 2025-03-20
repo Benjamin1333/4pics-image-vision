@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.8987002,
+          "topicality": 0.020239847
+        },
+        {
+          "description": "Tissue paper",
+          "mid": "/m/06g3fd",
+          "score": 0.5133834,
+          "topicality": 0.006695528
+        }
+      ]
+    }
+  ]
+}

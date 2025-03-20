@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9729055,
+          "topicality": 0.06604112
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.6537445,
+          "topicality": 0.07255733
+        },
+        {
+          "description": "Card game",
+          "mid": "/m/01mtt",
+          "score": 0.626825,
+          "topicality": 0.091125295
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.5742555,
+          "topicality": 0.013811598
+        }
+      ]
+    }
+  ]
+}

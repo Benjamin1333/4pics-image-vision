@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Adhesive tape",
+          "mid": "/m/03m3vtv",
+          "score": 0.9367084,
+          "topicality": 0.8909029
+        },
+        {
+          "description": "Adhesive",
+          "mid": "/m/0z49",
+          "score": 0.9207645,
+          "topicality": 0.53542656
+        },
+        {
+          "description": "Gaffer tape",
+          "mid": "/m/0179pn",
+          "score": 0.8581797,
+          "topicality": 0.5762029
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.73245955,
+          "topicality": 0.024112986
+        },
+        {
+          "description": "Duct tape",
+          "mid": "/m/0bykn",
+          "score": 0.72081286,
+          "topicality": 0.6516795
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.54699963,
+          "topicality": 0.0027879935
+        },
+        {
+          "description": "Masking tape",
+          "mid": "/m/049pcz",
+          "score": 0.5212371,
+          "topicality": 0.15179358
+        }
+      ]
+    }
+  ]
+}

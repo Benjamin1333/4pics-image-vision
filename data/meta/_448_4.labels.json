@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.97336006,
+          "topicality": 0.10463332
+        },
+        {
+          "description": "Bakery",
+          "mid": "/m/02wv6th",
+          "score": 0.9556989,
+          "topicality": 0.69884306
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.90193295,
+          "topicality": 0.003079521
+        },
+        {
+          "description": "Baking",
+          "mid": "/m/0dv34",
+          "score": 0.9019315,
+          "topicality": 0.17803434
+        },
+        {
+          "description": "Baker",
+          "mid": "/m/01lbst",
+          "score": 0.89654905,
+          "topicality": 0.9005597
+        },
+        {
+          "description": "Cooking",
+          "mid": "/m/01mtb",
+          "score": 0.8537706,
+          "topicality": 0.028411198
+        },
+        {
+          "description": "Bread",
+          "mid": "/m/09728",
+          "score": 0.8528056,
+          "topicality": 0.4010098
+        },
+        {
+          "description": "Cook",
+          "mid": "/m/04y7xr",
+          "score": 0.7632441,
+          "topicality": 0.018811956
+        },
+        {
+          "description": "Small bread",
+          "mid": "/m/02rz3g",
+          "score": 0.7095629,
+          "topicality": 0.044125244
+        },
+        {
+          "description": "Chef",
+          "mid": "/m/01pn0r",
+          "score": 0.7024662,
+          "topicality": 0.030158026
+        }
+      ]
+    }
+  ]
+}

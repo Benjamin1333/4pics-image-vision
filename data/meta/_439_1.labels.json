@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Wood",
+          "mid": "/m/083vt",
+          "score": 0.96387357,
+          "topicality": 0.20305307
+        },
+        {
+          "description": "Bed",
+          "mid": "/m/03ssj5",
+          "score": 0.95484453,
+          "topicality": 0.784596
+        },
+        {
+          "description": "Bed frame",
+          "mid": "/m/0h70h_",
+          "score": 0.9118833,
+          "topicality": 0.56683075
+        },
+        {
+          "description": "Bedroom",
+          "mid": "/m/02_58j",
+          "score": 0.7810682,
+          "topicality": 0.12512788
+        },
+        {
+          "description": "Bedding",
+          "mid": "/m/03mcr3",
+          "score": 0.7745068,
+          "topicality": 0.036764957
+        },
+        {
+          "description": "Hardwood",
+          "mid": "/m/020g49",
+          "score": 0.707728,
+          "topicality": 0.017880227
+        },
+        {
+          "description": "Wood stain",
+          "mid": "/m/05t06b",
+          "score": 0.6806534,
+          "topicality": 0.00087321084
+        },
+        {
+          "description": "Mattress",
+          "mid": "/m/03dg8j",
+          "score": 0.5925423,
+          "topicality": 0.21046369
+        },
+        {
+          "description": "Lamp",
+          "mid": "/m/0dtln",
+          "score": 0.55655533,
+          "topicality": 4.7085283e-05
+        },
+        {
+          "description": "Nightstand",
+          "mid": "/m/02z51p",
+          "score": 0.5326868,
+          "topicality": 0.0034880606
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.9945522,
+          "topicality": 0.26100123
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9632396,
+          "topicality": 0.0010361542
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.9035365,
+          "topicality": 0.0013567375
+        },
+        {
+          "description": "Buffet",
+          "mid": "/m/03vc65",
+          "score": 0.9011602,
+          "topicality": 0.72379875
+        },
+        {
+          "description": "Finger food",
+          "mid": "/m/0b3dyl",
+          "score": 0.89817476,
+          "topicality": 0.21379273
+        },
+        {
+          "description": "Culinary arts",
+          "mid": "/m/07qn8g",
+          "score": 0.8783644,
+          "topicality": 0.03415455
+        },
+        {
+          "description": "Garnish",
+          "mid": "/m/06gpzn",
+          "score": 0.85024154,
+          "topicality": 0.002334181
+        },
+        {
+          "description": "Recipe",
+          "mid": "/m/0p57p",
+          "score": 0.81602675,
+          "topicality": 0.0048155026
+        },
+        {
+          "description": "Food group",
+          "mid": "/m/08fw1g",
+          "score": 0.8143216,
+          "topicality": 0.0009383194
+        },
+        {
+          "description": "Lunch",
+          "mid": "/m/0jfd5",
+          "score": 0.8059594,
+          "topicality": 0.10018053
+        }
+      ]
+    }
+  ]
+}

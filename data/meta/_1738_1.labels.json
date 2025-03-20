@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Stunt Performer",
+          "mid": "/m/01tkqy",
+          "score": 0.86917573,
+          "topicality": 0.12355458
+        },
+        {
+          "description": "High-rise building",
+          "mid": "/m/0vlys",
+          "score": 0.85915965,
+          "topicality": 0.001759735
+        },
+        {
+          "description": "Stunt",
+          "mid": "/m/01f2hr",
+          "score": 0.84816736,
+          "topicality": 0.51815104
+        },
+        {
+          "description": "Skyscraper",
+          "mid": "/m/079cl",
+          "score": 0.8389598,
+          "topicality": 0.020061368
+        },
+        {
+          "description": "Tower",
+          "mid": "/m/01fdzj",
+          "score": 0.809349,
+          "topicality": 0.0049652024
+        },
+        {
+          "description": "Cityscape",
+          "mid": "/m/034z7h",
+          "score": 0.79384995,
+          "topicality": 0.0112057
+        },
+        {
+          "description": "Motorcycle",
+          "mid": "/m/04_sv",
+          "score": 0.67188466,
+          "topicality": 0.047188923
+        },
+        {
+          "description": "Skyline",
+          "mid": "/m/0204fg",
+          "score": 0.62689143,
+          "topicality": 0.0017072278
+        },
+        {
+          "description": "Photomontage",
+          "mid": "/m/0b0fq",
+          "score": 0.5843927,
+          "topicality": 0.029628929
+        },
+        {
+          "description": "Motorcycling",
+          "mid": "/m/025sn53",
+          "score": 0.5760775,
+          "topicality": 0.0030780253
+        }
+      ]
+    }
+  ]
+}

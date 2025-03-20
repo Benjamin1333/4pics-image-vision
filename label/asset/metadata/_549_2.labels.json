@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.9513798,
+          "topicality": 0.00047803836
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.9111005,
+          "topicality": 0.046490353
+        },
+        {
+          "description": "Formal wear",
+          "mid": "/m/02w3_2",
+          "score": 0.8950106,
+          "topicality": 0.01655606
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8475153,
+          "topicality": 0.012498681
+        },
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.8311796,
+          "topicality": 0.09711776
+        },
+        {
+          "description": "Receptionist",
+          "mid": "/m/02p9kh",
+          "score": 0.7704394,
+          "topicality": 0.17125884
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.7470893,
+          "topicality": 0.17255639
+        },
+        {
+          "description": "Communication Device",
+          "mid": "/m/0glmwd6",
+          "score": 0.7377197,
+          "topicality": 2.9295668e-05
+        },
+        {
+          "description": "Conversation",
+          "mid": "/m/01h8n0",
+          "score": 0.73288256,
+          "topicality": 0.03747287
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.731203,
+          "topicality": 0.005312338
+        }
+      ]
+    }
+  ]
+}

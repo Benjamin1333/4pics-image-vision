@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Horse Supplies",
+          "mid": "/m/0h8m5n6",
+          "score": 0.8542891,
+          "topicality": 0.0002149744
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.6647076,
+          "topicality": 0.012709505
+        },
+        {
+          "description": "Shamrock",
+          "mid": "/m/0155_t",
+          "score": 0.62229073,
+          "topicality": 0.17569532
+        },
+        {
+          "description": "Saint Patrick's Day",
+          "mid": "/m/016s_l",
+          "score": 0.5817589,
+          "topicality": 0.13176423
+        },
+        {
+          "description": "Horseshoe",
+          "mid": "/m/03hw3",
+          "score": 0.578143,
+          "topicality": 0.97756803
+        },
+        {
+          "description": "Clover",
+          "mid": "/m/0c2pc",
+          "score": 0.51330876,
+          "topicality": 0.29968184
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Tableware",
+          "mid": "/m/04brg2",
+          "score": 0.9762759,
+          "topicality": 0.0021593017
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.93579066,
+          "topicality": 0.015505575
+        },
+        {
+          "description": "Drinkware",
+          "mid": "/m/050h26",
+          "score": 0.93571943,
+          "topicality": 0.0007104061
+        },
+        {
+          "description": "Cinnamon",
+          "mid": "/m/0f0ch",
+          "score": 0.9081937,
+          "topicality": 0.4432909
+        },
+        {
+          "description": "Tea",
+          "mid": "/m/07clx",
+          "score": 0.8977956,
+          "topicality": 0.6729063
+        },
+        {
+          "description": "Cinnamon stick",
+          "mid": "/m/0ggm5j8",
+          "score": 0.89068913,
+          "topicality": 0.0036776562
+        },
+        {
+          "description": "Alcoholic drink",
+          "mid": "/m/012mj",
+          "score": 0.86387974,
+          "topicality": 0.042376567
+        },
+        {
+          "description": "Cocktail",
+          "mid": "/m/024g6",
+          "score": 0.85265493,
+          "topicality": 0.035523433
+        },
+        {
+          "description": "Earl Grey tea",
+          "mid": "/m/01xrmc",
+          "score": 0.81269085,
+          "topicality": 0.009119293
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.810139,
+          "topicality": 0.05989079
+        }
+      ]
+    }
+  ]
+}

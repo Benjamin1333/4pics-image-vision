@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Automotive lighting",
+          "mid": "/m/0768fx",
+          "score": 0.97755224,
+          "topicality": 0.0042342544
+        },
+        {
+          "description": "Motor vehicle",
+          "mid": "/m/012f08",
+          "score": 0.97422874,
+          "topicality": 0.0058864877
+        },
+        {
+          "description": "Car",
+          "mid": "/m/0k4j",
+          "score": 0.95963037,
+          "topicality": 0.19799536
+        },
+        {
+          "description": "Automotive Exterior",
+          "mid": "/m/0h8ls87",
+          "score": 0.9545796,
+          "topicality": 0.000326056
+        },
+        {
+          "description": "Grille",
+          "mid": "/m/03_qhc",
+          "score": 0.9358899,
+          "topicality": 0.0029171552
+        },
+        {
+          "description": "Hood",
+          "mid": "/m/02df64",
+          "score": 0.9329493,
+          "topicality": 0.0030526924
+        },
+        {
+          "description": "Classic car",
+          "mid": "/m/01xsb3",
+          "score": 0.9102547,
+          "topicality": 0.21635513
+        },
+        {
+          "description": "Bumper",
+          "mid": "/m/02mnkq",
+          "score": 0.8935675,
+          "topicality": 0.00086131046
+        },
+        {
+          "description": "Headlamp",
+          "mid": "/m/0263qm",
+          "score": 0.8888868,
+          "topicality": 0.013789929
+        },
+        {
+          "description": "Automotive Parking Light",
+          "mid": "/m/0h8n1g1",
+          "score": 0.8752322,
+          "topicality": 0.00016145568
+        }
+      ]
+    }
+  ]
+}

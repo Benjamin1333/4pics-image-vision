@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1" name="viewport">
+    <meta content="light dark" name="color-scheme">
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.14.8/dist/cdn.js"></script>
+    <script src="./model.js"></script>
+    <script src="./index.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.colors.min.css" rel="stylesheet">
+    <link href="./index.css" rel="stylesheet">
+    <title>4pics image vision</title>
+</head>
+<body x-data="state">
+<div class="main-left pico-background-slate-900" style="display:flex; flex-direction: column;">
+    <h4><small>filter</small></h4>
+    <template x-if="selectedLabels.length === 0">
+        <span class="pico-color-slate-800">empty</span>
+    </template>
+    <div style="display: flex;flex-wrap: wrap;align-items: flex-start; gap: var(--pico-spacing);">
+        <template x-for="label in selectedLabels">
+            <button x-on:click="unselectLabel(label)" x-text="label" class="small"></button>
+        </template>
+    </div>
+    <hr>
+    <h4><small><span x-text="filteredLabels.length"></span> aggregated labels</small></h4>
+    <input type="search" placeholder="search" x-model="userInput"/>
+    <table>
+        <tr>
+            <p>
+                <small>
+                    #<span x-text="minScoreCount(minScore).toLocaleString()"></span> with min score: <span x-text="minScore"></span>
+                </small>
+            </p>
+            <input type="range" min="0.000" max="1.00" step="0.0001" value="0" x-model="minScore">
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <p>
+                <small>
+                    #<span x-text="minTopicalityCount(minTopicality).toLocaleString()"></span> with min topicality: <span x-text="minTopicality"></span>
+                </small>
+            </p>
+            <input type="range" min="0.000" max="1.00" step="0.0001" value="0" x-model="minTopicality">
+        </tr>
+    </table>
+    <div style="display: flex;flex-wrap: wrap;align-items: flex-start; overflow-y: scroll; gap: var(--pico-spacing);">
+        <template x-for="label in filteredLabels">
+            <button x-on:click="selectLabel(label)" x-text="label" class="outline small"></button>
+        </template>
+    </div>
+</div>
+<div class="main-center pico-background-slate-850">
+    <h4><small>images (<span x-text="filteredImages.length"></span>)</small></h4>
+    <div style="display: flex;flex-wrap: wrap;align-items: flex-start; gap: var(--pico-spacing); max-height: 100vh;">
+        <template x-for="image in filteredImages">
+            <img x-on:click="selectPuzzle(image.puzzleId)" :src="image.image" style="width: 100px;height:100px;"/>
+        </template>
+    </div>
+</div>
+
+<div x-data="statistics" class="main-right pico-background-slate-900">
+    <h4><small>statistics</small></h4>
+    <table>
+        <tr>
+            <th colspan="2"><strong>count</strong></th>
+        </tr>
+        <tr>
+            <td>puzzle</td>
+            <td x-text="puzzleCount.toLocaleString()"></td>
+        </tr>
+        <tr>
+            <td>images</td>
+            <td x-text="imageCount.toLocaleString()"></td>
+        </tr>
+        <tr>
+            <td>label</td>
+            <td x-text="labelCount.toLocaleString()"></td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th><strong>unlabeled images</strong></th>
+        </tr>
+        <tr>
+            <td>
+                <template x-for="image in unlabeledImages">
+                        <span><a x-text="image.puzzleId" x-on:click="selectPuzzle(image.puzzleId)"
+                                 href="#"></a>, </span>
+                </template>
+            </td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th colspan="2"><strong>score</strong></th>
+        </tr>
+        <tr>
+            <td>Ø</td>
+            <td x-text="averageScore.toLocaleString()"></td>
+        </tr>
+        <tr>
+            <td>#min 0.9</td>
+            <td x-text="minScoreCount(0.9).toLocaleString()"></td>
+        </tr>
+        <tr>
+            <td>#min 0.8</td>
+            <td x-text="minScoreCount(0.8).toLocaleString()"></td>
+        </tr>
+        <tr>
+            <td>#min 0.7</td>
+            <td x-text="minScoreCount(0.7).toLocaleString()"></td>
+        </tr>
+        <tr>
+            <td>#min 0.6</td>
+            <td x-text="minScoreCount(0.6).toLocaleString()"></td>
+        </tr>
+        <tr>
+            <td>#min 0.5</td>
+            <td x-text="minScoreCount(0.5).toLocaleString()"></td>
+        </tr>
+        <tr>
+            <td>#min 0.4</td>
+            <td x-text="minScoreCount(0.4).toLocaleString()"></td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+            <th colspan="2"><strong>topicality</strong></th>
+        </tr>
+        <tr>
+            <td>Ø</td>
+            <td x-text="averageTopicality.toLocaleString()"></td>
+        </tr>
+        <tr>
+            <td>#missing</td>
+            <td x-text="topicalityMissingLabelsCount.toLocaleString()"></td>
+        </tr>
+        <tr>
+            <td>#min 0.9</td>
+            <td x-text="minTopicalityCount(0.9).toLocaleString()"></td>
+        </tr>
+        <tr>
+            <td>#min 0.8</td>
+            <td x-text="minTopicalityCount(0.8).toLocaleString()"></td>
+        </tr>
+        <tr>
+            <td>#min 0.7</td>
+            <td x-text="minTopicalityCount(0.7).toLocaleString()"></td>
+        </tr>
+        <tr>
+            <td>#min 0.6</td>
+            <td x-text="minTopicalityCount(0.6).toLocaleString()"></td>
+        </tr>
+        <tr>
+            <td>#min 0.5</td>
+            <td x-text="minTopicalityCount(0.5).toLocaleString()"></td>
+        </tr>
+        <tr>
+            <td>#min 0.4</td>
+            <td x-text="minTopicalityCount(0.4).toLocaleString()"></td>
+        </tr>
+    </table>
+</div>
+
+<template x-if="selectedPuzzle != null">
+    <dialog open>
+        <article>
+            <header>
+                <button x-on:click="selectedPuzzle = null" rel="prev"></button>
+                <h1><span x-text="selectedPuzzle.id"></span> - <span x-text="selectedPuzzle.solution"></span></h1>
+            </header>
+            <div style="max-height: 80vh; overflow: scroll;">
+                <template x-for="image in selectedPuzzle.images">
+                    <div>
+                        <img :src="image.image" style="width: 100px;height:100px;"/>
+                        <table>
+                            <thead>
+                            <tr>
+                                <th>description</th>
+                                <th>score</th>
+                                <th>topicality</th>
+                            </tr>
+                            </thead>
+                            <template x-for="label in image.labels">
+                                <tr>
+                                    <td x-text="label.description" style="width: 150px;"></td>
+                                    <td x-text="label.score"></td>
+                                    <td x-text="label.topicality"></td>
+                                </tr>
+                            </template>
+                        </table>
+                    </div>
+                </template>
+            </div>
+        </article>
+    </dialog>
+</template>
+</body>
+</html>

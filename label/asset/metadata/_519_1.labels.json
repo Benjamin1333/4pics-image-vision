@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Car",
+          "mid": "/m/0k4j",
+          "score": 0.99366266,
+          "topicality": 0.09628434
+        },
+        {
+          "description": "Land vehicle",
+          "mid": "/m/01prls",
+          "score": 0.9911679,
+          "topicality": 0.008611002
+        },
+        {
+          "description": "Vehicle",
+          "mid": "/m/07yv9",
+          "score": 0.9883808,
+          "topicality": 0.08421523
+        },
+        {
+          "description": "Tire",
+          "mid": "/m/0h9mv",
+          "score": 0.98019123,
+          "topicality": 0.004399227
+        },
+        {
+          "description": "Wheel",
+          "mid": "/m/083wq",
+          "score": 0.9792829,
+          "topicality": 0.0062117307
+        },
+        {
+          "description": "Automotive lighting",
+          "mid": "/m/0768fx",
+          "score": 0.97698665,
+          "topicality": 0.00014558872
+        },
+        {
+          "description": "Motor vehicle",
+          "mid": "/m/012f08",
+          "score": 0.9761283,
+          "topicality": 0.01195513
+        },
+        {
+          "description": "Automotive Parking Light",
+          "mid": "/m/0h8n1g1",
+          "score": 0.9637433,
+          "topicality": 0.0011977837
+        },
+        {
+          "description": "Automotive Exterior",
+          "mid": "/m/0h8ls87",
+          "score": 0.95380074,
+          "topicality": 0.00023774769
+        },
+        {
+          "description": "Automotive Tire",
+          "mid": "/m/0h8pb3l",
+          "score": 0.920632,
+          "topicality": 0.00014592061
+        }
+      ]
+    }
+  ]
+}

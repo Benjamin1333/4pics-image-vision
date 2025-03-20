@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Grass",
+          "mid": "/m/08t9c_",
+          "score": 0.9757196,
+          "topicality": 0.3434791
+        },
+        {
+          "description": "Football",
+          "mid": "/m/01226z",
+          "score": 0.96044266,
+          "topicality": 0.06762458
+        },
+        {
+          "description": "Ball",
+          "mid": "/m/018xm",
+          "score": 0.95335805,
+          "topicality": 0.39729628
+        },
+        {
+          "description": "Football",
+          "mid": "/m/02vx4",
+          "score": 0.94718754,
+          "topicality": 0.82726884
+        },
+        {
+          "description": "Flooring",
+          "mid": "/m/01c34b",
+          "score": 0.9455557,
+          "topicality": 0.00090973004
+        },
+        {
+          "description": "Grasses",
+          "mid": "/m/0fkrk",
+          "score": 0.8701928,
+          "topicality": 0.015299371
+        },
+        {
+          "description": "Lawn",
+          "mid": "/m/01v327",
+          "score": 0.8316822,
+          "topicality": 0.6775099
+        },
+        {
+          "description": "Soccer ball",
+          "mid": "/m/0dpm1v",
+          "score": 0.804101,
+          "topicality": 0.29930103
+        },
+        {
+          "description": "Artificial turf",
+          "mid": "/m/04bzth",
+          "score": 0.7612987,
+          "topicality": 0.53369164
+        },
+        {
+          "description": "Field",
+          "mid": "/m/0brn2d",
+          "score": 0.7606286,
+          "topicality": 0.003962075
+        }
+      ]
+    }
+  ]
+}

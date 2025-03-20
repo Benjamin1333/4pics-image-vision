@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bag",
+          "mid": "/m/0n5v01m",
+          "score": 0.9882382,
+          "topicality": 0.40152705
+        },
+        {
+          "description": "Baggage",
+          "mid": "/m/03w7y7",
+          "score": 0.9673997,
+          "topicality": 0.36106998
+        },
+        {
+          "description": "Suitcase",
+          "mid": "/m/01s55n",
+          "score": 0.9631109,
+          "topicality": 0.38676122
+        },
+        {
+          "description": "Luggage & bags",
+          "mid": "/m/0hf58v5",
+          "score": 0.93110466,
+          "topicality": 0.026545519
+        },
+        {
+          "description": "Hand luggage",
+          "mid": "/m/07k55_3",
+          "score": 0.89287364,
+          "topicality": 0.13304056
+        },
+        {
+          "description": "Backpack",
+          "mid": "/m/01940j",
+          "score": 0.8210955,
+          "topicality": 0.03142338
+        },
+        {
+          "description": "Comfort",
+          "mid": "/m/08xgn7",
+          "score": 0.7860603,
+          "topicality": 0.0053199353
+        },
+        {
+          "description": "Briefcase",
+          "mid": "/m/0584n8",
+          "score": 0.655035,
+          "topicality": 0.01469581
+        },
+        {
+          "description": "Cleanliness",
+          "mid": "/m/020s4p",
+          "score": 0.63748956,
+          "topicality": 0.0059517627
+        },
+        {
+          "description": "Strap",
+          "mid": "/m/04lzmz",
+          "score": 0.5483251,
+          "topicality": 0.0026355362
+        }
+      ]
+    }
+  ]
+}

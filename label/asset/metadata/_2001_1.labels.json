@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Court",
+          "mid": "/m/0k05r",
+          "score": 0.8248188,
+          "topicality": 0.536289
+        },
+        {
+          "description": "Mallet",
+          "mid": "/m/02_b95",
+          "score": 0.5299072,
+          "topicality": 0.18408687
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.520084,
+          "topicality": 0.0039988775
+        }
+      ]
+    }
+  ]
+}

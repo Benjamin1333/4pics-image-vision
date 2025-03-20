@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9669368,
+          "topicality": 0.053057183
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.91635084,
+          "topicality": 0.15030108
+        },
+        {
+          "description": "Learning",
+          "mid": "/m/0191f8",
+          "score": 0.8730459,
+          "topicality": 0.1356634
+        },
+        {
+          "description": "Publication",
+          "mid": "/m/01h1dd",
+          "score": 0.78789884,
+          "topicality": 0.0021567317
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.7787951,
+          "topicality": 0.004862318
+        },
+        {
+          "description": "Book",
+          "mid": "/m/0bt_c3",
+          "score": 0.7764233,
+          "topicality": 0.6635377
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.76789534,
+          "topicality": 0.014893752
+        },
+        {
+          "description": "Toddler",
+          "mid": "/m/01bgsw",
+          "score": 0.697623,
+          "topicality": 0.027352575
+        },
+        {
+          "description": "Reading",
+          "mid": "/m/04yclrg",
+          "score": 0.69506687,
+          "topicality": 0.9147187
+        },
+        {
+          "description": "Education",
+          "mid": "/m/02jfc",
+          "score": 0.6622764,
+          "topicality": 0.16705912
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Security",
+          "mid": "/m/0bg2p",
+          "score": 0.83824533,
+          "topicality": 0.16476467
+        },
+        {
+          "description": "Key",
+          "mid": "/m/03v3yw",
+          "score": 0.6877903,
+          "topicality": 0.0070813964
+        },
+        {
+          "description": "Lock and key",
+          "mid": "/m/02ll1_",
+          "score": 0.6732262,
+          "topicality": 0.17752276
+        }
+      ]
+    }
+  ]
+}

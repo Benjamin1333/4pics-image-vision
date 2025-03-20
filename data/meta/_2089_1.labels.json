@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Pearl",
+          "mid": "/m/05_8m",
+          "score": 0.95256925,
+          "topicality": 0.7430239
+        },
+        {
+          "description": "Natural material",
+          "mid": "/m/07sx2n",
+          "score": 0.83510846,
+          "topicality": 0.0009249146
+        },
+        {
+          "description": "Gemstone",
+          "mid": "/m/03c4j",
+          "score": 0.81444776,
+          "topicality": 0.023651991
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.74770397,
+          "topicality": 0.0010919498
+        },
+        {
+          "description": "Body Jewelry",
+          "mid": "/m/0h8kxbv",
+          "score": 0.72680116,
+          "topicality": 0.00087932165
+        },
+        {
+          "description": "Necklace",
+          "mid": "/m/01llwg",
+          "score": 0.69882095,
+          "topicality": 0.1537483
+        },
+        {
+          "description": "Bead",
+          "mid": "/m/015m2",
+          "score": 0.6987551,
+          "topicality": 0.035880327
+        },
+        {
+          "description": "Still life photography",
+          "mid": "/m/027_ny3",
+          "score": 0.5830781,
+          "topicality": 0.000990032
+        },
+        {
+          "description": "Jewelry Making",
+          "mid": "/m/0h8m0jf",
+          "score": 0.5120878,
+          "topicality": 0.003008213
+        }
+      ]
+    }
+  ]
+}

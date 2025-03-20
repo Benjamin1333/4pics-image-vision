@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bird",
+          "mid": "/m/015p6",
+          "score": 0.9954784,
+          "topicality": 0.3364226
+        },
+        {
+          "description": "Accipitridae",
+          "mid": "/m/0m15h",
+          "score": 0.987333,
+          "topicality": 0.04453344
+        },
+        {
+          "description": "Bald eagle",
+          "mid": "/m/01dx8",
+          "score": 0.98517203,
+          "topicality": 0.88993037
+        },
+        {
+          "description": "Beak",
+          "mid": "/m/01c4rd",
+          "score": 0.9780189,
+          "topicality": 0.0509365
+        },
+        {
+          "description": "Bird of prey",
+          "mid": "/m/0f6x8",
+          "score": 0.97489685,
+          "topicality": 0.21889849
+        },
+        {
+          "description": "Eagle",
+          "mid": "/m/09csl",
+          "score": 0.97104293,
+          "topicality": 0.83124936
+        },
+        {
+          "description": "Vertebrate",
+          "mid": "/m/09686",
+          "score": 0.9626841,
+          "topicality": 0.0045919954
+        },
+        {
+          "description": "Neck",
+          "mid": "/m/0dzd8",
+          "score": 0.9565103,
+          "topicality": 0.00038139097
+        },
+        {
+          "description": "Accipitriformes",
+          "mid": "/m/01d64p",
+          "score": 0.9346293,
+          "topicality": 0.06664664
+        },
+        {
+          "description": "Wildlife",
+          "mid": "/m/01280g",
+          "score": 0.8874305,
+          "topicality": 0.024986742
+        }
+      ]
+    }
+  ]
+}

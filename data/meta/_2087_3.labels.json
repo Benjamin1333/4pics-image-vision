@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Beak",
+          "mid": "/m/01c4rd",
+          "score": 0.9497775,
+          "topicality": 0.0011821571
+        },
+        {
+          "description": "Bird",
+          "mid": "/m/015p6",
+          "score": 0.90239996,
+          "topicality": 0.030543238
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.8228837,
+          "topicality": 0.1819927
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.7132583,
+          "topicality": 0.034654573
+        },
+        {
+          "description": "Feather",
+          "mid": "/m/0dfgf",
+          "score": 0.58998525,
+          "topicality": 0.00035702658
+        },
+        {
+          "description": "Line art",
+          "mid": "/m/0919rx",
+          "score": 0.5833135,
+          "topicality": 0.08123244
+        },
+        {
+          "description": "Tail",
+          "mid": "/m/06z_nw",
+          "score": 0.53623915,
+          "topicality": 4.7172336e-05
+        }
+      ]
+    }
+  ]
+}

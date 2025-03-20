@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9307053,
+          "topicality": 0.02620186
+        },
+        {
+          "description": "Furniture",
+          "mid": "/m/0c_jw",
+          "score": 0.9282349,
+          "topicality": 0.021715486
+        },
+        {
+          "description": "Summer",
+          "mid": "/m/078qz",
+          "score": 0.9280722,
+          "topicality": 0.067211896
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.8739595,
+          "topicality": 0.032734744
+        },
+        {
+          "description": "Sitting",
+          "mid": "/m/015c4z",
+          "score": 0.86109126,
+          "topicality": 0.054561757
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.8569592,
+          "topicality": 0.058998253
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.8444933,
+          "topicality": 0.09031267
+        },
+        {
+          "description": "Living room",
+          "mid": "/m/03f6tq",
+          "score": 0.74120843,
+          "topicality": 0.01402971
+        },
+        {
+          "description": "Couch",
+          "mid": "/m/02crq1",
+          "score": 0.72890556,
+          "topicality": 0.010661045
+        },
+        {
+          "description": "Curtain",
+          "mid": "/m/03rszm",
+          "score": 0.69388276,
+          "topicality": 0.0064607756
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Close-up",
+          "mid": "/m/02cqfm",
+          "score": 0.889563,
+          "topicality": 0.009059083
+        },
+        {
+          "description": "Scar",
+          "mid": "/m/0kbct",
+          "score": 0.8830635,
+          "topicality": 0.13135883
+        },
+        {
+          "description": "Itch",
+          "mid": "/m/04kllm9",
+          "score": 0.81946665,
+          "topicality": 0.89114255
+        },
+        {
+          "description": "Flesh",
+          "mid": "/m/02p16m6",
+          "score": 0.66377556,
+          "topicality": 0.00112053
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.6636915,
+          "topicality": 0.0014616193
+        }
+      ]
+    }
+  ]
+}

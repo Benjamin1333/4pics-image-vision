@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Eyewear",
+          "mid": "/m/0j272k5",
+          "score": 0.9839374,
+          "topicality": 0.00026961224
+        },
+        {
+          "description": "Vision Care",
+          "mid": "/m/0h8jxfl",
+          "score": 0.96451175,
+          "topicality": 0.00019263351
+        },
+        {
+          "description": "Chemist",
+          "mid": "/m/01pxg",
+          "score": 0.8203833,
+          "topicality": 0.10259652
+        },
+        {
+          "description": "Scientist",
+          "mid": "/m/06q2q",
+          "score": 0.81781465,
+          "topicality": 0.1806745
+        },
+        {
+          "description": "Laboratory equipment",
+          "mid": "/m/03_5sv",
+          "score": 0.8056315,
+          "topicality": 0.00016530514
+        },
+        {
+          "description": "Test tube",
+          "mid": "/m/0qlzq",
+          "score": 0.7769222,
+          "topicality": 0.25332624
+        },
+        {
+          "description": "Chemistry",
+          "mid": "/m/01lj9",
+          "score": 0.72571856,
+          "topicality": 0.110568576
+        },
+        {
+          "description": "Laboratory",
+          "mid": "/m/017clw",
+          "score": 0.71553636,
+          "topicality": 0.17120865
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.646904,
+          "topicality": 0.14120376
+        },
+        {
+          "description": "Medical",
+          "mid": "/m/02xht4g",
+          "score": 0.59649086,
+          "topicality": 0.00021198152
+        }
+      ]
+    }
+  ]
+}

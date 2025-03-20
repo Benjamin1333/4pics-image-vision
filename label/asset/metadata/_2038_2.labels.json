@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Cartoon",
+          "mid": "/m/0215n",
+          "score": 0.86890143,
+          "topicality": 0.16431406
+        },
+        {
+          "description": "Illustration",
+          "mid": "/m/01kr8f",
+          "score": 0.75700027,
+          "topicality": 0.079962015
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.66274726,
+          "topicality": 0.011691427
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.64882636,
+          "topicality": 0.029008947
+        },
+        {
+          "description": "Animation",
+          "mid": "/m/0hcr",
+          "score": 0.6191658,
+          "topicality": 0.004587527
+        },
+        {
+          "description": "Animated cartoon",
+          "mid": "/m/095bb",
+          "score": 0.5214257,
+          "topicality": 0.00071598554
+        }
+      ]
+    }
+  ]
+}

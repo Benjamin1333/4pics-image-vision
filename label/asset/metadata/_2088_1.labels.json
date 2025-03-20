@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Car",
+          "mid": "/m/0k4j",
+          "score": 0.9646063,
+          "topicality": 0.039502375
+        },
+        {
+          "description": "Hatchback",
+          "mid": "/m/01cmcs",
+          "score": 0.9304407,
+          "topicality": 0.07109857
+        },
+        {
+          "description": "Citroën",
+          "mid": "/m/0h5_4x9",
+          "score": 0.9195299,
+          "topicality": 0.56855917
+        },
+        {
+          "description": "Car door",
+          "mid": "/m/02q2kc3",
+          "score": 0.87357855,
+          "topicality": 0.0013687216
+        },
+        {
+          "description": "Automotive Side-View Mirror",
+          "mid": "/m/0h8n616",
+          "score": 0.865137,
+          "topicality": 7.438111e-05
+        },
+        {
+          "description": "Subcompact car",
+          "mid": "/m/03txxp",
+          "score": 0.8427898,
+          "topicality": 0.020682314
+        },
+        {
+          "description": "Automotive Mirror",
+          "mid": "/m/0h8lk4b",
+          "score": 0.82829326,
+          "topicality": 2.1947792e-05
+        },
+        {
+          "description": "Hubcap",
+          "mid": "/m/01sdr3",
+          "score": 0.8108998,
+          "topicality": 0.00013383033
+        },
+        {
+          "description": "Bumper",
+          "mid": "/m/02mnkq",
+          "score": 0.78729564,
+          "topicality": 0.0049104537
+        },
+        {
+          "description": "Windshield",
+          "mid": "/m/01lrnl",
+          "score": 0.78674215,
+          "topicality": 0.00093367184
+        }
+      ]
+    }
+  ]
+}

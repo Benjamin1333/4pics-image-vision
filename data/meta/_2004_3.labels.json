@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Road",
+          "mid": "/m/06gfj",
+          "score": 0.9766092,
+          "topicality": 0.52259856
+        },
+        {
+          "description": "Highway",
+          "mid": "/m/0cz_0",
+          "score": 0.9740319,
+          "topicality": 0.303376
+        },
+        {
+          "description": "Motor vehicle",
+          "mid": "/m/012f08",
+          "score": 0.9716049,
+          "topicality": 0.061525065
+        },
+        {
+          "description": "Road surface",
+          "mid": "/m/01k0mv",
+          "score": 0.96107876,
+          "topicality": 0.039640512
+        },
+        {
+          "description": "Controlled-access highway",
+          "mid": "/m/0335j",
+          "score": 0.9593001,
+          "topicality": 0.59734714
+        },
+        {
+          "description": "Asphalt",
+          "mid": "/m/0hr8",
+          "score": 0.9416947,
+          "topicality": 0.053057577
+        },
+        {
+          "description": "Lane",
+          "mid": "/m/033j3c",
+          "score": 0.9241713,
+          "topicality": 0.27505192
+        },
+        {
+          "description": "Thoroughfare",
+          "mid": "/m/0bm8qyq",
+          "score": 0.9124414,
+          "topicality": 0.045833107
+        },
+        {
+          "description": "Shoulder",
+          "mid": "/m/02mgm6",
+          "score": 0.8707069,
+          "topicality": 0.22398183
+        },
+        {
+          "description": "Automotive Mirror",
+          "mid": "/m/0h8lk4b",
+          "score": 0.7806888,
+          "topicality": 0.0001575421
+        }
+      ]
+    }
+  ]
+}

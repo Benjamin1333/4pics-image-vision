@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.97695434,
+          "topicality": 0.03342215
+        },
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9655088,
+          "topicality": 0.012741084
+        },
+        {
+          "description": "Baby & Toddler Shoe",
+          "mid": "/m/0hgs64c",
+          "score": 0.9410771,
+          "topicality": 0.008955574
+        },
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.87983775,
+          "topicality": 0.0023296624
+        },
+        {
+          "description": "Plimsoll shoe",
+          "mid": "/m/06vm34",
+          "score": 0.8501596,
+          "topicality": 0.28177923
+        },
+        {
+          "description": "Walking Shoe",
+          "mid": "/m/0hgs9bq",
+          "score": 0.824256,
+          "topicality": 0.005005389
+        },
+        {
+          "description": "Skate shoe",
+          "mid": "/m/027wrc",
+          "score": 0.80252385,
+          "topicality": 0.0033942657
+        },
+        {
+          "description": "Synthetic rubber",
+          "mid": "/m/05s771",
+          "score": 0.72078717,
+          "topicality": 0.00010149648
+        },
+        {
+          "description": "Grommet",
+          "mid": "/m/026s4x",
+          "score": 0.58582956,
+          "topicality": 0.00015257632
+        },
+        {
+          "description": "Still life photography",
+          "mid": "/m/027_ny3",
+          "score": 0.56558067,
+          "topicality": 1.8813433e-05
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.82274944,
+          "topicality": 0.049365293
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6933952,
+          "topicality": 0.021572804
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.61492646,
+          "topicality": 0.023031585
+        },
+        {
+          "description": "Tool",
+          "mid": "/m/07k1x",
+          "score": 0.5824267,
+          "topicality": 0.0016908823
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.56108755,
+          "topicality": 0.0025811074
+        }
+      ]
+    }
+  ]
+}

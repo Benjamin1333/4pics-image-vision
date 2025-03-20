@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.8895212,
+          "topicality": 0.02625667
+        },
+        {
+          "description": "Furniture",
+          "mid": "/m/0c_jw",
+          "score": 0.87858784,
+          "topicality": 0.0022852952
+        },
+        {
+          "description": "Worry",
+          "mid": "/m/0bg_x1",
+          "score": 0.74967355,
+          "topicality": 0.18361016
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.7368688,
+          "topicality": 0.20851217
+        },
+        {
+          "description": "Desk",
+          "mid": "/m/01y9k5",
+          "score": 0.72825444,
+          "topicality": 0.008187717
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.6464014,
+          "topicality": 0.0002590224
+        },
+        {
+          "description": "Publication",
+          "mid": "/m/01h1dd",
+          "score": 0.55682206,
+          "topicality": 0.0010213368
+        },
+        {
+          "description": "Writing desk",
+          "mid": "/m/0dbvj3",
+          "score": 0.5259141,
+          "topicality": 1.44581e-05
+        },
+        {
+          "description": "Office Equipment",
+          "mid": "/m/03qtgjk",
+          "score": 0.52237654,
+          "topicality": 5.9341946e-05
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Mime artist",
+          "mid": "/m/06m724",
+          "score": 0.9734015,
+          "topicality": 0.96264505
+        },
+        {
+          "description": "Entertainment",
+          "mid": "/m/02jjt",
+          "score": 0.88823676,
+          "topicality": 0.0046964968
+        },
+        {
+          "description": "Clown",
+          "mid": "/m/01sfl",
+          "score": 0.87839663,
+          "topicality": 0.37586084
+        },
+        {
+          "description": "Costume",
+          "mid": "/m/0250x",
+          "score": 0.7582418,
+          "topicality": 0.14289133
+        },
+        {
+          "description": "Performing Arts",
+          "mid": "/m/05qjc",
+          "score": 0.741374,
+          "topicality": 0.0041364585
+        },
+        {
+          "description": "Costume Hat",
+          "mid": "/m/0hgs54_",
+          "score": 0.57822436,
+          "topicality": 9.9326586e-05
+        },
+        {
+          "description": "Acting",
+          "mid": "/m/0w7c",
+          "score": 0.557218,
+          "topicality": 0.0058621694
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.5502115,
+          "topicality": 0.0074955686
+        }
+      ]
+    }
+  ]
+}

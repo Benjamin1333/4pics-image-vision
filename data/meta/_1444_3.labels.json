@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.9480773,
+          "topicality": 0.005090386
+        },
+        {
+          "description": "Citrus",
+          "mid": "/m/0dqb5",
+          "score": 0.939636,
+          "topicality": 0.040335767
+        },
+        {
+          "description": "Lemon",
+          "mid": "/m/09k_b",
+          "score": 0.92983323,
+          "topicality": 0.4214996
+        },
+        {
+          "description": "Highball glass",
+          "mid": "/m/049wwj",
+          "score": 0.92102194,
+          "topicality": 0.15006533
+        },
+        {
+          "description": "Cocktail",
+          "mid": "/m/024g6",
+          "score": 0.8786293,
+          "topicality": 0.5454553
+        },
+        {
+          "description": "Juice",
+          "mid": "/m/01z1kdw",
+          "score": 0.8757255,
+          "topicality": 0.10671368
+        },
+        {
+          "description": "Key lime",
+          "mid": "/m/052b2y",
+          "score": 0.8617957,
+          "topicality": 0.010514298
+        },
+        {
+          "description": "Lemonade",
+          "mid": "/m/027zm8",
+          "score": 0.8452185,
+          "topicality": 0.27724457
+        },
+        {
+          "description": "Meyer lemon",
+          "mid": "/m/04klfb",
+          "score": 0.83889747,
+          "topicality": 0.000990948
+        },
+        {
+          "description": "Cocktail garnish",
+          "mid": "/m/027ct3y",
+          "score": 0.8388745,
+          "topicality": 0.02834947
+        }
+      ]
+    }
+  ]
+}

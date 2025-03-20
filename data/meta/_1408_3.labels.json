@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.95898026,
+          "topicality": 0.013128737
+        },
+        {
+          "description": "Gambling",
+          "mid": "/m/034dj",
+          "score": 0.91983885,
+          "topicality": 0.39264676
+        },
+        {
+          "description": "Card game",
+          "mid": "/m/01mtt",
+          "score": 0.9164047,
+          "topicality": 0.5505012
+        },
+        {
+          "description": "Game",
+          "mid": "/m/03bt1gh",
+          "score": 0.9058406,
+          "topicality": 0.14803201
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.9040712,
+          "topicality": 0.0041896147
+        },
+        {
+          "description": "Paper",
+          "mid": "/m/0641k",
+          "score": 0.8583325,
+          "topicality": 0.0036312721
+        },
+        {
+          "description": "Thumb",
+          "mid": "/m/01bmhj",
+          "score": 0.8013192,
+          "topicality": 0.006359032
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.7603485,
+          "topicality": 0.008134999
+        },
+        {
+          "description": "Casino",
+          "mid": "/m/01lq3",
+          "score": 0.6581924,
+          "topicality": 0.077560365
+        },
+        {
+          "description": "Triangle",
+          "mid": "/m/07jx7",
+          "score": 0.65808386,
+          "topicality": 0.0007974735
+        }
+      ]
+    }
+  ]
+}

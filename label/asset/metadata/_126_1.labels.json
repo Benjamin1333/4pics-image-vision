@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Tableware",
+          "mid": "/m/04brg2",
+          "score": 0.9842591,
+          "topicality": 0.045532532
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.9800932,
+          "topicality": 0.40751824
+        },
+        {
+          "description": "Dishware",
+          "mid": "/m/0h8nvk9",
+          "score": 0.97116995,
+          "topicality": 0.0023693386
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.95706946,
+          "topicality": 0.008184922
+        },
+        {
+          "description": "Serveware",
+          "mid": "/m/0h8n22v",
+          "score": 0.9344007,
+          "topicality": 0.0009547772
+        },
+        {
+          "description": "Taste",
+          "mid": "/m/0cp_p",
+          "score": 0.9300855,
+          "topicality": 0.05896327
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.92990184,
+          "topicality": 0.14355339
+        },
+        {
+          "description": "Eating",
+          "mid": "/m/01f5gx",
+          "score": 0.9279902,
+          "topicality": 0.64135855
+        },
+        {
+          "description": "Plate",
+          "mid": "/m/050gv4",
+          "score": 0.92374283,
+          "topicality": 0.08268511
+        },
+        {
+          "description": "Table",
+          "mid": "/m/04bcr3",
+          "score": 0.91834223,
+          "topicality": 0.01480133
+        }
+      ]
+    }
+  ]
+}

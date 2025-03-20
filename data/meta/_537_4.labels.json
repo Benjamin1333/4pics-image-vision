@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Walking Shoe",
+          "mid": "/m/0hgs9bq",
+          "score": 0.7480958,
+          "topicality": 0.0033218465
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.73935187,
+          "topicality": 0.00047262418
+        },
+        {
+          "description": "Leather",
+          "mid": "/m/04lbp",
+          "score": 0.62672365,
+          "topicality": 0.020441268
+        },
+        {
+          "description": "Still life photography",
+          "mid": "/m/027_ny3",
+          "score": 0.613049,
+          "topicality": 0.0037461452
+        },
+        {
+          "description": "Outdoor Shoe",
+          "mid": "/m/0hgrj75",
+          "score": 0.5628577,
+          "topicality": 0.0023658294
+        },
+        {
+          "description": "Synthetic rubber",
+          "mid": "/m/05s771",
+          "score": 0.5065949,
+          "topicality": 0.0007381962
+        }
+      ]
+    }
+  ]
+}

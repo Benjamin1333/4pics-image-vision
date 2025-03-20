@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.92550004,
+          "topicality": 0.040471457
+        },
+        {
+          "description": "Love",
+          "mid": "/m/048knlz",
+          "score": 0.8978463,
+          "topicality": 0.2870956
+        },
+        {
+          "description": "Comfort",
+          "mid": "/m/08xgn7",
+          "score": 0.8527805,
+          "topicality": 0.036105655
+        },
+        {
+          "description": "Romance",
+          "mid": "/m/01pxgq",
+          "score": 0.8252359,
+          "topicality": 0.059033424
+        },
+        {
+          "description": "Heart",
+          "mid": "/m/07bg4p",
+          "score": 0.778688,
+          "topicality": 0.040491052
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.7245686,
+          "topicality": 0.011318499
+        },
+        {
+          "description": "Linens",
+          "mid": "/m/06httj",
+          "score": 0.66651833,
+          "topicality": 0.0010456004
+        },
+        {
+          "description": "Sleep",
+          "mid": "/m/06xzh",
+          "score": 0.6129035,
+          "topicality": 0.26797476
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.52354866,
+          "topicality": 0.003132019
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Brain",
+          "mid": "/m/017cc",
+          "score": 0.9309085,
+          "topicality": 0.97068393
+        },
+        {
+          "description": "Brain",
+          "mid": "/m/04n0b__",
+          "score": 0.867164,
+          "topicality": 0.02721344
+        },
+        {
+          "description": "Human anatomy",
+          "mid": "/m/03gg9",
+          "score": 0.7336392,
+          "topicality": 0.010461558
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.5741766,
+          "topicality": 0.051555052
+        },
+        {
+          "description": "Medical imaging",
+          "mid": "/m/01j3br",
+          "score": 0.521758,
+          "topicality": 0.037725236
+        }
+      ]
+    }
+  ]
+}

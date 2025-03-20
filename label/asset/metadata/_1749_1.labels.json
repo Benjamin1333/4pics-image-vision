@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Roofer",
+          "mid": "/m/0h398j",
+          "score": 0.7382517,
+          "topicality": 0.7577033
+        },
+        {
+          "description": "Tradesman",
+          "mid": "/m/01jp3p",
+          "score": 0.715528,
+          "topicality": 0.0054139947
+        },
+        {
+          "description": "Wood stain",
+          "mid": "/m/05t06b",
+          "score": 0.6463653,
+          "topicality": 0.00040863725
+        },
+        {
+          "description": "Building material",
+          "mid": "/m/02cr01",
+          "score": 0.6298164,
+          "topicality": 0.005781369
+        }
+      ]
+    }
+  ]
+}

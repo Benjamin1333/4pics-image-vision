@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Furniture",
+          "mid": "/m/0c_jw",
+          "score": 0.955828,
+          "topicality": 0.01968556
+        },
+        {
+          "description": "Sitting",
+          "mid": "/m/015c4z",
+          "score": 0.91940117,
+          "topicality": 0.21210892
+        },
+        {
+          "description": "Outdoor furniture",
+          "mid": "/m/0cp2d4k",
+          "score": 0.91187704,
+          "topicality": 0.0019299326
+        },
+        {
+          "description": "Blond",
+          "mid": "/m/0294jb",
+          "score": 0.8857126,
+          "topicality": 0.015839934
+        },
+        {
+          "description": "Comfort",
+          "mid": "/m/08xgn7",
+          "score": 0.8118871,
+          "topicality": 0.005494584
+        },
+        {
+          "description": "Chair",
+          "mid": "/m/01mzpv",
+          "score": 0.7983674,
+          "topicality": 0.102559775
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.7782167,
+          "topicality": 0.0034925665
+        },
+        {
+          "description": "Garden",
+          "mid": "/m/0bl0l",
+          "score": 0.7266379,
+          "topicality": 0.05698595
+        }
+      ]
+    }
+  ]
+}

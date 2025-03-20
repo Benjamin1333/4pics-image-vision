@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9730989,
+          "topicality": 0.070725925
+        },
+        {
+          "description": "Bed",
+          "mid": "/m/03ssj5",
+          "score": 0.9500736,
+          "topicality": 0.33036563
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94442654,
+          "topicality": 0.0013925128
+        },
+        {
+          "description": "Comfort",
+          "mid": "/m/08xgn7",
+          "score": 0.90744317,
+          "topicality": 0.01261973
+        },
+        {
+          "description": "Linens",
+          "mid": "/m/06httj",
+          "score": 0.9026803,
+          "topicality": 0.00017398597
+        },
+        {
+          "description": "Bedroom",
+          "mid": "/m/02_58j",
+          "score": 0.8694933,
+          "topicality": 0.038311426
+        },
+        {
+          "description": "Bed sheet",
+          "mid": "/m/04mygm",
+          "score": 0.83513826,
+          "topicality": 0.009400664
+        },
+        {
+          "description": "Love",
+          "mid": "/m/048knlz",
+          "score": 0.83169466,
+          "topicality": 0.13667585
+        },
+        {
+          "description": "Bedding",
+          "mid": "/m/03mcr3",
+          "score": 0.8210658,
+          "topicality": 0.0048454097
+        },
+        {
+          "description": "Sleep",
+          "mid": "/m/06xzh",
+          "score": 0.76531005,
+          "topicality": 0.45101696
+        }
+      ]
+    }
+  ]
+}

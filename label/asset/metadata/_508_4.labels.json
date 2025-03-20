@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Match",
+          "mid": "/m/0h42m",
+          "score": 0.9833514,
+          "topicality": 0.9860564
+        },
+        {
+          "description": "Flame",
+          "mid": "/m/01f415",
+          "score": 0.9150259,
+          "topicality": 0.27152032
+        },
+        {
+          "description": "Fire",
+          "mid": "/m/02_41",
+          "score": 0.7677899,
+          "topicality": 0.31893295
+        },
+        {
+          "description": "Night",
+          "mid": "/m/01d74z",
+          "score": 0.74565727,
+          "topicality": 0.021897402
+        },
+        {
+          "description": "Heat",
+          "mid": "/m/03k2v",
+          "score": 0.6721834,
+          "topicality": 0.03300943
+        }
+      ]
+    }
+  ]
+}

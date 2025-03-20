@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.96724766,
+          "topicality": 0.05030175
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.828416,
+          "topicality": 0.10032046
+        },
+        {
+          "description": "Natural material",
+          "mid": "/m/07sx2n",
+          "score": 0.70643,
+          "topicality": 0.00016275827
+        },
+        {
+          "description": "Glitter",
+          "mid": "/m/03kpnc",
+          "score": 0.6129546,
+          "topicality": 0.037392393
+        },
+        {
+          "description": "Embellishment",
+          "mid": "/m/0btc6_",
+          "score": 0.5700107,
+          "topicality": 0.004048587
+        },
+        {
+          "description": "Mask",
+          "mid": "/m/01kr41",
+          "score": 0.5626558,
+          "topicality": 0.59699804
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bag",
+          "mid": "/m/0n5v01m",
+          "score": 0.9359734,
+          "topicality": 0.0025792925
+        },
+        {
+          "description": "Luggage & bags",
+          "mid": "/m/0hf58v5",
+          "score": 0.88862306,
+          "topicality": 0.00045245438
+        },
+        {
+          "description": "Adventure",
+          "mid": "/m/0h_m",
+          "score": 0.8845995,
+          "topicality": 0.070327304
+        },
+        {
+          "description": "Backpack",
+          "mid": "/m/01940j",
+          "score": 0.8740802,
+          "topicality": 0.010030292
+        },
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.8691586,
+          "topicality": 0.0031469613
+        },
+        {
+          "description": "People in nature",
+          "mid": "/j/3gbwgn",
+          "score": 0.84744453,
+          "topicality": 0.0018070993
+        },
+        {
+          "description": "Travel",
+          "mid": "/m/014dsx",
+          "score": 0.8348447,
+          "topicality": 0.43904275
+        },
+        {
+          "description": "Baggage",
+          "mid": "/m/03w7y7",
+          "score": 0.79371727,
+          "topicality": 0.005261675
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.7885142,
+          "topicality": 0.007104316
+        },
+        {
+          "description": "Fell",
+          "mid": "/m/0280nh",
+          "score": 0.7159689,
+          "topicality": 0.005023334
+        }
+      ]
+    }
+  ]
+}

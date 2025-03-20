@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Snowman",
+          "mid": "/m/0152hh",
+          "score": 0.9885512,
+          "topicality": 0.9807883
+        },
+        {
+          "description": "Snow",
+          "mid": "/m/06_dn",
+          "score": 0.9804198,
+          "topicality": 0.65237045
+        },
+        {
+          "description": "Winter",
+          "mid": "/m/086mh",
+          "score": 0.96582824,
+          "topicality": 0.34076944
+        },
+        {
+          "description": "Headgear",
+          "mid": "/m/01443y",
+          "score": 0.93952596,
+          "topicality": 0.00080996845
+        },
+        {
+          "description": "Hat",
+          "mid": "/m/02dl1y",
+          "score": 0.9233494,
+          "topicality": 0.052595247
+        },
+        {
+          "description": "Freezing",
+          "mid": "/m/01c791",
+          "score": 0.87659246,
+          "topicality": 0.019729748
+        },
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.8494604,
+          "topicality": 0.106042236
+        },
+        {
+          "description": "Playing in the snow",
+          "mid": "/j/c563rv",
+          "score": 0.7174715,
+          "topicality": 0.0031022453
+        },
+        {
+          "description": "Precipitation",
+          "mid": "/m/01q18m",
+          "score": 0.675684,
+          "topicality": 0.0010989566
+        },
+        {
+          "description": "Ducks",
+          "mid": "/m/01c_0l",
+          "score": 0.6404244,
+          "topicality": 0.0077552926
+        }
+      ]
+    }
+  ]
+}

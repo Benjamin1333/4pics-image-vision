@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.9160142,
+          "topicality": 0.0105461925
+        },
+        {
+          "description": "Mint",
+          "mid": "/m/04sg5",
+          "score": 0.7496426,
+          "topicality": 0.46278048
+        },
+        {
+          "description": "Fines herbes",
+          "mid": "/m/01bp4g",
+          "score": 0.74006546,
+          "topicality": 0.0074391677
+        },
+        {
+          "description": "Peppermint",
+          "mid": "/m/05s38",
+          "score": 0.73962456,
+          "topicality": 0.48430488
+        },
+        {
+          "description": "Green tea",
+          "mid": "/m/01mzvs",
+          "score": 0.7117391,
+          "topicality": 0.65752125
+        },
+        {
+          "description": "Tea",
+          "mid": "/m/07clx",
+          "score": 0.6634031,
+          "topicality": 0.8977376
+        },
+        {
+          "description": "Herbal",
+          "mid": "/m/02kdzb",
+          "score": 0.6123685,
+          "topicality": 0.0007726941
+        },
+        {
+          "description": "Herb",
+          "mid": "/m/03gq1",
+          "score": 0.51933706,
+          "topicality": 0.2622754
+        }
+      ]
+    }
+  ]
+}

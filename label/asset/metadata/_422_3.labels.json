@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Collar",
+          "mid": "/m/091410",
+          "score": 0.9638602,
+          "topicality": 0.0023352073
+        },
+        {
+          "description": "Formal wear",
+          "mid": "/m/02w3_2",
+          "score": 0.9608834,
+          "topicality": 0.006539442
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.9528934,
+          "topicality": 0.097185634
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.95034105,
+          "topicality": 0.051500674
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94493073,
+          "topicality": 0.005040726
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.90932673,
+          "topicality": 0.012198037
+        },
+        {
+          "description": "Dress shirt",
+          "mid": "/m/06hwcd",
+          "score": 0.8541076,
+          "topicality": 0.0005302397
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.8412642,
+          "topicality": 0.101148605
+        },
+        {
+          "description": "Trophy",
+          "mid": "/m/02x94h",
+          "score": 0.7818695,
+          "topicality": 0.31679797
+        },
+        {
+          "description": "Necktie",
+          "mid": "/m/01rkbr",
+          "score": 0.78031296,
+          "topicality": 0.016247245
+        }
+      ]
+    }
+  ]
+}

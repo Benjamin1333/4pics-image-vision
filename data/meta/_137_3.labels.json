@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9743173,
+          "topicality": 0.004844524
+        },
+        {
+          "description": "Auditorium",
+          "mid": "/m/039l3v",
+          "score": 0.9046619,
+          "topicality": 0.068388
+        },
+        {
+          "description": "Movie theater",
+          "mid": "/m/0kcc7",
+          "score": 0.8481473,
+          "topicality": 0.95152754
+        },
+        {
+          "description": "Theatre",
+          "mid": "/m/03qsdpk",
+          "score": 0.81816983,
+          "topicality": 0.2815885
+        },
+        {
+          "description": "Theater",
+          "mid": "/m/05npqn",
+          "score": 0.7438087,
+          "topicality": 0.33946154
+        },
+        {
+          "description": "Conference hall",
+          "mid": "/m/02q60ls",
+          "score": 0.7218967,
+          "topicality": 0.0007440313
+        },
+        {
+          "description": "Performing arts center",
+          "mid": "/m/07l44b",
+          "score": 0.69278646,
+          "topicality": 0.00076564885
+        },
+        {
+          "description": "Chair",
+          "mid": "/m/01mzpv",
+          "score": 0.6835363,
+          "topicality": 0.031155236
+        },
+        {
+          "description": "Movie palace",
+          "mid": "/m/05b9mj",
+          "score": 0.608966,
+          "topicality": 0.0020737145
+        },
+        {
+          "description": "Concert Hall",
+          "mid": "/m/04dy6qj",
+          "score": 0.5797808,
+          "topicality": 0.005209527
+        }
+      ]
+    }
+  ]
+}

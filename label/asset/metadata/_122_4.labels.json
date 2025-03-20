@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bat-and-ball games",
+          "mid": "/m/027zgtw",
+          "score": 0.92898923,
+          "topicality": 0.13848288
+        },
+        {
+          "description": "Cricket",
+          "mid": "/m/09xp_",
+          "score": 0.9179991,
+          "topicality": 0.8649008
+        },
+        {
+          "description": "Cricket bat",
+          "mid": "/m/02cthb",
+          "score": 0.84832233,
+          "topicality": 0.8983958
+        },
+        {
+          "description": "Hardwood",
+          "mid": "/m/020g49",
+          "score": 0.6810081,
+          "topicality": 0.0033624552
+        },
+        {
+          "description": "Limited overs cricket",
+          "mid": "/m/05q0q",
+          "score": 0.64689857,
+          "topicality": 0.00045219436
+        },
+        {
+          "description": "Plank",
+          "mid": "/m/0fq0fnf",
+          "score": 0.53668815,
+          "topicality": 0.002361945
+        }
+      ]
+    }
+  ]
+}

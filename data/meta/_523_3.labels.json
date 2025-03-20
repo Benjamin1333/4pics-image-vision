@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.97228086,
+          "topicality": 0.01793556
+        },
+        {
+          "description": "Hand",
+          "mid": "/m/0k65p",
+          "score": 0.9705962,
+          "topicality": 0.6774025
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.94987524,
+          "topicality": 0.024941722
+        },
+        {
+          "description": "Greeting",
+          "mid": "/m/02q2qc",
+          "score": 0.93340963,
+          "topicality": 0.085006505
+        },
+        {
+          "description": "Handshake",
+          "mid": "/m/016133",
+          "score": 0.8924336,
+          "topicality": 0.46673065
+        },
+        {
+          "description": "Wrist",
+          "mid": "/m/01j48b",
+          "score": 0.88874495,
+          "topicality": 0.006459095
+        },
+        {
+          "description": "Holding hands",
+          "mid": "/m/01613k",
+          "score": 0.8812605,
+          "topicality": 0.44326493
+        },
+        {
+          "description": "Thumb",
+          "mid": "/m/01bmhj",
+          "score": 0.87853837,
+          "topicality": 0.020874305
+        },
+        {
+          "description": "People in nature",
+          "mid": "/j/3gbwgn",
+          "score": 0.8424197,
+          "topicality": 0.0003581792
+        },
+        {
+          "description": "Collaboration",
+          "mid": "/m/01s560",
+          "score": 0.7574044,
+          "topicality": 0.03703676
+        }
+      ]
+    }
+  ]
+}

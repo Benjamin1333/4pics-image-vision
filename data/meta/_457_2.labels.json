@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Martial arts",
+          "mid": "/m/04xsv",
+          "score": 0.9828666,
+          "topicality": 0.6277126
+        },
+        {
+          "description": "Martial Arts Uniform",
+          "mid": "/m/0h8n1jq",
+          "score": 0.9785695,
+          "topicality": 0.0050450685
+        },
+        {
+          "description": "Dobok",
+          "mid": "/m/053kqy",
+          "score": 0.94616205,
+          "topicality": 0.031532068
+        },
+        {
+          "description": "Combat sport",
+          "mid": "/m/05kc29",
+          "score": 0.940649,
+          "topicality": 0.1899491
+        },
+        {
+          "description": "Taekwondo",
+          "mid": "/m/07gyv",
+          "score": 0.912472,
+          "topicality": 0.61356753
+        },
+        {
+          "description": "Striking combat sports",
+          "mid": "/m/0wgq6y7",
+          "score": 0.89612037,
+          "topicality": 0.0020474978
+        },
+        {
+          "description": "Contact sport",
+          "mid": "/m/08fgwk",
+          "score": 0.8930108,
+          "topicality": 0.0010974166
+        },
+        {
+          "description": "Uniform",
+          "mid": "/m/09jfs",
+          "score": 0.87771416,
+          "topicality": 0.023492068
+        },
+        {
+          "description": "Japanese martial arts",
+          "mid": "/m/025tjmx",
+          "score": 0.877118,
+          "topicality": 0.010609667
+        },
+        {
+          "description": "Chinese martial arts",
+          "mid": "/m/02g597",
+          "score": 0.8767087,
+          "topicality": 0.07082662
+        }
+      ]
+    }
+  ]
+}

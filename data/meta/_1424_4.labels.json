@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bat",
+          "mid": "/m/01h44",
+          "score": 0.97249186,
+          "topicality": 0.62038666
+        },
+        {
+          "description": "Vertebrate",
+          "mid": "/m/09686",
+          "score": 0.961945,
+          "topicality": 0.0023125054
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.9038978,
+          "topicality": 0.0030319714
+        },
+        {
+          "description": "Terrestrial animal",
+          "mid": "/m/0fbf1m",
+          "score": 0.88622785,
+          "topicality": 0.00032176243
+        },
+        {
+          "description": "Big brown bat",
+          "mid": "/m/06m3_9",
+          "score": 0.8572236,
+          "topicality": 0.034580126
+        },
+        {
+          "description": "Carnivores",
+          "mid": "/m/01lrl",
+          "score": 0.8295432,
+          "topicality": 0.00013965447
+        },
+        {
+          "description": "Fur",
+          "mid": "/m/0cnmr",
+          "score": 0.7468342,
+          "topicality": 0.0003406147
+        },
+        {
+          "description": "Little red flying fox",
+          "mid": "/m/0bcgbd",
+          "score": 0.7339623,
+          "topicality": 0.02106933
+        },
+        {
+          "description": "Wildlife",
+          "mid": "/m/01280g",
+          "score": 0.69603086,
+          "topicality": 0.0024836336
+        },
+        {
+          "description": "Tricolored bat",
+          "mid": "/m/02_xh7",
+          "score": 0.6209909,
+          "topicality": 0.002637594
+        }
+      ]
+    }
+  ]
+}

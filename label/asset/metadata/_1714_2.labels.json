@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Mode of transport",
+          "mid": "/m/079bkr",
+          "score": 0.97928166,
+          "topicality": 0.014967115
+        },
+        {
+          "description": "Bus",
+          "mid": "/m/01bjv",
+          "score": 0.974523,
+          "topicality": 0.6583239
+        },
+        {
+          "description": "Mountainous landforms",
+          "mid": "/g/11jxkqbpp",
+          "score": 0.97089547,
+          "topicality": 0.00017165593
+        },
+        {
+          "description": "Transport",
+          "mid": "/m/07bsy",
+          "score": 0.9697457,
+          "topicality": 0.07575662
+        },
+        {
+          "description": "Commercial vehicle",
+          "mid": "/m/0fkwjg",
+          "score": 0.90758467,
+          "topicality": 0.0006413809
+        },
+        {
+          "description": "Tour bus service",
+          "mid": "/m/02w11w8",
+          "score": 0.89004546,
+          "topicality": 0.19090283
+        },
+        {
+          "description": "Public transport",
+          "mid": "/m/05zdp",
+          "score": 0.88638,
+          "topicality": 0.038777024
+        },
+        {
+          "description": "Valley",
+          "mid": "/m/07yxk",
+          "score": 0.79121417,
+          "topicality": 0.007333852
+        },
+        {
+          "description": "Travel",
+          "mid": "/m/014dsx",
+          "score": 0.78010374,
+          "topicality": 0.16945015
+        },
+        {
+          "description": "Automotive Mirror",
+          "mid": "/m/0h8lk4b",
+          "score": 0.75081044,
+          "topicality": 0.00023140582
+        }
+      ]
+    }
+  ]
+}

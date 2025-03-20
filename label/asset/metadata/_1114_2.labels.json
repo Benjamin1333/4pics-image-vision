@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Water resources",
+          "mid": "/m/015s2f",
+          "score": 0.977866,
+          "topicality": 0.22303997
+        },
+        {
+          "description": "Fluid",
+          "mid": "/m/02yfx",
+          "score": 0.955723,
+          "topicality": 0.0086382525
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.92119914,
+          "topicality": 0.0039880904
+        },
+        {
+          "description": "Drinking water",
+          "mid": "/m/01c6xf",
+          "score": 0.7823526,
+          "topicality": 0.05570359
+        },
+        {
+          "description": "Pipe",
+          "mid": "/m/09w9qp",
+          "score": 0.75849944,
+          "topicality": 0.06735533
+        },
+        {
+          "description": "Water feature",
+          "mid": "/m/090j23",
+          "score": 0.68043184,
+          "topicality": 0.02968096
+        }
+      ]
+    }
+  ]
+}

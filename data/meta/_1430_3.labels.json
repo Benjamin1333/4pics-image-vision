@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hair",
+          "mid": "/m/03q69",
+          "score": 0.9907417,
+          "topicality": 0.029989222
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.9879179,
+          "topicality": 0.05868174
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9851902,
+          "topicality": 0.026303736
+        },
+        {
+          "description": "Hairstyle",
+          "mid": "/m/0ds4x",
+          "score": 0.96974665,
+          "topicality": 0.027374899
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9449491,
+          "topicality": 0.0022099689
+        },
+        {
+          "description": "Blond",
+          "mid": "/m/0294jb",
+          "score": 0.9322021,
+          "topicality": 0.011496967
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.9301576,
+          "topicality": 0.006184348
+        },
+        {
+          "description": "Interaction",
+          "mid": "/m/01ckgp",
+          "score": 0.9167825,
+          "topicality": 0.0153474035
+        },
+        {
+          "description": "Friendship",
+          "mid": "/m/019_nn",
+          "score": 0.89361,
+          "topicality": 0.07504352
+        },
+        {
+          "description": "Love",
+          "mid": "/m/048knlz",
+          "score": 0.89181757,
+          "topicality": 0.028963456
+        }
+      ]
+    }
+  ]
+}

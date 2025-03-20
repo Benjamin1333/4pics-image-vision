@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Metal",
+          "mid": "/m/04t7l",
+          "score": 0.829638,
+          "topicality": 0.053664595
+        },
+        {
+          "description": "Lock and key",
+          "mid": "/m/02ll1_",
+          "score": 0.7400985,
+          "topicality": 0.3188787
+        },
+        {
+          "description": "Brass",
+          "mid": "/m/01504",
+          "score": 0.71089053,
+          "topicality": 0.18317239
+        },
+        {
+          "description": "Bronze",
+          "mid": "/m/01brf",
+          "score": 0.5846189,
+          "topicality": 0.014271024
+        },
+        {
+          "description": "Steel",
+          "mid": "/m/06qqb",
+          "score": 0.5687205,
+          "topicality": 0.0053245877
+        },
+        {
+          "description": "Security",
+          "mid": "/m/0bg2p",
+          "score": 0.54957694,
+          "topicality": 0.027016275
+        },
+        {
+          "description": "Titanium",
+          "mid": "/m/025sk56",
+          "score": 0.511367,
+          "topicality": 0.0026897239
+        },
+        {
+          "description": "Aluminium",
+          "mid": "/m/027vj2v",
+          "score": 0.5073659,
+          "topicality": 0.00064525305
+        }
+      ]
+    }
+  ]
+}

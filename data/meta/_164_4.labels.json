@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Dog",
+          "mid": "/m/0bt9lr",
+          "score": 0.99547523,
+          "topicality": 0.7614176
+        },
+        {
+          "description": "Vertebrate",
+          "mid": "/m/09686",
+          "score": 0.96088237,
+          "topicality": 0.0031123215
+        },
+        {
+          "description": "Carnivores",
+          "mid": "/m/01lrl",
+          "score": 0.95886266,
+          "topicality": 0.009497418
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.84765613,
+          "topicality": 0.0056821983
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.82224375,
+          "topicality": 0.06229092
+        },
+        {
+          "description": "Canidae",
+          "mid": "/m/01z5f",
+          "score": 0.79453987,
+          "topicality": 0.026575526
+        },
+        {
+          "description": "Puppy",
+          "mid": "/m/0d7s3w",
+          "score": 0.7667698,
+          "topicality": 0.23586173
+        },
+        {
+          "description": "Scent hound",
+          "mid": "/m/017zl6",
+          "score": 0.75742793,
+          "topicality": 0.0059324754
+        },
+        {
+          "description": "Working animal",
+          "mid": "/m/07_gml",
+          "score": 0.69948316,
+          "topicality": 0.00072921114
+        },
+        {
+          "description": "Pet Supply",
+          "mid": "/m/0h8ks17",
+          "score": 0.6071232,
+          "topicality": 0.00010094996
+        }
+      ]
+    }
+  ]
+}

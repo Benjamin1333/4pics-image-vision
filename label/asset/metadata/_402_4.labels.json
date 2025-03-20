@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Nut",
+          "mid": "/m/01lbxg",
+          "score": 0.9477041,
+          "topicality": 0.056595013
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.9446835,
+          "topicality": 0.00064300775
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.93360955,
+          "topicality": 0.002403234
+        },
+        {
+          "description": "Hazelnut",
+          "mid": "/m/06wcblr",
+          "score": 0.89896435,
+          "topicality": 0.9364139
+        },
+        {
+          "description": "Nuts & seeds",
+          "mid": "/m/0ggk1v7",
+          "score": 0.8818524,
+          "topicality": 0.00204622
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.8491005,
+          "topicality": 0.058777805
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.78819364,
+          "topicality": 0.00081951846
+        },
+        {
+          "description": "Superfood",
+          "mid": "/m/04jdhxy",
+          "score": 0.6220049,
+          "topicality": 0.0027141266
+        },
+        {
+          "description": "Chestnut",
+          "mid": "/m/0hsgr",
+          "score": 0.5748801,
+          "topicality": 0.06421863
+        },
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.5255505,
+          "topicality": 0.0066907634
+        }
+      ]
+    }
+  ]
+}

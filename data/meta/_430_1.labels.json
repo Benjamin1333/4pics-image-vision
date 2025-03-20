@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Ancient Rome",
+          "mid": "/m/02l341",
+          "score": 0.9584361,
+          "topicality": 0.7996168
+        },
+        {
+          "description": "Arch",
+          "mid": "/m/0dpvm",
+          "score": 0.95693654,
+          "topicality": 0.019529616
+        },
+        {
+          "description": "Landmark",
+          "mid": "/m/05_5t0l",
+          "score": 0.9364058,
+          "topicality": 0.0957194
+        },
+        {
+          "description": "Architecture",
+          "mid": "/m/03nfmq",
+          "score": 0.9328458,
+          "topicality": 0.10321551
+        },
+        {
+          "description": "Wonders of the World",
+          "mid": "/m/02y_3gd",
+          "score": 0.9308955,
+          "topicality": 0.12073483
+        },
+        {
+          "description": "History",
+          "mid": "/m/03g3w",
+          "score": 0.9159034,
+          "topicality": 0.09421886
+        },
+        {
+          "description": "Monument",
+          "mid": "/m/02ljgl",
+          "score": 0.8910622,
+          "topicality": 0.043048464
+        },
+        {
+          "description": "Tourist attraction",
+          "mid": "/m/0pgl9",
+          "score": 0.89004827,
+          "topicality": 0.06957605
+        },
+        {
+          "description": "Ancient Roman architecture",
+          "mid": "/m/0dvg9",
+          "score": 0.8900013,
+          "topicality": 0.40554094
+        },
+        {
+          "description": "Classical architecture",
+          "mid": "/m/0dvh9",
+          "score": 0.86959314,
+          "topicality": 0.011983151
+        }
+      ]
+    }
+  ]
+}

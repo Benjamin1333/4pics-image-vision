@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.6321434,
+          "topicality": 0.0019899446
+        },
+        {
+          "description": "Lens",
+          "mid": "/m/04n4x",
+          "score": 0.6064388,
+          "topicality": 0.027294124
+        },
+        {
+          "description": "Ophthalmology",
+          "mid": "/m/0fkdq",
+          "score": 0.58470875,
+          "topicality": 0.48274714
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.5749567,
+          "topicality": 0.038498193
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.5731027,
+          "topicality": 0.0051886197
+        }
+      ]
+    }
+  ]
+}

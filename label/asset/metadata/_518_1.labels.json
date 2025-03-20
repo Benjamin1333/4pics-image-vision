@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Mountain",
+          "mid": "/m/09d_r",
+          "score": 0.9618981,
+          "topicality": 0.068427935
+        },
+        {
+          "description": "Badlands",
+          "mid": "/m/01jnvt",
+          "score": 0.9591582,
+          "topicality": 0.029845547
+        },
+        {
+          "description": "Natural landscape",
+          "mid": "/m/03d28y3",
+          "score": 0.9526075,
+          "topicality": 0.0357356
+        },
+        {
+          "description": "Rock",
+          "mid": "/m/01cbzq",
+          "score": 0.951251,
+          "topicality": 0.06954492
+        },
+        {
+          "description": "Terrain",
+          "mid": "/m/025tn5c",
+          "score": 0.9446844,
+          "topicality": 0.063477635
+        },
+        {
+          "description": "Geological formation",
+          "mid": "/m/03k5cs",
+          "score": 0.92661446,
+          "topicality": 0.09225311
+        },
+        {
+          "description": "Wilderness",
+          "mid": "/m/023bbt",
+          "score": 0.90459985,
+          "topicality": 0.040329307
+        },
+        {
+          "description": "Fault",
+          "mid": "/m/018zp5",
+          "score": 0.8911005,
+          "topicality": 0.011172405
+        },
+        {
+          "description": "Outcrop",
+          "mid": "/m/07cwvn",
+          "score": 0.8895806,
+          "topicality": 0.011462903
+        },
+        {
+          "description": "Plateau",
+          "mid": "/m/02mwzg",
+          "score": 0.8784066,
+          "topicality": 0.061920423
+        }
+      ]
+    }
+  ]
+}

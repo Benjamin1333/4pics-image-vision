@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.98084664,
+          "topicality": 0.0011080634
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.9411327,
+          "topicality": 0.013166198
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.91014296,
+          "topicality": 0.02016889
+        },
+        {
+          "description": "Furniture",
+          "mid": "/m/0c_jw",
+          "score": 0.90815586,
+          "topicality": 0.005600779
+        },
+        {
+          "description": "Table",
+          "mid": "/m/04bcr3",
+          "score": 0.9057429,
+          "topicality": 0.015828956
+        },
+        {
+          "description": "Output device",
+          "mid": "/m/044_87",
+          "score": 0.8824039,
+          "topicality": 0.0017163525
+        },
+        {
+          "description": "Office Equipment",
+          "mid": "/m/03qtgjk",
+          "score": 0.8750515,
+          "topicality": 0.0015957837
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8577092,
+          "topicality": 0.029983763
+        },
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.85420257,
+          "topicality": 0.048316546
+        },
+        {
+          "description": "Teacher",
+          "mid": "/m/01d30f",
+          "score": 0.8381511,
+          "topicality": 0.039506286
+        }
+      ]
+    }
+  ]
+}

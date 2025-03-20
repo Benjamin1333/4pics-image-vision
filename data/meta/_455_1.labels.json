@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Green",
+          "mid": "/m/038hg",
+          "score": 0.98086005,
+          "topicality": 0.104521394
+        },
+        {
+          "description": "Christmas decoration",
+          "mid": "/m/05fc9mj",
+          "score": 0.9801988,
+          "topicality": 0.3623815
+        },
+        {
+          "description": "Christmas Day",
+          "mid": "/m/01vq3",
+          "score": 0.9528797,
+          "topicality": 0.8726291
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.9466195,
+          "topicality": 4.945408e-05
+        },
+        {
+          "description": "Christmas ornament",
+          "mid": "/m/04kwhq",
+          "score": 0.94622415,
+          "topicality": 0.18714681
+        },
+        {
+          "description": "Lighting",
+          "mid": "/m/019sc6",
+          "score": 0.92778355,
+          "topicality": 0.026112005
+        },
+        {
+          "description": "Christmas tree",
+          "mid": "/m/025nd",
+          "score": 0.9268542,
+          "topicality": 0.58336043
+        },
+        {
+          "description": "Interior design",
+          "mid": "/m/02rfdq",
+          "score": 0.9247508,
+          "topicality": 0.00555371
+        },
+        {
+          "description": "Home",
+          "mid": "/m/01l0mw",
+          "score": 0.907159,
+          "topicality": 0.008512327
+        },
+        {
+          "description": "Holiday",
+          "mid": "/m/03gkl",
+          "score": 0.90557563,
+          "topicality": 0.2702838
+        }
+      ]
+    }
+  ]
+}

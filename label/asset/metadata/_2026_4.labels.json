@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Aerospace Engineering",
+          "mid": "/m/0w7s",
+          "score": 0.88941455,
+          "topicality": 0.02308172
+        },
+        {
+          "description": "Spacecraft",
+          "mid": "/m/09g5h",
+          "score": 0.77824306,
+          "topicality": 0.4249958
+        },
+        {
+          "description": "Aerospace manufacturer",
+          "mid": "/m/0kpbc",
+          "score": 0.7369243,
+          "topicality": 0.001577496
+        },
+        {
+          "description": "Aircraft",
+          "mid": "/m/0k5j",
+          "score": 0.69612324,
+          "topicality": 0.039116465
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.5358861,
+          "topicality": 0.025866685
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9736529,
+          "topicality": 0.017888024
+        },
+        {
+          "description": "Gambling",
+          "mid": "/m/034dj",
+          "score": 0.97130954,
+          "topicality": 0.6881776
+        },
+        {
+          "description": "Indoor games and sports",
+          "mid": "/m/0b42l9",
+          "score": 0.9289634,
+          "topicality": 0.0007631064
+        },
+        {
+          "description": "Game",
+          "mid": "/m/03bt1gh",
+          "score": 0.92745966,
+          "topicality": 0.5039605
+        },
+        {
+          "description": "Card game",
+          "mid": "/m/01mtt",
+          "score": 0.9205214,
+          "topicality": 0.51330185
+        },
+        {
+          "description": "Poker",
+          "mid": "/m/05r1j",
+          "score": 0.9071213,
+          "topicality": 0.60338086
+        },
+        {
+          "description": "Casino",
+          "mid": "/m/01lq3",
+          "score": 0.8756569,
+          "topicality": 0.3602944
+        },
+        {
+          "description": "Baize",
+          "mid": "/m/040m_0",
+          "score": 0.8688088,
+          "topicality": 0.0015719383
+        },
+        {
+          "description": "Number",
+          "mid": "/m/05fwb",
+          "score": 0.86093485,
+          "topicality": 0.0027718362
+        },
+        {
+          "description": "Tabletop game",
+          "mid": "/m/03jj52",
+          "score": 0.77667683,
+          "topicality": 0.021538582
+        }
+      ]
+    }
+  ]
+}

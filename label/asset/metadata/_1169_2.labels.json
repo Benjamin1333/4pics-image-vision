@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.97729,
+          "topicality": 0.044224873
+        },
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.9537891,
+          "topicality": 0.026264362
+        },
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.9317513,
+          "topicality": 0.27454433
+        },
+        {
+          "description": "Orange",
+          "mid": "/m/0jc_p",
+          "score": 0.91740274,
+          "topicality": 0.014398101
+        },
+        {
+          "description": "Purple",
+          "mid": "/m/09ggk",
+          "score": 0.85343635,
+          "topicality": 0.2895454
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6782519,
+          "topicality": 0.018493555
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.664908,
+          "topicality": 0.019085495
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.6365244,
+          "topicality": 0.004358747
+        },
+        {
+          "description": "Lens flare",
+          "mid": "/m/017bm6",
+          "score": 0.58768004,
+          "topicality": 0.02296341
+        }
+      ]
+    }
+  ]
+}

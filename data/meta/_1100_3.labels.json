@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.85846233,
+          "topicality": 0.003812266
+        },
+        {
+          "description": "Hockey",
+          "mid": "/m/03mr6",
+          "score": 0.8428608,
+          "topicality": 0.52921194
+        },
+        {
+          "description": "Freezing",
+          "mid": "/m/01c791",
+          "score": 0.82411474,
+          "topicality": 0.016342051
+        },
+        {
+          "description": "Ice hockey",
+          "mid": "/m/03tmr",
+          "score": 0.81231165,
+          "topicality": 0.18041265
+        },
+        {
+          "description": "Ice hockey equipment",
+          "mid": "/m/058l0s",
+          "score": 0.79489,
+          "topicality": 0.005023198
+        },
+        {
+          "description": "Winter",
+          "mid": "/m/086mh",
+          "score": 0.7906334,
+          "topicality": 0.073748685
+        },
+        {
+          "description": "Stick and Ball Sports",
+          "mid": "/m/06ft48n",
+          "score": 0.70842236,
+          "topicality": 0.0014728387
+        },
+        {
+          "description": "Ice",
+          "mid": "/m/03vtj",
+          "score": 0.6976506,
+          "topicality": 0.16157575
+        },
+        {
+          "description": "Snow",
+          "mid": "/m/06_dn",
+          "score": 0.68435514,
+          "topicality": 0.15079209
+        },
+        {
+          "description": "Skating sports",
+          "mid": "/m/0wgq98_",
+          "score": 0.67688483,
+          "topicality": 0.001782459
+        }
+      ]
+    }
+  ]
+}

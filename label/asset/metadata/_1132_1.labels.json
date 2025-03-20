@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Film industry",
+          "mid": "/m/02_hhf",
+          "score": 0.52285975,
+          "topicality": 0.09959747
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.5047335,
+          "topicality": 0.0072378065
+        }
+      ]
+    }
+  ]
+}

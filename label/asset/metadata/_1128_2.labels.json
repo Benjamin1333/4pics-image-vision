@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sleeve",
+          "mid": "/m/062581",
+          "score": 0.9846987,
+          "topicality": 0.00669282
+        },
+        {
+          "description": "Standing",
+          "mid": "/m/02wzbmj",
+          "score": 0.95403963
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9365511,
+          "topicality": 0.014700525
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.91382974,
+          "topicality": 0.15001419
+        },
+        {
+          "description": "Elbow",
+          "mid": "/m/01vm1p",
+          "score": 0.8875932,
+          "topicality": 0.00976815
+        },
+        {
+          "description": "Waist",
+          "mid": "/m/031974",
+          "score": 0.86099386,
+          "topicality": 0.0013332752
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.8474105,
+          "topicality": 0.01891756
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.7748869,
+          "topicality": 0.015258292
+        },
+        {
+          "description": "Balance",
+          "mid": "/m/03gs8b2",
+          "score": 0.70075315,
+          "topicality": 0.07552608
+        },
+        {
+          "description": "Play",
+          "mid": "/m/06wtgq",
+          "score": 0.68350226,
+          "topicality": 0.0011408563
+        }
+      ]
+    }
+  ]
+}

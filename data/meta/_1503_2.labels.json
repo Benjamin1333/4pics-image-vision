@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Furniture",
+          "mid": "/m/0c_jw",
+          "score": 0.9744692,
+          "topicality": 0.032354563
+        },
+        {
+          "description": "Table",
+          "mid": "/m/04bcr3",
+          "score": 0.9433241,
+          "topicality": 0.04720645
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.9097996,
+          "topicality": 0.027676113
+        },
+        {
+          "description": "Desk",
+          "mid": "/m/01y9k5",
+          "score": 0.8836438,
+          "topicality": 0.030707661
+        },
+        {
+          "description": "Management",
+          "mid": "/m/04_tv",
+          "score": 0.8700368,
+          "topicality": 0.24701688
+        },
+        {
+          "description": "Meeting",
+          "mid": "/m/01h6cb",
+          "score": 0.8694538,
+          "topicality": 0.15343705
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.86938626,
+          "topicality": 0.03297254
+        },
+        {
+          "description": "Chair",
+          "mid": "/m/01mzpv",
+          "score": 0.84008175,
+          "topicality": 0.011252704
+        },
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.83390766,
+          "topicality": 0.028018402
+        },
+        {
+          "description": "Office chair",
+          "mid": "/m/08q1xp",
+          "score": 0.83223224,
+          "topicality": 0.01761668
+        }
+      ]
+    }
+  ]
+}

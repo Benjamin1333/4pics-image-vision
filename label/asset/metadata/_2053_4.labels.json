@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9758444,
+          "topicality": 0.020306207
+        },
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.848538,
+          "topicality": 0.0007985172
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.6792499,
+          "topicality": 0.0034335142
+        },
+        {
+          "description": "Book",
+          "mid": "/m/0bt_c3",
+          "score": 0.6149029,
+          "topicality": 0.12002469
+        },
+        {
+          "description": "Publication",
+          "mid": "/m/01h1dd",
+          "score": 0.6073246,
+          "topicality": 0.0050504263
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.5674457,
+          "topicality": 0.0062916167
+        },
+        {
+          "description": "Document",
+          "mid": "/m/015bv3",
+          "score": 0.53914094,
+          "topicality": 0.09045429
+        }
+      ]
+    }
+  ]
+}

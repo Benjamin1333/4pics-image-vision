@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Mealworm",
+          "mid": "/m/03cx8b",
+          "score": 0.9512419,
+          "topicality": 0.8279971
+        },
+        {
+          "description": "Insect",
+          "mid": "/m/03vt0",
+          "score": 0.8680009,
+          "topicality": 0.12983274
+        },
+        {
+          "description": "Arthropod",
+          "mid": "/m/0zkm",
+          "score": 0.8579342,
+          "topicality": 0.0018732696
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.8225703,
+          "topicality": 0.24898246
+        },
+        {
+          "description": "Pest",
+          "mid": "/m/01dqkc",
+          "score": 0.80839473,
+          "topicality": 0.018972512
+        },
+        {
+          "description": "Worm",
+          "mid": "/m/084hf",
+          "score": 0.76607436,
+          "topicality": 0.4733407
+        },
+        {
+          "description": "Larva",
+          "mid": "/m/0d9_3",
+          "score": 0.68585,
+          "topicality": 0.17755593
+        },
+        {
+          "description": "Staple food",
+          "mid": "/m/022tld",
+          "score": 0.68021864,
+          "topicality": 0.0037067106
+        },
+        {
+          "description": "Aegiale hesperiaris",
+          "mid": "/m/06gv7b",
+          "score": 0.66141564,
+          "topicality": 0.008424624
+        },
+        {
+          "description": "Waxworm",
+          "mid": "/m/044rym",
+          "score": 0.64218324,
+          "topicality": 0.017321184
+        }
+      ]
+    }
+  ]
+}

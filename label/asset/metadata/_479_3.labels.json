@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.9877344,
+          "topicality": 0.039521474
+        },
+        {
+          "description": "Ice",
+          "mid": "/m/03vtj",
+          "score": 0.93977314,
+          "topicality": 0.45083413
+        },
+        {
+          "description": "Iceberg",
+          "mid": "/m/012mqx",
+          "score": 0.9238334,
+          "topicality": 0.93241775
+        },
+        {
+          "description": "Sea ice",
+          "mid": "/m/01ycvc",
+          "score": 0.92244303,
+          "topicality": 0.038848627
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.919837,
+          "topicality": 0.0028974041
+        },
+        {
+          "description": "Ice cap",
+          "mid": "/m/04b966",
+          "score": 0.902273,
+          "topicality": 0.015730627
+        },
+        {
+          "description": "Melting",
+          "mid": "/m/055_l",
+          "score": 0.8813825
+        },
+        {
+          "description": "Glacier",
+          "mid": "/m/038jz",
+          "score": 0.84277606,
+          "topicality": 0.027078219
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.82036465,
+          "topicality": 0.08196807
+        },
+        {
+          "description": "Polar ice cap",
+          "mid": "/m/048nfp",
+          "score": 0.77286345,
+          "topicality": 0.010147686
+        }
+      ]
+    }
+  ]
+}

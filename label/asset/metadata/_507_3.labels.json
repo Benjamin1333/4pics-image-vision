@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.9882585,
+          "topicality": 0.01812702
+        },
+        {
+          "description": "Water",
+          "mid": "/m/0838f",
+          "score": 0.98549575,
+          "topicality": 0.11534717
+        },
+        {
+          "description": "Body of water",
+          "mid": "/m/03ktm1",
+          "score": 0.9789206,
+          "topicality": 0.0048052645
+        },
+        {
+          "description": "Wave",
+          "mid": "/m/02p0sll",
+          "score": 0.9775215,
+          "topicality": 0.76240593
+        },
+        {
+          "description": "Wind wave",
+          "mid": "/m/034srq",
+          "score": 0.95636433,
+          "topicality": 0.7472448
+        },
+        {
+          "description": "Fluid",
+          "mid": "/m/02yfx",
+          "score": 0.9559745,
+          "topicality": 0.0043408913
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.95003563,
+          "topicality": 0.4011758
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.9214239,
+          "topicality": 0.0008883947
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.90616,
+          "topicality": 0.4183974
+        },
+        {
+          "description": "Wind",
+          "mid": "/m/03m9d0z",
+          "score": 0.8262758,
+          "topicality": 0.05911023
+        }
+      ]
+    }
+  ]
+}

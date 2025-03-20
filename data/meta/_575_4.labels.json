@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.96784776,
+          "topicality": 0.02147522
+        },
+        {
+          "description": "Money",
+          "mid": "/m/04_x4",
+          "score": 0.95166904,
+          "topicality": 0.5502176
+        },
+        {
+          "description": "Currency",
+          "mid": "/m/01q7l",
+          "score": 0.94462943,
+          "topicality": 0.14125274
+        },
+        {
+          "description": "Cash",
+          "mid": "/m/0fd6q",
+          "score": 0.9425544,
+          "topicality": 0.28787777
+        },
+        {
+          "description": "Banknote",
+          "mid": "/m/01dl3j",
+          "score": 0.92076737,
+          "topicality": 0.1922502
+        },
+        {
+          "description": "Dollar",
+          "mid": "/m/0285v",
+          "score": 0.9129625,
+          "topicality": 0.5459826
+        },
+        {
+          "description": "Money Handling",
+          "mid": "/m/0h8n2s1",
+          "score": 0.83323956,
+          "topicality": 0.010171715
+        }
+      ]
+    }
+  ]
+}

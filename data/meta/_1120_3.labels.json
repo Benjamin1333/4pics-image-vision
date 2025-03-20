@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Camera",
+          "mid": "/m/0dv5r",
+          "score": 0.98130065,
+          "topicality": 0.7960138
+        },
+        {
+          "description": "Cameras & optics",
+          "mid": "/m/0ggjh_8",
+          "score": 0.9730049,
+          "topicality": 0.00061037677
+        },
+        {
+          "description": "Camera lens",
+          "mid": "/m/01bjxx",
+          "score": 0.94699436,
+          "topicality": 0.029386977
+        },
+        {
+          "description": "Reflex camera",
+          "mid": "/m/0118ms9c",
+          "score": 0.9347696,
+          "topicality": 0.08993344
+        },
+        {
+          "description": "Lens",
+          "mid": "/m/04n4x",
+          "score": 0.8954663,
+          "topicality": 0.0050875708
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.7938501,
+          "topicality": 0.008824326
+        },
+        {
+          "description": "Strap",
+          "mid": "/m/04lzmz",
+          "score": 0.78255737,
+          "topicality": 0.005596953
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.7290785,
+          "topicality": 0.00015462204
+        },
+        {
+          "description": "Antique",
+          "mid": "/m/01ys2s",
+          "score": 0.69644487,
+          "topicality": 0.044342004
+        },
+        {
+          "description": "Single-lens reflex camera",
+          "mid": "/m/07bjf",
+          "score": 0.6705893,
+          "topicality": 0.090678565
+        }
+      ]
+    }
+  ]
+}

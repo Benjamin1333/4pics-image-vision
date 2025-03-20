@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.7187281,
+          "topicality": 0.01868966
+        },
+        {
+          "description": "Hammer",
+          "mid": "/m/03l9g",
+          "score": 0.5037878,
+          "topicality": 0.023466716
+        }
+      ]
+    }
+  ]
+}

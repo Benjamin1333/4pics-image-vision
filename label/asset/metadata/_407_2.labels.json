@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Glass",
+          "mid": "/m/039jq",
+          "score": 0.90590006,
+          "topicality": 0.06790198
+        },
+        {
+          "description": "Laboratory equipment",
+          "mid": "/m/03_5sv",
+          "score": 0.88290924,
+          "topicality": 0.0037972867
+        },
+        {
+          "description": "Scientist",
+          "mid": "/m/06q2q",
+          "score": 0.87226325,
+          "topicality": 0.057221353
+        },
+        {
+          "description": "Chemistry",
+          "mid": "/m/01lj9",
+          "score": 0.8491017,
+          "topicality": 0.27646044
+        },
+        {
+          "description": "Researcher",
+          "mid": "/m/03bx017",
+          "score": 0.82641536,
+          "topicality": 0.037264187
+        },
+        {
+          "description": "Research",
+          "mid": "/m/06cs1",
+          "score": 0.8150098,
+          "topicality": 0.040888645
+        },
+        {
+          "description": "Laboratory",
+          "mid": "/m/017clw",
+          "score": 0.7752333,
+          "topicality": 0.14017294
+        },
+        {
+          "description": "White coat",
+          "mid": "/m/07fhr3",
+          "score": 0.7226279,
+          "topicality": 0.00021261327
+        },
+        {
+          "description": "Barware",
+          "mid": "/m/0h8nvcj",
+          "score": 0.70654863,
+          "topicality": 0.00019778134
+        },
+        {
+          "description": "Research institute",
+          "mid": "/m/087krf",
+          "score": 0.69068617,
+          "topicality": 0.0017343761
+        }
+      ]
+    }
+  ]
+}

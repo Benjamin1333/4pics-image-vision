@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.9847923,
+          "topicality": 0.021734811
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94448215,
+          "topicality": 0.011242646
+        },
+        {
+          "description": "Taste",
+          "mid": "/m/0cp_p",
+          "score": 0.91607326,
+          "topicality": 0.061890587
+        },
+        {
+          "description": "Citrus",
+          "mid": "/m/0dqb5",
+          "score": 0.90577173,
+          "topicality": 0.032162458
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.87199634,
+          "topicality": 0.16495036
+        },
+        {
+          "description": "Eating",
+          "mid": "/m/01f5gx",
+          "score": 0.8597836,
+          "topicality": 0.4378432
+        },
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.8460803,
+          "topicality": 0.04540637
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.8117562,
+          "topicality": 0.077621505
+        },
+        {
+          "description": "Food craving",
+          "mid": "/m/0b76y0",
+          "score": 0.7743521,
+          "topicality": 0.015201235
+        },
+        {
+          "description": "Clementine",
+          "mid": "/m/0l7hb",
+          "score": 0.7545163,
+          "topicality": 0.0083585745
+        }
+      ]
+    }
+  ]
+}

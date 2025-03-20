@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Mannequin",
+          "mid": "/m/01gl_m",
+          "score": 0.96384835,
+          "topicality": 0.8340084
+        },
+        {
+          "description": "Fashion",
+          "mid": "/m/032tl",
+          "score": 0.96057236
+        },
+        {
+          "description": "Retail",
+          "mid": "/m/0191_7",
+          "score": 0.9267568,
+          "topicality": 0.09755468
+        },
+        {
+          "description": "Black",
+          "mid": "/m/019sc",
+          "score": 0.90982985,
+          "topicality": 0.00628855
+        },
+        {
+          "description": "Display window",
+          "mid": "/m/02phwj2",
+          "score": 0.86286426,
+          "topicality": 0.5925611
+        },
+        {
+          "description": "Boutique",
+          "mid": "/m/08790l",
+          "score": 0.84583217,
+          "topicality": 0.115302585
+        },
+        {
+          "description": "Fashion design",
+          "mid": "/m/02qqd4n",
+          "score": 0.83510536,
+          "topicality": 0.026232647
+        },
+        {
+          "description": "One-piece garment",
+          "mid": "/m/0142sg",
+          "score": 0.8171146,
+          "topicality": 0.00037560074
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.6919189,
+          "topicality": 0.013268616
+        },
+        {
+          "description": "Display case",
+          "mid": "/m/05b5b_f",
+          "score": 0.6838041,
+          "topicality": 0.0066045853
+        }
+      ]
+    }
+  ]
+}

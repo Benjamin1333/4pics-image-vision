@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Thigh",
+          "mid": "/m/01j04m",
+          "score": 0.93464667,
+          "topicality": 0.08411684
+        },
+        {
+          "description": "Knee",
+          "mid": "/m/019swr",
+          "score": 0.9266856,
+          "topicality": 0.31441677
+        },
+        {
+          "description": "Calf",
+          "mid": "/m/0715t2",
+          "score": 0.89687794,
+          "topicality": 0.019637115
+        },
+        {
+          "description": "Abdomen",
+          "mid": "/m/08y7p8",
+          "score": 0.8648654,
+          "topicality": 0.051928222
+        },
+        {
+          "description": "Muscle",
+          "mid": "/m/04_fs",
+          "score": 0.8613885,
+          "topicality": 0.07900176
+        },
+        {
+          "description": "Waist",
+          "mid": "/m/031974",
+          "score": 0.8442056,
+          "topicality": 0.008769709
+        },
+        {
+          "description": "Human back",
+          "mid": "/m/09jc2n",
+          "score": 0.7523973,
+          "topicality": 0.21815614
+        },
+        {
+          "description": "Torso",
+          "mid": "/m/031vtq",
+          "score": 0.7068529,
+          "topicality": 0.0037308077
+        },
+        {
+          "description": "Hip",
+          "mid": "/m/06_kbr",
+          "score": 0.68757254,
+          "topicality": 0.07059494
+        },
+        {
+          "description": "Flesh",
+          "mid": "/m/02p16m6",
+          "score": 0.61833125,
+          "topicality": 0.0015901758
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hat",
+          "mid": "/m/02dl1y",
+          "score": 0.97437376,
+          "topicality": 0.03528225
+        },
+        {
+          "description": "Witch hat",
+          "mid": "/m/010lq47b",
+          "score": 0.9712619,
+          "topicality": 0.31280512
+        },
+        {
+          "description": "Headgear",
+          "mid": "/m/01443y",
+          "score": 0.9463237,
+          "topicality": 0.0025554358
+        },
+        {
+          "description": "Sun hat",
+          "mid": "/m/02wbtzl",
+          "score": 0.9181002,
+          "topicality": 0.0002903382
+        },
+        {
+          "description": "Household Cleaning Supply",
+          "mid": "/m/0h8ntf7",
+          "score": 0.89209473,
+          "topicality": 0.00014124993
+        },
+        {
+          "description": "Broom",
+          "mid": "/m/0g7xf",
+          "score": 0.8907081,
+          "topicality": 0.38429266
+        },
+        {
+          "description": "Costume",
+          "mid": "/m/0250x",
+          "score": 0.8892024,
+          "topicality": 0.75930905
+        },
+        {
+          "description": "Costume Hat",
+          "mid": "/m/0hgs54_",
+          "score": 0.8329441,
+          "topicality": 0.0027677424
+        },
+        {
+          "description": "Fedora",
+          "mid": "/m/02fq_6",
+          "score": 0.7094719,
+          "topicality": 4.7091024e-05
+        },
+        {
+          "description": "Cosplay",
+          "mid": "/m/014ht3",
+          "score": 0.6385552,
+          "topicality": 0.1450511
+        }
+      ]
+    }
+  ]
+}

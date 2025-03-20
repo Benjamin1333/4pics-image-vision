@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9734816,
+          "topicality": 0.026252639
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.86745346,
+          "topicality": 0.019852366
+        },
+        {
+          "description": "Triangle",
+          "mid": "/m/07jx7",
+          "score": 0.6882443,
+          "topicality": 0.011772903
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6655807,
+          "topicality": 0.022647725
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.6616594,
+          "topicality": 0.054428715
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.6382175,
+          "topicality": 0.0062335157
+        },
+        {
+          "description": "Security",
+          "mid": "/m/0bg2p",
+          "score": 0.60158056,
+          "topicality": 0.006746735
+        },
+        {
+          "description": "Neon",
+          "mid": "/m/025s4r0",
+          "score": 0.5806916,
+          "topicality": 0.27334324
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.53662986,
+          "topicality": 0.009076359
+        }
+      ]
+    }
+  ]
+}

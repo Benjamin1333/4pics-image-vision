@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bus",
+          "mid": "/m/01bjv",
+          "score": 0.991719,
+          "topicality": 0.8876022
+        },
+        {
+          "description": "Land vehicle",
+          "mid": "/m/01prls",
+          "score": 0.9908212,
+          "topicality": 0.0131526105
+        },
+        {
+          "description": "Vehicle",
+          "mid": "/m/07yv9",
+          "score": 0.98788977,
+          "topicality": 0.084450595
+        },
+        {
+          "description": "Mode of transport",
+          "mid": "/m/079bkr",
+          "score": 0.9861728,
+          "topicality": 0.03790955
+        },
+        {
+          "description": "Transport",
+          "mid": "/m/07bsy",
+          "score": 0.9816187,
+          "topicality": 0.32015926
+        },
+        {
+          "description": "Motor vehicle",
+          "mid": "/m/012f08",
+          "score": 0.97608566,
+          "topicality": 0.0037822116
+        },
+        {
+          "description": "Tire",
+          "mid": "/m/0h9mv",
+          "score": 0.9729008,
+          "topicality": 0.0021827999
+        },
+        {
+          "description": "Wheel",
+          "mid": "/m/083wq",
+          "score": 0.9700749,
+          "topicality": 0.013088295
+        },
+        {
+          "description": "Automotive Exterior",
+          "mid": "/m/0h8ls87",
+          "score": 0.9479818,
+          "topicality": 0.0002787138
+        },
+        {
+          "description": "Tour bus service",
+          "mid": "/m/02w11w8",
+          "score": 0.9452658,
+          "topicality": 0.7289521
+        }
+      ]
+    }
+  ]
+}

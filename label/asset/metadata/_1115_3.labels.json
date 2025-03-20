@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Kitchen Appliance",
+          "mid": "/m/0h99cwc",
+          "score": 0.9833568,
+          "topicality": 0.0057498836
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.9781125,
+          "topicality": 0.08467752
+        },
+        {
+          "description": "Cookware and bakeware",
+          "mid": "/m/01mr6j",
+          "score": 0.97414184,
+          "topicality": 0.07631941
+        },
+        {
+          "description": "Kitchen",
+          "mid": "/m/0d4wf",
+          "score": 0.94838214,
+          "topicality": 0.21286888
+        },
+        {
+          "description": "Cooking",
+          "mid": "/m/01mtb",
+          "score": 0.9387165,
+          "topicality": 0.42410067
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9333127,
+          "topicality": 0.024377866
+        },
+        {
+          "description": "Tableware",
+          "mid": "/m/04brg2",
+          "score": 0.9235648,
+          "topicality": 0.0020896865
+        },
+        {
+          "description": "Home appliance",
+          "mid": "/m/019dx1",
+          "score": 0.88548076,
+          "topicality": 0.011663772
+        },
+        {
+          "description": "Kitchen utensil",
+          "mid": "/m/03hlz0c",
+          "score": 0.88000107,
+          "topicality": 0.035058465
+        },
+        {
+          "description": "Recipe",
+          "mid": "/m/0p57p",
+          "score": 0.84212726,
+          "topicality": 0.24993375
+        }
+      ]
+    }
+  ]
+}

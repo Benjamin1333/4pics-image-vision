@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.9792274,
+          "topicality": 0.16533959
+        },
+        {
+          "description": "Citrus",
+          "mid": "/m/0dqb5",
+          "score": 0.9747454,
+          "topicality": 0.34659293
+        },
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.97129726,
+          "topicality": 0.14065248
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.9653479,
+          "topicality": 0.091056384
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.957704,
+          "topicality": 0.0069349334
+        },
+        {
+          "description": "Lemon peel",
+          "mid": "/m/05n1hk8",
+          "score": 0.95427483,
+          "topicality": 0.056426276
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9372507,
+          "topicality": 0.0086402735
+        },
+        {
+          "description": "Lemon",
+          "mid": "/m/09k_b",
+          "score": 0.9313501,
+          "topicality": 0.8576107
+        },
+        {
+          "description": "Meyer lemon",
+          "mid": "/m/04klfb",
+          "score": 0.9301019,
+          "topicality": 0.03397902
+        },
+        {
+          "description": "Sweet lemon",
+          "mid": "/m/020cvm",
+          "score": 0.90559655,
+          "topicality": 0.035876427
+        }
+      ]
+    }
+  ]
+}

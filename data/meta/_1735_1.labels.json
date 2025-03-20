@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Razor",
+          "mid": "/m/02g901",
+          "score": 0.98261255,
+          "topicality": 0.348094
+        },
+        {
+          "description": "Facial hair",
+          "mid": "/m/0ds5b",
+          "score": 0.9632322,
+          "topicality": 0.056683913
+        },
+        {
+          "description": "Hair removal",
+          "mid": "/m/0149qc",
+          "score": 0.9590732,
+          "topicality": 0.16726007
+        },
+        {
+          "description": "Jaw",
+          "mid": "/m/01k9lj",
+          "score": 0.95853424,
+          "topicality": 0.008392768
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.9345791,
+          "topicality": 0.10688547
+        },
+        {
+          "description": "Personal care",
+          "mid": "/m/02w3_ws",
+          "score": 0.8926267,
+          "topicality": 0.008767566
+        },
+        {
+          "description": "Beard",
+          "mid": "/m/015h_t",
+          "score": 0.87457997,
+          "topicality": 0.18646419
+        },
+        {
+          "description": "Personal grooming",
+          "mid": "/m/02m1vq",
+          "score": 0.86516994,
+          "topicality": 0.12774986
+        },
+        {
+          "description": "Shaving",
+          "mid": "/m/0149w3",
+          "score": 0.8360028,
+          "topicality": 0.88981766
+        },
+        {
+          "description": "Brush",
+          "mid": "/m/02chd9",
+          "score": 0.81378907,
+          "topicality": 0.025082368
+        }
+      ]
+    }
+  ]
+}

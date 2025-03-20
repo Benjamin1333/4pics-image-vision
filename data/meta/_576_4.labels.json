@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.9205159,
+          "topicality": 0.006296194
+        },
+        {
+          "description": "Bow and arrow",
+          "mid": "/m/01g3x7",
+          "score": 0.8985142,
+          "topicality": 0.48156807
+        },
+        {
+          "description": "bow",
+          "mid": "/m/07pnzh3",
+          "score": 0.8856408,
+          "topicality": 0.03620276
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.8697987,
+          "topicality": 0.055854004
+        },
+        {
+          "description": "Play",
+          "mid": "/m/06wtgq",
+          "score": 0.8184579,
+          "topicality": 0.00012516243
+        },
+        {
+          "description": "Archery",
+          "mid": "/m/0w0d",
+          "score": 0.81257576,
+          "topicality": 0.18570544
+        },
+        {
+          "description": "Slingshot",
+          "mid": "/m/0715p",
+          "score": 0.7910228,
+          "topicality": 0.91896486
+        },
+        {
+          "description": "Field archery",
+          "mid": "/m/0275rnb",
+          "score": 0.71164227,
+          "topicality": 0.004760122
+        },
+        {
+          "description": "Arrow",
+          "mid": "/m/0dl83",
+          "score": 0.6969281,
+          "topicality": 0.35044914
+        },
+        {
+          "description": "Sling",
+          "mid": "/m/070lv",
+          "score": 0.69275934,
+          "topicality": 0.44246328
+        }
+      ]
+    }
+  ]
+}

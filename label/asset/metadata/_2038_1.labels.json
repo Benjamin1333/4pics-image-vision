@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.88314015,
+          "topicality": 0.00084969646
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8460136,
+          "topicality": 0.06790856
+        },
+        {
+          "description": "Display device",
+          "mid": "/m/029zz6",
+          "score": 0.6536702,
+          "topicality": 0.0009364211
+        },
+        {
+          "description": "Office Equipment",
+          "mid": "/m/03qtgjk",
+          "score": 0.6379888,
+          "topicality": 0.00024441406
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.52399296,
+          "topicality": 0.0031255719
+        }
+      ]
+    }
+  ]
+}

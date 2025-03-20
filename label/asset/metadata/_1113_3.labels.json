@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.9615049,
+          "topicality": 0.04788317
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.92162013,
+          "topicality": 0.01131788
+        },
+        {
+          "description": "Health Care",
+          "mid": "/m/01mw2x",
+          "score": 0.91274834,
+          "topicality": 0.008358041
+        },
+        {
+          "description": "Bandage",
+          "mid": "/m/01p2q5",
+          "score": 0.88101286,
+          "topicality": 0.71908087
+        },
+        {
+          "description": "Wrist",
+          "mid": "/m/01j48b",
+          "score": 0.8748612,
+          "topicality": 0.052724674
+        },
+        {
+          "description": "Toe",
+          "mid": "/m/01d_ff",
+          "score": 0.86559534,
+          "topicality": 0.077090524
+        },
+        {
+          "description": "Medical",
+          "mid": "/m/02xht4g",
+          "score": 0.8593497,
+          "topicality": 6.715671e-05
+        },
+        {
+          "description": "Thumb",
+          "mid": "/m/01bmhj",
+          "score": 0.83617795,
+          "topicality": 0.016118843
+        },
+        {
+          "description": "Foot",
+          "mid": "/m/031n1",
+          "score": 0.8163022,
+          "topicality": 0.41934448
+        },
+        {
+          "description": "First aid",
+          "mid": "/m/0305b",
+          "score": 0.80137265,
+          "topicality": 0.04165838
+        }
+      ]
+    }
+  ]
+}

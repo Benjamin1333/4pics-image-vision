@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.9851093,
+          "topicality": 0.00058609253
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8938833,
+          "topicality": 0.0045091202
+        },
+        {
+          "description": "Electronics",
+          "mid": "/m/02mrp",
+          "score": 0.87562203,
+          "topicality": 0.01623498
+        },
+        {
+          "description": "Optical disc drive",
+          "mid": "/m/01rqtz",
+          "score": 0.8684646,
+          "topicality": 0.66753435
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.8169027,
+          "topicality": 0.00066475914
+        },
+        {
+          "description": "Home appliance",
+          "mid": "/m/019dx1",
+          "score": 0.8001372,
+          "topicality": 0.0050439797
+        },
+        {
+          "description": "DVD recorder",
+          "mid": "/m/04h1hs",
+          "score": 0.77843297,
+          "topicality": 0.37695363
+        },
+        {
+          "description": "Loudspeaker",
+          "mid": "/m/0cfpc",
+          "score": 0.7717852,
+          "topicality": 0.0042705066
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.7560289,
+          "topicality": 0.0016173208
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.7415495,
+          "topicality": 0.0063571082
+        }
+      ]
+    }
+  ]
+}

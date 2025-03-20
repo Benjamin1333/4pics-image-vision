@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Mountainous landforms",
+          "mid": "/g/11jxkqbpp",
+          "score": 0.98534065,
+          "topicality": 0.007494487
+        },
+        {
+          "description": "Mountain",
+          "mid": "/m/09d_r",
+          "score": 0.984651,
+          "topicality": 0.43375745
+        },
+        {
+          "description": "Green",
+          "mid": "/m/038hg",
+          "score": 0.981848,
+          "topicality": 0.02009326
+        },
+        {
+          "description": "Nature",
+          "mid": "/m/05h0n",
+          "score": 0.97649723,
+          "topicality": 0.1630245
+        },
+        {
+          "description": "Natural environment",
+          "mid": "/m/02py09",
+          "score": 0.9753411,
+          "topicality": 0.010465873
+        },
+        {
+          "description": "Flower",
+          "mid": "/m/0c9ph5",
+          "score": 0.9722843,
+          "topicality": 0.08984076
+        },
+        {
+          "description": "Plants",
+          "mid": "/m/05s2s",
+          "score": 0.9688231,
+          "topicality": 0.023639217
+        },
+        {
+          "description": "Natural landscape",
+          "mid": "/m/03d28y3",
+          "score": 0.96676594,
+          "topicality": 0.05176749
+        },
+        {
+          "description": "Mountain range",
+          "mid": "/m/04wxr",
+          "score": 0.96023655,
+          "topicality": 0.16025478
+        },
+        {
+          "description": "Hill",
+          "mid": "/m/04_5sg",
+          "score": 0.9551933,
+          "topicality": 0.015448932
+        }
+      ]
+    }
+  ]
+}

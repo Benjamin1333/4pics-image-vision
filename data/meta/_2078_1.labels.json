@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Household Thermometer",
+          "mid": "/m/0h8m790",
+          "score": 0.5808803,
+          "topicality": 0.0008117882
+        },
+        {
+          "description": "Measuring instrument",
+          "mid": "/m/056hv",
+          "score": 0.5606919,
+          "topicality": 0.0014709192
+        },
+        {
+          "description": "Sun",
+          "mid": "/m/06m_p",
+          "score": 0.52962404,
+          "topicality": 0.4655257
+        }
+      ]
+    }
+  ]
+}

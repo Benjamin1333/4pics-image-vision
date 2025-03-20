@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Summer",
+          "mid": "/m/078qz",
+          "score": 0.9390279,
+          "topicality": 0.015842244
+        },
+        {
+          "description": "Facial hair",
+          "mid": "/m/0ds5b",
+          "score": 0.8964582,
+          "topicality": 0.008543169
+        },
+        {
+          "description": "Beard",
+          "mid": "/m/015h_t",
+          "score": 0.88682425,
+          "topicality": 0.022455364
+        },
+        {
+          "description": "Sitting",
+          "mid": "/m/015c4z",
+          "score": 0.86681634,
+          "topicality": 0.12520017
+        },
+        {
+          "description": "Muscle",
+          "mid": "/m/04_fs",
+          "score": 0.862008,
+          "topicality": 0.007752436
+        },
+        {
+          "description": "People in nature",
+          "mid": "/j/3gbwgn",
+          "score": 0.83645,
+          "topicality": 0.0005528098
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.77011514,
+          "topicality": 0.0038694171
+        },
+        {
+          "description": "Torso",
+          "mid": "/m/031vtq",
+          "score": 0.7218634,
+          "topicality": 0.010979157
+        },
+        {
+          "description": "Photo shoot",
+          "mid": "/m/02qbl1m",
+          "score": 0.621429,
+          "topicality": 0.025223078
+        },
+        {
+          "description": "Park",
+          "mid": "/m/0166ls",
+          "score": 0.5813153,
+          "topicality": 0.0036659895
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Eyebrow",
+          "mid": "/m/027n3_",
+          "score": 0.98586714,
+          "topicality": 0.0464275
+        },
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.9847959,
+          "topicality": 0.015416812
+        },
+        {
+          "description": "Skin",
+          "mid": "/m/06z04",
+          "score": 0.98157805,
+          "topicality": 0.39249277
+        },
+        {
+          "description": "Forehead",
+          "mid": "/m/025kyy",
+          "score": 0.981228,
+          "topicality": 0.049427953
+        },
+        {
+          "description": "Eyelash",
+          "mid": "/m/03f52z",
+          "score": 0.976998,
+          "topicality": 0.051344078
+        },
+        {
+          "description": "Neck",
+          "mid": "/m/0dzd8",
+          "score": 0.9565793,
+          "topicality": 0.040070556
+        },
+        {
+          "description": "Massage",
+          "mid": "/m/0b_nd",
+          "score": 0.9026661,
+          "topicality": 0.45434672
+        },
+        {
+          "description": "Spa",
+          "mid": "/m/05jh_c",
+          "score": 0.8755665,
+          "topicality": 0.17964497
+        },
+        {
+          "description": "Close-up",
+          "mid": "/m/02cqfm",
+          "score": 0.8528467,
+          "topicality": 0.0077768434
+        },
+        {
+          "description": "Therapy",
+          "mid": "/m/03c1dkx",
+          "score": 0.8143498,
+          "topicality": 0.31414723
+        }
+      ]
+    }
+  ]
+}

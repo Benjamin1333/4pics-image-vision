@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.9074933,
+          "topicality": 0.00042837838
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.85623217,
+          "topicality": 0.0010293452
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.81027085,
+          "topicality": 0.014631323
+        },
+        {
+          "description": "Printer",
+          "mid": "/m/01m4t",
+          "score": 0.7824847,
+          "topicality": 0.55755955
+        },
+        {
+          "description": "Office Equipment",
+          "mid": "/m/03qtgjk",
+          "score": 0.7591286,
+          "topicality": 8.2701634e-05
+        },
+        {
+          "description": "Laser printing",
+          "mid": "/m/0dd37",
+          "score": 0.71436965,
+          "topicality": 0.026883285
+        },
+        {
+          "description": "Electronics",
+          "mid": "/m/02mrp",
+          "score": 0.66220313,
+          "topicality": 0.009221635
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.6335923,
+          "topicality": 0.024219427
+        },
+        {
+          "description": "Printer Tray",
+          "mid": "/m/0hgrc_y",
+          "score": 0.5963358,
+          "topicality": 0.002295009
+        },
+        {
+          "description": "Inkjet printing",
+          "mid": "/m/0dd6m",
+          "score": 0.58212054,
+          "topicality": 0.25969836
+        }
+      ]
+    }
+  ]
+}

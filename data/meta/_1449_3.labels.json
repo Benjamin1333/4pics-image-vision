@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Cork",
+          "mid": "/m/0k1ps",
+          "score": 0.9727923,
+          "topicality": 0.9834504
+        },
+        {
+          "description": "Cylinder",
+          "mid": "/m/03h_4m",
+          "score": 0.7076665,
+          "topicality": 0.03643635
+        },
+        {
+          "description": "Bottle Stopper & Saver",
+          "mid": "/m/0h8n9by",
+          "score": 0.5448405,
+          "topicality": 0.0016188743
+        }
+      ]
+    }
+  ]
+}

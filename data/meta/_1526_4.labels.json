@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.98224366,
+          "topicality": 0.00044486576
+        },
+        {
+          "description": "Display device",
+          "mid": "/m/029zz6",
+          "score": 0.956235,
+          "topicality": 0.03514523
+        },
+        {
+          "description": "Computer",
+          "mid": "/m/01m3v",
+          "score": 0.89000285,
+          "topicality": 0.36388442
+        },
+        {
+          "description": "Flat-panel display",
+          "mid": "/m/01qwsw",
+          "score": 0.8765916,
+          "topicality": 0.15202026
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8644177,
+          "topicality": 0.012149892
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.84714603,
+          "topicality": 0.0031206515
+        },
+        {
+          "description": "Personal computer",
+          "mid": "/m/0643t",
+          "score": 0.8123165,
+          "topicality": 0.03967023
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.7726222,
+          "topicality": 0.019736614
+        },
+        {
+          "description": "Computer monitor",
+          "mid": "/m/02522",
+          "score": 0.694579,
+          "topicality": 0.1661385
+        },
+        {
+          "description": "Output device",
+          "mid": "/m/044_87",
+          "score": 0.68914473,
+          "topicality": 0.0010003363
+        }
+      ]
+    }
+  ]
+}

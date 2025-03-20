@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hair",
+          "mid": "/m/03q69",
+          "score": 0.9910028,
+          "topicality": 0.031472933
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.98727775,
+          "topicality": 0.048913073
+        },
+        {
+          "description": "Eyebrow",
+          "mid": "/m/027n3_",
+          "score": 0.9853253,
+          "topicality": 0.01974234
+        },
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.9847889,
+          "topicality": 0.004448035
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9812778,
+          "topicality": 0.020965843
+        },
+        {
+          "description": "Beauty",
+          "mid": "/m/01f43",
+          "score": 0.9586405,
+          "topicality": 0.052125487
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94494975,
+          "topicality": 0.007641139
+        },
+        {
+          "description": "Eyelash",
+          "mid": "/m/03f52z",
+          "score": 0.9389775,
+          "topicality": 0.016157608
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.92880327,
+          "topicality": 0.032539718
+        },
+        {
+          "description": "Portrait photography",
+          "mid": "/m/0chml9",
+          "score": 0.8088108,
+          "topicality": 0.022656959
+        }
+      ]
+    }
+  ]
+}

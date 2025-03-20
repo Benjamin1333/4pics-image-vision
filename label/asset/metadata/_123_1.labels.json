@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "bow",
+          "mid": "/m/07pnzh3",
+          "score": 0.9823689,
+          "topicality": 0.328124
+        },
+        {
+          "description": "Bow and arrow",
+          "mid": "/m/01g3x7",
+          "score": 0.9785336,
+          "topicality": 0.77284944
+        },
+        {
+          "description": "Archery",
+          "mid": "/m/0w0d",
+          "score": 0.9784502,
+          "topicality": 0.7932155
+        },
+        {
+          "description": "Longbow",
+          "mid": "/m/07jtk1",
+          "score": 0.9537102,
+          "topicality": 0.3189115
+        },
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.9340681,
+          "topicality": 0.003227785
+        },
+        {
+          "description": "Individual sport",
+          "mid": "/m/08t0vy",
+          "score": 0.9337945,
+          "topicality": 0.0013837296
+        },
+        {
+          "description": "Arrow",
+          "mid": "/m/0dl83",
+          "score": 0.92227453,
+          "topicality": 0.6410424
+        },
+        {
+          "description": "Shooting",
+          "mid": "/m/071rm",
+          "score": 0.90608853,
+          "topicality": 0.2844211
+        },
+        {
+          "description": "Elbow",
+          "mid": "/m/01vm1p",
+          "score": 0.8842227,
+          "topicality": 0.0005220246
+        },
+        {
+          "description": "Field archery",
+          "mid": "/m/0275rnb",
+          "score": 0.87446547,
+          "topicality": 0.019035064
+        }
+      ]
+    }
+  ]
+}

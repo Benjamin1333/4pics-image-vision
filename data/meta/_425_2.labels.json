@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Entertainment",
+          "mid": "/m/02jjt",
+          "score": 0.9303247,
+          "topicality": 0.026061729
+        },
+        {
+          "description": "Chordophone",
+          "mid": "/m/011_f4",
+          "score": 0.91735405,
+          "topicality": 0.00048564066
+        },
+        {
+          "description": "Performing Arts",
+          "mid": "/m/05qjc",
+          "score": 0.9077255,
+          "topicality": 0.036149938
+        },
+        {
+          "description": "Performance",
+          "mid": "/m/01gq53",
+          "score": 0.7807171,
+          "topicality": 0.029556302
+        },
+        {
+          "description": "Violin family",
+          "mid": "/m/08wxk8",
+          "score": 0.73151726,
+          "topicality": 0.006824021
+        },
+        {
+          "description": "Musical instrument",
+          "mid": "/m/04szw",
+          "score": 0.6901553,
+          "topicality": 0.060822096
+        },
+        {
+          "description": "String instrument",
+          "mid": "/m/0d8lm",
+          "score": 0.67031074,
+          "topicality": 0.023259088
+        },
+        {
+          "description": "Circus",
+          "mid": "/m/014mnd",
+          "score": 0.58345103,
+          "topicality": 0.46053368
+        },
+        {
+          "description": "Bowed string instrument",
+          "mid": "/m/0l14_3",
+          "score": 0.5253083,
+          "topicality": 0.0043918947
+        },
+        {
+          "description": "Plucked string instrument",
+          "mid": "/m/0fx80y",
+          "score": 0.5099008,
+          "topicality": 0.0026656834
+        }
+      ]
+    }
+  ]
+}

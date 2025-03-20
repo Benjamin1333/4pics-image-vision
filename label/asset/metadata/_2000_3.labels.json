@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Personal care",
+          "mid": "/m/02w3_ws",
+          "score": 0.880045,
+          "topicality": 0.014888917
+        },
+        {
+          "description": "Medical equipment",
+          "mid": "/m/01xgg_",
+          "score": 0.6806445,
+          "topicality": 0.0006729597
+        },
+        {
+          "description": "Medical",
+          "mid": "/m/02xht4g",
+          "score": 0.65691364,
+          "topicality": 0.00045552003
+        },
+        {
+          "description": "Tool",
+          "mid": "/m/07k1x",
+          "score": 0.6241952,
+          "topicality": 0.008001258
+        },
+        {
+          "description": "Health Care",
+          "mid": "/m/01mw2x",
+          "score": 0.6001019,
+          "topicality": 0.02529778
+        },
+        {
+          "description": "Toilet paper",
+          "mid": "/m/09gtd",
+          "score": 0.5384572,
+          "topicality": 0.025899151
+        },
+        {
+          "description": "Paper towel",
+          "mid": "/m/02w3r3",
+          "score": 0.53264636,
+          "topicality": 0.010578213
+        }
+      ]
+    }
+  ]
+}

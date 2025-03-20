@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Comfort",
+          "mid": "/m/08xgn7",
+          "score": 0.9066344,
+          "topicality": 0.03525627
+        },
+        {
+          "description": "Sleep",
+          "mid": "/m/06xzh",
+          "score": 0.9017165,
+          "topicality": 0.6456765
+        },
+        {
+          "description": "Nap",
+          "mid": "/m/05c1ypb",
+          "score": 0.86807305,
+          "topicality": 0.5282467
+        },
+        {
+          "description": "Couch",
+          "mid": "/m/02crq1",
+          "score": 0.6222289,
+          "topicality": 0.03511262
+        },
+        {
+          "description": "Living room",
+          "mid": "/m/03f6tq",
+          "score": 0.59315705,
+          "topicality": 0.002399567
+        },
+        {
+          "description": "Lap",
+          "mid": "/m/09fwz6",
+          "score": 0.56728095,
+          "topicality": 0.059248738
+        },
+        {
+          "description": "Pillow",
+          "mid": "/m/034c16",
+          "score": 0.52773917,
+          "topicality": 0.11744504
+        }
+      ]
+    }
+  ]
+}

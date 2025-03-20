@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Measuring instrument",
+          "mid": "/m/056hv",
+          "score": 0.90385145,
+          "topicality": 0.078818634
+        },
+        {
+          "description": "Gauge",
+          "mid": "/m/05kc0j",
+          "score": 0.890567,
+          "topicality": 0.05730558
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.81047285,
+          "topicality": 0.003647298
+        },
+        {
+          "description": "Number",
+          "mid": "/m/05fwb",
+          "score": 0.79139405,
+          "topicality": 0.003074234
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.7125961,
+          "topicality": 4.3801938e-05
+        },
+        {
+          "description": "Clock",
+          "mid": "/m/01x3z",
+          "score": 0.66924727,
+          "topicality": 0.11451348
+        },
+        {
+          "description": "Still life photography",
+          "mid": "/m/027_ny3",
+          "score": 0.6153317,
+          "topicality": 4.112998e-05
+        },
+        {
+          "description": "Weighing scale",
+          "mid": "/m/03txqz",
+          "score": 0.5431266,
+          "topicality": 0.0032715532
+        }
+      ]
+    }
+  ]
+}

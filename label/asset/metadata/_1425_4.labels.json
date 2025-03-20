@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.75823754,
+          "topicality": 0.0061963685
+        },
+        {
+          "description": "Shadow",
+          "mid": "/m/01ft8k",
+          "score": 0.63498557,
+          "topicality": 0.08620714
+        },
+        {
+          "description": "Fear",
+          "mid": "/m/02xrl",
+          "score": 0.50259733,
+          "topicality": 0.536283
+        }
+      ]
+    }
+  ]
+}

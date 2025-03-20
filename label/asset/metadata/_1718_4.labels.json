@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.903997,
+          "topicality": 0.17557569
+        },
+        {
+          "description": "Adhesive bandage",
+          "mid": "/m/02hsqq",
+          "score": 0.62227523,
+          "topicality": 0.10410412
+        },
+        {
+          "description": "Slipper",
+          "mid": "/m/0216vm",
+          "score": 0.54513836,
+          "topicality": 0.10612634
+        },
+        {
+          "description": "Leather",
+          "mid": "/m/04lbp",
+          "score": 0.51972175,
+          "topicality": 0.007572839
+        }
+      ]
+    }
+  ]
+}

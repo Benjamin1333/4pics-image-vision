@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Clothes iron",
+          "mid": "/m/04jphh9",
+          "score": 0.8043799,
+          "topicality": 0.92693084
+        },
+        {
+          "description": "Monochrome",
+          "mid": "/m/01mwkf",
+          "score": 0.7709599,
+          "topicality": 0.0013645253
+        },
+        {
+          "description": "Still life photography",
+          "mid": "/m/027_ny3",
+          "score": 0.5748685,
+          "topicality": 0.007562905
+        }
+      ]
+    }
+  ]
+}

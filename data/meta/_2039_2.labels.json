@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.9889386,
+          "topicality": 0.26164103
+        },
+        {
+          "description": "Sleeve",
+          "mid": "/m/062581",
+          "score": 0.98611987,
+          "topicality": 0.13745405
+        },
+        {
+          "description": "Active Shirt",
+          "mid": "/m/0hgnxbq",
+          "score": 0.9224775,
+          "topicality": 0.16152117
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.59780496,
+          "topicality": 0.005755889
+        }
+      ]
+    }
+  ]
+}

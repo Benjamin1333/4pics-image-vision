@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.94986457,
+          "topicality": 0.0029925227
+        },
+        {
+          "description": "Java coffee",
+          "mid": "/m/046ry",
+          "score": 0.93579435,
+          "topicality": 0.020414555
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.90165883,
+          "topicality": 0.03586656
+        },
+        {
+          "description": "Jamaican Blue Mountain Coffee",
+          "mid": "/m/07kzj3",
+          "score": 0.8868168,
+          "topicality": 0.036175974
+        },
+        {
+          "description": "Kona coffee",
+          "mid": "/m/067b2y",
+          "score": 0.8694551,
+          "topicality": 0.010836515
+        },
+        {
+          "description": "Bean",
+          "mid": "/m/01fp9",
+          "score": 0.8501617,
+          "topicality": 0.543697
+        },
+        {
+          "description": "Coffee",
+          "mid": "/m/02vqfm",
+          "score": 0.8256393,
+          "topicality": 0.7834957
+        },
+        {
+          "description": "Kapeng barako",
+          "mid": "/m/0gdt_0",
+          "score": 0.8122494,
+          "topicality": 0.010589309
+        },
+        {
+          "description": "Cocoa bean",
+          "mid": "/m/0f5f8",
+          "score": 0.79180706,
+          "topicality": 0.016161634
+        },
+        {
+          "description": "Instant coffee",
+          "mid": "/m/01fk1g",
+          "score": 0.75918996,
+          "topicality": 0.056606114
+        }
+      ]
+    }
+  ]
+}

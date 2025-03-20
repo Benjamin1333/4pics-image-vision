@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Umbrella",
+          "mid": "/m/0hnnb",
+          "score": 0.97426957,
+          "topicality": 0.07204464
+        },
+        {
+          "description": "Precipitation",
+          "mid": "/m/01q18m",
+          "score": 0.77906215,
+          "topicality": 0.12933154
+        },
+        {
+          "description": "Rain",
+          "mid": "/m/06mb1",
+          "score": 0.7341777,
+          "topicality": 0.61345446
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.603344,
+          "topicality": 0.0036100496
+        }
+      ]
+    }
+  ]
+}

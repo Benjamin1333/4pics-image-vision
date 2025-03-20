@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.9883638,
+          "topicality": 0.123347916
+        },
+        {
+          "description": "Fluid",
+          "mid": "/m/02yfx",
+          "score": 0.95586836,
+          "topicality": 0.07367898
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.92155105,
+          "topicality": 0.2089628
+        },
+        {
+          "description": "Drop",
+          "mid": "/m/0b7z1",
+          "score": 0.80864775,
+          "topicality": 0.3707349
+        },
+        {
+          "description": "Bubble",
+          "mid": "/m/0g91zf",
+          "score": 0.78036183,
+          "topicality": 0.65715903
+        },
+        {
+          "description": "Drinking water",
+          "mid": "/m/01c6xf",
+          "score": 0.7333326,
+          "topicality": 0.17217898
+        },
+        {
+          "description": "Mineral water",
+          "mid": "/m/02267z",
+          "score": 0.67372024,
+          "topicality": 0.023982119
+        }
+      ]
+    }
+  ]
+}

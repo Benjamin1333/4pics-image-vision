@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.9162807,
+          "topicality": 0.03497675
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.75761414,
+          "topicality": 0.0012302797
+        },
+        {
+          "description": "Household hardware",
+          "mid": "/m/03jvk",
+          "score": 0.6050057,
+          "topicality": 0.00018703149
+        },
+        {
+          "description": "Plumbing fixture",
+          "mid": "/m/02pkr5",
+          "score": 0.5671126,
+          "topicality": 0.018743936
+        },
+        {
+          "description": "Drop",
+          "mid": "/m/0b7z1",
+          "score": 0.5651053,
+          "topicality": 0.017939853
+        },
+        {
+          "description": "Nickel",
+          "mid": "/m/025s4r7",
+          "score": 0.541062,
+          "topicality": 0.0036070086
+        },
+        {
+          "description": "Tap",
+          "mid": "/m/02jz0l",
+          "score": 0.5147429,
+          "topicality": 0.05975971
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Weights",
+          "mid": "/m/0hzsv",
+          "score": 0.9835933,
+          "topicality": 0.027314754
+        },
+        {
+          "description": "Barbell",
+          "mid": "/m/03_163",
+          "score": 0.97572845,
+          "topicality": 0.71780777
+        },
+        {
+          "description": "Dumbbell",
+          "mid": "/m/04h8sr",
+          "score": 0.91908294,
+          "topicality": 0.8776192
+        },
+        {
+          "description": "Free Weight Bar",
+          "mid": "/m/0h8m4bf",
+          "score": 0.8968471,
+          "topicality": 0.029586585
+        },
+        {
+          "description": "Exercise equipment",
+          "mid": "/m/090ljv",
+          "score": 0.78397936,
+          "topicality": 0.071850635
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.64301264,
+          "topicality": 0.019975504
+        }
+      ]
+    }
+  ]
+}

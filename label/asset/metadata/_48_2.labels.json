@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.95106727,
+          "topicality": 0.0028152831
+        },
+        {
+          "description": "Entertainment",
+          "mid": "/m/02jjt",
+          "score": 0.93632555,
+          "topicality": 0.0013498435
+        },
+        {
+          "description": "Performing Arts",
+          "mid": "/m/05qjc",
+          "score": 0.88001204,
+          "topicality": 0.0025525698
+        },
+        {
+          "description": "Costume design",
+          "mid": "/m/04s5jq",
+          "score": 0.809825,
+          "topicality": 0.012827243
+        },
+        {
+          "description": "Dance",
+          "mid": "/m/026bk",
+          "score": 0.73866594,
+          "topicality": 0.36893088
+        },
+        {
+          "description": "Victorian fashion",
+          "mid": "/m/0133pl",
+          "score": 0.7046886,
+          "topicality": 0.017479032
+        },
+        {
+          "description": "Ballroom dance",
+          "mid": "/m/01514",
+          "score": 0.619074,
+          "topicality": 0.1848412
+        },
+        {
+          "description": "One-piece garment",
+          "mid": "/m/0142sg",
+          "score": 0.58281326,
+          "topicality": 1.43138695e-05
+        },
+        {
+          "description": "Gown",
+          "mid": "/m/0bp_2p",
+          "score": 0.57481825,
+          "topicality": 0.0066590123
+        },
+        {
+          "description": "Overskirt",
+          "mid": "/m/0j64pd2",
+          "score": 0.53929275,
+          "topicality": 0.00010921265
+        }
+      ]
+    }
+  ]
+}

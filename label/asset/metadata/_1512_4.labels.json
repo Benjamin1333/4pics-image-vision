@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.99161404,
+          "topicality": 0.14043102
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.96678996,
+          "topicality": 0.012430993
+        },
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.9468657,
+          "topicality": 0.022893233
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.94324416,
+          "topicality": 0.0006154994
+        },
+        {
+          "description": "Pizza",
+          "mid": "/m/0663v",
+          "score": 0.9411903,
+          "topicality": 0.77964056
+        },
+        {
+          "description": "Fast food",
+          "mid": "/m/01_bhs",
+          "score": 0.84936416,
+          "topicality": 0.00519659
+        },
+        {
+          "description": "Recipe",
+          "mid": "/m/0p57p",
+          "score": 0.8405711,
+          "topicality": 0.1775408
+        },
+        {
+          "description": "Finger food",
+          "mid": "/m/0b3dyl",
+          "score": 0.8146132,
+          "topicality": 0.013180692
+        },
+        {
+          "description": "Pizza cheese",
+          "mid": "/m/068_x",
+          "score": 0.7973446,
+          "topicality": 0.021580245
+        },
+        {
+          "description": "Baking",
+          "mid": "/m/0dv34",
+          "score": 0.72135586,
+          "topicality": 0.043841757
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Egg",
+          "mid": "/m/02g387",
+          "score": 0.98517126,
+          "topicality": 0.79107046
+        },
+        {
+          "description": "Egg",
+          "mid": "/m/033cnk",
+          "score": 0.975472,
+          "topicality": 0.88578117
+        },
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9687635,
+          "topicality": 0.078083344
+        },
+        {
+          "description": "Bird",
+          "mid": "/m/015p6",
+          "score": 0.89096415,
+          "topicality": 0.091124445
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.8570457,
+          "topicality": 8.011038e-05
+        },
+        {
+          "description": "Beak",
+          "mid": "/m/01c4rd",
+          "score": 0.83574283,
+          "topicality": 0.0049940455
+        },
+        {
+          "description": "Chicken",
+          "mid": "/m/09b5t",
+          "score": 0.80863076,
+          "topicality": 0.6236083
+        },
+        {
+          "description": "Landfowl",
+          "mid": "/m/01295w",
+          "score": 0.7256982,
+          "topicality": 0.012028352
+        },
+        {
+          "description": "Poultry",
+          "mid": "/m/05s0c",
+          "score": 0.71880734,
+          "topicality": 0.36116818
+        },
+        {
+          "description": "Fowl",
+          "mid": "/m/025rv6n",
+          "score": 0.69297165,
+          "topicality": 0.025199592
+        }
+      ]
+    }
+  ]
+}

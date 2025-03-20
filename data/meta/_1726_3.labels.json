@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.9729555,
+          "topicality": 0.0038272191
+        },
+        {
+          "description": "Input device",
+          "mid": "/m/02dwgb",
+          "score": 0.95281196,
+          "topicality": 0.12970243
+        },
+        {
+          "description": "Office Equipment",
+          "mid": "/m/03qtgjk",
+          "score": 0.94751304,
+          "topicality": 0.003426202
+        },
+        {
+          "description": "Peripheral",
+          "mid": "/m/0ggnq",
+          "score": 0.9345298,
+          "topicality": 0.14002213
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.90767413,
+          "topicality": 0.010329715
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.87435955,
+          "topicality": 0.01929257
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.87115633,
+          "topicality": 0.018023204
+        },
+        {
+          "description": "Computer mouse",
+          "mid": "/m/020lf",
+          "score": 0.8638884,
+          "topicality": 0.73322105
+        },
+        {
+          "description": "Computer hardware",
+          "mid": "/m/01mfj",
+          "score": 0.7635107,
+          "topicality": 0.007855291
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.7143875,
+          "topicality": 0.0009928946
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Triangle",
+          "mid": "/m/07jx7",
+          "score": 0.5422637,
+          "topicality": 0.0069049606
+        }
+      ]
+    }
+  ]
+}

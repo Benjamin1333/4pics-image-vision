@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.91300315,
+          "topicality": 0.00030866358
+        },
+        {
+          "description": "Paper",
+          "mid": "/m/0641k",
+          "score": 0.8932948,
+          "topicality": 0.055357363
+        },
+        {
+          "description": "Deer",
+          "mid": "/m/09kx5",
+          "score": 0.8133376,
+          "topicality": 0.009072769
+        },
+        {
+          "description": "Gift wrapping",
+          "mid": "/m/03gt__t",
+          "score": 0.7761815,
+          "topicality": 0.16798326
+        },
+        {
+          "description": "Creative arts",
+          "mid": "/m/0dw9f6",
+          "score": 0.704994,
+          "topicality": 1.4878781e-05
+        },
+        {
+          "description": "Box",
+          "mid": "/m/025dyy",
+          "score": 0.630535,
+          "topicality": 0.039748684
+        },
+        {
+          "description": "Reindeer",
+          "mid": "/m/0126gc",
+          "score": 0.6276456,
+          "topicality": 0.075580545
+        },
+        {
+          "description": "Calendar",
+          "mid": "/m/01mzw",
+          "score": 0.5968478,
+          "topicality": 0.056969408
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.5957185,
+          "topicality": 0.0039050241
+        },
+        {
+          "description": "Gift",
+          "mid": "/m/0d84n",
+          "score": 0.59451675,
+          "topicality": 0.078561105
+        }
+      ]
+    }
+  ]
+}

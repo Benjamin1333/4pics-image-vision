@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.97430426,
+          "topicality": 0.06479022
+        },
+        {
+          "description": "Baby & Toddler Clothing",
+          "mid": "/m/0h8q07j",
+          "score": 0.9520142,
+          "topicality": 5.184689e-05
+        },
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.9187103,
+          "topicality": 0.19635452
+        },
+        {
+          "description": "Sock",
+          "mid": "/m/01nq26",
+          "score": 0.89234024,
+          "topicality": 0.92127013
+        }
+      ]
+    }
+  ]
+}

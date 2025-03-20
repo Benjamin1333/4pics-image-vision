@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Butterfly",
+          "mid": "/m/0cyf8",
+          "score": 0.99373984,
+          "topicality": 0.7438181
+        },
+        {
+          "description": "Insect",
+          "mid": "/m/03vt0",
+          "score": 0.9897848,
+          "topicality": 0.14991505
+        },
+        {
+          "description": "Pollinator",
+          "mid": "/m/0ql23",
+          "score": 0.988309,
+          "topicality": 0.05544093
+        },
+        {
+          "description": "Arthropod",
+          "mid": "/m/0zkm",
+          "score": 0.97886676,
+          "topicality": 0.00855341
+        },
+        {
+          "description": "Flower",
+          "mid": "/m/0c9ph5",
+          "score": 0.97212577,
+          "topicality": 0.2015007
+        },
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.96903,
+          "topicality": 0.010114403
+        },
+        {
+          "description": "Monarch butterfly",
+          "mid": "/m/01knvc",
+          "score": 0.9660743,
+          "topicality": 0.94314915
+        },
+        {
+          "description": "Wing",
+          "mid": "/m/083s2",
+          "score": 0.94859487,
+          "topicality": 0.0076126815
+        },
+        {
+          "description": "Lepidoptera",
+          "mid": "/m/0d_2m",
+          "score": 0.9359037,
+          "topicality": 0.2734603
+        },
+        {
+          "description": "Viceroy",
+          "mid": "/m/04w3zd",
+          "score": 0.8939836,
+          "topicality": 0.07561048
+        }
+      ]
+    }
+  ]
+}

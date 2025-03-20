@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Gambling",
+          "mid": "/m/034dj",
+          "score": 0.94005567,
+          "topicality": 0.6923297
+        },
+        {
+          "description": "Poker",
+          "mid": "/m/05r1j",
+          "score": 0.9098543,
+          "topicality": 0.7967433
+        },
+        {
+          "description": "Game",
+          "mid": "/m/03bt1gh",
+          "score": 0.9015729,
+          "topicality": 0.29544804
+        },
+        {
+          "description": "Poker table",
+          "mid": "/m/02qsn9g",
+          "score": 0.87726396,
+          "topicality": 0.23984605
+        },
+        {
+          "description": "Poker Set",
+          "mid": "/m/0hgry_b",
+          "score": 0.86645204,
+          "topicality": 0.0026003872
+        },
+        {
+          "description": "Casino",
+          "mid": "/m/01lq3",
+          "score": 0.84729147,
+          "topicality": 0.6211686
+        },
+        {
+          "description": "Card game",
+          "mid": "/m/01mtt",
+          "score": 0.66717786,
+          "topicality": 0.124820426
+        },
+        {
+          "description": "Indoor games and sports",
+          "mid": "/m/0b42l9",
+          "score": 0.62295634,
+          "topicality": 0.0009918181
+        }
+      ]
+    }
+  ]
+}

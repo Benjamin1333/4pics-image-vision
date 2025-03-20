@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94474983,
+          "topicality": 0.0010054939
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.9355851,
+          "topicality": 0.07348093
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9262922,
+          "topicality": 0.014415731
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.9037334,
+          "topicality": 0.051024724
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.90053385,
+          "topicality": 0.06337271
+        },
+        {
+          "description": "Personal care",
+          "mid": "/m/02w3_ws",
+          "score": 0.88757694,
+          "topicality": 0.012572521
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.80420834,
+          "topicality": 0.0018498424
+        },
+        {
+          "description": "Vacation",
+          "mid": "/m/02jwqh",
+          "score": 0.7686631,
+          "topicality": 0.020323731
+        },
+        {
+          "description": "Sunscreen",
+          "mid": "/m/01r0j5",
+          "score": 0.72476494,
+          "topicality": 0.8642397
+        },
+        {
+          "description": "Skin Care",
+          "mid": "/m/0h8nrxj",
+          "score": 0.71341056,
+          "topicality": 0.001039215
+        }
+      ]
+    }
+  ]
+}

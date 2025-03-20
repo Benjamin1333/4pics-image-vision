@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.60450995,
+          "topicality": 0.014749367
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.5672709,
+          "topicality": 0.0035894301
+        },
+        {
+          "description": "Night",
+          "mid": "/m/01d74z",
+          "score": 0.5482652,
+          "topicality": 0.0037658573
+        },
+        {
+          "description": "Rainbow",
+          "mid": "/m/0b48hv",
+          "score": 0.54148364,
+          "topicality": 0.29413104
+        },
+        {
+          "description": "Triangle",
+          "mid": "/m/07jx7",
+          "score": 0.5363819,
+          "topicality": 0.037311845
+        },
+        {
+          "description": "Prism",
+          "mid": "/m/01prc1",
+          "score": 0.5179359,
+          "topicality": 0.89080656
+        }
+      ]
+    }
+  ]
+}

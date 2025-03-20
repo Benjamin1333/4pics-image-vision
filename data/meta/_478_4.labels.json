@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9651269,
+          "topicality": 0.030987665
+        },
+        {
+          "description": "Monochrome",
+          "mid": "/m/01mwkf",
+          "score": 0.7955145,
+          "topicality": 0.22247833
+        }
+      ]
+    }
+  ]
+}

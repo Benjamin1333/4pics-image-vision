@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Golf equipment",
+          "mid": "/m/02w7b0t",
+          "score": 0.98843694,
+          "topicality": 0.15764907
+        },
+        {
+          "description": "Grass",
+          "mid": "/m/08t9c_",
+          "score": 0.9789635,
+          "topicality": 0.02729088
+        },
+        {
+          "description": "Ball game",
+          "mid": "/m/020m7t",
+          "score": 0.96749747,
+          "topicality": 0.01100729
+        },
+        {
+          "description": "Golf",
+          "mid": "/m/037hz",
+          "score": 0.96231174,
+          "topicality": 0.8717949
+        },
+        {
+          "description": "Individual sport",
+          "mid": "/m/08t0vy",
+          "score": 0.9551087,
+          "topicality": 0.00062458595
+        },
+        {
+          "description": "Ball",
+          "mid": "/m/018xm",
+          "score": 0.9401143,
+          "topicality": 0.7255309
+        },
+        {
+          "description": "Stick and Ball Sports",
+          "mid": "/m/06ft48n",
+          "score": 0.93844604,
+          "topicality": 0.00022845351
+        },
+        {
+          "description": "Sports equipment",
+          "mid": "/m/05y5lj",
+          "score": 0.9374243,
+          "topicality": 0.021984778
+        },
+        {
+          "description": "Golf ball",
+          "mid": "/m/044r5d",
+          "score": 0.92048657,
+          "topicality": 0.86862546
+        },
+        {
+          "description": "Golf club",
+          "mid": "/m/03gzqq",
+          "score": 0.9096147,
+          "topicality": 0.19433047
+        }
+      ]
+    }
+  ]
+}

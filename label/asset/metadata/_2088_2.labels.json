@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Horse",
+          "mid": "/m/03k3r",
+          "score": 0.9676332,
+          "topicality": 0.3662908
+        },
+        {
+          "description": "Working animal",
+          "mid": "/m/07_gml",
+          "score": 0.9434353,
+          "topicality": 0.0022677283
+        },
+        {
+          "description": "Carriage",
+          "mid": "/m/01hffk",
+          "score": 0.933124,
+          "topicality": 0.27904573
+        },
+        {
+          "description": "Horse and buggy",
+          "mid": "/m/02j091",
+          "score": 0.92696035,
+          "topicality": 0.18959105
+        },
+        {
+          "description": "Cart",
+          "mid": "/m/018p4k",
+          "score": 0.9167696,
+          "topicality": 0.12109755
+        },
+        {
+          "description": "Horse tack",
+          "mid": "/m/03pgm",
+          "score": 0.8814887,
+          "topicality": 0.00076450425
+        },
+        {
+          "description": "Wagon",
+          "mid": "/m/0242gd",
+          "score": 0.87663406,
+          "topicality": 0.25318265
+        },
+        {
+          "description": "Horse Supplies",
+          "mid": "/m/0h8m5n6",
+          "score": 0.8708482,
+          "topicality": 0.00025196947
+        },
+        {
+          "description": "Pack animal",
+          "mid": "/m/0464z4",
+          "score": 0.85588735,
+          "topicality": 0.00056354975
+        },
+        {
+          "description": "Field",
+          "mid": "/m/0brn2d",
+          "score": 0.8311016,
+          "topicality": 0.016883006
+        }
+      ]
+    }
+  ]
+}

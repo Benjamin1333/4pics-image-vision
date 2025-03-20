@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Green",
+          "mid": "/m/038hg",
+          "score": 0.98269105,
+          "topicality": 0.023776937
+        },
+        {
+          "description": "Natural environment",
+          "mid": "/m/02py09",
+          "score": 0.97694033,
+          "topicality": 0.013320483
+        },
+        {
+          "description": "Grass",
+          "mid": "/m/08t9c_",
+          "score": 0.97595483,
+          "topicality": 0.19071239
+        },
+        {
+          "description": "Grassland",
+          "mid": "/m/01c7cq",
+          "score": 0.97476417,
+          "topicality": 0.13651852
+        },
+        {
+          "description": "Field",
+          "mid": "/m/0brn2d",
+          "score": 0.94984555,
+          "topicality": 0.30286527
+        },
+        {
+          "description": "Plain",
+          "mid": "/m/05sm1",
+          "score": 0.9469123,
+          "topicality": 0.035053123
+        },
+        {
+          "description": "Ecoregion",
+          "mid": "/m/0cblv",
+          "score": 0.9369567,
+          "topicality": 0.0010860257
+        },
+        {
+          "description": "Pasture",
+          "mid": "/m/01gd91",
+          "score": 0.93151754,
+          "topicality": 0.27991265
+        },
+        {
+          "description": "Summer",
+          "mid": "/m/078qz",
+          "score": 0.93132645,
+          "topicality": 0.034633115
+        },
+        {
+          "description": "Land lot",
+          "mid": "/m/0gs32y",
+          "score": 0.92285705,
+          "topicality": 0.060987033
+        }
+      ]
+    }
+  ]
+}

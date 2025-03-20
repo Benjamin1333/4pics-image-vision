@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9778756,
+          "topicality": 0.028006395
+        },
+        {
+          "description": "Highway",
+          "mid": "/m/0cz_0",
+          "score": 0.89879113,
+          "topicality": 0.3605407
+        },
+        {
+          "description": "Controlled-access highway",
+          "mid": "/m/0335j",
+          "score": 0.8740415,
+          "topicality": 0.28162894
+        },
+        {
+          "description": "Night",
+          "mid": "/m/01d74z",
+          "score": 0.7845676,
+          "topicality": 0.10544957
+        },
+        {
+          "description": "Midnight",
+          "mid": "/m/01kv7h",
+          "score": 0.65653694,
+          "topicality": 0.01087369
+        },
+        {
+          "description": "Neon",
+          "mid": "/m/025s4r0",
+          "score": 0.562161,
+          "topicality": 0.083770595
+        }
+      ]
+    }
+  ]
+}

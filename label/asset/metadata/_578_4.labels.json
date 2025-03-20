@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9775861,
+          "topicality": 0.29688504
+        },
+        {
+          "description": "Bottle cap",
+          "mid": "/m/02b389",
+          "score": 0.52624565,
+          "topicality": 0.020687573
+        }
+      ]
+    }
+  ]
+}

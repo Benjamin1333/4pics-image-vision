@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Car",
+          "mid": "/m/0k4j",
+          "score": 0.94596773,
+          "topicality": 0.033759203
+        },
+        {
+          "description": "Driving",
+          "mid": "/m/0kw6d",
+          "score": 0.9336538,
+          "topicality": 0.6027959
+        },
+        {
+          "description": "Car door",
+          "mid": "/m/02q2kc3",
+          "score": 0.88330877,
+          "topicality": 0.0006156021
+        },
+        {
+          "description": "Steering wheel",
+          "mid": "/m/03b6_4",
+          "score": 0.85047877,
+          "topicality": 0.0069393395
+        },
+        {
+          "description": "Key",
+          "mid": "/m/03v3yw",
+          "score": 0.8440166,
+          "topicality": 0.0013126674
+        },
+        {
+          "description": "Windshield",
+          "mid": "/m/01lrnl",
+          "score": 0.8369575,
+          "topicality": 0.000639504
+        },
+        {
+          "description": "Automotive Mirror",
+          "mid": "/m/0h8lk4b",
+          "score": 0.79196906,
+          "topicality": 2.2265387e-05
+        },
+        {
+          "description": "Family car",
+          "mid": "/m/088l6h",
+          "score": 0.7314374,
+          "topicality": 0.0010718697
+        },
+        {
+          "description": "Road trip",
+          "mid": "/m/0cnfpz",
+          "score": 0.72521424,
+          "topicality": 0.001638635
+        },
+        {
+          "description": "Rear-view mirror",
+          "mid": "/m/05j11x",
+          "score": 0.68334734,
+          "topicality": 0.0002857813
+        }
+      ]
+    }
+  ]
+}

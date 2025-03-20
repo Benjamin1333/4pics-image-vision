@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.78606087,
+          "topicality": 0.0025413227
+        },
+        {
+          "description": "Chute",
+          "mid": "/m/035j27",
+          "score": 0.7801371,
+          "topicality": 0.0041905986
+        },
+        {
+          "description": "List of nonbuilding structure types",
+          "mid": "/m/0df8xq",
+          "score": 0.77525425,
+          "topicality": 0.00011493856
+        },
+        {
+          "description": "Amusement ride",
+          "mid": "/m/017rnr",
+          "score": 0.6493125,
+          "topicality": 0.07961288
+        },
+        {
+          "description": "Amusement park",
+          "mid": "/m/010jjr",
+          "score": 0.6307753,
+          "topicality": 0.12798813
+        }
+      ]
+    }
+  ]
+}

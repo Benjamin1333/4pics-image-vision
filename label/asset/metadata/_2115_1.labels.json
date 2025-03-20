@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Goats",
+          "mid": "/m/04cmwn",
+          "score": 0.98364097,
+          "topicality": 0.5337101
+        },
+        {
+          "description": "Goat",
+          "mid": "/m/03fwl",
+          "score": 0.97246206,
+          "topicality": 0.87769204
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.87230045,
+          "topicality": 0.006352289
+        },
+        {
+          "description": "Terrestrial animal",
+          "mid": "/m/0fbf1m",
+          "score": 0.8509972,
+          "topicality": 0.0027671282
+        },
+        {
+          "description": "Livestock",
+          "mid": "/m/0ch8v",
+          "score": 0.8087463,
+          "topicality": 0.25528786
+        },
+        {
+          "description": "Caprinae",
+          "mid": "/m/01jvw5",
+          "score": 0.8078075,
+          "topicality": 0.17016843
+        },
+        {
+          "description": "Horn",
+          "mid": "/m/04lmyz",
+          "score": 0.76780504,
+          "topicality": 0.09041603
+        },
+        {
+          "description": "Pasture",
+          "mid": "/m/01gd91",
+          "score": 0.7452188,
+          "topicality": 0.045624156
+        },
+        {
+          "description": "Fur",
+          "mid": "/m/0cnmr",
+          "score": 0.72884464,
+          "topicality": 0.00019619404
+        },
+        {
+          "description": "Wildlife",
+          "mid": "/m/01280g",
+          "score": 0.7036095,
+          "topicality": 0.0021906076
+        }
+      ]
+    }
+  ]
+}

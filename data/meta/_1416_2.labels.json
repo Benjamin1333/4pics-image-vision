@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Ruins",
+          "mid": "/m/03d1rd",
+          "score": 0.909335,
+          "topicality": 0.20101675
+        },
+        {
+          "description": "Human settlement",
+          "mid": "/m/0fpdgl",
+          "score": 0.885376,
+          "topicality": 0.0077165244
+        },
+        {
+          "description": "Village",
+          "mid": "/m/0f0q9",
+          "score": 0.682971,
+          "topicality": 0.093465894
+        },
+        {
+          "description": "Ancient history",
+          "mid": "/m/0djmp",
+          "score": 0.67984533,
+          "topicality": 0.09681864
+        },
+        {
+          "description": "Jungle",
+          "mid": "/m/01y3fy",
+          "score": 0.6732727,
+          "topicality": 0.016370514
+        },
+        {
+          "description": "Archaeological site",
+          "mid": "/m/012ww9",
+          "score": 0.6664209,
+          "topicality": 0.24927436
+        },
+        {
+          "description": "Stone wall",
+          "mid": "/m/0bysjw",
+          "score": 0.6108462,
+          "topicality": 3.8634418e-05
+        },
+        {
+          "description": "Maya city",
+          "mid": "/m/0gg4z0q",
+          "score": 0.5175911,
+          "topicality": 0.004578482
+        }
+      ]
+    }
+  ]
+}

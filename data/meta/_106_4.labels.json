@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Land vehicle",
+          "mid": "/m/01prls",
+          "score": 0.98915744,
+          "topicality": 0.0011779707
+        },
+        {
+          "description": "Vehicle",
+          "mid": "/m/07yv9",
+          "score": 0.9843102,
+          "topicality": 0.021887634
+        },
+        {
+          "description": "Tire",
+          "mid": "/m/0h9mv",
+          "score": 0.97856796,
+          "topicality": 0.0107876435
+        },
+        {
+          "description": "Car",
+          "mid": "/m/0k4j",
+          "score": 0.97774166,
+          "topicality": 0.109303094
+        },
+        {
+          "description": "Wheel",
+          "mid": "/m/083wq",
+          "score": 0.9734925,
+          "topicality": 0.036890287
+        },
+        {
+          "description": "Automotive Tire",
+          "mid": "/m/0h8pb3l",
+          "score": 0.9567271,
+          "topicality": 0.00014468432
+        },
+        {
+          "description": "Supercar",
+          "mid": "/m/014f__",
+          "score": 0.95527995,
+          "topicality": 0.20119484
+        },
+        {
+          "description": "Automotive Wheel System",
+          "mid": "/m/0h8ly30",
+          "score": 0.9538498,
+          "topicality": 0.00047191084
+        },
+        {
+          "description": "Automotive Exterior",
+          "mid": "/m/0h8ls87",
+          "score": 0.95133924,
+          "topicality": 1.2382894e-05
+        },
+        {
+          "description": "Automotive lighting",
+          "mid": "/m/0768fx",
+          "score": 0.91614103,
+          "topicality": 7.0090973e-06
+        }
+      ]
+    }
+  ]
+}

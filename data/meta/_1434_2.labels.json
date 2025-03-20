@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Fictional character",
+          "mid": "/m/02h7lkt",
+          "score": 0.95137686,
+          "topicality": 0.010305856
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94492644,
+          "topicality": 0.0012925955
+        },
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.9409039,
+          "topicality": 0.28504595
+        },
+        {
+          "description": "Cartoon",
+          "mid": "/m/0215n",
+          "score": 0.93017334,
+          "topicality": 0.2207943
+        },
+        {
+          "description": "Animation",
+          "mid": "/m/0hcr",
+          "score": 0.8945227,
+          "topicality": 0.09011795
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.8767542,
+          "topicality": 0.007692246
+        },
+        {
+          "description": "Animated cartoon",
+          "mid": "/m/095bb",
+          "score": 0.8701266,
+          "topicality": 0.063613996
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.86262846,
+          "topicality": 0.0007797456
+        },
+        {
+          "description": "Action figure",
+          "mid": "/m/017h86",
+          "score": 0.82837135,
+          "topicality": 0.30221817
+        },
+        {
+          "description": "Thumb",
+          "mid": "/m/01bmhj",
+          "score": 0.8158477,
+          "topicality": 0.008484002
+        }
+      ]
+    }
+  ]
+}

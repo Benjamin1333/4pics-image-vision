@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Physical fitness",
+          "mid": "/m/027x7n",
+          "score": 0.9810675,
+          "topicality": 0.5206027
+        },
+        {
+          "description": "Exercise",
+          "mid": "/m/019w6h",
+          "score": 0.9767995,
+          "topicality": 0.52944976
+        },
+        {
+          "description": "Sportswear",
+          "mid": "/m/025xryy",
+          "score": 0.91675067,
+          "topicality": 0.008937289
+        },
+        {
+          "description": "Thigh",
+          "mid": "/m/01j04m",
+          "score": 0.89396435,
+          "topicality": 0.011633292
+        },
+        {
+          "description": "Muscle",
+          "mid": "/m/04_fs",
+          "score": 0.85054505,
+          "topicality": 0.011142961
+        },
+        {
+          "description": "Abdomen",
+          "mid": "/m/08y7p8",
+          "score": 0.822602,
+          "topicality": 0.027646026
+        },
+        {
+          "description": "Professional fitness coach",
+          "mid": "/m/0bxzbs3",
+          "score": 0.80801255,
+          "topicality": 0.10624834
+        },
+        {
+          "description": "Active Pants",
+          "mid": "/m/0hgn_pr",
+          "score": 0.80296946,
+          "topicality": 3.9468472e-05
+        },
+        {
+          "description": "Aerobics",
+          "mid": "/m/016676",
+          "score": 0.7940233,
+          "topicality": 0.4866444
+        },
+        {
+          "description": "Thorax",
+          "mid": "/m/0dzdr",
+          "score": 0.7919835,
+          "topicality": 0.0014680058
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hair",
+          "mid": "/m/03q69",
+          "score": 0.99071497,
+          "topicality": 0.0040001282
+        },
+        {
+          "description": "Audio equipment",
+          "mid": "/m/01yttv",
+          "score": 0.9815295,
+          "topicality": 0.003574175
+        },
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.98147094,
+          "topicality": 0.0042871223
+        },
+        {
+          "description": "Shoulder",
+          "mid": "/m/01ssh5",
+          "score": 0.9707599,
+          "topicality": 0.00022286575
+        },
+        {
+          "description": "Microphone",
+          "mid": "/m/0hg7b",
+          "score": 0.9501581,
+          "topicality": 0.13222153
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.9412048,
+          "topicality": 0.0022386988
+        },
+        {
+          "description": "Spokesperson",
+          "mid": "/m/01xr66",
+          "score": 0.939931,
+          "topicality": 0.04657048
+        },
+        {
+          "description": "Speech",
+          "mid": "/m/09x0r",
+          "score": 0.91450864,
+          "topicality": 0.12710766
+        },
+        {
+          "description": "Public address system",
+          "mid": "/m/02jf2p",
+          "score": 0.8882989,
+          "topicality": 0.004756665
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.87425876,
+          "topicality": 0.0054413406
+        }
+      ]
+    }
+  ]
+}

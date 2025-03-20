@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sleeve",
+          "mid": "/m/062581",
+          "score": 0.9850735,
+          "topicality": 0.0010062314
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.98189056,
+          "topicality": 0.109807655
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.98019296,
+          "topicality": 0.23119913
+        },
+        {
+          "description": "Hand",
+          "mid": "/m/0k65p",
+          "score": 0.97244376,
+          "topicality": 0.22355232
+        },
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.9666417,
+          "topicality": 0.2842567
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9449494,
+          "topicality": 0.047366705
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.92917526,
+          "topicality": 0.472721
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.9176074,
+          "topicality": 0.02413317
+        },
+        {
+          "description": "Elbow",
+          "mid": "/m/01vm1p",
+          "score": 0.892479,
+          "topicality": 0.013703507
+        },
+        {
+          "description": "Wrist",
+          "mid": "/m/01j48b",
+          "score": 0.8650045,
+          "topicality": 0.0077088317
+        }
+      ]
+    }
+  ]
+}

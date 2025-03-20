@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Alcoholic drink",
+          "mid": "/m/012mj",
+          "score": 0.95567816,
+          "topicality": 0.26349616
+        },
+        {
+          "description": "Drinkware",
+          "mid": "/m/050h26",
+          "score": 0.9474765,
+          "topicality": 0.0003631344
+        },
+        {
+          "description": "Stemware",
+          "mid": "/m/050h0q",
+          "score": 0.9398413,
+          "topicality": 0.0026834277
+        },
+        {
+          "description": "Drinking",
+          "mid": "/m/0hjbz",
+          "score": 0.9312237,
+          "topicality": 0.30323198
+        },
+        {
+          "description": "Tableware",
+          "mid": "/m/04brg2",
+          "score": 0.9276018,
+          "topicality": 0.0016993987
+        },
+        {
+          "description": "Taste",
+          "mid": "/m/0cp_p",
+          "score": 0.91743785,
+          "topicality": 0.015173215
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.9161134,
+          "topicality": 0.0025549904
+        },
+        {
+          "description": "Liquor",
+          "mid": "/m/04shl0",
+          "score": 0.9030749,
+          "topicality": 0.027992293
+        },
+        {
+          "description": "Glass",
+          "mid": "/m/039jq",
+          "score": 0.8545287,
+          "topicality": 0.1069451
+        },
+        {
+          "description": "Wine glass",
+          "mid": "/m/09tvcd",
+          "score": 0.84802204,
+          "topicality": 0.06204596
+        }
+      ]
+    }
+  ]
+}

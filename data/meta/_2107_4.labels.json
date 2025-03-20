@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Wall",
+          "mid": "/m/09qqq",
+          "score": 0.9787941,
+          "topicality": 0.0011759015
+        },
+        {
+          "description": "Temple",
+          "mid": "/m/08g_yr",
+          "score": 0.95415086,
+          "topicality": 0.0011286513
+        },
+        {
+          "description": "Ancient history",
+          "mid": "/m/0djmp",
+          "score": 0.88979393,
+          "topicality": 0.02080649
+        },
+        {
+          "description": "Stone wall",
+          "mid": "/m/0bysjw",
+          "score": 0.87872726,
+          "topicality": 0.00010671302
+        },
+        {
+          "description": "History",
+          "mid": "/m/03g3w",
+          "score": 0.87239176,
+          "topicality": 0.013397737
+        },
+        {
+          "description": "Travel",
+          "mid": "/m/014dsx",
+          "score": 0.7661276,
+          "topicality": 0.005609403
+        },
+        {
+          "description": "Ruins",
+          "mid": "/m/03d1rd",
+          "score": 0.76315725,
+          "topicality": 0.0017699553
+        },
+        {
+          "description": "Historic site",
+          "mid": "/m/07yr8h",
+          "score": 0.7540803,
+          "topicality": 0.0025014265
+        },
+        {
+          "description": "Vacation",
+          "mid": "/m/02jwqh",
+          "score": 0.6764133,
+          "topicality": 0.00027996476
+        },
+        {
+          "description": "Archaeological site",
+          "mid": "/m/012ww9",
+          "score": 0.6499668,
+          "topicality": 0.0040576337
+        }
+      ]
+    }
+  ]
+}

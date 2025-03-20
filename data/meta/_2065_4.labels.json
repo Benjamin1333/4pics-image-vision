@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.99130857,
+          "topicality": 0.06743277
+        },
+        {
+          "description": "Bread",
+          "mid": "/m/09728",
+          "score": 0.9518446,
+          "topicality": 0.43869236
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.93560684,
+          "topicality": 0.010192968
+        },
+        {
+          "description": "Bun",
+          "mid": "/m/0119x1zy",
+          "score": 0.9140287,
+          "topicality": 0.1752777
+        },
+        {
+          "description": "Malasada",
+          "mid": "/m/0g44q5",
+          "score": 0.7985581,
+          "topicality": 0.02188577
+        },
+        {
+          "description": "Dessert",
+          "mid": "/m/0270h",
+          "score": 0.76705796,
+          "topicality": 0.041356362
+        },
+        {
+          "description": "Staple food",
+          "mid": "/m/022tld",
+          "score": 0.7555638,
+          "topicality": 0.0013097404
+        },
+        {
+          "description": "Gluten",
+          "mid": "/m/03fw2",
+          "score": 0.7481211,
+          "topicality": 0.011311133
+        },
+        {
+          "description": "Anpan",
+          "mid": "/m/02g1xf",
+          "score": 0.7446377,
+          "topicality": 0.15617327
+        },
+        {
+          "description": "Finger food",
+          "mid": "/m/0b3dyl",
+          "score": 0.7433917,
+          "topicality": 5.3263488e-05
+        }
+      ]
+    }
+  ]
+}

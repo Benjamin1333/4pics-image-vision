@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.6497039,
+          "topicality": 0.029779324
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.5919627,
+          "topicality": 0.023117438
+        },
+        {
+          "description": "Diagram",
+          "mid": "/m/02v0m2",
+          "score": 0.5739199,
+          "topicality": 0.00965884
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.5078458,
+          "topicality": 0.12912107
+        },
+        {
+          "description": "Management",
+          "mid": "/m/04_tv",
+          "score": 0.50669926,
+          "topicality": 0.19186649
+        }
+      ]
+    }
+  ]
+}

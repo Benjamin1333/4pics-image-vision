@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.9627915,
+          "topicality": 0.2104576
+        },
+        {
+          "description": "Furniture",
+          "mid": "/m/0c_jw",
+          "score": 0.9479962,
+          "topicality": 0.02903256
+        },
+        {
+          "description": "Sitting",
+          "mid": "/m/015c4z",
+          "score": 0.9394341,
+          "topicality": 0.16574374
+        },
+        {
+          "description": "Comfort",
+          "mid": "/m/08xgn7",
+          "score": 0.93027645,
+          "topicality": 0.018784791
+        },
+        {
+          "description": "Toddler",
+          "mid": "/m/01bgsw",
+          "score": 0.87539434,
+          "topicality": 0.16910419
+        },
+        {
+          "description": "Living room",
+          "mid": "/m/03f6tq",
+          "score": 0.87321126,
+          "topicality": 0.014407577
+        },
+        {
+          "description": "Lap",
+          "mid": "/m/09fwz6",
+          "score": 0.8557931,
+          "topicality": 0.03642996
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.8411491,
+          "topicality": 0.012563006
+        },
+        {
+          "description": "Couch",
+          "mid": "/m/02crq1",
+          "score": 0.8399347,
+          "topicality": 0.04780173
+        },
+        {
+          "description": "Infant",
+          "mid": "/m/0jnvp",
+          "score": 0.742397,
+          "topicality": 0.090801224
+        }
+      ]
+    }
+  ]
+}

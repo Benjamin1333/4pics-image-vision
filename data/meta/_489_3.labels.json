@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Gear",
+          "mid": "/m/0l7xg",
+          "score": 0.87067145,
+          "topicality": 0.45861483
+        },
+        {
+          "description": "Engine",
+          "mid": "/m/02mk9",
+          "score": 0.8396229,
+          "topicality": 0.34151936
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.8393293,
+          "topicality": 0.0013655968
+        },
+        {
+          "description": "Engineering",
+          "mid": "/m/02ky346",
+          "score": 0.78384686,
+          "topicality": 0.011999222
+        },
+        {
+          "description": "Differential",
+          "mid": "/m/01d7rt",
+          "score": 0.7321053,
+          "topicality": 0.10240049
+        },
+        {
+          "description": "Titanium",
+          "mid": "/m/025sk56",
+          "score": 0.7129365,
+          "topicality": 0.00060103135
+        },
+        {
+          "description": "Hub gear",
+          "mid": "/m/01cwty",
+          "score": 0.68382716,
+          "topicality": 5.013592e-05
+        },
+        {
+          "description": "Nickel",
+          "mid": "/m/025s4r7",
+          "score": 0.62792903,
+          "topicality": 0.0001919813
+        },
+        {
+          "description": "Automotive Starter Motor",
+          "mid": "/m/0h8ll06",
+          "score": 0.5124494,
+          "topicality": 0.0071113165
+        }
+      ]
+    }
+  ]
+}

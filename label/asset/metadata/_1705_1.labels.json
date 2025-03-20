@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "People",
+          "mid": "/m/09g5pq",
+          "score": 0.9942832,
+          "topicality": 0.0033207762
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.9344279,
+          "topicality": 0.012139641
+        },
+        {
+          "description": "Formal wear",
+          "mid": "/m/02w3_2",
+          "score": 0.9097084,
+          "topicality": 0.00094458536
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.9095772,
+          "topicality": 0.041639652
+        },
+        {
+          "description": "Necktie",
+          "mid": "/m/01rkbr",
+          "score": 0.88139075,
+          "topicality": 0.006395772
+        },
+        {
+          "description": "Management",
+          "mid": "/m/04_tv",
+          "score": 0.8350926,
+          "topicality": 0.21337597
+        },
+        {
+          "description": "Suit",
+          "mid": "/m/01xyhv",
+          "score": 0.8121854,
+          "topicality": 0.01260977
+        },
+        {
+          "description": "Job",
+          "mid": "/m/04115t2",
+          "score": 0.7837521,
+          "topicality": 0.075617805
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.7699021,
+          "topicality": 0.04912181
+        },
+        {
+          "description": "Official",
+          "mid": "/m/035y33",
+          "score": 0.7299898,
+          "topicality": 0.004789482
+        }
+      ]
+    }
+  ]
+}

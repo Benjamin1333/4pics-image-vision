@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Book",
+          "mid": "/m/0bt_c3",
+          "score": 0.96467954,
+          "topicality": 0.75595117
+        },
+        {
+          "description": "Publication",
+          "mid": "/m/01h1dd",
+          "score": 0.948334,
+          "topicality": 0.032309916
+        },
+        {
+          "description": "Collection",
+          "mid": "/m/08_4sd",
+          "score": 0.8400878,
+          "topicality": 0.006684754
+        },
+        {
+          "description": "Paper",
+          "mid": "/m/0641k",
+          "score": 0.8144357,
+          "topicality": 0.015011617
+        },
+        {
+          "description": "Shelf",
+          "mid": "/m/0gjbg72",
+          "score": 0.80868936,
+          "topicality": 0.008048014
+        },
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.79619306,
+          "topicality": 0.00024178013
+        },
+        {
+          "description": "Book cover",
+          "mid": "/m/09xbm8",
+          "score": 0.7487264,
+          "topicality": 0.012160633
+        },
+        {
+          "description": "Hardwood",
+          "mid": "/m/020g49",
+          "score": 0.74602103,
+          "topicality": 4.9968774e-05
+        },
+        {
+          "description": "Shelving",
+          "mid": "/m/0h8n982",
+          "score": 0.7444874,
+          "topicality": 0.00066610496
+        },
+        {
+          "description": "Varnish",
+          "mid": "/m/01ffcg",
+          "score": 0.7311521,
+          "topicality": 3.6345376e-05
+        }
+      ]
+    }
+  ]
+}

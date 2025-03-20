@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Long hair",
+          "mid": "/m/02pd__z",
+          "score": 0.9156275,
+          "topicality": 0.30893382
+        },
+        {
+          "description": "Blond",
+          "mid": "/m/0294jb",
+          "score": 0.8944789,
+          "topicality": 0.26337513
+        },
+        {
+          "description": "Wig",
+          "mid": "/m/01hzl4",
+          "score": 0.82190496,
+          "topicality": 0.058821235
+        },
+        {
+          "description": "Artificial hair integrations",
+          "mid": "/m/07fnvh",
+          "score": 0.819961,
+          "topicality": 0.22015806
+        },
+        {
+          "description": "Layered hair",
+          "mid": "/m/09spj9",
+          "score": 0.8033181,
+          "topicality": 0.10213964
+        },
+        {
+          "description": "Brown hair",
+          "mid": "/m/02ksmb",
+          "score": 0.7735006,
+          "topicality": 0.019811941
+        },
+        {
+          "description": "Lace wig",
+          "mid": "/m/09rv68q",
+          "score": 0.7575995,
+          "topicality": 0.010662332
+        },
+        {
+          "description": "Sleeveless shirt",
+          "mid": "/m/077p0h",
+          "score": 0.64874434,
+          "topicality": 0.00016041663
+        },
+        {
+          "description": "Step cutting",
+          "mid": "/m/026mhtg",
+          "score": 0.6086725,
+          "topicality": 0.014863615
+        },
+        {
+          "description": "Hair coloring",
+          "mid": "/m/028mzr",
+          "score": 0.59908664,
+          "topicality": 0.05771678
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Figure skate",
+          "mid": "/m/01yw7r",
+          "score": 0.9773473,
+          "topicality": 0.10063742
+        },
+        {
+          "description": "Ice skate",
+          "mid": "/m/0h59_",
+          "score": 0.9652544,
+          "topicality": 0.06331661
+        },
+        {
+          "description": "Performing Arts",
+          "mid": "/m/05qjc",
+          "score": 0.9482812,
+          "topicality": 5.0440016e-05
+        },
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.94478476,
+          "topicality": 0.00038330624
+        },
+        {
+          "description": "Thigh",
+          "mid": "/m/01j04m",
+          "score": 0.9437489,
+          "topicality": 0.0020345917
+        },
+        {
+          "description": "Figure skating",
+          "mid": "/m/02_5h",
+          "score": 0.93448263,
+          "topicality": 0.89952254
+        },
+        {
+          "description": "Ice skating",
+          "mid": "/m/03xbw",
+          "score": 0.9278805,
+          "topicality": 0.6834204
+        },
+        {
+          "description": "Skating sports",
+          "mid": "/m/0wgq98_",
+          "score": 0.9245048,
+          "topicality": 0.018302798
+        },
+        {
+          "description": "Ice rink",
+          "mid": "/m/03w7hp",
+          "score": 0.9029079,
+          "topicality": 0.027037466
+        },
+        {
+          "description": "Winter sports",
+          "mid": "/m/09qf5",
+          "score": 0.89554375,
+          "topicality": 0.018175723
+        }
+      ]
+    }
+  ]
+}

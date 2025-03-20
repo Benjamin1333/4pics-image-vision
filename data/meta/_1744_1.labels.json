@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Forehead",
+          "mid": "/m/025kyy",
+          "score": 0.9806654,
+          "topicality": 0.018961815
+        },
+        {
+          "description": "Facial hair",
+          "mid": "/m/0ds5b",
+          "score": 0.964547,
+          "topicality": 0.021263123
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9449492,
+          "topicality": 0.009190207
+        },
+        {
+          "description": "Beard",
+          "mid": "/m/015h_t",
+          "score": 0.9198815,
+          "topicality": 0.067696825
+        },
+        {
+          "description": "Moustache",
+          "mid": "/m/0bby24z",
+          "score": 0.8988791,
+          "topicality": 0.015778037
+        },
+        {
+          "description": "Wrinkle",
+          "mid": "/m/02_x63",
+          "score": 0.73451585,
+          "topicality": 0.0051794536
+        },
+        {
+          "description": "Portrait photography",
+          "mid": "/m/0chml9",
+          "score": 0.7224016,
+          "topicality": 0.007438315
+        },
+        {
+          "description": "Mohawk hairstyle",
+          "mid": "/m/03nwjn",
+          "score": 0.6673126,
+          "topicality": 0.028285572
+        },
+        {
+          "description": "Smoke",
+          "mid": "/m/06q40",
+          "score": 0.63345695,
+          "topicality": 0.0032115844
+        },
+        {
+          "description": "Film",
+          "mid": "/m/02vxn",
+          "score": 0.5993162,
+          "topicality": 0.037320532
+        }
+      ]
+    }
+  ]
+}

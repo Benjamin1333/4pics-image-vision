@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Flame",
+          "mid": "/m/01f415",
+          "score": 0.98561245,
+          "topicality": 0.2784725
+        },
+        {
+          "description": "Fire",
+          "mid": "/m/02_41",
+          "score": 0.982826,
+          "topicality": 0.8250252
+        },
+        {
+          "description": "Heat",
+          "mid": "/m/03k2v",
+          "score": 0.9621093,
+          "topicality": 0.05831048
+        },
+        {
+          "description": "Emergency",
+          "mid": "/m/025rvy6",
+          "score": 0.9425949,
+          "topicality": 0.10254736
+        },
+        {
+          "description": "Emergency service",
+          "mid": "/m/012n91",
+          "score": 0.9339575,
+          "topicality": 0.030949868
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.93226606,
+          "topicality": 0.0004296666
+        },
+        {
+          "description": "Workwear",
+          "mid": "/m/026lc7w",
+          "score": 0.9320612,
+          "topicality": 0.00055165926
+        },
+        {
+          "description": "Personal protective equipment",
+          "mid": "/m/0ffjr",
+          "score": 0.9307757,
+          "topicality": 0.0018825666
+        },
+        {
+          "description": "Fire department",
+          "mid": "/m/05pdd_v",
+          "score": 0.90819025,
+          "topicality": 0.16475756
+        },
+        {
+          "description": "Firefighter",
+          "mid": "/m/012n4x",
+          "score": 0.90347075,
+          "topicality": 0.68282574
+        }
+      ]
+    }
+  ]
+}

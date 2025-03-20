@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9778873,
+          "topicality": 0.073011406
+        },
+        {
+          "description": "Wall",
+          "mid": "/m/09qqq",
+          "score": 0.97570425,
+          "topicality": 0.8571177
+        },
+        {
+          "description": "Brick",
+          "mid": "/m/01g0g",
+          "score": 0.95130926,
+          "topicality": 0.8633328
+        },
+        {
+          "description": "Brickwork",
+          "mid": "/m/01__sk",
+          "score": 0.9208876,
+          "topicality": 0.49236447
+        },
+        {
+          "description": "Brown",
+          "mid": "/m/09q2t",
+          "score": 0.9191282,
+          "topicality": 0.010356257
+        },
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.897465,
+          "topicality": 0.010315901
+        },
+        {
+          "description": "Stone wall",
+          "mid": "/m/0bysjw",
+          "score": 0.8198354,
+          "topicality": 0.32387623
+        },
+        {
+          "description": "Building material",
+          "mid": "/m/02cr01",
+          "score": 0.7841083,
+          "topicality": 0.0053296685
+        },
+        {
+          "description": "Geraniums",
+          "mid": "/m/01y1_z",
+          "score": 0.503867,
+          "topicality": 0.00065670913
+        }
+      ]
+    }
+  ]
+}

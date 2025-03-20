@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Wood stain",
+          "mid": "/m/05t06b",
+          "score": 0.6467367,
+          "topicality": 0.00015348583
+        },
+        {
+          "description": "Hardwood",
+          "mid": "/m/020g49",
+          "score": 0.62339413,
+          "topicality": 0.00014378622
+        },
+        {
+          "description": "Blackboard",
+          "mid": "/m/02kdvj",
+          "score": 0.6019414,
+          "topicality": 0.029507233
+        },
+        {
+          "description": "Chalk",
+          "mid": "/m/0c5q8",
+          "score": 0.5474682,
+          "topicality": 0.2536369
+        },
+        {
+          "description": "Office Instrument",
+          "mid": "/m/0h8m01z",
+          "score": 0.517062,
+          "topicality": 0.00016389716
+        },
+        {
+          "description": "Slate",
+          "mid": "/m/04kjl7",
+          "score": 0.50128585,
+          "topicality": 0.2610222
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Skunks",
+          "mid": "/m/0km7z",
+          "score": 0.96500444,
+          "topicality": 0.915677
+        },
+        {
+          "description": "Striped skunk",
+          "mid": "/m/0dd99j",
+          "score": 0.8879292,
+          "topicality": 0.69125587
+        },
+        {
+          "description": "Fur",
+          "mid": "/m/0cnmr",
+          "score": 0.86467874,
+          "topicality": 0.0028076961
+        },
+        {
+          "description": "Terrestrial animal",
+          "mid": "/m/0fbf1m",
+          "score": 0.8101858,
+          "topicality": 0.0005391638
+        },
+        {
+          "description": "Tail",
+          "mid": "/m/06z_nw",
+          "score": 0.57324046,
+          "topicality": 0.0541776
+        }
+      ]
+    }
+  ]
+}

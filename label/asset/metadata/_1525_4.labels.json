@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Denim",
+          "mid": "/m/0hgr6",
+          "score": 0.9774693,
+          "topicality": 0.037632454
+        },
+        {
+          "description": "Pocket",
+          "mid": "/m/025rhd",
+          "score": 0.8990545,
+          "topicality": 0.20964105
+        },
+        {
+          "description": "Wallet",
+          "mid": "/m/02_vjy",
+          "score": 0.89569914,
+          "topicality": 0.55547196
+        },
+        {
+          "description": "Leather",
+          "mid": "/m/04lbp",
+          "score": 0.7957298,
+          "topicality": 0.46977726
+        },
+        {
+          "description": "Everyday carry",
+          "mid": "/m/03ybby4",
+          "score": 0.5248876,
+          "topicality": 0.007414776
+        }
+      ]
+    }
+  ]
+}

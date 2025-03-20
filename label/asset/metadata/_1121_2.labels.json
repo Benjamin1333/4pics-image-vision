@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Pocket",
+          "mid": "/m/025rhd",
+          "score": 0.95021254,
+          "topicality": 0.013907896
+        },
+        {
+          "description": "Denim",
+          "mid": "/m/0hgr6",
+          "score": 0.94423586,
+          "topicality": 0.008000379
+        },
+        {
+          "description": "Plaid",
+          "mid": "/m/0177t1",
+          "score": 0.8987952,
+          "topicality": 0.0010151119
+        },
+        {
+          "description": "Wrist",
+          "mid": "/m/01j48b",
+          "score": 0.86887825,
+          "topicality": 0.01022919
+        },
+        {
+          "description": "Waist",
+          "mid": "/m/031974",
+          "score": 0.8673184,
+          "topicality": 0.005168275
+        },
+        {
+          "description": "Tartan",
+          "mid": "/m/01z1sv",
+          "score": 0.76963824,
+          "topicality": 0.0010380226
+        },
+        {
+          "description": "Belt",
+          "mid": "/m/0176mf",
+          "score": 0.65594786,
+          "topicality": 0.008387142
+        },
+        {
+          "description": "Cargo pants",
+          "mid": "/m/08k64l",
+          "score": 0.61451226,
+          "topicality": 0.0036675
+        },
+        {
+          "description": "Stomach",
+          "mid": "/m/09x8z",
+          "score": 0.5251506,
+          "topicality": 0.008100433
+        }
+      ]
+    }
+  ]
+}

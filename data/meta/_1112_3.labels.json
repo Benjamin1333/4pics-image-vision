@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Factory",
+          "mid": "/m/0168g6",
+          "score": 0.7259456,
+          "topicality": 0.3253867
+        },
+        {
+          "description": "Luxury vehicle",
+          "mid": "/m/01lcwm",
+          "score": 0.70379466,
+          "topicality": 0.0033008999
+        },
+        {
+          "description": "Workshop",
+          "mid": "/m/026zs_",
+          "score": 0.5734435,
+          "topicality": 0.023538545
+        },
+        {
+          "description": "Sedan",
+          "mid": "/m/021mp2",
+          "score": 0.5434284,
+          "topicality": 0.004809656
+        },
+        {
+          "description": "Assembly line",
+          "mid": "/m/0mfz",
+          "score": 0.53502643,
+          "topicality": 0.54769534
+        },
+        {
+          "description": "Industry",
+          "mid": "/m/03rnh",
+          "score": 0.52395433,
+          "topicality": 0.14182572
+        },
+        {
+          "description": "Kit car",
+          "mid": "/m/0gm56",
+          "score": 0.5182848,
+          "topicality": 5.9636663e-05
+        },
+        {
+          "description": "Executive car",
+          "mid": "/m/0crtnw",
+          "score": 0.5012927,
+          "topicality": 0.00015174193
+        }
+      ]
+    }
+  ]
+}

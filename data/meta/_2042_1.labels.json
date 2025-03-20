@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Grass",
+          "mid": "/m/08t9c_",
+          "score": 0.9745962,
+          "topicality": 0.047678415
+        },
+        {
+          "description": "Lawn",
+          "mid": "/m/01v327",
+          "score": 0.8771024,
+          "topicality": 0.16715562
+        },
+        {
+          "description": "Garden",
+          "mid": "/m/0bl0l",
+          "score": 0.819305,
+          "topicality": 0.040829312
+        },
+        {
+          "description": "Recreational vehicle",
+          "mid": "/m/01lgkm",
+          "score": 0.8116695,
+          "topicality": 0.08133985
+        },
+        {
+          "description": "Yard",
+          "mid": "/m/049_3v",
+          "score": 0.798748,
+          "topicality": 0.0050274446
+        },
+        {
+          "description": "Park",
+          "mid": "/m/0166ls",
+          "score": 0.7978538,
+          "topicality": 0.051495004
+        },
+        {
+          "description": "Caravan",
+          "mid": "/m/01_5hj",
+          "score": 0.7878361,
+          "topicality": 0.40685964
+        },
+        {
+          "description": "Landscaping",
+          "mid": "/m/025sv9y",
+          "score": 0.66099983,
+          "topicality": 0.01720355
+        },
+        {
+          "description": "Artificial turf",
+          "mid": "/m/04bzth",
+          "score": 0.6125267,
+          "topicality": 0.013629205
+        },
+        {
+          "description": "Van",
+          "mid": "/m/0h2r6",
+          "score": 0.55494833,
+          "topicality": 0.0013002562
+        }
+      ]
+    }
+  ]
+}

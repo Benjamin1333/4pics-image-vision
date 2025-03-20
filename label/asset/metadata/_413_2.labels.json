@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.97033286,
+          "topicality": 0.0019651325
+        },
+        {
+          "description": "Screenshot",
+          "mid": "/m/01zbnw",
+          "score": 0.7946964,
+          "topicality": 0.12656936
+        },
+        {
+          "description": "Software",
+          "mid": "/m/01mf0",
+          "score": 0.51881367,
+          "topicality": 0.035595134
+        }
+      ]
+    }
+  ]
+}

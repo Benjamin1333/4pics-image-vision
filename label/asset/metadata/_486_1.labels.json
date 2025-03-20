@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hazard",
+          "mid": "/m/02p0y0y",
+          "score": 0.7315169,
+          "topicality": 0.7116438
+        },
+        {
+          "description": "Traffic sign",
+          "mid": "/m/01mqdt",
+          "score": 0.7122612,
+          "topicality": 0.062757075
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6095302,
+          "topicality": 0.006791574
+        },
+        {
+          "description": "Sign",
+          "mid": "/m/06zsq",
+          "score": 0.6056153,
+          "topicality": 0.17881963
+        },
+        {
+          "description": "Triangle",
+          "mid": "/m/07jx7",
+          "score": 0.54983926,
+          "topicality": 0.0008470167
+        }
+      ]
+    }
+  ]
+}

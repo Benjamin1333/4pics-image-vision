@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.97388643,
+          "topicality": 0.22018978
+        },
+        {
+          "description": "Personal protective equipment",
+          "mid": "/m/0ffjr",
+          "score": 0.9692846,
+          "topicality": 0.4883594
+        },
+        {
+          "description": "Hard hat",
+          "mid": "/m/01n5_8",
+          "score": 0.95837986,
+          "topicality": 0.75917894
+        },
+        {
+          "description": "Headgear",
+          "mid": "/m/01443y",
+          "score": 0.94398683,
+          "topicality": 0.0073862737
+        },
+        {
+          "description": "Helmet",
+          "mid": "/m/0zvk5",
+          "score": 0.854347,
+          "topicality": 0.19279002
+        },
+        {
+          "description": "Protective gear in sports",
+          "mid": "/m/0n49352",
+          "score": 0.8147464,
+          "topicality": 0.0016555022
+        },
+        {
+          "description": "Workwear",
+          "mid": "/m/026lc7w",
+          "score": 0.6475918,
+          "topicality": 0.014262594
+        }
+      ]
+    }
+  ]
+}

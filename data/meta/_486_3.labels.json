@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9718475,
+          "topicality": 0.012355483
+        },
+        {
+          "description": "Jumping",
+          "mid": "/m/0by3w",
+          "score": 0.95369637,
+          "topicality": 0.6452104
+        },
+        {
+          "description": "Stunt Performer",
+          "mid": "/m/01tkqy",
+          "score": 0.8827284,
+          "topicality": 0.05513956
+        },
+        {
+          "description": "Stunt",
+          "mid": "/m/01f2hr",
+          "score": 0.7995411,
+          "topicality": 0.093236536
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.78489006,
+          "topicality": 0.006049276
+        },
+        {
+          "description": "Rejoicing",
+          "mid": "/j/6sm44l",
+          "score": 0.7167217,
+          "topicality": 0.0011228757
+        },
+        {
+          "description": "Balance",
+          "mid": "/m/03gs8b2",
+          "score": 0.6829794,
+          "topicality": 0.0061751935
+        },
+        {
+          "description": "Falling",
+          "mid": "/m/04f32c6",
+          "score": 0.5026754,
+          "topicality": 0.103528835
+        }
+      ]
+    }
+  ]
+}

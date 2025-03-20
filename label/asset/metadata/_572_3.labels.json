@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.98515236,
+          "topicality": 0.23450007
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.980645,
+          "topicality": 0.08771246
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9449491,
+          "topicality": 0.0082113445
+        },
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.92888904,
+          "topicality": 0.02066964
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.9274949,
+          "topicality": 0.0062995246
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.7909092,
+          "topicality": 0.09370077
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.7431008,
+          "topicality": 0.0030161717
+        },
+        {
+          "description": "Laughter",
+          "mid": "/m/01j3sz",
+          "score": 0.7061105,
+          "topicality": 0.04334183
+        },
+        {
+          "description": "Surprise",
+          "mid": "/m/0cfrhj",
+          "score": 0.6715783,
+          "topicality": 0.15049425
+        },
+        {
+          "description": "Gift",
+          "mid": "/m/0d84n",
+          "score": 0.60482615,
+          "topicality": 0.15425082
+        }
+      ]
+    }
+  ]
+}

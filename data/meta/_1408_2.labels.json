@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9726505,
+          "topicality": 0.013115615
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.8302409,
+          "topicality": 0.010703855
+        },
+        {
+          "description": "Game",
+          "mid": "/m/03bt1gh",
+          "score": 0.82959366,
+          "topicality": 0.2096924
+        },
+        {
+          "description": "Casino",
+          "mid": "/m/01lq3",
+          "score": 0.76969427,
+          "topicality": 0.73187876
+        },
+        {
+          "description": "Gambling",
+          "mid": "/m/034dj",
+          "score": 0.74314034,
+          "topicality": 0.5284627
+        },
+        {
+          "description": "Indoor games and sports",
+          "mid": "/m/0b42l9",
+          "score": 0.6426028,
+          "topicality": 0.00024287481
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Metal",
+          "mid": "/m/04t7l",
+          "score": 0.80915046,
+          "topicality": 0.00943637
+        },
+        {
+          "description": "Gold",
+          "mid": "/m/025rs2z",
+          "score": 0.7071081,
+          "topicality": 0.6081933
+        },
+        {
+          "description": "Brass",
+          "mid": "/m/01504",
+          "score": 0.53677195,
+          "topicality": 0.0046644383
+        }
+      ]
+    }
+  ]
+}

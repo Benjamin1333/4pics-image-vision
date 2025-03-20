@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Cinnamon",
+          "mid": "/m/0f0ch",
+          "score": 0.9813334,
+          "topicality": 0.8772534
+        },
+        {
+          "description": "Cinnamon stick",
+          "mid": "/m/0ggm5j8",
+          "score": 0.9749887,
+          "topicality": 0.015320138
+        },
+        {
+          "description": "Spice",
+          "mid": "/m/06p35",
+          "score": 0.9707088,
+          "topicality": 0.58299136
+        },
+        {
+          "description": "Star anise",
+          "mid": "/m/01bbvg",
+          "score": 0.96950126,
+          "topicality": 0.4968515
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.95302665,
+          "topicality": 0.019898374
+        },
+        {
+          "description": "Chinese cinnamon",
+          "mid": "/m/02c860",
+          "score": 0.94871813,
+          "topicality": 0.24341509
+        },
+        {
+          "description": "Masala",
+          "mid": "/m/02nyrg",
+          "score": 0.92207545,
+          "topicality": 0.008894353
+        },
+        {
+          "description": "Anise",
+          "mid": "/m/0hyn4",
+          "score": 0.90587807,
+          "topicality": 0.6552944
+        },
+        {
+          "description": "Seasoning",
+          "mid": "/m/0dwpk",
+          "score": 0.7651204,
+          "topicality": 0.015510432
+        },
+        {
+          "description": "Clove",
+          "mid": "/m/0jbr7",
+          "score": 0.73432827,
+          "topicality": 0.08330026
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.96326685,
+          "topicality": 0.037849236
+        },
+        {
+          "description": "Motor oil",
+          "mid": "/m/01fnj5",
+          "score": 0.9255573,
+          "topicality": 0.2553205
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.9191948,
+          "topicality": 0.39008904
+        },
+        {
+          "description": "Automotive Care",
+          "mid": "/m/0h8nz9n",
+          "score": 0.8151025,
+          "topicality": 0.0024413827
+        },
+        {
+          "description": "Oil",
+          "mid": "/m/0bp_wy",
+          "score": 0.7530203,
+          "topicality": 0.69466066
+        },
+        {
+          "description": "Bottle",
+          "mid": "/m/04dr76w",
+          "score": 0.66299576,
+          "topicality": 0.028085021
+        },
+        {
+          "description": "Lubricant",
+          "mid": "/m/04lc_",
+          "score": 0.53552806,
+          "topicality": 0.29358792
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.9077374,
+          "topicality": 0.007829316
+        },
+        {
+          "description": "Paper",
+          "mid": "/m/0641k",
+          "score": 0.90503985,
+          "topicality": 0.4247843
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.6151792,
+          "topicality": 0.04161041
+        },
+        {
+          "description": "Post-it Note",
+          "mid": "/m/02tzth",
+          "score": 0.55504066,
+          "topicality": 0.7144161
+        },
+        {
+          "description": "Transparency",
+          "mid": "/m/01z8xy",
+          "score": 0.55456954,
+          "topicality": 0.017023792
+        },
+        {
+          "description": "Stationery",
+          "mid": "/m/01cndb",
+          "score": 0.51334333,
+          "topicality": 0.276333
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.5029688,
+          "topicality": 0.0018874474
+        }
+      ]
+    }
+  ]
+}

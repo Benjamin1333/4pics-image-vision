@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sky",
+          "mid": "/m/01bqvp",
+          "score": 0.991088,
+          "topicality": 0.14458531
+        },
+        {
+          "description": "Landmark",
+          "mid": "/m/05_5t0l",
+          "score": 0.93946445,
+          "topicality": 0.09226092
+        },
+        {
+          "description": "Tower",
+          "mid": "/m/01fdzj",
+          "score": 0.91130596,
+          "topicality": 0.2639078
+        },
+        {
+          "description": "Monument",
+          "mid": "/m/02ljgl",
+          "score": 0.8969334,
+          "topicality": 0.047569163
+        },
+        {
+          "description": "Tourist attraction",
+          "mid": "/m/0pgl9",
+          "score": 0.88765705,
+          "topicality": 0.076869324
+        },
+        {
+          "description": "Classical architecture",
+          "mid": "/m/0dvh9",
+          "score": 0.83130354,
+          "topicality": 0.0042308928
+        },
+        {
+          "description": "Palace",
+          "mid": "/m/05zp8",
+          "score": 0.8115204,
+          "topicality": 0.013510396
+        },
+        {
+          "description": "Historic site",
+          "mid": "/m/07yr8h",
+          "score": 0.7895609,
+          "topicality": 0.045303658
+        },
+        {
+          "description": "Dome",
+          "mid": "/m/016br2",
+          "score": 0.74414486,
+          "topicality": 0.008724205
+        },
+        {
+          "description": "Finial",
+          "mid": "/m/03jnkr",
+          "score": 0.697722,
+          "topicality": 0.00018702097
+        }
+      ]
+    }
+  ]
+}

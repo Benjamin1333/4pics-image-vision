@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hand",
+          "mid": "/m/0k65p",
+          "score": 0.9705998,
+          "topicality": 0.18253225
+        },
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.9637044,
+          "topicality": 0.05114741
+        },
+        {
+          "description": "Thumb",
+          "mid": "/m/01bmhj",
+          "score": 0.8652578,
+          "topicality": 0.0011866619
+        },
+        {
+          "description": "Clover",
+          "mid": "/m/0c2pc",
+          "score": 0.7994276,
+          "topicality": 0.882116
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.7690144,
+          "topicality": 0.039952006
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.7420518,
+          "topicality": 0.0012437332
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.7399059,
+          "topicality": 0.015232411
+        },
+        {
+          "description": "Shamrock",
+          "mid": "/m/0155_t",
+          "score": 0.69029903,
+          "topicality": 0.09592599
+        },
+        {
+          "description": "Wood sorrels",
+          "mid": "/m/03709s",
+          "score": 0.5484779,
+          "topicality": 0.003860449
+        }
+      ]
+    }
+  ]
+}

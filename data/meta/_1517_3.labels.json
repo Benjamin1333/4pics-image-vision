@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Academic dress",
+          "mid": "/m/01xqvb",
+          "score": 0.9873626,
+          "topicality": 0.3258933
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.98641205,
+          "topicality": 0.05836279
+        },
+        {
+          "description": "Scholar",
+          "mid": "/m/05km25g",
+          "score": 0.97283846,
+          "topicality": 0.02810396
+        },
+        {
+          "description": "Square academic cap",
+          "mid": "/m/01v4sn",
+          "score": 0.9653984,
+          "topicality": 0.3801998
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.96538764,
+          "topicality": 0.0101295505
+        },
+        {
+          "description": "Event",
+          "mid": "/m/081pkj",
+          "score": 0.9642654,
+          "topicality": 0.00065531355
+        },
+        {
+          "description": "Graduation ceremony",
+          "mid": "/m/016c3c",
+          "score": 0.9634234,
+          "topicality": 0.8508758
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94485074,
+          "topicality": 0.00012350499
+        },
+        {
+          "description": "Student",
+          "mid": "/m/014cnc",
+          "score": 0.8920615,
+          "topicality": 0.47166792
+        },
+        {
+          "description": "Academic institution",
+          "mid": "/m/06bdpk",
+          "score": 0.82272446,
+          "topicality": 0.0017357849
+        }
+      ]
+    }
+  ]
+}

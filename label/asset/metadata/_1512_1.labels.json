@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Jigsaw puzzle",
+          "mid": "/m/0_d6n",
+          "score": 0.93878794,
+          "topicality": 0.47428828
+        },
+        {
+          "description": "Puzzle",
+          "mid": "/m/0lvmz",
+          "score": 0.88060534,
+          "topicality": 0.66002345
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.6687463,
+          "topicality": 0.038954448
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.626382,
+          "topicality": 0.027568609
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.5717938,
+          "topicality": 0.0063833618
+        },
+        {
+          "description": "Balance",
+          "mid": "/m/03gs8b2",
+          "score": 0.52097005,
+          "topicality": 0.00070264057
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.5004742,
+          "topicality": 0.010589853
+        }
+      ]
+    }
+  ]
+}

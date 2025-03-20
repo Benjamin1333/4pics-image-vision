@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Exercise",
+          "mid": "/m/019w6h",
+          "score": 0.9576134,
+          "topicality": 0.323574
+        },
+        {
+          "description": "Physical fitness",
+          "mid": "/m/027x7n",
+          "score": 0.9386305,
+          "topicality": 0.127919
+        },
+        {
+          "description": "Muscle",
+          "mid": "/m/04_fs",
+          "score": 0.864538,
+          "topicality": 0.013990893
+        },
+        {
+          "description": "Push-up",
+          "mid": "/m/034_gn",
+          "score": 0.8468241,
+          "topicality": 0.72221947
+        },
+        {
+          "description": "People in nature",
+          "mid": "/j/3gbwgn",
+          "score": 0.8420743,
+          "topicality": 0.00012114997
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.79493994,
+          "topicality": 0.012861045
+        },
+        {
+          "description": "Yoga",
+          "mid": "/m/087zy",
+          "score": 0.78325135,
+          "topicality": 0.12631771
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.75835115,
+          "topicality": 0.0045875306
+        },
+        {
+          "description": "Circuit training",
+          "mid": "/m/09z1ww",
+          "score": 0.7130075,
+          "topicality": 0.009818811
+        },
+        {
+          "description": "Professional fitness coach",
+          "mid": "/m/0bxzbs3",
+          "score": 0.67779905,
+          "topicality": 0.010548824
+        }
+      ]
+    }
+  ]
+}

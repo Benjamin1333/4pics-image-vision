@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.56927484,
+          "topicality": 0.008778446
+        },
+        {
+          "description": "Advertising",
+          "mid": "/m/011s0",
+          "score": 0.5636634,
+          "topicality": 0.032997716
+        }
+      ]
+    }
+  ]
+}

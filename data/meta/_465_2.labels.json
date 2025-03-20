@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.9329482,
+          "topicality": 0.0024475688
+        },
+        {
+          "description": "Musical instrument",
+          "mid": "/m/04szw",
+          "score": 0.868154,
+          "topicality": 0.1779912
+        },
+        {
+          "description": "Aerophone",
+          "mid": "/m/011_g9",
+          "score": 0.8388468,
+          "topicality": 0.021693295
+        },
+        {
+          "description": "Facial hair",
+          "mid": "/m/0ds5b",
+          "score": 0.8020522,
+          "topicality": 0.00018774906
+        },
+        {
+          "description": "Woodwind instrument",
+          "mid": "/m/085jw",
+          "score": 0.77762663,
+          "topicality": 0.016421106
+        },
+        {
+          "description": "Beard",
+          "mid": "/m/015h_t",
+          "score": 0.64562964,
+          "topicality": 0.0020186885
+        },
+        {
+          "description": "Moustache",
+          "mid": "/m/0bby24z",
+          "score": 0.6356757,
+          "topicality": 0.00043531184
+        }
+      ]
+    }
+  ]
+}

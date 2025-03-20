@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9721159,
+          "topicality": 0.017346937
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.80472606,
+          "topicality": 0.0033826912
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.8009574,
+          "topicality": 0.0121987155
+        },
+        {
+          "description": "Nickel",
+          "mid": "/m/025s4r7",
+          "score": 0.65440595,
+          "topicality": 0.045674447
+        },
+        {
+          "description": "Antique",
+          "mid": "/m/01ys2s",
+          "score": 0.6232729,
+          "topicality": 0.009704346
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/025sf8x",
+          "score": 0.5189919,
+          "topicality": 0.02556084
+        }
+      ]
+    }
+  ]
+}

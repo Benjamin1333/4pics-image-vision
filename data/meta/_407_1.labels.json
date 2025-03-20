@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Drinking water",
+          "mid": "/m/01c6xf",
+          "score": 0.96371174,
+          "topicality": 0.66684425
+        },
+        {
+          "description": "Fluid",
+          "mid": "/m/02yfx",
+          "score": 0.9558795,
+          "topicality": 0.040599417
+        },
+        {
+          "description": "Mineral water",
+          "mid": "/m/02267z",
+          "score": 0.9290788,
+          "topicality": 0.45710778
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.9216161,
+          "topicality": 0.13328288
+        },
+        {
+          "description": "Drinkware",
+          "mid": "/m/050h26",
+          "score": 0.88527066,
+          "topicality": 0.0014366822
+        },
+        {
+          "description": "Bottle",
+          "mid": "/m/04dr76w",
+          "score": 0.8225941,
+          "topicality": 0.14024577
+        },
+        {
+          "description": "Distilled water",
+          "mid": "/m/0qlx1",
+          "score": 0.74379706,
+          "topicality": 0.06463106
+        },
+        {
+          "description": "Plastic bottle",
+          "mid": "/m/02rlncx",
+          "score": 0.6717858,
+          "topicality": 0.032190654
+        },
+        {
+          "description": "Water bottle",
+          "mid": "/m/0118n_9r",
+          "score": 0.6659757,
+          "topicality": 0.12666358
+        },
+        {
+          "description": "Bottled water",
+          "mid": "/m/024247",
+          "score": 0.6545182,
+          "topicality": 0.23616807
+        }
+      ]
+    }
+  ]
+}

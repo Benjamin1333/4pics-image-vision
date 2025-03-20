@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Eyebrow",
+          "mid": "/m/027n3_",
+          "score": 0.9858757,
+          "topicality": 0.15954429
+        },
+        {
+          "description": "Eyelash",
+          "mid": "/m/03f52z",
+          "score": 0.9819683,
+          "topicality": 0.7901238
+        },
+        {
+          "description": "Skin",
+          "mid": "/m/06z04",
+          "score": 0.98038137,
+          "topicality": 0.02467147
+        },
+        {
+          "description": "Eye",
+          "mid": "/m/014sv8",
+          "score": 0.9626625,
+          "topicality": 0.6730694
+        },
+        {
+          "description": "Beauty",
+          "mid": "/m/01f43",
+          "score": 0.9545903,
+          "topicality": 0.2156625
+        },
+        {
+          "description": "Iris",
+          "mid": "/m/0lxkm",
+          "score": 0.9310024,
+          "topicality": 0.03795056
+        },
+        {
+          "description": "Close-up",
+          "mid": "/m/02cqfm",
+          "score": 0.93081385,
+          "topicality": 0.0641919
+        },
+        {
+          "description": "Brown",
+          "mid": "/m/09q2t",
+          "score": 0.9162807,
+          "topicality": 0.0072931233
+        },
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.87143683,
+          "topicality": 0.0012182384
+        },
+        {
+          "description": "Macro photography",
+          "mid": "/m/03rbf6",
+          "score": 0.8399995,
+          "topicality": 0.004846969
+        }
+      ]
+    }
+  ]
+}

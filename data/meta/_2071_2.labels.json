@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6600385,
+          "topicality": 0.03121657
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.6118929,
+          "topicality": 0.121720865
+        },
+        {
+          "description": "Hearing",
+          "mid": "/m/01wymn",
+          "score": 0.5492456,
+          "topicality": 0.011736609
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.50735503,
+          "topicality": 0.014519686
+        }
+      ]
+    }
+  ]
+}

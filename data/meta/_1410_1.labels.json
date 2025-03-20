@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Skin",
+          "mid": "/m/06z04",
+          "score": 0.9800342,
+          "topicality": 0.007978535
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.978642,
+          "topicality": 0.012233952
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.9758311,
+          "topicality": 0.031694107
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9448624,
+          "topicality": 0.0010618438
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.9123411,
+          "topicality": 0.05488592
+        },
+        {
+          "description": "Baby & Toddler Clothing",
+          "mid": "/m/0h8q07j",
+          "score": 0.8989764,
+          "topicality": 0.00090736686
+        },
+        {
+          "description": "Toddler",
+          "mid": "/m/01bgsw",
+          "score": 0.8462277,
+          "topicality": 0.034823615
+        },
+        {
+          "description": "Infant",
+          "mid": "/m/0jnvp",
+          "score": 0.8443584,
+          "topicality": 0.19617437
+        },
+        {
+          "description": "Comfort",
+          "mid": "/m/08xgn7",
+          "score": 0.7712838,
+          "topicality": 0.0020025868
+        },
+        {
+          "description": "Abdomen",
+          "mid": "/m/08y7p8",
+          "score": 0.67111593,
+          "topicality": 0.009015985
+        }
+      ]
+    }
+  ]
+}

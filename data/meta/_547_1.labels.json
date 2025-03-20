@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Gambling",
+          "mid": "/m/034dj",
+          "score": 0.9420117,
+          "topicality": 0.09494168
+        },
+        {
+          "description": "Card game",
+          "mid": "/m/01mtt",
+          "score": 0.9313104,
+          "topicality": 0.91251165
+        },
+        {
+          "description": "Game",
+          "mid": "/m/03bt1gh",
+          "score": 0.9216444,
+          "topicality": 0.1871202
+        },
+        {
+          "description": "Tabletop game",
+          "mid": "/m/03jj52",
+          "score": 0.7290005,
+          "topicality": 0.010384005
+        },
+        {
+          "description": "Indoor games and sports",
+          "mid": "/m/0b42l9",
+          "score": 0.72813076,
+          "topicality": 2.6316255e-05
+        },
+        {
+          "description": "Triangle",
+          "mid": "/m/07jx7",
+          "score": 0.5074553,
+          "topicality": 0.000648839
+        }
+      ]
+    }
+  ]
+}

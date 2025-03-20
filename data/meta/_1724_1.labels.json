@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9836265,
+          "topicality": 0.11813315
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.92622924,
+          "topicality": 0.025721878
+        },
+        {
+          "description": "Beach",
+          "mid": "/m/0b3yr",
+          "score": 0.91174126,
+          "topicality": 0.14363427
+        },
+        {
+          "description": "Coast",
+          "mid": "/m/01lxd",
+          "score": 0.88667005,
+          "topicality": 0.0027296005
+        },
+        {
+          "description": "Coastal and oceanic landforms",
+          "mid": "/m/02c9_23",
+          "score": 0.8847166,
+          "topicality": 4.024817e-06
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.8842339,
+          "topicality": 0.0037939022
+        },
+        {
+          "description": "Shore",
+          "mid": "/m/02fm9k",
+          "score": 0.88106,
+          "topicality": 0.005986575
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.8355948,
+          "topicality": 0.023371298
+        },
+        {
+          "description": "Vacation",
+          "mid": "/m/02jwqh",
+          "score": 0.8197486,
+          "topicality": 0.040529914
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.80676866,
+          "topicality": 0.0066025117
+        }
+      ]
+    }
+  ]
+}

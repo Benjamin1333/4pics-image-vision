@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Tribe",
+          "mid": "/m/0cbtm",
+          "score": 0.81087244,
+          "topicality": 0.103261046
+        },
+        {
+          "description": "Tradition",
+          "mid": "/m/07djv",
+          "score": 0.7727622,
+          "topicality": 0.011247735
+        },
+        {
+          "description": "Feather",
+          "mid": "/m/0dfgf",
+          "score": 0.761337,
+          "topicality": 0.021588905
+        },
+        {
+          "description": "Tribal chief",
+          "mid": "/m/09hljw",
+          "score": 0.6614654,
+          "topicality": 0.74409944
+        },
+        {
+          "description": "Wind",
+          "mid": "/m/03m9d0z",
+          "score": 0.58430517,
+          "topicality": 0.0055499086
+        }
+      ]
+    }
+  ]
+}

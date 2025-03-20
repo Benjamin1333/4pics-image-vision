@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.6774707,
+          "topicality": 0.009345559
+        },
+        {
+          "description": "Security",
+          "mid": "/m/0bg2p",
+          "score": 0.5746066,
+          "topicality": 0.06852537
+        },
+        {
+          "description": "Animation",
+          "mid": "/m/0hcr",
+          "score": 0.5080437,
+          "topicality": 0.0076370435
+        }
+      ]
+    }
+  ]
+}

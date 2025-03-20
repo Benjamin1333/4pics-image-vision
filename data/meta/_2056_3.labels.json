@@ -1,0 +1,14 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Still life photography",
+          "mid": "/m/027_ny3",
+          "score": 0.5592543,
+          "topicality": 0.007787712
+        }
+      ]
+    }
+  ]
+}

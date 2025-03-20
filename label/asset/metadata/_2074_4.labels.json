@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.9879756,
+          "topicality": 0.002714502
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.89470786,
+          "topicality": 0.0011104405
+        },
+        {
+          "description": "Sign",
+          "mid": "/m/06zsq",
+          "score": 0.85352826,
+          "topicality": 0.23861688
+        },
+        {
+          "description": "Street name sign",
+          "mid": "/m/04jph85",
+          "score": 0.83623636,
+          "topicality": 0.4901587
+        }
+      ]
+    }
+  ]
+}

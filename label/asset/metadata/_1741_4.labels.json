@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Paper",
+          "mid": "/m/0641k",
+          "score": 0.92337364,
+          "topicality": 0.08502259
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.8994544,
+          "topicality": 0.051826563
+        },
+        {
+          "description": "Handwriting",
+          "mid": "/m/0gkxy13",
+          "score": 0.87410104,
+          "topicality": 0.45950663
+        },
+        {
+          "description": "Monochrome photography",
+          "mid": "/m/03d49p1",
+          "score": 0.87351143,
+          "topicality": 0.0014727168
+        },
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.844129,
+          "topicality": 0.0015961449
+        },
+        {
+          "description": "Writing",
+          "mid": "/m/081rb",
+          "score": 0.7070263,
+          "topicality": 0.33214363
+        },
+        {
+          "description": "Document",
+          "mid": "/m/015bv3",
+          "score": 0.6627404,
+          "topicality": 0.04023166
+        },
+        {
+          "description": "Ink",
+          "mid": "/m/03yhk",
+          "score": 0.5438572,
+          "topicality": 0.018500373
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hammer",
+          "mid": "/m/03l9g",
+          "score": 0.9045875,
+          "topicality": 0.8610518
+        },
+        {
+          "description": "Tool",
+          "mid": "/m/07k1x",
+          "score": 0.8316101,
+          "topicality": 0.28949174
+        },
+        {
+          "description": "Metalworking hand tool",
+          "mid": "/m/07vc4v",
+          "score": 0.81286097,
+          "topicality": 0.00016676483
+        },
+        {
+          "description": "Household hardware",
+          "mid": "/m/03jvk",
+          "score": 0.7530121,
+          "topicality": 0.007468109
+        },
+        {
+          "description": "Hand tool",
+          "mid": "/m/01yc83",
+          "score": 0.71226263,
+          "topicality": 0.042207226
+        },
+        {
+          "description": "Stonemason's hammer",
+          "mid": "/m/07qykf",
+          "score": 0.590373,
+          "topicality": 0.0021078498
+        },
+        {
+          "description": "Balance",
+          "mid": "/m/03gs8b2",
+          "score": 0.54864126,
+          "topicality": 0.00058004085
+        },
+        {
+          "description": "Rubber stamp",
+          "mid": "/m/01hr6f",
+          "score": 0.5372066,
+          "topicality": 0.018564185
+        },
+        {
+          "description": "Mallet",
+          "mid": "/m/02_b95",
+          "score": 0.5311541,
+          "topicality": 0.219576
+        }
+      ]
+    }
+  ]
+}

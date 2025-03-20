@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.76949537,
+          "topicality": 0.015095226
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.7544365,
+          "topicality": 0.031409957
+        },
+        {
+          "description": "Logo",
+          "mid": "/m/0dwx7",
+          "score": 0.74129075,
+          "topicality": 0.028317738
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.7185257,
+          "topicality": 0.0049552633
+        },
+        {
+          "description": "Sticker",
+          "mid": "/m/05b97g",
+          "score": 0.5364398,
+          "topicality": 0.048566323
+        },
+        {
+          "description": "Sign",
+          "mid": "/m/06zsq",
+          "score": 0.5252916,
+          "topicality": 0.031757258
+        }
+      ]
+    }
+  ]
+}

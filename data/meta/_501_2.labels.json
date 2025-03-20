@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Cloud",
+          "mid": "/m/0csby",
+          "score": 0.9262328,
+          "topicality": 0.040356383
+        },
+        {
+          "description": "Pollution",
+          "mid": "/m/066xq",
+          "score": 0.7800275,
+          "topicality": 0.24898928
+        },
+        {
+          "description": "Smoke",
+          "mid": "/m/06q40",
+          "score": 0.7321679,
+          "topicality": 0.06196343
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.7219938,
+          "topicality": 0.016315818
+        },
+        {
+          "description": "Wind",
+          "mid": "/m/03m9d0z",
+          "score": 0.70664614,
+          "topicality": 0.072926804
+        },
+        {
+          "description": "Storm",
+          "mid": "/m/0z71l",
+          "score": 0.69706213,
+          "topicality": 0.05292718
+        },
+        {
+          "description": "Meteorological phenomenon",
+          "mid": "/g/11k2xz7mr",
+          "score": 0.69394815,
+          "topicality": 2.6488702e-05
+        },
+        {
+          "description": "Cumulus",
+          "mid": "/m/0csh5",
+          "score": 0.6621094,
+          "topicality": 0.0007660901
+        },
+        {
+          "description": "Photomontage",
+          "mid": "/m/0b0fq",
+          "score": 0.60001296,
+          "topicality": 0.28113642
+        },
+        {
+          "description": "Chimney",
+          "mid": "/m/01jk_4",
+          "score": 0.53324825,
+          "topicality": 0.012317347
+        }
+      ]
+    }
+  ]
+}

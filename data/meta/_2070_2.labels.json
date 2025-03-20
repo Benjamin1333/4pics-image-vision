@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Map",
+          "mid": "/m/04_tb",
+          "score": 0.9372052,
+          "topicality": 0.8948035
+        },
+        {
+          "description": "Compass",
+          "mid": "/m/09srw",
+          "score": 0.91725516,
+          "topicality": 0.9468648
+        },
+        {
+          "description": "Paper",
+          "mid": "/m/0641k",
+          "score": 0.8475243,
+          "topicality": 0.015655862
+        },
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.7343108,
+          "topicality": 0.00040262553
+        },
+        {
+          "description": "Atlas",
+          "mid": "/m/0crnf",
+          "score": 0.61574996,
+          "topicality": 0.27752554
+        }
+      ]
+    }
+  ]
+}

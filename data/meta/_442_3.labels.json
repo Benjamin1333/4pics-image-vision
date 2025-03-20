@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Abacus",
+          "mid": "/m/0hq8",
+          "score": 0.8348639,
+          "topicality": 0.77390623
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.6727461,
+          "topicality": 0.021886766
+        },
+        {
+          "description": "Sphere",
+          "mid": "/m/06y47",
+          "score": 0.57004666,
+          "topicality": 0.004753348
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.5585304,
+          "topicality": 0.007977528
+        },
+        {
+          "description": "Educational toy",
+          "mid": "/m/02w5gwc",
+          "score": 0.51393473,
+          "topicality": 0.024537992
+        }
+      ]
+    }
+  ]
+}

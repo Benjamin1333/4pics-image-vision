@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9644378,
+          "topicality": 0.079947904
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9448477,
+          "topicality": 0.007276457
+        },
+        {
+          "description": "Blond",
+          "mid": "/m/0294jb",
+          "score": 0.94470185,
+          "topicality": 0.08654091
+        },
+        {
+          "description": "Summer",
+          "mid": "/m/078qz",
+          "score": 0.928426,
+          "topicality": 0.07347921
+        },
+        {
+          "description": "Eyelash",
+          "mid": "/m/03f52z",
+          "score": 0.9158721,
+          "topicality": 0.0006539996
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.9158334,
+          "topicality": 0.15928207
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.8706935,
+          "topicality": 0.11825831
+        },
+        {
+          "description": "Grasses",
+          "mid": "/m/0fkrk",
+          "score": 0.86542916,
+          "topicality": 0.010569151
+        },
+        {
+          "description": "People in nature",
+          "mid": "/j/3gbwgn",
+          "score": 0.8475795,
+          "topicality": 0.00028691808
+        },
+        {
+          "description": "Brown hair",
+          "mid": "/m/02ksmb",
+          "score": 0.81731886,
+          "topicality": 0.0015089168
+        }
+      ]
+    }
+  ]
+}

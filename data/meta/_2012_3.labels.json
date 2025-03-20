@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "geological phenomenon",
+          "mid": "/m/07sn5gn",
+          "score": 0.8327556,
+          "topicality": 0.005775865
+        },
+        {
+          "description": "Bedrock",
+          "mid": "/m/0308t8",
+          "score": 0.8214273,
+          "topicality": 0.019299507
+        },
+        {
+          "description": "Lava field",
+          "mid": "/m/0brbbg",
+          "score": 0.6883982,
+          "topicality": 0.097557634
+        },
+        {
+          "description": "Erosion",
+          "mid": "/m/02n1k",
+          "score": 0.65237933,
+          "topicality": 0.17611168
+        },
+        {
+          "description": "Drought",
+          "mid": "/m/099lp",
+          "score": 0.53773606,
+          "topicality": 0.096081994
+        }
+      ]
+    }
+  ]
+}

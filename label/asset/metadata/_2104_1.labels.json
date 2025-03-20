@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.96706265,
+          "topicality": 0.1050483
+        },
+        {
+          "description": "Peace symbols",
+          "mid": "/m/01psxn",
+          "score": 0.8365145,
+          "topicality": 0.92585844
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6063551,
+          "topicality": 0.008279946
+        }
+      ]
+    }
+  ]
+}

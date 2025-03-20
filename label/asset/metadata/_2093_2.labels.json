@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Christmas decoration",
+          "mid": "/m/05fc9mj",
+          "score": 0.8586715,
+          "topicality": 0.42285678
+        },
+        {
+          "description": "Christmas Day",
+          "mid": "/m/01vq3",
+          "score": 0.8004918,
+          "topicality": 0.88149214
+        },
+        {
+          "description": "Holiday",
+          "mid": "/m/03gkl",
+          "score": 0.7369236,
+          "topicality": 0.18643397
+        },
+        {
+          "description": "Natural material",
+          "mid": "/m/07sx2n",
+          "score": 0.7091816,
+          "topicality": 0.002334641
+        },
+        {
+          "description": "Christmas ornament",
+          "mid": "/m/04kwhq",
+          "score": 0.702577,
+          "topicality": 0.1852046
+        },
+        {
+          "description": "Conifers",
+          "mid": "/m/0hv3g",
+          "score": 0.61840165,
+          "topicality": 0.0045969016
+        },
+        {
+          "description": "Holiday Ornament",
+          "mid": "/m/0h8m2b9",
+          "score": 0.59290975,
+          "topicality": 0.00027435314
+        },
+        {
+          "description": "Ornament",
+          "mid": "/m/05ykl4",
+          "score": 0.5830904,
+          "topicality": 0.16777663
+        },
+        {
+          "description": "Evergreen",
+          "mid": "/m/0hlzc",
+          "score": 0.55904454,
+          "topicality": 0.026832514
+        },
+        {
+          "description": "Pine family",
+          "mid": "/m/01tfm0",
+          "score": 0.543936,
+          "topicality": 0.021157704
+        }
+      ]
+    }
+  ]
+}

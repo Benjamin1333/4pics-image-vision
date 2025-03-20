@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Powder",
+          "mid": "/m/0gzznm",
+          "score": 0.8655937,
+          "topicality": 0.17812987
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.67591316,
+          "topicality": 0.08666495
+        },
+        {
+          "description": "Cylinder",
+          "mid": "/m/03h_4m",
+          "score": 0.59962034,
+          "topicality": 0.0012318381
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.59148294,
+          "topicality": 0.13042994
+        },
+        {
+          "description": "Food additive",
+          "mid": "/m/033zy",
+          "score": 0.5272476,
+          "topicality": 0.33027992
+        },
+        {
+          "description": "Dye",
+          "mid": "/m/028qp",
+          "score": 0.51991093,
+          "topicality": 0.018035386
+        },
+        {
+          "description": "Chemical compound",
+          "mid": "/m/0129f4",
+          "score": 0.51145643,
+          "topicality": 0.25677466
+        },
+        {
+          "description": "Solvent in chemical reactions",
+          "mid": "/m/09bkb",
+          "score": 0.51022315,
+          "topicality": 0.079018034
+        },
+        {
+          "description": "Chemistry",
+          "mid": "/m/01lj9",
+          "score": 0.50700766,
+          "topicality": 0.40449816
+        }
+      ]
+    }
+  ]
+}

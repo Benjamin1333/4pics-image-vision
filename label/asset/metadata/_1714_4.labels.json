@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Motor vehicle",
+          "mid": "/m/012f08",
+          "score": 0.97005224,
+          "topicality": 0.0061816256
+        },
+        {
+          "description": "Light commercial vehicle",
+          "mid": "/m/02pz5g2",
+          "score": 0.9619241,
+          "topicality": 0.13476485
+        },
+        {
+          "description": "Van",
+          "mid": "/m/0h2r6",
+          "score": 0.95161235,
+          "topicality": 0.84666896
+        },
+        {
+          "description": "Commercial vehicle",
+          "mid": "/m/0fkwjg",
+          "score": 0.9433966,
+          "topicality": 0.18087508
+        },
+        {
+          "description": "Compact van",
+          "mid": "/m/0fmnf5",
+          "score": 0.9380184,
+          "topicality": 0.007263205
+        },
+        {
+          "description": "Automotive Side-View Mirror",
+          "mid": "/m/0h8n616",
+          "score": 0.8951306,
+          "topicality": 0.00054385216
+        },
+        {
+          "description": "Minibus",
+          "mid": "/m/045jsc",
+          "score": 0.87510103,
+          "topicality": 0.2971752
+        },
+        {
+          "description": "Automotive Mirror",
+          "mid": "/m/0h8lk4b",
+          "score": 0.83599675,
+          "topicality": 4.4015364e-05
+        },
+        {
+          "description": "Windshield",
+          "mid": "/m/01lrnl",
+          "score": 0.8118413,
+          "topicality": 0.0023008143
+        },
+        {
+          "description": "Grille",
+          "mid": "/m/03_qhc",
+          "score": 0.8044424,
+          "topicality": 0.00031495548
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Wall Socket",
+          "mid": "/m/0h8ktfx",
+          "score": 0.9414116,
+          "topicality": 0.059049923
+        },
+        {
+          "description": "AC power plugs and sockets",
+          "mid": "/m/03bbps",
+          "score": 0.8182632,
+          "topicality": 0.7460187
+        },
+        {
+          "description": "Light switch",
+          "mid": "/m/03jbxj",
+          "score": 0.6634079,
+          "topicality": 0.5016277
+        },
+        {
+          "description": "Electrical Supply",
+          "mid": "/m/0cmsl0l",
+          "score": 0.6515925,
+          "topicality": 0.004118526
+        },
+        {
+          "description": "Wall plate",
+          "mid": "/m/04cv2hz",
+          "score": 0.6166386,
+          "topicality": 0.019061597
+        },
+        {
+          "description": "Switch",
+          "mid": "/m/07059",
+          "score": 0.5279519,
+          "topicality": 0.58396137
+        }
+      ]
+    }
+  ]
+}

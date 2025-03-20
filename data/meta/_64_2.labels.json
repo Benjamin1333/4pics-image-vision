@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Arthropod",
+          "mid": "/m/0zkm",
+          "score": 0.72682965,
+          "topicality": 0.007633524
+        },
+        {
+          "description": "Insect",
+          "mid": "/m/03vt0",
+          "score": 0.70248604,
+          "topicality": 0.07364075
+        },
+        {
+          "description": "Macro photography",
+          "mid": "/m/03rbf6",
+          "score": 0.60153294,
+          "topicality": 0.0071911607
+        },
+        {
+          "description": "Pest",
+          "mid": "/m/01dqkc",
+          "score": 0.5995021,
+          "topicality": 0.010543073
+        },
+        {
+          "description": "Balance",
+          "mid": "/m/03gs8b2",
+          "score": 0.5867461,
+          "topicality": 0.0043509854
+        },
+        {
+          "description": "Ant",
+          "mid": "/m/0_k2",
+          "score": 0.5566596,
+          "topicality": 0.5136741
+        },
+        {
+          "description": "Parasitism",
+          "mid": "/m/0b_l7",
+          "score": 0.5225346,
+          "topicality": 0.0032009126
+        }
+      ]
+    }
+  ]
+}

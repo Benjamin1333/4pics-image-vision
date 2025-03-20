@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Suitcase",
+          "mid": "/m/01s55n",
+          "score": 0.98576736,
+          "topicality": 0.41895807
+        },
+        {
+          "description": "Bag",
+          "mid": "/m/0n5v01m",
+          "score": 0.9711693,
+          "topicality": 0.041952137
+        },
+        {
+          "description": "Baggage",
+          "mid": "/m/03w7y7",
+          "score": 0.9458605,
+          "topicality": 0.20979612
+        },
+        {
+          "description": "Briefcase",
+          "mid": "/m/0584n8",
+          "score": 0.9414839,
+          "topicality": 0.26762828
+        },
+        {
+          "description": "Luggage & bags",
+          "mid": "/m/0hf58v5",
+          "score": 0.91644853,
+          "topicality": 0.0069661937
+        },
+        {
+          "description": "Hand luggage",
+          "mid": "/m/07k55_3",
+          "score": 0.91189754,
+          "topicality": 0.02906965
+        },
+        {
+          "description": "Travel",
+          "mid": "/m/014dsx",
+          "score": 0.7974586,
+          "topicality": 0.16066532
+        },
+        {
+          "description": "Business Bag",
+          "mid": "/m/0hgryjx",
+          "score": 0.79529524,
+          "topicality": 0.005240892
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.65942764,
+          "topicality": 0.046522696
+        }
+      ]
+    }
+  ]
+}

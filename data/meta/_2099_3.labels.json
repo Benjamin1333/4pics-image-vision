@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.7538684,
+          "topicality": 0.00018121563
+        },
+        {
+          "description": "Ticket",
+          "mid": "/m/02py351",
+          "score": 0.62279344,
+          "topicality": 0.8517819
+        },
+        {
+          "description": "Label",
+          "mid": "/m/05c0n6k",
+          "score": 0.6015553,
+          "topicality": 0.030529534
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.58042896,
+          "topicality": 0.0014771944
+        }
+      ]
+    }
+  ]
+}

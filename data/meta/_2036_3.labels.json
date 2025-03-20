@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Rural area",
+          "mid": "/m/01f4td",
+          "score": 0.88459986,
+          "topicality": 0.27574614
+        },
+        {
+          "description": "Animation",
+          "mid": "/m/0hcr",
+          "score": 0.8809454,
+          "topicality": 0.03408031
+        },
+        {
+          "description": "Cartoon",
+          "mid": "/m/0215n",
+          "score": 0.850489,
+          "topicality": 0.41323888
+        },
+        {
+          "description": "Hut",
+          "mid": "/m/08yp1s",
+          "score": 0.81617415,
+          "topicality": 0.07685836
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.80793947,
+          "topicality": 0.38517433
+        },
+        {
+          "description": "Farm",
+          "mid": "/m/0g8p9",
+          "score": 0.7859997,
+          "topicality": 0.14087285
+        },
+        {
+          "description": "Shed",
+          "mid": "/m/01n6fd",
+          "score": 0.76884043,
+          "topicality": 0.019435316
+        },
+        {
+          "description": "Village",
+          "mid": "/m/0f0q9",
+          "score": 0.74197656,
+          "topicality": 0.16812651
+        },
+        {
+          "description": "Chimney",
+          "mid": "/m/01jk_4",
+          "score": 0.7414637,
+          "topicality": 0.00420384
+        },
+        {
+          "description": "Field",
+          "mid": "/m/0brn2d",
+          "score": 0.7331254,
+          "topicality": 0.09424782
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bodybuilder",
+          "mid": "/m/02h6dmm",
+          "score": 0.9819881,
+          "topicality": 0.109590985
+        },
+        {
+          "description": "Shoulder",
+          "mid": "/m/01ssh5",
+          "score": 0.9808363,
+          "topicality": 0.069411196
+        },
+        {
+          "description": "Bodybuilding",
+          "mid": "/m/01ddm",
+          "score": 0.9762501,
+          "topicality": 0.32265994
+        },
+        {
+          "description": "Physical fitness",
+          "mid": "/m/027x7n",
+          "score": 0.96549064,
+          "topicality": 0.29373035
+        },
+        {
+          "description": "Standing",
+          "mid": "/m/02wzbmj",
+          "score": 0.95607716
+        },
+        {
+          "description": "Neck",
+          "mid": "/m/0dzd8",
+          "score": 0.9560454,
+          "topicality": 0.010351693
+        },
+        {
+          "description": "Abdomen",
+          "mid": "/m/08y7p8",
+          "score": 0.9495398,
+          "topicality": 0.36471525
+        },
+        {
+          "description": "Muscle",
+          "mid": "/m/04_fs",
+          "score": 0.94741994,
+          "topicality": 0.48128608
+        },
+        {
+          "description": "Stomach",
+          "mid": "/m/09x8z",
+          "score": 0.93283904,
+          "topicality": 0.031521555
+        },
+        {
+          "description": "Torso",
+          "mid": "/m/031vtq",
+          "score": 0.9230403,
+          "topicality": 0.4785269
+        }
+      ]
+    }
+  ]
+}

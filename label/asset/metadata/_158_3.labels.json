@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.90624017,
+          "topicality": 0.011303574
+        },
+        {
+          "description": "Car door",
+          "mid": "/m/02q2kc3",
+          "score": 0.8668376,
+          "topicality": 0.019884959
+        },
+        {
+          "description": "Car seat",
+          "mid": "/m/0268t21",
+          "score": 0.80025613,
+          "topicality": 0.07383287
+        },
+        {
+          "description": "Blond",
+          "mid": "/m/0294jb",
+          "score": 0.76941985,
+          "topicality": 0.012118592
+        },
+        {
+          "description": "Family car",
+          "mid": "/m/088l6h",
+          "score": 0.76900274,
+          "topicality": 0.014967565
+        },
+        {
+          "description": "Luxury vehicle",
+          "mid": "/m/01lcwm",
+          "score": 0.69226134,
+          "topicality": 0.0012048193
+        },
+        {
+          "description": "Head restraint",
+          "mid": "/m/0fy6nv",
+          "score": 0.5822039,
+          "topicality": 0.008032527
+        },
+        {
+          "description": "Seat belt",
+          "mid": "/m/0dkzw",
+          "score": 0.5209199,
+          "topicality": 0.43194935
+        }
+      ]
+    }
+  ]
+}

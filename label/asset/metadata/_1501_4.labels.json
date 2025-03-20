@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.84499,
+          "topicality": 0.040759135
+        },
+        {
+          "description": "Electronic musical instrument",
+          "mid": "/m/02qjv",
+          "score": 0.6840337,
+          "topicality": 0.012202808
+        },
+        {
+          "description": "Office Equipment",
+          "mid": "/m/03qtgjk",
+          "score": 0.6700896,
+          "topicality": 0.00062769244
+        },
+        {
+          "description": "Electronics",
+          "mid": "/m/02mrp",
+          "score": 0.6243416,
+          "topicality": 0.06831544
+        },
+        {
+          "description": "Security",
+          "mid": "/m/0bg2p",
+          "score": 0.5169858,
+          "topicality": 0.0024089955
+        }
+      ]
+    }
+  ]
+}

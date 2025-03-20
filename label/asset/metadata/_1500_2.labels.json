@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hair",
+          "mid": "/m/03q69",
+          "score": 0.99067795,
+          "topicality": 0.4054837
+        },
+        {
+          "description": "Hairstyle",
+          "mid": "/m/0ds4x",
+          "score": 0.9703511,
+          "topicality": 0.85282314
+        },
+        {
+          "description": "Collar",
+          "mid": "/m/091410",
+          "score": 0.9681038,
+          "topicality": 0.0008441286
+        },
+        {
+          "description": "Jaw",
+          "mid": "/m/01k9lj",
+          "score": 0.9610175,
+          "topicality": 0.012805615
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94493747,
+          "topicality": 0.004164262
+        },
+        {
+          "description": "Dress shirt",
+          "mid": "/m/06hwcd",
+          "score": 0.89235127,
+          "topicality": 0.00022812137
+        },
+        {
+          "description": "Quiff",
+          "mid": "/m/02dgws",
+          "score": 0.85391927,
+          "topicality": 0.28656206
+        },
+        {
+          "description": "Model",
+          "mid": "/m/0d1pc",
+          "score": 0.83547896,
+          "topicality": 0.20932609
+        },
+        {
+          "description": "Brown hair",
+          "mid": "/m/02ksmb",
+          "score": 0.7771441,
+          "topicality": 0.0048147305
+        },
+        {
+          "description": "Photo shoot",
+          "mid": "/m/02qbl1m",
+          "score": 0.74371064,
+          "topicality": 0.011341124
+        }
+      ]
+    }
+  ]
+}

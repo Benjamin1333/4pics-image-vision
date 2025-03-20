@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.9097795,
+          "topicality": 0.12546505
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.8811862,
+          "topicality": 0.025602484
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.85928965,
+          "topicality": 0.027240627
+        },
+        {
+          "description": "Party Supply",
+          "mid": "/m/0cmqr_4",
+          "score": 0.81635463,
+          "topicality": 0.0021134068
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.8147437,
+          "topicality": 0.009377248
+        },
+        {
+          "description": "Play",
+          "mid": "/m/06wtgq",
+          "score": 0.8017729,
+          "topicality": 0.00058242603
+        },
+        {
+          "description": "Toddler",
+          "mid": "/m/01bgsw",
+          "score": 0.706489,
+          "topicality": 0.027361758
+        },
+        {
+          "description": "Baby toys",
+          "mid": "/m/0cm3fq4",
+          "score": 0.68500483,
+          "topicality": 0.00076048827
+        },
+        {
+          "description": "Retail",
+          "mid": "/m/0191_7",
+          "score": 0.6669052,
+          "topicality": 0.0030413289
+        }
+      ]
+    }
+  ]
+}

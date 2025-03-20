@@ -1,0 +1,14 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Stadium",
+          "mid": "/m/019cfy",
+          "score": 0.5068534,
+          "topicality": 0.053736754
+        }
+      ]
+    }
+  ]
+}

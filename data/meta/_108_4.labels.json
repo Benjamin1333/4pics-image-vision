@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Green",
+          "mid": "/m/038hg",
+          "score": 0.97967964,
+          "topicality": 0.14169468
+        },
+        {
+          "description": "Natural environment",
+          "mid": "/m/02py09",
+          "score": 0.97724617,
+          "topicality": 0.1717128
+        },
+        {
+          "description": "Leaf",
+          "mid": "/m/09t49",
+          "score": 0.97723496,
+          "topicality": 0.031349737
+        },
+        {
+          "description": "Nature",
+          "mid": "/m/05h0n",
+          "score": 0.97655165,
+          "topicality": 0.29764766
+        },
+        {
+          "description": "Wood",
+          "mid": "/m/083vt",
+          "score": 0.96985143,
+          "topicality": 0.019480513
+        },
+        {
+          "description": "Forest",
+          "mid": "/m/02zr8",
+          "score": 0.9642223,
+          "topicality": 0.78072023
+        },
+        {
+          "description": "Vegetation",
+          "mid": "/m/01fnns",
+          "score": 0.9631804,
+          "topicality": 0.07240536
+        },
+        {
+          "description": "Natural landscape",
+          "mid": "/m/03d28y3",
+          "score": 0.95571524,
+          "topicality": 0.03391564
+        },
+        {
+          "description": "Ecoregion",
+          "mid": "/m/0cblv",
+          "score": 0.92676234,
+          "topicality": 0.0013124142
+        },
+        {
+          "description": "Jungle",
+          "mid": "/m/01y3fy",
+          "score": 0.9230916,
+          "topicality": 0.08846523
+        }
+      ]
+    }
+  ]
+}

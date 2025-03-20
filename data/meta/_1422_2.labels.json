@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.9152514,
+          "topicality": 0.08045603
+        },
+        {
+          "description": "Drinkware",
+          "mid": "/m/050h26",
+          "score": 0.8771552,
+          "topicality": 0.0010298599
+        },
+        {
+          "description": "Drinking",
+          "mid": "/m/0hjbz",
+          "score": 0.8294125,
+          "topicality": 0.04815733
+        },
+        {
+          "description": "Thumb",
+          "mid": "/m/01bmhj",
+          "score": 0.81715477,
+          "topicality": 0.0036097686
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.77726585,
+          "topicality": 0.00025116955
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.62650216,
+          "topicality": 0.06457939
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.5915244,
+          "topicality": 0.041818336
+        },
+        {
+          "description": "Cup",
+          "mid": "/m/08gqpm",
+          "score": 0.56050164,
+          "topicality": 0.028387703
+        }
+      ]
+    }
+  ]
+}

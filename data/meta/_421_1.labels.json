@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Waterway",
+          "mid": "/m/017m8l",
+          "score": 0.9600621,
+          "topicality": 0.16547824
+        },
+        {
+          "description": "Boat",
+          "mid": "/m/019jd",
+          "score": 0.9570978,
+          "topicality": 0.14745817
+        },
+        {
+          "description": "Watercourse",
+          "mid": "/m/03kj4q",
+          "score": 0.9086756,
+          "topicality": 0.0014170443
+        },
+        {
+          "description": "Canal",
+          "mid": "/m/01pvk",
+          "score": 0.9048827,
+          "topicality": 0.79668397
+        },
+        {
+          "description": "Watercraft",
+          "mid": "/m/01rzcn",
+          "score": 0.9035433,
+          "topicality": 0.010054332
+        },
+        {
+          "description": "Channel",
+          "mid": "/m/03h5wy",
+          "score": 0.8811149,
+          "topicality": 0.0035241467
+        },
+        {
+          "description": "Public transport",
+          "mid": "/m/05zdp",
+          "score": 0.74659616,
+          "topicality": 0.0005584489
+        },
+        {
+          "description": "Naval architecture",
+          "mid": "/m/0k5qm",
+          "score": 0.739219,
+          "topicality": 0.0003405736
+        },
+        {
+          "description": "Ship",
+          "mid": "/m/06q74",
+          "score": 0.69678515,
+          "topicality": 0.03682436
+        },
+        {
+          "description": "Boats and boating--Equipment and supplies",
+          "mid": "/m/0bp3j53",
+          "score": 0.6530468,
+          "topicality": 0.00011261448
+        }
+      ]
+    }
+  ]
+}

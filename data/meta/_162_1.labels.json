@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Eyewear",
+          "mid": "/m/0j272k5",
+          "score": 0.98318416,
+          "topicality": 0.0032224166
+        },
+        {
+          "description": "Goggles",
+          "mid": "/m/02_n6y",
+          "score": 0.8750104,
+          "topicality": 0.1426295
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.78666,
+          "topicality": 0.07139926
+        },
+        {
+          "description": "Sunglasses",
+          "mid": "/m/017ftj",
+          "score": 0.7811577,
+          "topicality": 0.03350078
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.7288281,
+          "topicality": 0.117391616
+        },
+        {
+          "description": "Photo shoot",
+          "mid": "/m/02qbl1m",
+          "score": 0.6220905,
+          "topicality": 0.06636407
+        },
+        {
+          "description": "Child model",
+          "mid": "/m/0bgmt1",
+          "score": 0.5629065,
+          "topicality": 0.025346706
+        }
+      ]
+    }
+  ]
+}

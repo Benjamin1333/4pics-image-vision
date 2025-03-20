@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sunglasses",
+          "mid": "/m/017ftj",
+          "score": 0.690117,
+          "topicality": 0.001882599
+        },
+        {
+          "description": "Walking",
+          "mid": "/m/083mg",
+          "score": 0.5948948,
+          "topicality": 0.076557025
+        }
+      ]
+    }
+  ]
+}

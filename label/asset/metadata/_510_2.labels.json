@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sculpture",
+          "mid": "/m/06msq",
+          "score": 0.95576006,
+          "topicality": 0.30756202
+        },
+        {
+          "description": "Statue",
+          "mid": "/m/013_1c",
+          "score": 0.82569283,
+          "topicality": 0.36915404
+        },
+        {
+          "description": "Bronze",
+          "mid": "/m/01brf",
+          "score": 0.69467306,
+          "topicality": 0.3901624
+        },
+        {
+          "description": "Classical sculpture",
+          "mid": "/m/095yjj",
+          "score": 0.62307006,
+          "topicality": 0.006258173
+        },
+        {
+          "description": "Bronze sculpture",
+          "mid": "/m/01yx86",
+          "score": 0.5605915,
+          "topicality": 0.35994682
+        },
+        {
+          "description": "Brass",
+          "mid": "/m/01504",
+          "score": 0.51137733,
+          "topicality": 0.01854082
+        }
+      ]
+    }
+  ]
+}

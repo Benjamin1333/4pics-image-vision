@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Measuring instrument",
+          "mid": "/m/056hv",
+          "score": 0.85514987,
+          "topicality": 0.016349979
+        },
+        {
+          "description": "Number",
+          "mid": "/m/05fwb",
+          "score": 0.7693065,
+          "topicality": 0.0029965653
+        },
+        {
+          "description": "Compass",
+          "mid": "/m/09srw",
+          "score": 0.73351425,
+          "topicality": 0.6971056
+        },
+        {
+          "description": "Triangle",
+          "mid": "/m/07jx7",
+          "score": 0.60560125,
+          "topicality": 0.0018241948
+        },
+        {
+          "description": "Clock",
+          "mid": "/m/01x3z",
+          "score": 0.5748122,
+          "topicality": 0.11651975
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.52798283,
+          "topicality": 0.015954854
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9776236,
+          "topicality": 0.518991
+        },
+        {
+          "description": "Natural material",
+          "mid": "/m/07sx2n",
+          "score": 0.77707386,
+          "topicality": 0.0003367652
+        },
+        {
+          "description": "Feather",
+          "mid": "/m/0dfgf",
+          "score": 0.75849897,
+          "topicality": 0.029574392
+        },
+        {
+          "description": "Fur",
+          "mid": "/m/0cnmr",
+          "score": 0.7052534,
+          "topicality": 0.050256763
+        },
+        {
+          "description": "Wig",
+          "mid": "/m/01hzl4",
+          "score": 0.6832899,
+          "topicality": 0.08126299
+        },
+        {
+          "description": "Red hair",
+          "mid": "/m/01ntt3",
+          "score": 0.6639492,
+          "topicality": 0.043261524
+        },
+        {
+          "description": "Artificial hair integrations",
+          "mid": "/m/07fnvh",
+          "score": 0.57974225,
+          "topicality": 0.031394653
+        },
+        {
+          "description": "Animal product",
+          "mid": "/m/0ckdlq",
+          "score": 0.5517673,
+          "topicality": 0.00040884427
+        }
+      ]
+    }
+  ]
+}

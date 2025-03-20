@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9660025,
+          "topicality": 0.028095642
+        },
+        {
+          "description": "V sign",
+          "mid": "/m/01zf7q",
+          "score": 0.94160146,
+          "topicality": 0.19516648
+        },
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.94110644,
+          "topicality": 0.6866959
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.89616406,
+          "topicality": 0.61950403
+        },
+        {
+          "description": "Thumb signal",
+          "mid": "/m/0bss51",
+          "score": 0.8636559,
+          "topicality": 0.4745548
+        },
+        {
+          "description": "Sign language",
+          "mid": "/m/06x0q",
+          "score": 0.74067694,
+          "topicality": 0.15266886
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.6797115,
+          "topicality": 0.03952961
+        },
+        {
+          "description": "Sign",
+          "mid": "/m/06zsq",
+          "score": 0.5638107,
+          "topicality": 0.035825446
+        }
+      ]
+    }
+  ]
+}

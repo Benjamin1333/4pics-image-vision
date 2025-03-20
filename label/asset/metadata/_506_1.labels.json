@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bicycle",
+          "mid": "/m/0199g",
+          "score": 0.93655705,
+          "topicality": 0.3339676
+        },
+        {
+          "description": "Bicycle chain",
+          "mid": "/m/01pdqq",
+          "score": 0.92227423,
+          "topicality": 0.37084427
+        },
+        {
+          "description": "Crankset",
+          "mid": "/m/01ms7j",
+          "score": 0.9175664,
+          "topicality": 0.49576926
+        },
+        {
+          "description": "Bicycles--Equipment and supplies",
+          "mid": "/m/0bpnmk0",
+          "score": 0.8929644,
+          "topicality": 2.1913871e-05
+        },
+        {
+          "description": "Gear",
+          "mid": "/m/0l7xg",
+          "score": 0.8744933,
+          "topicality": 0.006839705
+        },
+        {
+          "description": "Derailleur gears",
+          "mid": "/m/01bsyy",
+          "score": 0.8224845,
+          "topicality": 0.2001292
+        },
+        {
+          "description": "Bicycle frame",
+          "mid": "/m/01bqgn",
+          "score": 0.8208352,
+          "topicality": 0.023904486
+        },
+        {
+          "description": "Metal",
+          "mid": "/m/04t7l",
+          "score": 0.7890908,
+          "topicality": 0.031334445
+        },
+        {
+          "description": "Groupset",
+          "mid": "/m/02j4ms",
+          "score": 0.76621956,
+          "topicality": 0.22022168
+        },
+        {
+          "description": "Bicycle Wheel Rim",
+          "mid": "/m/0h8n90g",
+          "score": 0.75847036,
+          "topicality": 5.3760217e-05
+        }
+      ]
+    }
+  ]
+}

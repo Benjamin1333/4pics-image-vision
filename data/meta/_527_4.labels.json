@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Paper",
+          "mid": "/m/0641k",
+          "score": 0.9595603,
+          "topicality": 0.055576
+        },
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.93756676,
+          "topicality": 0.00035044173
+        },
+        {
+          "description": "Cheque",
+          "mid": "/m/04nmy9",
+          "score": 0.9296659,
+          "topicality": 0.83110183
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.9221608,
+          "topicality": 0.0027819425
+        },
+        {
+          "description": "Number",
+          "mid": "/m/05fwb",
+          "score": 0.7888604,
+          "topicality": 0.0013778971
+        },
+        {
+          "description": "Writing implement",
+          "mid": "/m/06wybl",
+          "score": 0.78687066,
+          "topicality": 0.0019059395
+        },
+        {
+          "description": "Stationery",
+          "mid": "/m/01cndb",
+          "score": 0.7597722,
+          "topicality": 0.0040710988
+        },
+        {
+          "description": "Office Instrument",
+          "mid": "/m/0h8m01z",
+          "score": 0.7567574,
+          "topicality": 0.00011891196
+        },
+        {
+          "description": "Document",
+          "mid": "/m/015bv3",
+          "score": 0.7527894,
+          "topicality": 0.34754297
+        },
+        {
+          "description": "Office Equipment",
+          "mid": "/m/03qtgjk",
+          "score": 0.73166996,
+          "topicality": 4.664569e-05
+        }
+      ]
+    }
+  ]
+}

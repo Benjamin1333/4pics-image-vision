@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9444586,
+          "topicality": 0.026787478
+        },
+        {
+          "description": "Milk",
+          "mid": "/m/04zpv",
+          "score": 0.9382729,
+          "topicality": 0.8759904
+        },
+        {
+          "description": "Dairy product",
+          "mid": "/m/0284d",
+          "score": 0.9301908,
+          "topicality": 0.3794525
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.9159318,
+          "topicality": 0.09264607
+        },
+        {
+          "description": "Almond milk",
+          "mid": "/m/03376x",
+          "score": 0.8430852,
+          "topicality": 0.034542285
+        },
+        {
+          "description": "Plant milk",
+          "mid": "/m/07km6d",
+          "score": 0.82367456,
+          "topicality": 0.051072594
+        },
+        {
+          "description": "Raw milk",
+          "mid": "/m/02rmhs",
+          "score": 0.8064044,
+          "topicality": 0.14969885
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.7903003,
+          "topicality": 0.06227803
+        },
+        {
+          "description": "Hemp milk",
+          "mid": "/m/05p4b63",
+          "score": 0.7839303,
+          "topicality": 0.002133948
+        },
+        {
+          "description": "Grain milk",
+          "mid": "/m/05pfqg",
+          "score": 0.778088,
+          "topicality": 0.0056310766
+        }
+      ]
+    }
+  ]
+}

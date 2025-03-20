@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.9896178,
+          "topicality": 0.04360076
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.98645574,
+          "topicality": 0.07787332
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94494873,
+          "topicality": 0.00059774145
+        },
+        {
+          "description": "Headgear",
+          "mid": "/m/01443y",
+          "score": 0.93876797,
+          "topicality": 0.00093914184
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.9257094,
+          "topicality": 0.08370145
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.9157052,
+          "topicality": 0.014526702
+        },
+        {
+          "description": "Spring",
+          "mid": "/m/01txr2",
+          "score": 0.87507665,
+          "topicality": 0.03951933
+        },
+        {
+          "description": "People in nature",
+          "mid": "/j/3gbwgn",
+          "score": 0.8563296,
+          "topicality": 0.0010204941
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.7776526,
+          "topicality": 0.0034980488
+        },
+        {
+          "description": "Meadow",
+          "mid": "/m/025st_8",
+          "score": 0.75740397,
+          "topicality": 0.011705076
+        }
+      ]
+    }
+  ]
+}

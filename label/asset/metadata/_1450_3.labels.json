@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Agriculture",
+          "mid": "/m/0hkf",
+          "score": 0.9182005,
+          "topicality": 0.3433114
+        },
+        {
+          "description": "Field",
+          "mid": "/m/0brn2d",
+          "score": 0.7737044,
+          "topicality": 0.17510282
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.75509715,
+          "topicality": 0.0055626133
+        },
+        {
+          "description": "Plantation",
+          "mid": "/m/011yvr",
+          "score": 0.72528875,
+          "topicality": 0.08191976
+        },
+        {
+          "description": "Crop",
+          "mid": "/m/0263lr1",
+          "score": 0.7102122,
+          "topicality": 0.2840439
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.7080042,
+          "topicality": 0.060313184
+        },
+        {
+          "description": "Legume",
+          "mid": "/m/01sfdb",
+          "score": 0.6796614,
+          "topicality": 0.06392864
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.6718473,
+          "topicality": 0.000697009
+        },
+        {
+          "description": "Legumes",
+          "mid": "/m/0gyw4",
+          "score": 0.59359205,
+          "topicality": 0.06947589
+        },
+        {
+          "description": "Farm",
+          "mid": "/m/0g8p9",
+          "score": 0.5926717,
+          "topicality": 0.006438472
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Witch hat",
+          "mid": "/m/010lq47b",
+          "score": 0.9825644,
+          "topicality": 0.6300794
+        },
+        {
+          "description": "Hat",
+          "mid": "/m/02dl1y",
+          "score": 0.97071797,
+          "topicality": 0.14800356
+        },
+        {
+          "description": "Headgear",
+          "mid": "/m/01443y",
+          "score": 0.95442134,
+          "topicality": 0.0011691193
+        },
+        {
+          "description": "Sun hat",
+          "mid": "/m/02wbtzl",
+          "score": 0.90142673,
+          "topicality": 0.0005043158
+        },
+        {
+          "description": "Costume Hat",
+          "mid": "/m/0hgs54_",
+          "score": 0.78851885,
+          "topicality": 0.00045032275
+        },
+        {
+          "description": "Costume",
+          "mid": "/m/0250x",
+          "score": 0.7603318,
+          "topicality": 0.033979923
+        },
+        {
+          "description": "Fictional character",
+          "mid": "/m/02h7lkt",
+          "score": 0.75302655,
+          "topicality": 0.00045300304
+        },
+        {
+          "description": "Fedora",
+          "mid": "/m/02fq_6",
+          "score": 0.7210982,
+          "topicality": 0.00018318566
+        },
+        {
+          "description": "Magician",
+          "mid": "/m/0268z7y",
+          "score": 0.67412436,
+          "topicality": 0.6385839
+        },
+        {
+          "description": "Cauldron",
+          "mid": "/m/01l7w1",
+          "score": 0.66412413,
+          "topicality": 0.48584095
+        }
+      ]
+    }
+  ]
+}

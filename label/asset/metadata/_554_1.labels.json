@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9851323,
+          "topicality": 0.08328746
+        },
+        {
+          "description": "Trousers",
+          "mid": "/m/07mhn",
+          "score": 0.9581527,
+          "topicality": 0.0014091501
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.9387158,
+          "topicality": 0.008310112
+        },
+        {
+          "description": "Winter",
+          "mid": "/m/086mh",
+          "score": 0.9262732,
+          "topicality": 0.21971987
+        },
+        {
+          "description": "Playing in the snow",
+          "mid": "/j/c563rv",
+          "score": 0.9186551,
+          "topicality": 0.005907808
+        },
+        {
+          "description": "Snow",
+          "mid": "/m/06_dn",
+          "score": 0.88783395,
+          "topicality": 0.19849958
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.88761014,
+          "topicality": 0.043183476
+        },
+        {
+          "description": "Freezing",
+          "mid": "/m/01c791",
+          "score": 0.8363237,
+          "topicality": 0.0068180356
+        },
+        {
+          "description": "People in nature",
+          "mid": "/j/3gbwgn",
+          "score": 0.8360135,
+          "topicality": 0.000100697696
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.80855095,
+          "topicality": 0.018256335
+        }
+      ]
+    }
+  ]
+}

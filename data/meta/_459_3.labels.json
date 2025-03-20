@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Dog",
+          "mid": "/m/0bt9lr",
+          "score": 0.99548584,
+          "topicality": 0.73475695
+        },
+        {
+          "description": "Carnivores",
+          "mid": "/m/01lrl",
+          "score": 0.92796844,
+          "topicality": 0.005383449
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.84939986,
+          "topicality": 0.024520261
+        },
+        {
+          "description": "Dog Clothes",
+          "mid": "/m/0h8nlvj",
+          "score": 0.8373054,
+          "topicality": 0.008165633
+        },
+        {
+          "description": "Party hat",
+          "mid": "/m/06t241",
+          "score": 0.8231384,
+          "topicality": 0.2024511
+        },
+        {
+          "description": "Canidae",
+          "mid": "/m/01z5f",
+          "score": 0.791253,
+          "topicality": 0.026742274
+        },
+        {
+          "description": "Cone",
+          "mid": "/m/03bzp0",
+          "score": 0.74960583,
+          "topicality": 0.0010704253
+        },
+        {
+          "description": "Pet Supply",
+          "mid": "/m/0h8ks17",
+          "score": 0.73679245,
+          "topicality": 8.775618e-05
+        },
+        {
+          "description": "Toy dog",
+          "mid": "/m/036hyn",
+          "score": 0.7261285,
+          "topicality": 0.0058867782
+        },
+        {
+          "description": "Dog Supply",
+          "mid": "/m/0h8nm96",
+          "score": 0.69006366,
+          "topicality": 0.00013820613
+        }
+      ]
+    }
+  ]
+}

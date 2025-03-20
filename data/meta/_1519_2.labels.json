@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Alcoholic drink",
+          "mid": "/m/012mj",
+          "score": 0.9613364,
+          "topicality": 0.33251512
+        },
+        {
+          "description": "Tableware",
+          "mid": "/m/04brg2",
+          "score": 0.9567033,
+          "topicality": 0.0009363033
+        },
+        {
+          "description": "Beer",
+          "mid": "/m/01599",
+          "score": 0.95165336,
+          "topicality": 0.66939265
+        },
+        {
+          "description": "Drinkware",
+          "mid": "/m/050h26",
+          "score": 0.95041466,
+          "topicality": 0.0006603922
+        },
+        {
+          "description": "Beer glassware",
+          "mid": "/m/0bs7sg",
+          "score": 0.9036029,
+          "topicality": 0.021540469
+        },
+        {
+          "description": "Barware",
+          "mid": "/m/0h8nvcj",
+          "score": 0.90142816,
+          "topicality": 0.0015054783
+        },
+        {
+          "description": "Bia hơi",
+          "mid": "/m/04jldzm",
+          "score": 0.900865,
+          "topicality": 0.006977178
+        },
+        {
+          "description": "Drinking",
+          "mid": "/m/0hjbz",
+          "score": 0.8958414,
+          "topicality": 0.40771523
+        },
+        {
+          "description": "Liquor",
+          "mid": "/m/04shl0",
+          "score": 0.89220935,
+          "topicality": 0.0069888756
+        },
+        {
+          "description": "Alcohol",
+          "mid": "/m/0lqk",
+          "score": 0.8861891,
+          "topicality": 0.16300724
+        }
+      ]
+    }
+  ]
+}

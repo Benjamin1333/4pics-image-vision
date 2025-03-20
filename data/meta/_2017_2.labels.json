@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Drinkware",
+          "mid": "/m/050h26",
+          "score": 0.9478295,
+          "topicality": 0.059657894
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.9195823,
+          "topicality": 0.08896586
+        },
+        {
+          "description": "Glass",
+          "mid": "/m/039jq",
+          "score": 0.8873013,
+          "topicality": 0.5953593
+        },
+        {
+          "description": "Barware",
+          "mid": "/m/0h8nvcj",
+          "score": 0.62518305,
+          "topicality": 0.0002787303
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.59164184,
+          "topicality": 0.13751143
+        },
+        {
+          "description": "Drinking water",
+          "mid": "/m/01c6xf",
+          "score": 0.58473426,
+          "topicality": 0.27025184
+        },
+        {
+          "description": "Pitcher",
+          "mid": "/m/054fyh",
+          "score": 0.5590403,
+          "topicality": 0.37165752
+        },
+        {
+          "description": "Cocktail",
+          "mid": "/m/024g6",
+          "score": 0.5459399,
+          "topicality": 0.0050831535
+        },
+        {
+          "description": "Highball glass",
+          "mid": "/m/049wwj",
+          "score": 0.54319894,
+          "topicality": 0.0073059523
+        }
+      ]
+    }
+  ]
+}

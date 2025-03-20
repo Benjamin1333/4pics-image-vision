@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Scaled reptiles",
+          "mid": "/m/01shdw",
+          "score": 0.8425266,
+          "topicality": 0.16143487
+        },
+        {
+          "description": "Reptile",
+          "mid": "/m/06bt6",
+          "score": 0.79868686,
+          "topicality": 0.18611023
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.7207575,
+          "topicality": 0.0005071082
+        },
+        {
+          "description": "Anguidae",
+          "mid": "/m/01vrjw",
+          "score": 0.55033535,
+          "topicality": 0.033975244
+        }
+      ]
+    }
+  ]
+}

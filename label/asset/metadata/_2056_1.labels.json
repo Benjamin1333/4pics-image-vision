@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Furniture",
+          "mid": "/m/0c_jw",
+          "score": 0.9920989,
+          "topicality": 0.3690692
+        },
+        {
+          "description": "Office chair",
+          "mid": "/m/08q1xp",
+          "score": 0.9797855,
+          "topicality": 0.37740102
+        },
+        {
+          "description": "Flooring",
+          "mid": "/m/01c34b",
+          "score": 0.9769755,
+          "topicality": 0.00083490595
+        },
+        {
+          "description": "Interior design",
+          "mid": "/m/02rfdq",
+          "score": 0.97125036,
+          "topicality": 0.016487269
+        },
+        {
+          "description": "Chair",
+          "mid": "/m/01mzpv",
+          "score": 0.96812975,
+          "topicality": 0.17793286
+        },
+        {
+          "description": "Floor",
+          "mid": "/m/0l7_8",
+          "score": 0.96421826,
+          "topicality": 0.0033086038
+        },
+        {
+          "description": "Table",
+          "mid": "/m/04bcr3",
+          "score": 0.948311,
+          "topicality": 0.1716203
+        },
+        {
+          "description": "Desk",
+          "mid": "/m/01y9k5",
+          "score": 0.8908048,
+          "topicality": 0.6606417
+        },
+        {
+          "description": "Shelving",
+          "mid": "/m/0h8n982",
+          "score": 0.8580691,
+          "topicality": 0.00034450306
+        },
+        {
+          "description": "Computer desk",
+          "mid": "/m/029bm2",
+          "score": 0.85006034,
+          "topicality": 0.07357789
+        }
+      ]
+    }
+  ]
+}

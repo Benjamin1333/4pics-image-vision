@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Facial hair",
+          "mid": "/m/0ds5b",
+          "score": 0.9830091,
+          "topicality": 0.019014293
+        },
+        {
+          "description": "Beard",
+          "mid": "/m/015h_t",
+          "score": 0.97737086,
+          "topicality": 0.071150996
+        },
+        {
+          "description": "Armour",
+          "mid": "/m/0x44",
+          "score": 0.96995324,
+          "topicality": 0.45337495
+        },
+        {
+          "description": "Chain mail",
+          "mid": "/m/01yx2",
+          "score": 0.96332175,
+          "topicality": 0.7710034
+        },
+        {
+          "description": "Headgear",
+          "mid": "/m/01443y",
+          "score": 0.95341235,
+          "topicality": 0.003941484
+        },
+        {
+          "description": "History",
+          "mid": "/m/03g3w",
+          "score": 0.90583843,
+          "topicality": 0.055033803
+        },
+        {
+          "description": "Knight",
+          "mid": "/m/049rd",
+          "score": 0.901179,
+          "topicality": 0.5034174
+        },
+        {
+          "description": "Costume",
+          "mid": "/m/0250x",
+          "score": 0.89873874,
+          "topicality": 0.0668474
+        },
+        {
+          "description": "Moustache",
+          "mid": "/m/0bby24z",
+          "score": 0.8785256,
+          "topicality": 0.01734108
+        },
+        {
+          "description": "Vikings",
+          "mid": "/m/07_my",
+          "score": 0.8777263,
+          "topicality": 0.72028536
+        }
+      ]
+    }
+  ]
+}

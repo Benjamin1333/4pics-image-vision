@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.9300078,
+          "topicality": 0.0005410666
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8520396,
+          "topicality": 0.0019767757
+        },
+        {
+          "description": "Electric battery",
+          "mid": "/m/01c0z",
+          "score": 0.84438676,
+          "topicality": 0.6377185
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.69560266,
+          "topicality": 0.018236008
+        },
+        {
+          "description": "Cylinder",
+          "mid": "/m/03h_4m",
+          "score": 0.62342644,
+          "topicality": 0.03466476
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Entertainment",
+          "mid": "/m/02jjt",
+          "score": 0.970897,
+          "topicality": 0.016591234
+        },
+        {
+          "description": "Performing Arts",
+          "mid": "/m/05qjc",
+          "score": 0.962196,
+          "topicality": 0.027631806
+        },
+        {
+          "description": "Dress",
+          "mid": "/m/01d40f",
+          "score": 0.9596448,
+          "topicality": 0.037345607
+        },
+        {
+          "description": "Performance",
+          "mid": "/m/01gq53",
+          "score": 0.95381105,
+          "topicality": 0.015439144
+        },
+        {
+          "description": "Audio equipment",
+          "mid": "/m/01yttv",
+          "score": 0.9308613,
+          "topicality": 0.00016504289
+        },
+        {
+          "description": "Music",
+          "mid": "/m/04rlf",
+          "score": 0.91935295,
+          "topicality": 0.22701918
+        },
+        {
+          "description": "Artist",
+          "mid": "/m/0n1h",
+          "score": 0.9082459,
+          "topicality": 0.008236711
+        },
+        {
+          "description": "Microphone",
+          "mid": "/m/0hg7b",
+          "score": 0.88765645,
+          "topicality": 0.02836826
+        },
+        {
+          "description": "Song",
+          "mid": "/m/074ft",
+          "score": 0.8598288,
+          "topicality": 0.04874667
+        },
+        {
+          "description": "Singing",
+          "mid": "/m/015lz1",
+          "score": 0.84422743,
+          "topicality": 0.13110286
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.98082155,
+          "topicality": 0.05093973
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.9630649,
+          "topicality": 0.09786253
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9449082,
+          "topicality": 0.00055390183
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.89652467,
+          "topicality": 0.025494892
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.7583455,
+          "topicality": 0.012988974
+        },
+        {
+          "description": "Bride",
+          "mid": "/m/0ltfs",
+          "score": 0.69762444,
+          "topicality": 0.06459377
+        },
+        {
+          "description": "Vacation",
+          "mid": "/m/02jwqh",
+          "score": 0.6759979,
+          "topicality": 0.039674852
+        },
+        {
+          "description": "Frozen dessert",
+          "mid": "/m/0465mr4",
+          "score": 0.6669656,
+          "topicality": 0.0015957807
+        },
+        {
+          "description": "Ice cream",
+          "mid": "/m/0cxn2",
+          "score": 0.6479456,
+          "topicality": 0.0684462
+        },
+        {
+          "description": "Laughter",
+          "mid": "/m/01j3sz",
+          "score": 0.6353855,
+          "topicality": 0.013408439
+        }
+      ]
+    }
+  ]
+}

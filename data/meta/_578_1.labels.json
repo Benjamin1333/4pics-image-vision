@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Pinniped",
+          "mid": "/m/0gd3n",
+          "score": 0.9638085,
+          "topicality": 0.56228673
+        },
+        {
+          "description": "Vertebrate",
+          "mid": "/m/09686",
+          "score": 0.9619184,
+          "topicality": 0.0034182286
+        },
+        {
+          "description": "Carnivores",
+          "mid": "/m/01lrl",
+          "score": 0.95573986,
+          "topicality": 0.0015620191
+        },
+        {
+          "description": "Earless seal",
+          "mid": "/m/02vng",
+          "score": 0.93675977,
+          "topicality": 0.40932223
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.91625756,
+          "topicality": 0.0014534523
+        },
+        {
+          "description": "Harbor seal",
+          "mid": "/m/02l8p9",
+          "score": 0.8863687,
+          "topicality": 0.40284562
+        },
+        {
+          "description": "Grey",
+          "mid": "/m/036k5h",
+          "score": 0.8293831,
+          "topicality": 0.050907888
+        },
+        {
+          "description": "Wildlife",
+          "mid": "/m/01280g",
+          "score": 0.8242171,
+          "topicality": 0.010788025
+        },
+        {
+          "description": "Whiskers",
+          "mid": "/m/01l7qd",
+          "score": 0.80633336,
+          "topicality": 0.0027980816
+        },
+        {
+          "description": "Fur seal",
+          "mid": "/m/033qx",
+          "score": 0.80076057,
+          "topicality": 0.04666952
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Martini Glass",
+          "mid": "/m/0h8ljlz",
+          "score": 0.96530104,
+          "topicality": 0.06692536
+        },
+        {
+          "description": "Tableware",
+          "mid": "/m/04brg2",
+          "score": 0.9287795,
+          "topicality": 0.0010494675
+        },
+        {
+          "description": "Drinkware",
+          "mid": "/m/050h26",
+          "score": 0.8689553,
+          "topicality": 0.00039179687
+        },
+        {
+          "description": "Stemware",
+          "mid": "/m/050h0q",
+          "score": 0.79705685,
+          "topicality": 0.0055408524
+        },
+        {
+          "description": "Cocktail",
+          "mid": "/m/024g6",
+          "score": 0.7841273,
+          "topicality": 0.47509745
+        },
+        {
+          "description": "Alcoholic drink",
+          "mid": "/m/012mj",
+          "score": 0.7557524,
+          "topicality": 0.08400103
+        },
+        {
+          "description": "Classic cocktail",
+          "mid": "/m/02879bl",
+          "score": 0.74754524,
+          "topicality": 0.0006281008
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.6824247,
+          "topicality": 0.061572388
+        },
+        {
+          "description": "Martini",
+          "mid": "/m/01w8pq",
+          "score": 0.6585918,
+          "topicality": 0.5762573
+        },
+        {
+          "description": "Champagne glass",
+          "mid": "/m/02q68d8",
+          "score": 0.56735444,
+          "topicality": 0.003792594
+        }
+      ]
+    }
+  ]
+}

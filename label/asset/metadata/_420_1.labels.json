@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Night",
+          "mid": "/m/01d74z",
+          "score": 0.9045036,
+          "topicality": 0.013739695
+        },
+        {
+          "description": "Darkness",
+          "mid": "/m/01kyr8",
+          "score": 0.8400025,
+          "topicality": 0.0025284146
+        },
+        {
+          "description": "Astronomical object",
+          "mid": "/m/01d9ll",
+          "score": 0.777353,
+          "topicality": 0.13338386
+        },
+        {
+          "description": "Sphere",
+          "mid": "/m/06y47",
+          "score": 0.7405137,
+          "topicality": 0.042078767
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.6074897,
+          "topicality": 0.037635066
+        },
+        {
+          "description": "Earth",
+          "mid": "/m/02j71",
+          "score": 0.54155356,
+          "topicality": 0.253734
+        },
+        {
+          "description": "Universe",
+          "mid": "/m/07v7c",
+          "score": 0.53981864,
+          "topicality": 0.097001225
+        },
+        {
+          "description": "Astronomy",
+          "mid": "/m/0dc_v",
+          "score": 0.5132131,
+          "topicality": 0.07666906
+        }
+      ]
+    }
+  ]
+}

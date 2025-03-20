@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.97381926,
+          "topicality": 0.04931151
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9533364,
+          "topicality": 0.033919178
+        },
+        {
+          "description": "Bathing",
+          "mid": "/m/036d30",
+          "score": 0.9485994,
+          "topicality": 0.20567639
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9449476,
+          "topicality": 0.008861212
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.9392572,
+          "topicality": 0.061942328
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.9353619,
+          "topicality": 0.28796372
+        },
+        {
+          "description": "Tooth brushing",
+          "mid": "/m/02ps_43",
+          "score": 0.9151457,
+          "topicality": 0.8050026
+        },
+        {
+          "description": "Baby bathing",
+          "mid": "/j/h0b541",
+          "score": 0.9122592,
+          "topicality": 0.007923401
+        },
+        {
+          "description": "Toothbrush",
+          "mid": "/m/012xff",
+          "score": 0.9100145,
+          "topicality": 0.023566397
+        },
+        {
+          "description": "Personal care",
+          "mid": "/m/02w3_ws",
+          "score": 0.8916409,
+          "topicality": 0.00021254297
+        }
+      ]
+    }
+  ]
+}

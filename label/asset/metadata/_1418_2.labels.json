@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Skin",
+          "mid": "/m/06z04",
+          "score": 0.9810495,
+          "topicality": 0.5854006
+        },
+        {
+          "description": "Fluid",
+          "mid": "/m/02yfx",
+          "score": 0.95260334,
+          "topicality": 0.004925008
+        },
+        {
+          "description": "Personal care",
+          "mid": "/m/02w3_ws",
+          "score": 0.88246125,
+          "topicality": 0.0029938146
+        },
+        {
+          "description": "Powder",
+          "mid": "/m/0gzznm",
+          "score": 0.8261522,
+          "topicality": 0.000967322
+        },
+        {
+          "description": "Cream",
+          "mid": "/m/08p92x",
+          "score": 0.7502911,
+          "topicality": 0.01606054
+        },
+        {
+          "description": "Skin Care",
+          "mid": "/m/0h8nrxj",
+          "score": 0.6854306,
+          "topicality": 0.0005947968
+        },
+        {
+          "description": "Foam",
+          "mid": "/m/01nnqh",
+          "score": 0.6661858,
+          "topicality": 0.06513667
+        },
+        {
+          "description": "Massage",
+          "mid": "/m/0b_nd",
+          "score": 0.65155166,
+          "topicality": 0.077605784
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.6221816,
+          "topicality": 0.00096017733
+        },
+        {
+          "description": "Hair removal",
+          "mid": "/m/0149qc",
+          "score": 0.6109292,
+          "topicality": 0.17304514
+        }
+      ]
+    }
+  ]
+}

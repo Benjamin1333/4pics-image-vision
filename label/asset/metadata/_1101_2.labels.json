@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Hand",
+          "mid": "/m/0k65p",
+          "score": 0.9713976,
+          "topicality": 0.07115991
+        },
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.95922226,
+          "topicality": 0.032136545
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.93485284,
+          "topicality": 0.037440844
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.9309153,
+          "topicality": 0.191086
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.8986272,
+          "topicality": 0.013413555
+        },
+        {
+          "description": "Wrist",
+          "mid": "/m/01j48b",
+          "score": 0.8711121,
+          "topicality": 0.004189791
+        },
+        {
+          "description": "Thumb",
+          "mid": "/m/01bmhj",
+          "score": 0.8582557,
+          "topicality": 0.024475258
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.84292793,
+          "topicality": 0.03249586
+        },
+        {
+          "description": "Conversation",
+          "mid": "/m/01h8n0",
+          "score": 0.7778325,
+          "topicality": 0.009865839
+        },
+        {
+          "description": "Playing with kids",
+          "mid": "/j/fplffb",
+          "score": 0.7417946,
+          "topicality": 0.009924233
+        }
+      ]
+    }
+  ]
+}

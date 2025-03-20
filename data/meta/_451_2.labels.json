@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sled",
+          "mid": "/m/0142vg",
+          "score": 0.9583159,
+          "topicality": 0.7925944
+        },
+        {
+          "description": "Winter",
+          "mid": "/m/086mh",
+          "score": 0.9572435,
+          "topicality": 0.37294632
+        },
+        {
+          "description": "Snow",
+          "mid": "/m/06_dn",
+          "score": 0.94909865,
+          "topicality": 0.19625369
+        },
+        {
+          "description": "Playing in the snow",
+          "mid": "/j/c563rv",
+          "score": 0.94466203,
+          "topicality": 0.006054554
+        },
+        {
+          "description": "Sledding",
+          "mid": "/m/02cxd4",
+          "score": 0.91893077,
+          "topicality": 0.6816778
+        },
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.91725796,
+          "topicality": 0.018558713
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.888008,
+          "topicality": 0.026430387
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.87938744,
+          "topicality": 0.0031556478
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.86117595,
+          "topicality": 0.030135056
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.85739416,
+          "topicality": 0.029484218
+        }
+      ]
+    }
+  ]
+}

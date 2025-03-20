@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9725219,
+          "topicality": 0.019393308
+        },
+        {
+          "description": "Phonograph record",
+          "mid": "/m/0174nj",
+          "score": 0.9161332,
+          "topicality": 0.9070492
+        },
+        {
+          "description": "Data storage",
+          "mid": "/m/06_6r",
+          "score": 0.7721074,
+          "topicality": 0.0020981196
+        },
+        {
+          "description": "Album",
+          "mid": "/m/02lx2r",
+          "score": 0.5564629,
+          "topicality": 0.03224671
+        }
+      ]
+    }
+  ]
+}

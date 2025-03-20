@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.91487676,
+          "topicality": 0.104712024
+        },
+        {
+          "description": "Balance",
+          "mid": "/m/03gs8b2",
+          "score": 0.6516214,
+          "topicality": 0.010769446
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.6469802,
+          "topicality": 0.003302558
+        },
+        {
+          "description": "Figurine",
+          "mid": "/m/01xmqj",
+          "score": 0.61336327,
+          "topicality": 0.031037763
+        },
+        {
+          "description": "Mannequin",
+          "mid": "/m/01gl_m",
+          "score": 0.5609721,
+          "topicality": 0.6157466
+        },
+        {
+          "description": "Baby toys",
+          "mid": "/m/0cm3fq4",
+          "score": 0.5180034,
+          "topicality": 0.00031161655
+        }
+      ]
+    }
+  ]
+}

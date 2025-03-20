@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Flooring",
+          "mid": "/m/01c34b",
+          "score": 0.93734956,
+          "topicality": 0.012053317
+        },
+        {
+          "description": "Floor",
+          "mid": "/m/0l7_8",
+          "score": 0.9322876,
+          "topicality": 0.18645482
+        },
+        {
+          "description": "Moving",
+          "mid": "/j/20b_h8",
+          "score": 0.84768486,
+          "topicality": 0.016786056
+        },
+        {
+          "description": "Package delivery",
+          "mid": "/m/01d743",
+          "score": 0.8413816,
+          "topicality": 0.004197946
+        },
+        {
+          "description": "Cardboard Packaging",
+          "mid": "/m/033rv2",
+          "score": 0.8411195,
+          "topicality": 0.0032371443
+        },
+        {
+          "description": "Shipping Box",
+          "mid": "/m/0h8p55j",
+          "score": 0.83924884,
+          "topicality": 0.0024411564
+        },
+        {
+          "description": "Wood flooring",
+          "mid": "/m/027xhm0",
+          "score": 0.8061542,
+          "topicality": 0.007801428
+        },
+        {
+          "description": "Hardwood",
+          "mid": "/m/020g49",
+          "score": 0.79042876,
+          "topicality": 0.003123289
+        },
+        {
+          "description": "cardboard",
+          "mid": "/m/03q7pgh",
+          "score": 0.78276616,
+          "topicality": 0.022181101
+        },
+        {
+          "description": "Relocation",
+          "mid": "/m/043rxy0",
+          "score": 0.73698777,
+          "topicality": 0.8146378
+        }
+      ]
+    }
+  ]
+}

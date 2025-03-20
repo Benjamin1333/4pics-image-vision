@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.89792454,
+          "topicality": 0.004991457
+        },
+        {
+          "description": "Paper",
+          "mid": "/m/0641k",
+          "score": 0.86715025,
+          "topicality": 0.53829473
+        },
+        {
+          "description": "Triangle",
+          "mid": "/m/07jx7",
+          "score": 0.80110294,
+          "topicality": 0.0927347
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.7601757,
+          "topicality": 0.011601513
+        },
+        {
+          "description": "Diagram",
+          "mid": "/m/02v0m2",
+          "score": 0.70046467,
+          "topicality": 0.00569803
+        }
+      ]
+    }
+  ]
+}

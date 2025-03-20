@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sewing machine",
+          "mid": "/m/0llzx",
+          "score": 0.9842728,
+          "topicality": 0.7071938
+        },
+        {
+          "description": "Sewing Machine Feet",
+          "mid": "/m/0hgs1d_",
+          "score": 0.8891102,
+          "topicality": 0.02020032
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.83913314,
+          "topicality": 0.13737588
+        },
+        {
+          "description": "Dressmaker",
+          "mid": "/m/0692cj",
+          "score": 0.70929885,
+          "topicality": 0.24908495
+        },
+        {
+          "description": "Tailor",
+          "mid": "/m/02sqzl",
+          "score": 0.6241921,
+          "topicality": 0.123483844
+        },
+        {
+          "description": "Sewing machine needle",
+          "mid": "/m/0crdgbv",
+          "score": 0.61743975,
+          "topicality": 0.019380273
+        },
+        {
+          "description": "Sewing",
+          "mid": "/m/0mz8t",
+          "score": 0.6135985,
+          "topicality": 0.6791721
+        },
+        {
+          "description": "Sewing needle",
+          "mid": "/m/03x3bw",
+          "score": 0.5428698,
+          "topicality": 0.06345654
+        },
+        {
+          "description": "Home appliance",
+          "mid": "/m/019dx1",
+          "score": 0.5071304,
+          "topicality": 0.004391947
+        }
+      ]
+    }
+  ]
+}

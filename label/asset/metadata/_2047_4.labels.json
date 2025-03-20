@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9678363,
+          "topicality": 0.25579798
+        },
+        {
+          "description": "Stairs",
+          "mid": "/m/01lynh",
+          "score": 0.70698696,
+          "topicality": 0.17731862
+        },
+        {
+          "description": "Design",
+          "mid": "/m/02cwm",
+          "score": 0.66531926,
+          "topicality": 0.019557307
+        }
+      ]
+    }
+  ]
+}

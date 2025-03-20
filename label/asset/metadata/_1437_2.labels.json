@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Skunks",
+          "mid": "/m/0km7z",
+          "score": 0.97763187,
+          "topicality": 0.9503498
+        },
+        {
+          "description": "Striped skunk",
+          "mid": "/m/0dd99j",
+          "score": 0.90415895,
+          "topicality": 0.8411923
+        },
+        {
+          "description": "Fur",
+          "mid": "/m/0cnmr",
+          "score": 0.8607249,
+          "topicality": 0.021689214
+        },
+        {
+          "description": "Tail",
+          "mid": "/m/06z_nw",
+          "score": 0.6160345,
+          "topicality": 0.07298724
+        }
+      ]
+    }
+  ]
+}

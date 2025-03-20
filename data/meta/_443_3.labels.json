@@ -1,0 +1,14 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.89453053,
+          "topicality": 0.0823789
+        }
+      ]
+    }
+  ]
+}

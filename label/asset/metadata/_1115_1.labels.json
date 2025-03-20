@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.920078,
+          "topicality": 0.26558208
+        },
+        {
+          "description": "Cosmetics",
+          "mid": "/m/014trl",
+          "score": 0.6267202,
+          "topicality": 0.013825902
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sand",
+          "mid": "/m/099fz",
+          "score": 0.9300098,
+          "topicality": 0.643141
+        },
+        {
+          "description": "Footprint",
+          "mid": "/m/0ftdwy",
+          "score": 0.9278562,
+          "topicality": 0.9795597
+        },
+        {
+          "description": "Beach",
+          "mid": "/m/0b3yr",
+          "score": 0.82006824,
+          "topicality": 0.50531757
+        },
+        {
+          "description": "Sunlight",
+          "mid": "/m/06z0n",
+          "score": 0.7932945,
+          "topicality": 0.0003120087
+        },
+        {
+          "description": "Paw",
+          "mid": "/m/023kp2",
+          "score": 0.7802104,
+          "topicality": 0.0155409565
+        },
+        {
+          "description": "Aeolian landform",
+          "mid": "/m/04gvhhy",
+          "score": 0.69010913,
+          "topicality": 0.0023840105
+        },
+        {
+          "description": "Singing sand",
+          "mid": "/m/0194v4",
+          "score": 0.6265601,
+          "topicality": 0.0035731208
+        },
+        {
+          "description": "Shadow",
+          "mid": "/m/01ft8k",
+          "score": 0.5248921,
+          "topicality": 0.051860124
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Tower",
+          "mid": "/m/01fdzj",
+          "score": 0.9211947,
+          "topicality": 0.27384257
+        },
+        {
+          "description": "Spire",
+          "mid": "/m/01c6yl",
+          "score": 0.9050432,
+          "topicality": 0.011580569
+        },
+        {
+          "description": "Finial",
+          "mid": "/m/03jnkr",
+          "score": 0.72985566,
+          "topicality": 0.0002575181
+        },
+        {
+          "description": "Steeple",
+          "mid": "/m/051rmm",
+          "score": 0.68812037,
+          "topicality": 0.0010488039
+        },
+        {
+          "description": "Collectable",
+          "mid": "/m/0ggr_",
+          "score": 0.6153817,
+          "topicality": 0.0076302206
+        },
+        {
+          "description": "Wonders of the World",
+          "mid": "/m/02y_3gd",
+          "score": 0.5832632,
+          "topicality": 0.0009794072
+        },
+        {
+          "description": "Collection",
+          "mid": "/m/08_4sd",
+          "score": 0.5671206,
+          "topicality": 0.0042554033
+        }
+      ]
+    }
+  ]
+}

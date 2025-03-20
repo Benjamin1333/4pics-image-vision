@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.96575063,
+          "topicality": 0.7808222
+        },
+        {
+          "description": "Play Vehicle",
+          "mid": "/m/0h8lhhb",
+          "score": 0.9571331,
+          "topicality": 0.14917357
+        },
+        {
+          "description": "Heavy equipment",
+          "mid": "/m/02gx17",
+          "score": 0.93884975,
+          "topicality": 0.37149245
+        },
+        {
+          "description": "Automotive Tire",
+          "mid": "/m/0h8pb3l",
+          "score": 0.9372531,
+          "topicality": 2.6225562e-05
+        },
+        {
+          "description": "Automotive Wheel System",
+          "mid": "/m/0h8ly30",
+          "score": 0.87746036,
+          "topicality": 2.2340982e-05
+        },
+        {
+          "description": "Tread",
+          "mid": "/m/04tkfx",
+          "score": 0.8640972,
+          "topicality": 0.0012413277
+        },
+        {
+          "description": "Bulldozer",
+          "mid": "/m/01tkqg",
+          "score": 0.8506766,
+          "topicality": 0.21149586
+        },
+        {
+          "description": "Baby toys",
+          "mid": "/m/0cm3fq4",
+          "score": 0.84196854,
+          "topicality": 0.025051855
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.83897877,
+          "topicality": 0.008643478
+        },
+        {
+          "description": "Rolling",
+          "mid": "/m/04c0lt",
+          "score": 0.7474717,
+          "topicality": 0.0011061649
+        }
+      ]
+    }
+  ]
+}

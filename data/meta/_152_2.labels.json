@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9861886,
+          "topicality": 0.32131517
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.98134345,
+          "topicality": 0.08462915
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94494617,
+          "topicality": 0.008576636
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.92424285,
+          "topicality": 0.0067262095
+        },
+        {
+          "description": "Love",
+          "mid": "/m/048knlz",
+          "score": 0.8695361,
+          "topicality": 0.12097507
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.8279404,
+          "topicality": 0.08409523
+        },
+        {
+          "description": "Leisure",
+          "mid": "/m/04g3r",
+          "score": 0.76816374,
+          "topicality": 0.0015339822
+        },
+        {
+          "description": "Fun",
+          "mid": "/m/0ds99lh",
+          "score": 0.7520314,
+          "topicality": 0.012958687
+        },
+        {
+          "description": "Laughter",
+          "mid": "/m/01j3sz",
+          "score": 0.71867347,
+          "topicality": 0.03919662
+        },
+        {
+          "description": "Throat",
+          "mid": "/m/0mhy4",
+          "score": 0.5956493,
+          "topicality": 0.005878919
+        }
+      ]
+    }
+  ]
+}

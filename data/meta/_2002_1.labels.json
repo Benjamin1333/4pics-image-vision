@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Mousepad",
+          "mid": "/m/02gkl_",
+          "score": 0.9316165,
+          "topicality": 0.9826532
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.6108077,
+          "topicality": 0.031166177
+        },
+        {
+          "description": "Mat",
+          "mid": "/m/02mp9v",
+          "score": 0.578475,
+          "topicality": 0.47283033
+        }
+      ]
+    }
+  ]
+}

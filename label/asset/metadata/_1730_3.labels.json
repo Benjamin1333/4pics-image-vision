@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.97399247,
+          "topicality": 0.03272064
+        },
+        {
+          "description": "Paint",
+          "mid": "/m/05y4t",
+          "score": 0.73585856,
+          "topicality": 0.026121832
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.70164496,
+          "topicality": 0.030577952
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.684399,
+          "topicality": 0.081388354
+        },
+        {
+          "description": "Watercolor painting",
+          "mid": "/m/018ktp",
+          "score": 0.6740864,
+          "topicality": 0.021217668
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.55161613,
+          "topicality": 0.013692704
+        },
+        {
+          "description": "Rejoicing",
+          "mid": "/j/6sm44l",
+          "score": 0.51419216,
+          "topicality": 0.0014995842
+        },
+        {
+          "description": "Art Paint",
+          "mid": "/m/0h90w5d",
+          "score": 0.5063088,
+          "topicality": 0.0016715118
+        },
+        {
+          "description": "Modern art",
+          "mid": "/m/015r61",
+          "score": 0.505936,
+          "topicality": 0.013610409
+        }
+      ]
+    }
+  ]
+}

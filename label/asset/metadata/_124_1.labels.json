@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Aluminum can",
+          "mid": "/m/0gjbv4m",
+          "score": 0.99113923,
+          "topicality": 0.8460423
+        },
+        {
+          "description": "Drink can",
+          "mid": "/m/021v_4",
+          "score": 0.98027295,
+          "topicality": 0.86046195
+        },
+        {
+          "description": "Tin",
+          "mid": "/m/025sk5n",
+          "score": 0.9763229,
+          "topicality": 0.10458579
+        },
+        {
+          "description": "Steel and tin cans",
+          "mid": "/m/02jnhm",
+          "score": 0.9703094,
+          "topicality": 0.6679544
+        },
+        {
+          "description": "Carbonated soft drinks",
+          "mid": "/m/059r7w6",
+          "score": 0.8657281,
+          "topicality": 0.00034163907
+        },
+        {
+          "description": "Metal",
+          "mid": "/m/04t7l",
+          "score": 0.8251348,
+          "topicality": 0.05477301
+        },
+        {
+          "description": "Cylinder",
+          "mid": "/m/03h_4m",
+          "score": 0.7885821,
+          "topicality": 0.013969581
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.7262304,
+          "topicality": 0.018329224
+        },
+        {
+          "description": "Food storage containers",
+          "mid": "/m/05p0tsj",
+          "score": 0.69423527,
+          "topicality": 0.000641424
+        },
+        {
+          "description": "Soft drink",
+          "mid": "/m/06qrr",
+          "score": 0.6391514,
+          "topicality": 0.010343813
+        }
+      ]
+    }
+  ]
+}

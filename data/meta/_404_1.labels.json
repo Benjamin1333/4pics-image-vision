@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.93861324,
+          "topicality": 0.0073046763
+        },
+        {
+          "description": "Chordophone",
+          "mid": "/m/011_f4",
+          "score": 0.90551573,
+          "topicality": 0.00035041102
+        },
+        {
+          "description": "Musical instrument",
+          "mid": "/m/04szw",
+          "score": 0.8582146,
+          "topicality": 0.1139444
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.7815185,
+          "topicality": 0.0017768757
+        },
+        {
+          "description": "Classical music",
+          "mid": "/m/0ggq0m",
+          "score": 0.71898633,
+          "topicality": 0.05129789
+        },
+        {
+          "description": "Conductor",
+          "mid": "/m/01c8w0",
+          "score": 0.6395859,
+          "topicality": 0.28175673
+        },
+        {
+          "description": "String instrument",
+          "mid": "/m/0d8lm",
+          "score": 0.6118441,
+          "topicality": 0.02657597
+        },
+        {
+          "description": "Wand",
+          "mid": "/m/01z2z3",
+          "score": 0.5601601,
+          "topicality": 0.0051656007
+        },
+        {
+          "description": "Folk instrument",
+          "mid": "/m/06203h",
+          "score": 0.51875556,
+          "topicality": 0.00017588583
+        },
+        {
+          "description": "Bowed string instrument",
+          "mid": "/m/0l14_3",
+          "score": 0.5046353,
+          "topicality": 0.005777471
+        }
+      ]
+    }
+  ]
+}

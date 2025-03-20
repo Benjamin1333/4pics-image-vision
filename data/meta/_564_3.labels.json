@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.799223,
+          "topicality": 0.0068572355
+        },
+        {
+          "description": "Writing implement",
+          "mid": "/m/06wybl",
+          "score": 0.7718706,
+          "topicality": 0.009826803
+        },
+        {
+          "description": "Smiley",
+          "mid": "/m/06n05",
+          "score": 0.7336672,
+          "topicality": 0.09979339
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.636418,
+          "topicality": 0.002861823
+        },
+        {
+          "description": "Emoticon",
+          "mid": "/m/02ngh",
+          "score": 0.6156731,
+          "topicality": 0.095004484
+        },
+        {
+          "description": "Stationery",
+          "mid": "/m/01cndb",
+          "score": 0.6043311,
+          "topicality": 0.023009356
+        }
+      ]
+    }
+  ]
+}

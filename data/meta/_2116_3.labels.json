@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Farmworker",
+          "mid": "/m/02qn83t",
+          "score": 0.98365504,
+          "topicality": 0.08064901
+        },
+        {
+          "description": "Plants",
+          "mid": "/m/05s2s",
+          "score": 0.96892655,
+          "topicality": 0.14121763
+        },
+        {
+          "description": "Agriculture",
+          "mid": "/m/0hkf",
+          "score": 0.95628566,
+          "topicality": 0.2683356
+        },
+        {
+          "description": "Agriculturist",
+          "mid": "/m/0g0vx",
+          "score": 0.9360359,
+          "topicality": 0.36682573
+        },
+        {
+          "description": "Plantation",
+          "mid": "/m/011yvr",
+          "score": 0.9350072,
+          "topicality": 0.11387924
+        },
+        {
+          "description": "Soil",
+          "mid": "/m/09dv7",
+          "score": 0.92613447,
+          "topicality": 0.1646208
+        },
+        {
+          "description": "Field",
+          "mid": "/m/0brn2d",
+          "score": 0.9077427,
+          "topicality": 0.072326295
+        },
+        {
+          "description": "Rural area",
+          "mid": "/m/01f4td",
+          "score": 0.89029753,
+          "topicality": 0.032356735
+        },
+        {
+          "description": "Hat",
+          "mid": "/m/02dl1y",
+          "score": 0.8635151,
+          "topicality": 0.00074859377
+        },
+        {
+          "description": "Groundcover",
+          "mid": "/m/018ssc",
+          "score": 0.84646225,
+          "topicality": 0.0008251301
+        }
+      ]
+    }
+  ]
+}

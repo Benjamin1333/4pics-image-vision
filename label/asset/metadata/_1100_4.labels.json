@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.9842807,
+          "topicality": 0.0007827939
+        },
+        {
+          "description": "Laptop",
+          "mid": "/m/01c648",
+          "score": 0.9683743,
+          "topicality": 0.3221246
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.94207263,
+          "topicality": 0.00676614
+        },
+        {
+          "description": "Personal computer",
+          "mid": "/m/0643t",
+          "score": 0.936057,
+          "topicality": 0.028467476
+        },
+        {
+          "description": "Computer",
+          "mid": "/m/01m3v",
+          "score": 0.9332709,
+          "topicality": 0.36584342
+        },
+        {
+          "description": "Office Equipment",
+          "mid": "/m/03qtgjk",
+          "score": 0.93142223,
+          "topicality": 0.00021101558
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.8973745,
+          "topicality": 0.02547015
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.87991256,
+          "topicality": 0.053287454
+        },
+        {
+          "description": "Computer hardware",
+          "mid": "/m/01mfj",
+          "score": 0.8699199,
+          "topicality": 0.009368724
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.8647977,
+          "topicality": 0.0011447902
+        }
+      ]
+    }
+  ]
+}

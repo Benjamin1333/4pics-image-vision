@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.9847956,
+          "topicality": 0.09667452
+        },
+        {
+          "description": "Eyelash",
+          "mid": "/m/03f52z",
+          "score": 0.9432576,
+          "topicality": 0.01886662
+        },
+        {
+          "description": "Glitter",
+          "mid": "/m/03kpnc",
+          "score": 0.88974714,
+          "topicality": 0.10772545
+        },
+        {
+          "description": "Lipstick",
+          "mid": "/m/06c7f7",
+          "score": 0.764441,
+          "topicality": 0.0068700747
+        },
+        {
+          "description": "Cosmetics",
+          "mid": "/m/014trl",
+          "score": 0.6895841,
+          "topicality": 0.096812874
+        },
+        {
+          "description": "Eye shadow",
+          "mid": "/m/025zp2s",
+          "score": 0.62552935,
+          "topicality": 0.0053619198
+        },
+        {
+          "description": "Makeover",
+          "mid": "/m/02qp_b",
+          "score": 0.6121918,
+          "topicality": 0.00086819025
+        },
+        {
+          "description": "Model",
+          "mid": "/m/0d1pc",
+          "score": 0.5290047,
+          "topicality": 0.015568094
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Coast",
+          "mid": "/m/01lxd",
+          "score": 0.91972876,
+          "topicality": 0.012965388
+        },
+        {
+          "description": "Coastal and oceanic landforms",
+          "mid": "/m/02c9_23",
+          "score": 0.91862994,
+          "topicality": 0.0006398417
+        },
+        {
+          "description": "Beach",
+          "mid": "/m/0b3yr",
+          "score": 0.8990152,
+          "topicality": 0.06864221
+        },
+        {
+          "description": "Shore",
+          "mid": "/m/02fm9k",
+          "score": 0.86915183,
+          "topicality": 0.0032668558
+        },
+        {
+          "description": "Sea",
+          "mid": "/m/06npx",
+          "score": 0.8203897,
+          "topicality": 0.03489019
+        },
+        {
+          "description": "Bay",
+          "mid": "/m/04ggh49",
+          "score": 0.7974301,
+          "topicality": 0.017734447
+        },
+        {
+          "description": "Ocean",
+          "mid": "/m/05kq4",
+          "score": 0.769024,
+          "topicality": 0.0037632335
+        },
+        {
+          "description": "Tropics",
+          "mid": "/m/0hl08",
+          "score": 0.7015479,
+          "topicality": 4.564508e-06
+        },
+        {
+          "description": "People on beach",
+          "mid": "/j/148skd",
+          "score": 0.69978994,
+          "topicality": 5.7505214e-05
+        },
+        {
+          "description": "Shoal",
+          "mid": "/m/01r3xn",
+          "score": 0.6630919,
+          "topicality": 0.01178397
+        }
+      ]
+    }
+  ]
+}

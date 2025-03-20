@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.98479605,
+          "topicality": 0.33436462
+        },
+        {
+          "description": "Skin",
+          "mid": "/m/06z04",
+          "score": 0.98168755,
+          "topicality": 0.52779627
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94490445,
+          "topicality": 0.018212605
+        },
+        {
+          "description": "Tooth",
+          "mid": "/m/0cnxs6x",
+          "score": 0.93037325,
+          "topicality": 0.028725442
+        },
+        {
+          "description": "Eyelash",
+          "mid": "/m/03f52z",
+          "score": 0.9020832,
+          "topicality": 0.00814937
+        },
+        {
+          "description": "Lipstick",
+          "mid": "/m/06c7f7",
+          "score": 0.80036074,
+          "topicality": 0.0062291366
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.7758985,
+          "topicality": 0.006660848
+        },
+        {
+          "description": "Cosmetics",
+          "mid": "/m/014trl",
+          "score": 0.70824444,
+          "topicality": 0.05731695
+        },
+        {
+          "description": "Makeover",
+          "mid": "/m/02qp_b",
+          "score": 0.5673683,
+          "topicality": 0.0008130596
+        },
+        {
+          "description": "Model",
+          "mid": "/m/0d1pc",
+          "score": 0.52328354,
+          "topicality": 0.020098083
+        }
+      ]
+    }
+  ]
+}

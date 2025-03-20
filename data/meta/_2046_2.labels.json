@@ -1,0 +1,67 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Headgear",
+          "mid": "/m/01443y",
+          "score": 0.9572043,
+          "topicality": 0.038732424
+        },
+        {
+          "description": "Fashion",
+          "mid": "/m/032tl",
+          "score": 0.9476583
+        },
+        {
+          "description": "Costume",
+          "mid": "/m/0250x",
+          "score": 0.8945786,
+          "topicality": 0.13830152
+        },
+        {
+          "description": "Costume design",
+          "mid": "/m/04s5jq",
+          "score": 0.8860588,
+          "topicality": 0.4203303
+        },
+        {
+          "description": "Victorian fashion",
+          "mid": "/m/0133pl",
+          "score": 0.8751059,
+          "topicality": 0.13728437
+        },
+        {
+          "description": "Jewellery",
+          "mid": "/m/0404d",
+          "score": 0.85642874,
+          "topicality": 0.009673028
+        },
+        {
+          "description": "Fashion design",
+          "mid": "/m/02qqd4n",
+          "score": 0.79965377,
+          "topicality": 0.0037829299
+        },
+        {
+          "description": "Headpiece",
+          "mid": "/m/02fbqn",
+          "score": 0.7891206,
+          "topicality": 0.008578947
+        },
+        {
+          "description": "Vintage clothing",
+          "mid": "/m/08v4gh",
+          "score": 0.78110594,
+          "topicality": 0.004593199
+        },
+        {
+          "description": "Retro style",
+          "mid": "/m/01h2w7",
+          "score": 0.6064582,
+          "topicality": 0.0023903488
+        }
+      ]
+    }
+  ]
+}

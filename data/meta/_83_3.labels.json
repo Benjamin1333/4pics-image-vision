@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Green",
+          "mid": "/m/038hg",
+          "score": 0.9770038,
+          "topicality": 0.18951115
+        },
+        {
+          "description": "Yellow",
+          "mid": "/m/088fh",
+          "score": 0.9716697,
+          "topicality": 0.10468916
+        },
+        {
+          "description": "Grassland",
+          "mid": "/m/01c7cq",
+          "score": 0.96605,
+          "topicality": 0.270096
+        },
+        {
+          "description": "Field",
+          "mid": "/m/0brn2d",
+          "score": 0.95765597,
+          "topicality": 0.451518
+        },
+        {
+          "description": "Sun",
+          "mid": "/m/06m_p",
+          "score": 0.9570041,
+          "topicality": 0.2994038
+        },
+        {
+          "description": "Natural landscape",
+          "mid": "/m/03d28y3",
+          "score": 0.9502609,
+          "topicality": 0.05306668
+        },
+        {
+          "description": "Summer",
+          "mid": "/m/078qz",
+          "score": 0.9456819,
+          "topicality": 0.169816
+        },
+        {
+          "description": "Plain",
+          "mid": "/m/05sm1",
+          "score": 0.9386365,
+          "topicality": 0.04181883
+        },
+        {
+          "description": "Agriculture",
+          "mid": "/m/0hkf",
+          "score": 0.93377453,
+          "topicality": 0.115111604
+        },
+        {
+          "description": "Meadow",
+          "mid": "/m/025st_8",
+          "score": 0.9157523,
+          "topicality": 0.5146721
+        }
+      ]
+    }
+  ]
+}

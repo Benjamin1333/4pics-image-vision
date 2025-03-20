@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.97643745,
+          "topicality": 0.06392227
+        },
+        {
+          "description": "Composite material",
+          "mid": "/m/014qzr",
+          "score": 0.88104504,
+          "topicality": 0.00036404427
+        },
+        {
+          "description": "Paint",
+          "mid": "/m/05y4t",
+          "score": 0.7603882,
+          "topicality": 0.08977625
+        },
+        {
+          "description": "Concrete",
+          "mid": "/m/01mxf",
+          "score": 0.75111085,
+          "topicality": 0.07103367
+        },
+        {
+          "description": "Brick",
+          "mid": "/m/01g0g",
+          "score": 0.67209345,
+          "topicality": 0.0128461085
+        },
+        {
+          "description": "Building material",
+          "mid": "/m/02cr01",
+          "score": 0.66703606,
+          "topicality": 0.0040436666
+        },
+        {
+          "description": "Plank",
+          "mid": "/m/0fq0fnf",
+          "score": 0.6436088,
+          "topicality": 0.0045071663
+        },
+        {
+          "description": "Plaster",
+          "mid": "/m/01w_gm",
+          "score": 0.6379581,
+          "topicality": 0.07688031
+        },
+        {
+          "description": "Hardwood",
+          "mid": "/m/020g49",
+          "score": 0.63161284,
+          "topicality": 0.0007081602
+        },
+        {
+          "description": "Still life photography",
+          "mid": "/m/027_ny3",
+          "score": 0.6222636,
+          "topicality": 0.01766023
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Combination lock",
+          "mid": "/m/0213tg",
+          "score": 0.7863788,
+          "topicality": 0.6799851
+        },
+        {
+          "description": "Lock and key",
+          "mid": "/m/02ll1_",
+          "score": 0.72263783,
+          "topicality": 0.6630253
+        },
+        {
+          "description": "Security",
+          "mid": "/m/0bg2p",
+          "score": 0.5283348,
+          "topicality": 0.048757322
+        }
+      ]
+    }
+  ]
+}

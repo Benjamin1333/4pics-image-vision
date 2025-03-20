@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Snowman",
+          "mid": "/m/0152hh",
+          "score": 0.9843736,
+          "topicality": 0.959751
+        },
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9645416,
+          "topicality": 0.16194084
+        },
+        {
+          "description": "Snow",
+          "mid": "/m/06_dn",
+          "score": 0.95960534,
+          "topicality": 0.7409544
+        },
+        {
+          "description": "Winter",
+          "mid": "/m/086mh",
+          "score": 0.956215,
+          "topicality": 0.28071398
+        },
+        {
+          "description": "Hat",
+          "mid": "/m/02dl1y",
+          "score": 0.924652,
+          "topicality": 0.031208185
+        },
+        {
+          "description": "Freezing",
+          "mid": "/m/01c791",
+          "score": 0.857711,
+          "topicality": 0.0123018045
+        },
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.6571708,
+          "topicality": 0.031466715
+        },
+        {
+          "description": "Frost",
+          "mid": "/m/033kf",
+          "score": 0.6061546,
+          "topicality": 0.004376052
+        },
+        {
+          "description": "Playing in the snow",
+          "mid": "/j/c563rv",
+          "score": 0.6028524,
+          "topicality": 0.004206208
+        },
+        {
+          "description": "Scarf",
+          "mid": "/m/02h19r",
+          "score": 0.5525127,
+          "topicality": 0.00034473004
+        }
+      ]
+    }
+  ]
+}

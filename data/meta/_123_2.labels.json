@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "bow",
+          "mid": "/m/07pnzh3",
+          "score": 0.97760975,
+          "topicality": 0.35911766
+        },
+        {
+          "description": "Archery",
+          "mid": "/m/0w0d",
+          "score": 0.9714568,
+          "topicality": 0.8508712
+        },
+        {
+          "description": "Bow and arrow",
+          "mid": "/m/01g3x7",
+          "score": 0.9706919,
+          "topicality": 0.8095036
+        },
+        {
+          "description": "Recreation",
+          "mid": "/m/06bm2",
+          "score": 0.9211705,
+          "topicality": 0.0021585254
+        },
+        {
+          "description": "Longbow",
+          "mid": "/m/07jtk1",
+          "score": 0.91361576,
+          "topicality": 0.41070548
+        },
+        {
+          "description": "Field archery",
+          "mid": "/m/0275rnb",
+          "score": 0.91033506,
+          "topicality": 0.01274124
+        },
+        {
+          "description": "Individual sport",
+          "mid": "/m/08t0vy",
+          "score": 0.9015363,
+          "topicality": 0.00044622846
+        },
+        {
+          "description": "Arrow",
+          "mid": "/m/0dl83",
+          "score": 0.87978786,
+          "topicality": 0.7304519
+        },
+        {
+          "description": "Target archery",
+          "mid": "/m/0266hh5",
+          "score": 0.8650105,
+          "topicality": 0.12599818
+        },
+        {
+          "description": "Precision sports",
+          "mid": "/m/0wgq69z",
+          "score": 0.8432325,
+          "topicality": 0.008557657
+        }
+      ]
+    }
+  ]
+}

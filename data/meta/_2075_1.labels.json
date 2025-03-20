@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9667056,
+          "topicality": 0.06847681
+        },
+        {
+          "description": "Paper",
+          "mid": "/m/0641k",
+          "score": 0.84503466,
+          "topicality": 0.6215306
+        },
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.7901446,
+          "topicality": 0.0014931983
+        }
+      ]
+    }
+  ]
+}

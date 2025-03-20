@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9761433,
+          "topicality": 0.01319099
+        },
+        {
+          "description": "Orange",
+          "mid": "/m/0jc_p",
+          "score": 0.9128392,
+          "topicality": 0.011336015
+        },
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.87923086,
+          "topicality": 0.002705733
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.6991326,
+          "topicality": 0.010601897
+        },
+        {
+          "description": "Fractal art",
+          "mid": "/m/0cxwt",
+          "score": 0.6687871,
+          "topicality": 0.24320768
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.6677942,
+          "topicality": 0.046397403
+        }
+      ]
+    }
+  ]
+}

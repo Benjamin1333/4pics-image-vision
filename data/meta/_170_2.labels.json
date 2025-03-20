@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Footwear",
+          "mid": "/m/09j5n",
+          "score": 0.9740114,
+          "topicality": 0.1224702
+        },
+        {
+          "description": "Shoe",
+          "mid": "/m/06rrc",
+          "score": 0.96454537,
+          "topicality": 0.5434321
+        },
+        {
+          "description": "Shoe store",
+          "mid": "/m/0h62vyn",
+          "score": 0.88179165,
+          "topicality": 0.031131182
+        },
+        {
+          "description": "Foot",
+          "mid": "/m/031n1",
+          "score": 0.8538597,
+          "topicality": 0.07383506
+        },
+        {
+          "description": "High-heeled shoe",
+          "mid": "/m/06k2mb",
+          "score": 0.77387697,
+          "topicality": 0.111390226
+        },
+        {
+          "description": "Sandal",
+          "mid": "/m/03nfch",
+          "score": 0.77190214,
+          "topicality": 0.048629306
+        },
+        {
+          "description": "Dancing Shoe",
+          "mid": "/m/0h8mz41",
+          "score": 0.6736161,
+          "topicality": 0.0016716265
+        },
+        {
+          "description": "Calf",
+          "mid": "/m/0715t2",
+          "score": 0.6637044,
+          "topicality": 0.010365356
+        },
+        {
+          "description": "Basic Pump",
+          "mid": "/m/0hgscdg",
+          "score": 0.6451631,
+          "topicality": 0.0031424828
+        },
+        {
+          "description": "Advertising",
+          "mid": "/m/011s0",
+          "score": 0.627326,
+          "topicality": 0.00707963
+        }
+      ]
+    }
+  ]
+}

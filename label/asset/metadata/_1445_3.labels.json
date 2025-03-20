@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9445863,
+          "topicality": 0.00077705295
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.910194,
+          "topicality": 0.015318117
+        },
+        {
+          "description": "Crescent",
+          "mid": "/m/014kk_",
+          "score": 0.82857007,
+          "topicality": 0.25133124
+        },
+        {
+          "description": "Moon",
+          "mid": "/m/04wv_",
+          "score": 0.8027304,
+          "topicality": 0.1755326
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.7150177,
+          "topicality": 0.009608335
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.7085118,
+          "topicality": 0.2585106
+        },
+        {
+          "description": "Astronomical object",
+          "mid": "/m/01d9ll",
+          "score": 0.6541855,
+          "topicality": 0.003371664
+        },
+        {
+          "description": "Animation",
+          "mid": "/m/0hcr",
+          "score": 0.5999355,
+          "topicality": 0.0028968905
+        },
+        {
+          "description": "Fictional character",
+          "mid": "/m/02h7lkt",
+          "score": 0.580232,
+          "topicality": 0.000897279
+        }
+      ]
+    }
+  ]
+}

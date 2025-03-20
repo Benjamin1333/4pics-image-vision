@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Suitcase",
+          "mid": "/m/01s55n",
+          "score": 0.9439643,
+          "topicality": 0.2836776
+        },
+        {
+          "description": "Bag",
+          "mid": "/m/0n5v01m",
+          "score": 0.9154109,
+          "topicality": 0.07017867
+        },
+        {
+          "description": "Luggage & bags",
+          "mid": "/m/0hf58v5",
+          "score": 0.8548596,
+          "topicality": 0.028714005
+        },
+        {
+          "description": "Travel",
+          "mid": "/m/014dsx",
+          "score": 0.7860768,
+          "topicality": 0.17547287
+        },
+        {
+          "description": "Baggage",
+          "mid": "/m/03w7y7",
+          "score": 0.7636643,
+          "topicality": 0.2230312
+        },
+        {
+          "description": "Hand luggage",
+          "mid": "/m/07k55_3",
+          "score": 0.74546766,
+          "topicality": 0.15256993
+        },
+        {
+          "description": "Cleanliness",
+          "mid": "/m/020s4p",
+          "score": 0.60489035,
+          "topicality": 0.00052586605
+        },
+        {
+          "description": "Passenger",
+          "mid": "/m/0cb0xm",
+          "score": 0.5835004,
+          "topicality": 0.037618518
+        },
+        {
+          "description": "Walking",
+          "mid": "/m/083mg",
+          "score": 0.5308657,
+          "topicality": 0.04273611
+        }
+      ]
+    }
+  ]
+}

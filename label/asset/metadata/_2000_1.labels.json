@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Health Care",
+          "mid": "/m/01mw2x",
+          "score": 0.92567015,
+          "topicality": 0.46543467
+        },
+        {
+          "description": "Medical",
+          "mid": "/m/02xht4g",
+          "score": 0.9198384,
+          "topicality": 0.012813822
+        },
+        {
+          "description": "Medical equipment",
+          "mid": "/m/01xgg_",
+          "score": 0.9137278,
+          "topicality": 0.0049936404
+        },
+        {
+          "description": "Stethoscope",
+          "mid": "/m/073g6",
+          "score": 0.76894206,
+          "topicality": 0.459598
+        },
+        {
+          "description": "First aid kit",
+          "mid": "/m/01dd25",
+          "score": 0.7165044,
+          "topicality": 0.8428801
+        },
+        {
+          "description": "Emergency",
+          "mid": "/m/025rvy6",
+          "score": 0.7159866,
+          "topicality": 0.20244664
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.586792,
+          "topicality": 0.008601395
+        },
+        {
+          "description": "Analog watch",
+          "mid": "/m/031pr7",
+          "score": 0.56299424,
+          "topicality": 0.0019544638
+        },
+        {
+          "description": "Medical bag",
+          "mid": "/m/0cc8xw1",
+          "score": 0.5554206,
+          "topicality": 0.39190358
+        },
+        {
+          "description": "First aid",
+          "mid": "/m/0305b",
+          "score": 0.53476137,
+          "topicality": 0.7766338
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8548142,
+          "topicality": 0.005581571
+        },
+        {
+          "description": "Record Player",
+          "mid": "/m/0h8lq0x",
+          "score": 0.75131315,
+          "topicality": 0.01180005
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.73369855,
+          "topicality": 0.003272085
+        },
+        {
+          "description": "Phonograph record",
+          "mid": "/m/0174nj",
+          "score": 0.6968834,
+          "topicality": 0.300758
+        },
+        {
+          "description": "Electronics",
+          "mid": "/m/02mrp",
+          "score": 0.65359384,
+          "topicality": 0.02401976
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.54468155,
+          "topicality": 0.0014035215
+        }
+      ]
+    }
+  ]
+}

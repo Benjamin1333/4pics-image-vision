@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Medical",
+          "mid": "/m/02xht4g",
+          "score": 0.91597897,
+          "topicality": 0.0076427446
+        },
+        {
+          "description": "Hospital",
+          "mid": "/m/0hpnr",
+          "score": 0.90356696,
+          "topicality": 0.4645173
+        },
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.8914614,
+          "topicality": 6.6246364e-05
+        },
+        {
+          "description": "Display device",
+          "mid": "/m/029zz6",
+          "score": 0.85423213,
+          "topicality": 0.000519882
+        },
+        {
+          "description": "Medical equipment",
+          "mid": "/m/01xgg_",
+          "score": 0.8345133,
+          "topicality": 0.010067046
+        },
+        {
+          "description": "Health Care",
+          "mid": "/m/01mw2x",
+          "score": 0.8196024,
+          "topicality": 0.10905394
+        },
+        {
+          "description": "Electronics",
+          "mid": "/m/02mrp",
+          "score": 0.7916567,
+          "topicality": 0.00058834243
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.7864361,
+          "topicality": 0.0012387846
+        },
+        {
+          "description": "Medical procedure",
+          "mid": "/m/026w9v9",
+          "score": 0.66560936,
+          "topicality": 0.035299286
+        },
+        {
+          "description": "Clinic",
+          "mid": "/m/03fk5c",
+          "score": 0.6271431,
+          "topicality": 0.06157226
+        }
+      ]
+    }
+  ]
+}

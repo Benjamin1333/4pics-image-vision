@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.98931473,
+          "topicality": 0.0060442886
+        },
+        {
+          "description": "Cloud",
+          "mid": "/m/0csby",
+          "score": 0.9845472,
+          "topicality": 0.13638592
+        },
+        {
+          "description": "Daytime",
+          "mid": "/m/02q7ylj",
+          "score": 0.98127586,
+          "topicality": 0.01419422
+        },
+        {
+          "description": "Red",
+          "mid": "/m/06fvc",
+          "score": 0.9758393,
+          "topicality": 0.0077152937
+        },
+        {
+          "description": "Flag",
+          "mid": "/m/03120",
+          "score": 0.9521432,
+          "topicality": 0.40757036
+        },
+        {
+          "description": "Cumulus",
+          "mid": "/m/0csh5",
+          "score": 0.930507,
+          "topicality": 0.012030983
+        },
+        {
+          "description": "Wind",
+          "mid": "/m/03m9d0z",
+          "score": 0.8507027,
+          "topicality": 0.023487175
+        },
+        {
+          "description": "pole",
+          "mid": "/m/07pltdk",
+          "score": 0.82985854,
+          "topicality": 0.0008741515
+        },
+        {
+          "description": "Sunlight",
+          "mid": "/m/06z0n",
+          "score": 0.8002076,
+          "topicality": 0.0002510135
+        },
+        {
+          "description": "Meteorological phenomenon",
+          "mid": "/g/11k2xz7mr",
+          "score": 0.7812263,
+          "topicality": 0.00022669641
+        }
+      ]
+    }
+  ]
+}

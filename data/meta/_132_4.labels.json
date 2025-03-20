@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Tennis Racket",
+          "mid": "/m/0h8my_4",
+          "score": 0.99071807,
+          "topicality": 0.15206882
+        },
+        {
+          "description": "Racket",
+          "mid": "/m/0dv9c",
+          "score": 0.98464125,
+          "topicality": 0.84975994
+        },
+        {
+          "description": "Tennis",
+          "mid": "/m/07bs0",
+          "score": 0.98416936,
+          "topicality": 0.917114
+        },
+        {
+          "description": "Tennis--Equipment and supplies",
+          "mid": "/m/0bps4xh",
+          "score": 0.9774008,
+          "topicality": 0.0147517985
+        },
+        {
+          "description": "Soft tennis",
+          "mid": "/m/09515x",
+          "score": 0.9766939,
+          "topicality": 0.06178799
+        },
+        {
+          "description": "Strings",
+          "mid": "/m/0fhrwd",
+          "score": 0.9700476,
+          "topicality": 0.36288282
+        },
+        {
+          "description": "Racquet sport",
+          "mid": "/m/01qhp_",
+          "score": 0.9699713,
+          "topicality": 0.036004227
+        },
+        {
+          "description": "Tennis player",
+          "mid": "/m/02xhr73",
+          "score": 0.9626048,
+          "topicality": 0.09392569
+        },
+        {
+          "description": "Individual sport",
+          "mid": "/m/08t0vy",
+          "score": 0.95742804,
+          "topicality": 0.0040875073
+        },
+        {
+          "description": "Racketlon",
+          "mid": "/m/02ql4yj",
+          "score": 0.9486313,
+          "topicality": 0.016470315
+        }
+      ]
+    }
+  ]
+}

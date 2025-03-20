@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Powder",
+          "mid": "/m/0gzznm",
+          "score": 0.9395183,
+          "topicality": 0.39186472
+        },
+        {
+          "description": "Flour",
+          "mid": "/m/0fkw3",
+          "score": 0.9169327,
+          "topicality": 0.405196
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.9168821,
+          "topicality": 0.03192604
+        },
+        {
+          "description": "Bread Flour",
+          "mid": "/m/0hnqgsf",
+          "score": 0.7884986,
+          "topicality": 0.007839938
+        },
+        {
+          "description": "All-purpose Flour",
+          "mid": "/m/05yr1lg",
+          "score": 0.74990124,
+          "topicality": 0.0132507235
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.7347863,
+          "topicality": 0.09972928
+        },
+        {
+          "description": "Thickening agent",
+          "mid": "/m/07kfhk",
+          "score": 0.7269088,
+          "topicality": 0.01863688
+        },
+        {
+          "description": "Wheat flour",
+          "mid": "/m/06zts5l",
+          "score": 0.71834016,
+          "topicality": 0.08181665
+        },
+        {
+          "description": "Whole-wheat flour",
+          "mid": "/m/039_xx",
+          "score": 0.62876993,
+          "topicality": 0.013987959
+        },
+        {
+          "description": "Corn starch",
+          "mid": "/m/02dszx",
+          "score": 0.6254237,
+          "topicality": 0.098166086
+        }
+      ]
+    }
+  ]
+}

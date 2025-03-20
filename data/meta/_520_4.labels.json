@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.96115303,
+          "topicality": 0.162247
+        },
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.93126935,
+          "topicality": 0.40748963
+        },
+        {
+          "description": "Toddler",
+          "mid": "/m/01bgsw",
+          "score": 0.90154856,
+          "topicality": 0.32555228
+        },
+        {
+          "description": "Play",
+          "mid": "/m/06wtgq",
+          "score": 0.87743515,
+          "topicality": 0.022607192
+        },
+        {
+          "description": "Baby playing with toys",
+          "mid": "/j/9hb0mf",
+          "score": 0.86977446,
+          "topicality": 0.16978367
+        },
+        {
+          "description": "Baby toys",
+          "mid": "/m/0cm3fq4",
+          "score": 0.8569052,
+          "topicality": 0.013069393
+        },
+        {
+          "description": "Infant",
+          "mid": "/m/0jnvp",
+          "score": 0.81758606,
+          "topicality": 0.30512378
+        },
+        {
+          "description": "Comfort",
+          "mid": "/m/08xgn7",
+          "score": 0.79542273,
+          "topicality": 0.005822581
+        },
+        {
+          "description": "Baby & Toddler Clothing",
+          "mid": "/m/0h8q07j",
+          "score": 0.7903116,
+          "topicality": 3.4580073e-05
+        },
+        {
+          "description": "Toy block",
+          "mid": "/m/0by9lp",
+          "score": 0.7678685,
+          "topicality": 0.21821015
+        }
+      ]
+    }
+  ]
+}

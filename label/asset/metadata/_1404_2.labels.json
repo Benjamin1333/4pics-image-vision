@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Gambling",
+          "mid": "/m/034dj",
+          "score": 0.952448,
+          "topicality": 0.252054
+        },
+        {
+          "description": "Game",
+          "mid": "/m/03bt1gh",
+          "score": 0.9194505,
+          "topicality": 0.1823838
+        },
+        {
+          "description": "Card game",
+          "mid": "/m/01mtt",
+          "score": 0.9104121,
+          "topicality": 0.46339184
+        },
+        {
+          "description": "Number",
+          "mid": "/m/05fwb",
+          "score": 0.87795883,
+          "topicality": 0.0010370422
+        },
+        {
+          "description": "Poker",
+          "mid": "/m/05r1j",
+          "score": 0.873339,
+          "topicality": 0.7291177
+        },
+        {
+          "description": "Casino",
+          "mid": "/m/01lq3",
+          "score": 0.73905754,
+          "topicality": 0.08181539
+        },
+        {
+          "description": "Poker Set",
+          "mid": "/m/0hgry_b",
+          "score": 0.52396476,
+          "topicality": 0.005861286
+        }
+      ]
+    }
+  ]
+}

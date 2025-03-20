@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.7877298,
+          "topicality": 0.002956065
+        },
+        {
+          "description": "Gauge",
+          "mid": "/m/05kc0j",
+          "score": 0.6214889,
+          "topicality": 0.33619973
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.5882747,
+          "topicality": 0.0022160844
+        },
+        {
+          "description": "Cylinder",
+          "mid": "/m/03h_4m",
+          "score": 0.5143242,
+          "topicality": 0.011752503
+        }
+      ]
+    }
+  ]
+}

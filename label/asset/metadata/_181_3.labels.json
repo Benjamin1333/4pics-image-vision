@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.9770206,
+          "topicality": 0.2914175
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.9700398,
+          "topicality": 0.19012615
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.95647335,
+          "topicality": 0.23096722
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.9521188,
+          "topicality": 0.015347447
+        },
+        {
+          "description": "Shopping cart",
+          "mid": "/m/019plg",
+          "score": 0.9294176,
+          "topicality": 0.50833726
+        },
+        {
+          "description": "Basket",
+          "mid": "/m/01z562",
+          "score": 0.90764976,
+          "topicality": 0.06786136
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.8488741,
+          "topicality": 0.0019431721
+        },
+        {
+          "description": "Food group",
+          "mid": "/m/08fw1g",
+          "score": 0.8030767,
+          "topicality": 0.005748921
+        },
+        {
+          "description": "Cart",
+          "mid": "/m/018p4k",
+          "score": 0.6742857,
+          "topicality": 0.071999565
+        },
+        {
+          "description": "Orange",
+          "mid": "/m/0cyhj_",
+          "score": 0.6637091,
+          "topicality": 0.034418043
+        }
+      ]
+    }
+  ]
+}

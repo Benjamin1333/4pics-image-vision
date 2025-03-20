@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bird",
+          "mid": "/m/015p6",
+          "score": 0.9874413,
+          "topicality": 0.23000173
+        },
+        {
+          "description": "Chicken",
+          "mid": "/m/09b5t",
+          "score": 0.97776306,
+          "topicality": 0.7442491
+        },
+        {
+          "description": "Phasianidae",
+          "mid": "/m/01dy62",
+          "score": 0.965498,
+          "topicality": 0.0050378023
+        },
+        {
+          "description": "Fowl",
+          "mid": "/m/025rv6n",
+          "score": 0.96374214,
+          "topicality": 0.055034366
+        },
+        {
+          "description": "Landfowl",
+          "mid": "/m/01295w",
+          "score": 0.95603096,
+          "topicality": 0.048093636
+        },
+        {
+          "description": "Beak",
+          "mid": "/m/01c4rd",
+          "score": 0.94075906,
+          "topicality": 0.013310404
+        },
+        {
+          "description": "Poultry",
+          "mid": "/m/05s0c",
+          "score": 0.93198544,
+          "topicality": 0.2172261
+        },
+        {
+          "description": "Egg",
+          "mid": "/m/033cnk",
+          "score": 0.86578274,
+          "topicality": 0.4855187
+        },
+        {
+          "description": "Egg",
+          "mid": "/m/02g387",
+          "score": 0.8546038,
+          "topicality": 0.36450887
+        },
+        {
+          "description": "Livestock",
+          "mid": "/m/0ch8v",
+          "score": 0.80087215,
+          "topicality": 0.040465824
+        }
+      ]
+    }
+  ]
+}

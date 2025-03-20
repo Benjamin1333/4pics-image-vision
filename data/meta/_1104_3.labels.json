@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "House",
+          "mid": "/m/03jm5",
+          "score": 0.9298782,
+          "topicality": 0.2567191
+        },
+        {
+          "description": "Home",
+          "mid": "/m/01l0mw",
+          "score": 0.9214722,
+          "topicality": 0.14354616
+        },
+        {
+          "description": "Roof",
+          "mid": "/m/06hyd",
+          "score": 0.9076309,
+          "topicality": 0.12931138
+        },
+        {
+          "description": "Door",
+          "mid": "/m/02dgv",
+          "score": 0.8641261,
+          "topicality": 0.024680963
+        },
+        {
+          "description": "Cottage",
+          "mid": "/m/03nxtz",
+          "score": 0.8078436,
+          "topicality": 0.1252886
+        },
+        {
+          "description": "Siding",
+          "mid": "/m/037cyw",
+          "score": 0.6884081,
+          "topicality": 0.012687168
+        },
+        {
+          "description": "Yard",
+          "mid": "/m/049_3v",
+          "score": 0.6615144,
+          "topicality": 0.004126008
+        },
+        {
+          "description": "Farmhouse",
+          "mid": "/m/080sjd",
+          "score": 0.6560893,
+          "topicality": 0.057658598
+        },
+        {
+          "description": "Awning",
+          "mid": "/m/07vvqb",
+          "score": 0.6103251,
+          "topicality": 0.04162523
+        },
+        {
+          "description": "Porch",
+          "mid": "/m/04m6gz",
+          "score": 0.5486045,
+          "topicality": 0.07745792
+        }
+      ]
+    }
+  ]
+}

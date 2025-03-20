@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9672241,
+          "topicality": 0.038205918
+        },
+        {
+          "description": "Bird",
+          "mid": "/m/015p6",
+          "score": 0.9075962,
+          "topicality": 0.52388316
+        },
+        {
+          "description": "Beak",
+          "mid": "/m/01c4rd",
+          "score": 0.8590095,
+          "topicality": 0.019113492
+        },
+        {
+          "description": "Cage",
+          "mid": "/m/06_4_k",
+          "score": 0.777215,
+          "topicality": 0.17905614
+        },
+        {
+          "description": "Line art",
+          "mid": "/m/0919rx",
+          "score": 0.73468244,
+          "topicality": 0.008860068
+        },
+        {
+          "description": "Clip art",
+          "mid": "/m/03g09t",
+          "score": 0.6639376,
+          "topicality": 0.1285716
+        },
+        {
+          "description": "Sketch",
+          "mid": "/m/07glzq",
+          "score": 0.5877155,
+          "topicality": 0.020017855
+        },
+        {
+          "description": "Pet Supply",
+          "mid": "/m/0h8ks17",
+          "score": 0.5803056,
+          "topicality": 5.0960043e-05
+        },
+        {
+          "description": "Silhouette",
+          "mid": "/m/03thgk",
+          "score": 0.5390335,
+          "topicality": 0.12644866
+        }
+      ]
+    }
+  ]
+}

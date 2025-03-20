@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Paper",
+          "mid": "/m/0641k",
+          "score": 0.80884135,
+          "topicality": 0.1239058
+        },
+        {
+          "description": "Advertising",
+          "mid": "/m/011s0",
+          "score": 0.79514885,
+          "topicality": 0.0669613
+        },
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.7447061,
+          "topicality": 0.0026665884
+        },
+        {
+          "description": "Publication",
+          "mid": "/m/01h1dd",
+          "score": 0.6620087,
+          "topicality": 0.023533566
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.61551726,
+          "topicality": 0.028817922
+        },
+        {
+          "description": "Graphic design",
+          "mid": "/m/03c31",
+          "score": 0.6032224,
+          "topicality": 0.036515485
+        },
+        {
+          "description": "News",
+          "mid": "/m/05jhg",
+          "score": 0.5301095,
+          "topicality": 0.011751707
+        }
+      ]
+    }
+  ]
+}

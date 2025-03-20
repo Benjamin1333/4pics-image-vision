@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.96381193,
+          "topicality": 0.0003810717
+        },
+        {
+          "description": "Electrical cable",
+          "mid": "/m/0bmz2",
+          "score": 0.9038852,
+          "topicality": 0.29613778
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8937376,
+          "topicality": 0.007972954
+        },
+        {
+          "description": "Orange",
+          "mid": "/m/0jc_p",
+          "score": 0.88521755,
+          "topicality": 0.0016547103
+        },
+        {
+          "description": "Wire",
+          "mid": "/m/083kv",
+          "score": 0.8226819,
+          "topicality": 0.014417634
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.7870424,
+          "topicality": 0.006044523
+        },
+        {
+          "description": "Adapter",
+          "mid": "/m/02ztj6",
+          "score": 0.7735494,
+          "topicality": 0.20385331
+        },
+        {
+          "description": "Adapter",
+          "mid": "/m/0cw1wr",
+          "score": 0.76420796,
+          "topicality": 0.03572699
+        },
+        {
+          "description": "Battery charger",
+          "mid": "/m/0892cv",
+          "score": 0.67036617,
+          "topicality": 0.075307935
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.6675289,
+          "topicality": 0.0023830477
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Fruit",
+          "mid": "/m/02xwb",
+          "score": 0.9889512,
+          "topicality": 0.32110882
+        },
+        {
+          "description": "Apple",
+          "mid": "/m/014j1m",
+          "score": 0.9774812,
+          "topicality": 0.70483786
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.97232234,
+          "topicality": 0.07929975
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.9705914,
+          "topicality": 0.06164048
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.9644765,
+          "topicality": 0.008110669
+        },
+        {
+          "description": "Fruit tree",
+          "mid": "/m/0p719",
+          "score": 0.92749804,
+          "topicality": 0.25722155
+        },
+        {
+          "description": "McIntosh red",
+          "mid": "/m/052rh",
+          "score": 0.84800625,
+          "topicality": 0.017519455
+        },
+        {
+          "description": "Seedless fruit",
+          "mid": "/m/0bvv45",
+          "score": 0.8276498,
+          "topicality": 0.001716739
+        },
+        {
+          "description": "Basket",
+          "mid": "/m/01z562",
+          "score": 0.757948,
+          "topicality": 0.09221928
+        },
+        {
+          "description": "Rose family",
+          "mid": "/m/06dmh",
+          "score": 0.66165525,
+          "topicality": 0.0015130918
+        }
+      ]
+    }
+  ]
+}

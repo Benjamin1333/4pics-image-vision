@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Flag",
+          "mid": "/m/03120",
+          "score": 0.9277589,
+          "topicality": 0.40458706
+        },
+        {
+          "description": "Sculpture",
+          "mid": "/m/06msq",
+          "score": 0.92250085,
+          "topicality": 0.00743634
+        },
+        {
+          "description": "Statue",
+          "mid": "/m/013_1c",
+          "score": 0.8728844,
+          "topicality": 0.033768337
+        },
+        {
+          "description": "pole",
+          "mid": "/m/07pltdk",
+          "score": 0.84933406,
+          "topicality": 0.0033753254
+        },
+        {
+          "description": "Monument",
+          "mid": "/m/02ljgl",
+          "score": 0.8237746,
+          "topicality": 0.026403528
+        },
+        {
+          "description": "Wind",
+          "mid": "/m/03m9d0z",
+          "score": 0.5724927,
+          "topicality": 0.012043907
+        },
+        {
+          "description": "Government",
+          "mid": "/m/036nz",
+          "score": 0.55826455,
+          "topicality": 0.023924101
+        }
+      ]
+    }
+  ]
+}

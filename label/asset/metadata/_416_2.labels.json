@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.79168326,
+          "topicality": 0.018758934
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.564177,
+          "topicality": 0.011586585
+        }
+      ]
+    }
+  ]
+}

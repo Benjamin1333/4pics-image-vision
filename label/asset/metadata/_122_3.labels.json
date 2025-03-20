@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Baseball",
+          "mid": "/m/018jz",
+          "score": 0.9860643,
+          "topicality": 0.84091824
+        },
+        {
+          "description": "Bat-and-ball games",
+          "mid": "/m/027zgtw",
+          "score": 0.98456556,
+          "topicality": 0.12140758
+        },
+        {
+          "description": "Ball game",
+          "mid": "/m/020m7t",
+          "score": 0.97768253,
+          "topicality": 0.071950674
+        },
+        {
+          "description": "baseball equipment",
+          "mid": "/m/07pdzb4",
+          "score": 0.9725744,
+          "topicality": 0.047209334
+        },
+        {
+          "description": "Baseball bat",
+          "mid": "/m/03g8mr",
+          "score": 0.97044814,
+          "topicality": 0.73156136
+        },
+        {
+          "description": "Sports equipment",
+          "mid": "/m/05y5lj",
+          "score": 0.9342399,
+          "topicality": 0.023439677
+        },
+        {
+          "description": "Sports",
+          "mid": "/m/06ntj",
+          "score": 0.92815286,
+          "topicality": 0.09302917
+        },
+        {
+          "description": "Softball Bat",
+          "mid": "/m/0h8mjr_",
+          "score": 0.92049026,
+          "topicality": 0.052747216
+        },
+        {
+          "description": "Ball",
+          "mid": "/m/018xm",
+          "score": 0.914026,
+          "topicality": 0.27952847
+        },
+        {
+          "description": "College baseball",
+          "mid": "/m/04xc_d",
+          "score": 0.8622932,
+          "topicality": 0.010405625
+        }
+      ]
+    }
+  ]
+}

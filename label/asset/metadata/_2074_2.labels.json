@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Cloud",
+          "mid": "/m/0csby",
+          "score": 0.9816008,
+          "topicality": 0.13087134
+        },
+        {
+          "description": "Daytime",
+          "mid": "/m/02q7ylj",
+          "score": 0.98140085,
+          "topicality": 0.004573484
+        },
+        {
+          "description": "Smoke",
+          "mid": "/m/06q40",
+          "score": 0.97904134,
+          "topicality": 0.61028904
+        },
+        {
+          "description": "Pollution",
+          "mid": "/m/066xq",
+          "score": 0.9643454,
+          "topicality": 0.7468309
+        },
+        {
+          "description": "Industry",
+          "mid": "/m/03rnh",
+          "score": 0.89518946,
+          "topicality": 0.15775749
+        },
+        {
+          "description": "Cumulus",
+          "mid": "/m/0csh5",
+          "score": 0.8864837,
+          "topicality": 0.0078663565
+        },
+        {
+          "description": "Pipe",
+          "mid": "/m/09w9qp",
+          "score": 0.85298336,
+          "topicality": 0.002309326
+        },
+        {
+          "description": "Meteorological phenomenon",
+          "mid": "/g/11k2xz7mr",
+          "score": 0.83821404,
+          "topicality": 5.8156347e-05
+        },
+        {
+          "description": "Factory",
+          "mid": "/m/0168g6",
+          "score": 0.83385015,
+          "topicality": 0.35940278
+        },
+        {
+          "description": "Chimney",
+          "mid": "/m/01jk_4",
+          "score": 0.8239229,
+          "topicality": 0.21209541
+        }
+      ]
+    }
+  ]
+}

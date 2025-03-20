@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.97873545,
+          "topicality": 0.14083481
+        },
+        {
+          "description": "Headgear",
+          "mid": "/m/01443y",
+          "score": 0.94497985,
+          "topicality": 0.0003276895
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.9445845,
+          "topicality": 0.00045161674
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.92127866,
+          "topicality": 0.13616021
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.91352504,
+          "topicality": 0.03517625
+        },
+        {
+          "description": "Autumn",
+          "mid": "/m/0134l",
+          "score": 0.90930843,
+          "topicality": 0.84010386
+        },
+        {
+          "description": "Knit cap",
+          "mid": "/m/021_yc",
+          "score": 0.90143454,
+          "topicality": 0.0018785964
+        },
+        {
+          "description": "Orange",
+          "mid": "/m/0jc_p",
+          "score": 0.89817655,
+          "topicality": 0.024877531
+        },
+        {
+          "description": "Beanie",
+          "mid": "/m/02gw_5",
+          "score": 0.85311747,
+          "topicality": 0.0022237122
+        },
+        {
+          "description": "People in nature",
+          "mid": "/j/3gbwgn",
+          "score": 0.83785564,
+          "topicality": 0.0010525164
+        }
+      ]
+    }
+  ]
+}

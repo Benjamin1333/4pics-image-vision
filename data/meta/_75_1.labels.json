@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "High-rise building",
+          "mid": "/m/0vlys",
+          "score": 0.92714006,
+          "topicality": 0.0069003585
+        },
+        {
+          "description": "Cloud",
+          "mid": "/m/0csby",
+          "score": 0.9240908,
+          "topicality": 0.020363234
+        },
+        {
+          "description": "Skyscraper",
+          "mid": "/m/079cl",
+          "score": 0.8882015,
+          "topicality": 0.04422392
+        },
+        {
+          "description": "Tower",
+          "mid": "/m/01fdzj",
+          "score": 0.8685267,
+          "topicality": 0.010624633
+        },
+        {
+          "description": "Cityscape",
+          "mid": "/m/034z7h",
+          "score": 0.768162,
+          "topicality": 0.02168184
+        },
+        {
+          "description": "Condominium",
+          "mid": "/m/020ys5",
+          "score": 0.70087135,
+          "topicality": 0.00052547123
+        },
+        {
+          "description": "Skyline",
+          "mid": "/m/0204fg",
+          "score": 0.68265975,
+          "topicality": 0.002220184
+        },
+        {
+          "description": "Meteorological phenomenon",
+          "mid": "/g/11k2xz7mr",
+          "score": 0.61589044,
+          "topicality": 2.0566056e-06
+        },
+        {
+          "description": "Rejoicing",
+          "mid": "/j/6sm44l",
+          "score": 0.6031442,
+          "topicality": 0.010424581
+        },
+        {
+          "description": "Cumulus",
+          "mid": "/m/0csh5",
+          "score": 0.60022384,
+          "topicality": 0.001706612
+        }
+      ]
+    }
+  ]
+}

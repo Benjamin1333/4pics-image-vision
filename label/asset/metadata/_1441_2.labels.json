@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.633067,
+          "topicality": 0.015919292
+        },
+        {
+          "description": "Door handle",
+          "mid": "/m/03c7gz",
+          "score": 0.6240725,
+          "topicality": 0.06669911
+        },
+        {
+          "description": "Handle",
+          "mid": "/m/04x0wb",
+          "score": 0.55511963,
+          "topicality": 0.023331653
+        },
+        {
+          "description": "Household hardware",
+          "mid": "/m/03jvk",
+          "score": 0.53769755,
+          "topicality": 0.0010135957
+        }
+      ]
+    }
+  ]
+}

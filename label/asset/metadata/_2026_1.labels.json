@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.9478063,
+          "topicality": 0.13569295
+        },
+        {
+          "description": "Writing implement",
+          "mid": "/m/06wybl",
+          "score": 0.90196115,
+          "topicality": 0.026574977
+        },
+        {
+          "description": "Blackboard",
+          "mid": "/m/02kdvj",
+          "score": 0.88487786,
+          "topicality": 0.07969365
+        },
+        {
+          "description": "Stationery",
+          "mid": "/m/01cndb",
+          "score": 0.86390567,
+          "topicality": 0.12288899
+        },
+        {
+          "description": "Office Instrument",
+          "mid": "/m/0h8m01z",
+          "score": 0.77552855,
+          "topicality": 0.000348159
+        },
+        {
+          "description": "Office Equipment",
+          "mid": "/m/03qtgjk",
+          "score": 0.76161253,
+          "topicality": 0.0007410391
+        },
+        {
+          "description": "Chalk",
+          "mid": "/m/0c5q8",
+          "score": 0.72219443,
+          "topicality": 0.24567361
+        },
+        {
+          "description": "Pen",
+          "mid": "/m/0k1tl",
+          "score": 0.6523763,
+          "topicality": 0.04634924
+        },
+        {
+          "description": "Education",
+          "mid": "/m/02jfc",
+          "score": 0.6045478,
+          "topicality": 0.08810972
+        },
+        {
+          "description": "Handwriting",
+          "mid": "/m/0gkxy13",
+          "score": 0.5863646,
+          "topicality": 0.02716558
+        }
+      ]
+    }
+  ]
+}

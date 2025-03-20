@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Train",
+          "mid": "/m/07jdr",
+          "score": 0.9935935,
+          "topicality": 0.5755958
+        },
+        {
+          "description": "Rolling stock",
+          "mid": "/m/025s53m",
+          "score": 0.9865065,
+          "topicality": 0.043763362
+        },
+        {
+          "description": "Mode of transport",
+          "mid": "/m/079bkr",
+          "score": 0.9856088,
+          "topicality": 0.012635581
+        },
+        {
+          "description": "Transport",
+          "mid": "/m/07bsy",
+          "score": 0.9842709,
+          "topicality": 0.047960293
+        },
+        {
+          "description": "Rail transport",
+          "mid": "/m/06d_3",
+          "score": 0.97814244,
+          "topicality": 0.31111637
+        },
+        {
+          "description": "Passenger car",
+          "mid": "/m/0467y7",
+          "score": 0.9671044,
+          "topicality": 0.42635837
+        },
+        {
+          "description": "Public transport",
+          "mid": "/m/05zdp",
+          "score": 0.95667714,
+          "topicality": 0.015153441
+        },
+        {
+          "description": "Railroad car",
+          "mid": "/m/01g50p",
+          "score": 0.9385136,
+          "topicality": 0.19638224
+        },
+        {
+          "description": "Brown",
+          "mid": "/m/09q2t",
+          "score": 0.9115132,
+          "topicality": 0.00011466684
+        },
+        {
+          "description": "Iron",
+          "mid": "/m/025rw19",
+          "score": 0.87258554,
+          "topicality": 0.00039020958
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.98816353,
+          "topicality": 0.0069474047
+        },
+        {
+          "description": "Postage stamp",
+          "mid": "/m/068vv",
+          "score": 0.9863749,
+          "topicality": 0.9159454
+        },
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.7446784,
+          "topicality": 0.0021506313
+        },
+        {
+          "description": "Collectable",
+          "mid": "/m/0ggr_",
+          "score": 0.6748417,
+          "topicality": 0.009143982
+        },
+        {
+          "description": "Emblem",
+          "mid": "/m/01wk9c",
+          "score": 0.52584416,
+          "topicality": 0.0017020616
+        },
+        {
+          "description": "Mail",
+          "mid": "/m/0dh8s",
+          "score": 0.5015785,
+          "topicality": 0.35753796
+        }
+      ]
+    }
+  ]
+}

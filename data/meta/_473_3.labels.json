@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Tableware",
+          "mid": "/m/04brg2",
+          "score": 0.9747768,
+          "topicality": 0.0027720337
+        },
+        {
+          "description": "Drinkware",
+          "mid": "/m/050h26",
+          "score": 0.9643466,
+          "topicality": 0.0007800704
+        },
+        {
+          "description": "Martini Glass",
+          "mid": "/m/0h8ljlz",
+          "score": 0.9494446,
+          "topicality": 0.003801338
+        },
+        {
+          "description": "Barware",
+          "mid": "/m/0h8nvcj",
+          "score": 0.9424302,
+          "topicality": 0.008851363
+        },
+        {
+          "description": "Alcoholic drink",
+          "mid": "/m/012mj",
+          "score": 0.9356965,
+          "topicality": 0.074231684
+        },
+        {
+          "description": "Liquor",
+          "mid": "/m/04shl0",
+          "score": 0.92955387,
+          "topicality": 0.035751436
+        },
+        {
+          "description": "Glass",
+          "mid": "/m/039jq",
+          "score": 0.83659166,
+          "topicality": 0.12371083
+        },
+        {
+          "description": "Alcohol",
+          "mid": "/m/0lqk",
+          "score": 0.8021804,
+          "topicality": 0.0047574798
+        },
+        {
+          "description": "Cocktail",
+          "mid": "/m/024g6",
+          "score": 0.7862161,
+          "topicality": 0.49112546
+        },
+        {
+          "description": "Classic cocktail",
+          "mid": "/m/02879bl",
+          "score": 0.7364581,
+          "topicality": 0.002948296
+        }
+      ]
+    }
+  ]
+}

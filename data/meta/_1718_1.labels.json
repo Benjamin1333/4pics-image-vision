@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Eyebrow",
+          "mid": "/m/027n3_",
+          "score": 0.9855589,
+          "topicality": 0.0031451446
+        },
+        {
+          "description": "Lips",
+          "mid": "/m/06pj2k",
+          "score": 0.9847959,
+          "topicality": 0.010371237
+        },
+        {
+          "description": "Black hair",
+          "mid": "/m/0fc1fy",
+          "score": 0.9787319,
+          "topicality": 0.047293074
+        },
+        {
+          "description": "Eyelash",
+          "mid": "/m/03f52z",
+          "score": 0.95925796,
+          "topicality": 0.0061074155
+        },
+        {
+          "description": "Pink",
+          "mid": "/m/01fklc",
+          "score": 0.8754974,
+          "topicality": 0.003702517
+        },
+        {
+          "description": "Bangs",
+          "mid": "/m/0gjxqj",
+          "score": 0.76918566,
+          "topicality": 0.022431536
+        },
+        {
+          "description": "Selfie",
+          "mid": "/m/0sgh53y",
+          "score": 0.74849737,
+          "topicality": 0.020568684
+        },
+        {
+          "description": "Portrait photography",
+          "mid": "/m/0chml9",
+          "score": 0.72104025,
+          "topicality": 0.00028393665
+        },
+        {
+          "description": "Step cutting",
+          "mid": "/m/026mhtg",
+          "score": 0.6683769,
+          "topicality": 0.0013755154
+        },
+        {
+          "description": "Lipstick",
+          "mid": "/m/06c7f7",
+          "score": 0.6674167,
+          "topicality": 0.0008788359
+        }
+      ]
+    }
+  ]
+}

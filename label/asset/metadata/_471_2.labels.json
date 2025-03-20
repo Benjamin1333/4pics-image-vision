@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Indoor games and sports",
+          "mid": "/m/0b42l9",
+          "score": 0.9885237,
+          "topicality": 0.0066815666
+        },
+        {
+          "description": "Pool",
+          "mid": "/m/04p0xr",
+          "score": 0.9867545,
+          "topicality": 0.6004581
+        },
+        {
+          "description": "Billiard table",
+          "mid": "/m/04p0qw",
+          "score": 0.98617405,
+          "topicality": 0.4605368
+        },
+        {
+          "description": "Billiard ball",
+          "mid": "/m/02x8n6",
+          "score": 0.97316563,
+          "topicality": 0.30677164
+        },
+        {
+          "description": "Ball",
+          "mid": "/m/018xm",
+          "score": 0.9551369,
+          "topicality": 0.27416685
+        },
+        {
+          "description": "Cue sports",
+          "mid": "/m/015_x",
+          "score": 0.9522546,
+          "topicality": 0.7743413
+        },
+        {
+          "description": "Straight pool",
+          "mid": "/m/0289j0",
+          "score": 0.9518782,
+          "topicality": 0.0043316274
+        },
+        {
+          "description": "Sports",
+          "mid": "/m/06ntj",
+          "score": 0.94491845,
+          "topicality": 0.12796511
+        },
+        {
+          "description": "Billiard room",
+          "mid": "/m/08mm4m",
+          "score": 0.94063765,
+          "topicality": 0.012893742
+        },
+        {
+          "description": "Sports equipment",
+          "mid": "/m/05y5lj",
+          "score": 0.93761665,
+          "topicality": 0.021854794
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Furniture",
+          "mid": "/m/0c_jw",
+          "score": 0.96739936,
+          "topicality": 0.08557137
+        },
+        {
+          "description": "Sitting",
+          "mid": "/m/015c4z",
+          "score": 0.9662289,
+          "topicality": 0.4536966
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94488376,
+          "topicality": 0.00077165046
+        },
+        {
+          "description": "Comfort",
+          "mid": "/m/08xgn7",
+          "score": 0.90957415,
+          "topicality": 0.016011214
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.90927345,
+          "topicality": 0.012175564
+        },
+        {
+          "description": "Formal wear",
+          "mid": "/m/02w3_2",
+          "score": 0.89665115,
+          "topicality": 0.00018496484
+        },
+        {
+          "description": "Blazer",
+          "mid": "/m/04xz_5",
+          "score": 0.85660106,
+          "topicality": 0.0013279608
+        },
+        {
+          "description": "Chair",
+          "mid": "/m/01mzpv",
+          "score": 0.8504178,
+          "topicality": 0.33482447
+        },
+        {
+          "description": "Knee",
+          "mid": "/m/019swr",
+          "score": 0.8479699,
+          "topicality": 0.008182651
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.7933483,
+          "topicality": 0.51117456
+        }
+      ]
+    }
+  ]
+}

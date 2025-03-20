@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Balloon",
+          "mid": "/m/01j51",
+          "score": 0.937154,
+          "topicality": 0.8634376
+        },
+        {
+          "description": "Party Supply",
+          "mid": "/m/0cmqr_4",
+          "score": 0.91706926,
+          "topicality": 0.015199873
+        },
+        {
+          "description": "Toy",
+          "mid": "/m/0138tl",
+          "score": 0.7756947,
+          "topicality": 0.31979224
+        },
+        {
+          "description": "Baby toys",
+          "mid": "/m/0cm3fq4",
+          "score": 0.69021046,
+          "topicality": 0.0054367157
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.6754603,
+          "topicality": 0.016534394
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.96240664,
+          "topicality": 0.00036034203
+        },
+        {
+          "description": "Home appliance",
+          "mid": "/m/019dx1",
+          "score": 0.9249938,
+          "topicality": 0.109649934
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8729504,
+          "topicality": 0.0047320747
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.84234285,
+          "topicality": 0.04624842
+        },
+        {
+          "description": "Electronics",
+          "mid": "/m/02mrp",
+          "score": 0.6419533,
+          "topicality": 0.012894203
+        },
+        {
+          "description": "Output device",
+          "mid": "/m/044_87",
+          "score": 0.5633108,
+          "topicality": 0.00078553177
+        },
+        {
+          "description": "Wire",
+          "mid": "/m/083kv",
+          "score": 0.54777884,
+          "topicality": 0.00026148956
+        },
+        {
+          "description": "Kitchen Appliance",
+          "mid": "/m/0h99cwc",
+          "score": 0.5132122,
+          "topicality": 0.0010096174
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.5114176,
+          "topicality": 0.00030777088
+        },
+        {
+          "description": "Printer",
+          "mid": "/m/01m4t",
+          "score": 0.50081366,
+          "topicality": 0.009694055
+        }
+      ]
+    }
+  ]
+}

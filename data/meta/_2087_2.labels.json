@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9817046,
+          "topicality": 0.047825754
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.95243925,
+          "topicality": 0.020715792
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94452786,
+          "topicality": 0.00087224535
+        },
+        {
+          "description": "Laughter",
+          "mid": "/m/01j3sz",
+          "score": 0.7082742,
+          "topicality": 0.013219655
+        },
+        {
+          "description": "Suit trousers",
+          "mid": "/m/03cvmmd",
+          "score": 0.66872454,
+          "topicality": 6.2792176e-05
+        },
+        {
+          "description": "Collaboration",
+          "mid": "/m/01s560",
+          "score": 0.6122796,
+          "topicality": 0.040745046
+        },
+        {
+          "description": "Rejoicing",
+          "mid": "/j/6sm44l",
+          "score": 0.5129447,
+          "topicality": 0.00040886734
+        }
+      ]
+    }
+  ]
+}

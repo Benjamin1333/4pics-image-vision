@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.95055753,
+          "topicality": 0.017123107
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.87508005,
+          "topicality": 0.09501023
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.83268875,
+          "topicality": 0.0061924243
+        },
+        {
+          "description": "Thumb",
+          "mid": "/m/01bmhj",
+          "score": 0.8147389,
+          "topicality": 0.01255707
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.6764358,
+          "topicality": 0.0043619033
+        },
+        {
+          "description": "Management",
+          "mid": "/m/04_tv",
+          "score": 0.62295884,
+          "topicality": 0.05318166
+        },
+        {
+          "description": "Diagram",
+          "mid": "/m/02v0m2",
+          "score": 0.5941868,
+          "topicality": 0.0066655055
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.57674456,
+          "topicality": 0.0055525624
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.54437476,
+          "topicality": 0.0046029384
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.5272021,
+          "topicality": 0.041831333
+        }
+      ]
+    }
+  ]
+}

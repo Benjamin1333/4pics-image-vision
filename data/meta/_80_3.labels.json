@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Snow",
+          "mid": "/m/06_dn",
+          "score": 0.98915255,
+          "topicality": 0.51624745
+        },
+        {
+          "description": "Blue",
+          "mid": "/m/01g5v",
+          "score": 0.98893654,
+          "topicality": 0.0023000317
+        },
+        {
+          "description": "Winter",
+          "mid": "/m/086mh",
+          "score": 0.9766386,
+          "topicality": 0.57149065
+        },
+        {
+          "description": "Terrain",
+          "mid": "/m/025tn5c",
+          "score": 0.94438326,
+          "topicality": 0.0055035837
+        },
+        {
+          "description": "Mountain",
+          "mid": "/m/09d_r",
+          "score": 0.93364763,
+          "topicality": 0.35049716
+        },
+        {
+          "description": "Glacial landform",
+          "mid": "/m/055s40",
+          "score": 0.9157485,
+          "topicality": 0.0021945175
+        },
+        {
+          "description": "Wilderness",
+          "mid": "/m/023bbt",
+          "score": 0.9112494,
+          "topicality": 0.0027537877
+        },
+        {
+          "description": "geological phenomenon",
+          "mid": "/m/07sn5gn",
+          "score": 0.9001329,
+          "topicality": 5.8961927e-05
+        },
+        {
+          "description": "Freezing",
+          "mid": "/m/01c791",
+          "score": 0.8981579,
+          "topicality": 0.012025831
+        },
+        {
+          "description": "Mountain range",
+          "mid": "/m/04wxr",
+          "score": 0.86510336,
+          "topicality": 0.02117532
+        }
+      ]
+    }
+  ]
+}

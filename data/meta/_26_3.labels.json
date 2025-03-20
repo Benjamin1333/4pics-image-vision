@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.9705357,
+          "topicality": 0.13712616
+        },
+        {
+          "description": "Beef",
+          "mid": "/m/0971v",
+          "score": 0.950383,
+          "topicality": 0.71127063
+        },
+        {
+          "description": "Meat",
+          "mid": "/m/04scj",
+          "score": 0.94081044,
+          "topicality": 0.7640469
+        },
+        {
+          "description": "Red meat",
+          "mid": "/m/05v1q7",
+          "score": 0.8939337,
+          "topicality": 0.2837948
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.8917382,
+          "topicality": 0.0067255865
+        },
+        {
+          "description": "Veal",
+          "mid": "/m/07z2l",
+          "score": 0.89107525,
+          "topicality": 0.38377273
+        },
+        {
+          "description": "Venison",
+          "mid": "/m/01tc53",
+          "score": 0.79028165,
+          "topicality": 0.03617647
+        },
+        {
+          "description": "Goat meat",
+          "mid": "/m/05t0y8q",
+          "score": 0.7810771,
+          "topicality": 0.021425659
+        },
+        {
+          "description": "Animal fat",
+          "mid": "/m/019t6d",
+          "score": 0.7422394,
+          "topicality": 0.0015393324
+        },
+        {
+          "description": "Lamb and mutton",
+          "mid": "/m/01hcps",
+          "score": 0.6730272,
+          "topicality": 0.083324686
+        }
+      ]
+    }
+  ]
+}

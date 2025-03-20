@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.93472123,
+          "topicality": 0.001013211
+        },
+        {
+          "description": "Remote control",
+          "mid": "/m/0qjjc",
+          "score": 0.8938164,
+          "topicality": 0.22201362
+        },
+        {
+          "description": "Display device",
+          "mid": "/m/029zz6",
+          "score": 0.7707788,
+          "topicality": 0.0015279718
+        },
+        {
+          "description": "Television set",
+          "mid": "/m/0bx_y3w",
+          "score": 0.6798433,
+          "topicality": 0.03890612
+        },
+        {
+          "description": "Electronics",
+          "mid": "/m/02mrp",
+          "score": 0.62054765,
+          "topicality": 0.0258123
+        },
+        {
+          "description": "Cable television",
+          "mid": "/m/024bm",
+          "score": 0.5640905,
+          "topicality": 0.1168427
+        },
+        {
+          "description": "Television",
+          "mid": "/m/07c52",
+          "score": 0.54808307,
+          "topicality": 0.2882033
+        },
+        {
+          "description": "Gadget",
+          "mid": "/m/02mf1n",
+          "score": 0.54454577,
+          "topicality": 0.006935365
+        }
+      ]
+    }
+  ]
+}

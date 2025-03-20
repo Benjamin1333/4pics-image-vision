@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sphere",
+          "mid": "/m/06y47",
+          "score": 0.8556897,
+          "topicality": 0.27809748
+        },
+        {
+          "description": "Executive toy",
+          "mid": "/m/01xppg",
+          "score": 0.83037186,
+          "topicality": 0.13901201
+        },
+        {
+          "description": "Silver",
+          "mid": "/m/03vtbc",
+          "score": 0.76567847,
+          "topicality": 0.0025587983
+        },
+        {
+          "description": "Nickel",
+          "mid": "/m/025s4r7",
+          "score": 0.6169805,
+          "topicality": 0.011393872
+        },
+        {
+          "description": "Steel",
+          "mid": "/m/06qqb",
+          "score": 0.5746362,
+          "topicality": 0.048889205
+        },
+        {
+          "description": "Aluminium",
+          "mid": "/m/027vj2v",
+          "score": 0.5512073,
+          "topicality": 0.0154282255
+        },
+        {
+          "description": "Pendulum",
+          "mid": "/m/0bqrp",
+          "score": 0.53998387,
+          "topicality": 0.60297155
+        },
+        {
+          "description": "Science",
+          "mid": "/m/06mq7",
+          "score": 0.52363,
+          "topicality": 0.01774685
+        }
+      ]
+    }
+  ]
+}

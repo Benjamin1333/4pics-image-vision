@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Tool",
+          "mid": "/m/07k1x",
+          "score": 0.6108228,
+          "topicality": 0.20729947
+        },
+        {
+          "description": "Steel",
+          "mid": "/m/06qqb",
+          "score": 0.5943518,
+          "topicality": 0.012440246
+        }
+      ]
+    }
+  ]
+}

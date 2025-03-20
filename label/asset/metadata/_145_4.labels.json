@@ -1,0 +1,32 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Geology",
+          "mid": "/m/036hv",
+          "score": 0.846295,
+          "topicality": 0.04310451
+        },
+        {
+          "description": "Bedrock",
+          "mid": "/m/0308t8",
+          "score": 0.79606533,
+          "topicality": 0.018766949
+        },
+        {
+          "description": "Concrete",
+          "mid": "/m/01mxf",
+          "score": 0.7373465,
+          "topicality": 0.20215462
+        },
+        {
+          "description": "Building material",
+          "mid": "/m/02cr01",
+          "score": 0.6631375,
+          "topicality": 0.01078741
+        }
+      ]
+    }
+  ]
+}

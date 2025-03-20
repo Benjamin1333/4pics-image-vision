@@ -1,0 +1,20 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Symbol",
+          "mid": "/m/09ddf",
+          "score": 0.67887026,
+          "topicality": 0.07237041
+        },
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.5957293,
+          "topicality": 0.0042929323
+        }
+      ]
+    }
+  ]
+}

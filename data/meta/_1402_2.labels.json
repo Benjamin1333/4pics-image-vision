@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Dog",
+          "mid": "/m/0bt9lr",
+          "score": 0.99535173,
+          "topicality": 0.59916687
+        },
+        {
+          "description": "Carnivores",
+          "mid": "/m/01lrl",
+          "score": 0.98084986,
+          "topicality": 0.011898112
+        },
+        {
+          "description": "Puppy",
+          "mid": "/m/0d7s3w",
+          "score": 0.9760183,
+          "topicality": 0.73573875
+        },
+        {
+          "description": "Cat",
+          "mid": "/m/01yrx",
+          "score": 0.9725414,
+          "topicality": 0.22163993
+        },
+        {
+          "description": "Vertebrate",
+          "mid": "/m/09686",
+          "score": 0.96219033,
+          "topicality": 0.0062341206
+        },
+        {
+          "description": "Snout",
+          "mid": "/m/05mqq3",
+          "score": 0.90745574,
+          "topicality": 0.0074987547
+        },
+        {
+          "description": "Felinae",
+          "mid": "/m/07k6w8",
+          "score": 0.887063,
+          "topicality": 0.009748686
+        },
+        {
+          "description": "Felidae",
+          "mid": "/m/0307l",
+          "score": 0.87489235,
+          "topicality": 0.05076974
+        },
+        {
+          "description": "Retriever",
+          "mid": "/m/020xxc",
+          "score": 0.8742907,
+          "topicality": 0.4408404
+        },
+        {
+          "description": "Canidae",
+          "mid": "/m/01z5f",
+          "score": 0.80772686,
+          "topicality": 0.07399142
+        }
+      ]
+    }
+  ]
+}

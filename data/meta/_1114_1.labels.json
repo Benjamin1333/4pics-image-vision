@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Sewing machine",
+          "mid": "/m/0llzx",
+          "score": 0.9843555,
+          "topicality": 0.7542884
+        },
+        {
+          "description": "Denim",
+          "mid": "/m/0hgr6",
+          "score": 0.9644296,
+          "topicality": 0.009243607
+        },
+        {
+          "description": "Textile",
+          "mid": "/m/0dnr7",
+          "score": 0.9488285,
+          "topicality": 0.027361516
+        },
+        {
+          "description": "Sewing Machine Feet",
+          "mid": "/m/0hgs1d_",
+          "score": 0.9073937,
+          "topicality": 0.21423909
+        },
+        {
+          "description": "Sewing",
+          "mid": "/m/0mz8t",
+          "score": 0.8697796,
+          "topicality": 0.72804767
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.82394844,
+          "topicality": 0.30890223
+        },
+        {
+          "description": "Sewing machine needle",
+          "mid": "/m/0crdgbv",
+          "score": 0.71953976,
+          "topicality": 0.109310225
+        },
+        {
+          "description": "Creative arts",
+          "mid": "/m/0dw9f6",
+          "score": 0.70513934,
+          "topicality": 0.00013407289
+        },
+        {
+          "description": "Stitch",
+          "mid": "/m/0c3ynbd",
+          "score": 0.64671546,
+          "topicality": 0.056647792
+        }
+      ]
+    }
+  ]
+}

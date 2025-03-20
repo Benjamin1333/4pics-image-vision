@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Elbow",
+          "mid": "/m/01vm1p",
+          "score": 0.86810946,
+          "topicality": 0.0018079657
+        },
+        {
+          "description": "cardboard",
+          "mid": "/m/03q7pgh",
+          "score": 0.78914845,
+          "topicality": 0.24468586
+        },
+        {
+          "description": "Paper Product",
+          "mid": "/m/0h8p59j",
+          "score": 0.7684992,
+          "topicality": 0.000180176
+        },
+        {
+          "description": "Denim",
+          "mid": "/m/0hgr6",
+          "score": 0.7578784,
+          "topicality": 0.00019582642
+        },
+        {
+          "description": "Package delivery",
+          "mid": "/m/01d743",
+          "score": 0.65524954,
+          "topicality": 0.045578048
+        },
+        {
+          "description": "Box",
+          "mid": "/m/025dyy",
+          "score": 0.5908453,
+          "topicality": 0.05322033
+        },
+        {
+          "description": "Balance",
+          "mid": "/m/03gs8b2",
+          "score": 0.5403265,
+          "topicality": 0.0060219374
+        }
+      ]
+    }
+  ]
+}

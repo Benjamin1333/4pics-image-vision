@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Electronic device",
+          "mid": "/m/0bs7_0t",
+          "score": 0.97221625,
+          "topicality": 0.0008946033
+        },
+        {
+          "description": "Finger",
+          "mid": "/m/09cx8",
+          "score": 0.93579364,
+          "topicality": 0.0038538857
+        },
+        {
+          "description": "Office Equipment",
+          "mid": "/m/03qtgjk",
+          "score": 0.8955823,
+          "topicality": 0.00039760768
+        },
+        {
+          "description": "Input device",
+          "mid": "/m/02dwgb",
+          "score": 0.89105225,
+          "topicality": 0.0052585285
+        },
+        {
+          "description": "Technology",
+          "mid": "/m/07c1v",
+          "score": 0.8480149,
+          "topicality": 0.050533313
+        },
+        {
+          "description": "Electronics",
+          "mid": "/m/02mrp",
+          "score": 0.8452648,
+          "topicality": 0.087441415
+        },
+        {
+          "description": "Office supplies",
+          "mid": "/m/02rdsp",
+          "score": 0.83774745,
+          "topicality": 0.0025161707
+        },
+        {
+          "description": "Thumb",
+          "mid": "/m/01bmhj",
+          "score": 0.823705,
+          "topicality": 0.00040622044
+        },
+        {
+          "description": "Display device",
+          "mid": "/m/029zz6",
+          "score": 0.8167603,
+          "topicality": 0.00088131503
+        },
+        {
+          "description": "Nail",
+          "mid": "/m/023j4r",
+          "score": 0.79849494,
+          "topicality": 0.0005954229
+        }
+      ]
+    }
+  ]
+}

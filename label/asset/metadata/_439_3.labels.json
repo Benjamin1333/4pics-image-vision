@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Garden",
+          "mid": "/m/0bl0l",
+          "score": 0.9362747,
+          "topicality": 0.4138119
+        },
+        {
+          "description": "Groundcover",
+          "mid": "/m/018ssc",
+          "score": 0.879249,
+          "topicality": 0.030659553
+        },
+        {
+          "description": "Plantation",
+          "mid": "/m/011yvr",
+          "score": 0.8763273,
+          "topicality": 0.043753613
+        },
+        {
+          "description": "Grasses",
+          "mid": "/m/0fkrk",
+          "score": 0.866152,
+          "topicality": 0.020662755
+        },
+        {
+          "description": "Agriculture",
+          "mid": "/m/0hkf",
+          "score": 0.8601958,
+          "topicality": 0.080182865
+        },
+        {
+          "description": "Soil",
+          "mid": "/m/09dv7",
+          "score": 0.8311109,
+          "topicality": 0.09943868
+        },
+        {
+          "description": "Landscaping",
+          "mid": "/m/025sv9y",
+          "score": 0.81490713,
+          "topicality": 0.028549919
+        },
+        {
+          "description": "Herbaceous plant",
+          "mid": "/m/01j03x",
+          "score": 0.75285435,
+          "topicality": 0.044424012
+        },
+        {
+          "description": "Yard",
+          "mid": "/m/049_3v",
+          "score": 0.7031235,
+          "topicality": 0.03995768
+        },
+        {
+          "description": "Backyard",
+          "mid": "/m/0hrcj2p",
+          "score": 0.6373119,
+          "topicality": 0.0072677974
+        }
+      ]
+    }
+  ]
+}

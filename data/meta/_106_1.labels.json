@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Currency",
+          "mid": "/m/01q7l",
+          "score": 0.95675415,
+          "topicality": 0.079273544
+        },
+        {
+          "description": "Money",
+          "mid": "/m/04_x4",
+          "score": 0.95146644,
+          "topicality": 0.6763435
+        },
+        {
+          "description": "Cash",
+          "mid": "/m/0fd6q",
+          "score": 0.93569076,
+          "topicality": 0.22088532
+        },
+        {
+          "description": "Banknote",
+          "mid": "/m/01dl3j",
+          "score": 0.9352568,
+          "topicality": 0.104189344
+        },
+        {
+          "description": "Dollar",
+          "mid": "/m/0285v",
+          "score": 0.91556627,
+          "topicality": 0.33318263
+        },
+        {
+          "description": "Money Handling",
+          "mid": "/m/0h8n2s1",
+          "score": 0.82977474,
+          "topicality": 0.0052433754
+        },
+        {
+          "description": "Money bag",
+          "mid": "/m/0bhb1h8",
+          "score": 0.7714154,
+          "topicality": 0.75715446
+        },
+        {
+          "description": "Saving",
+          "mid": "/m/0hbm6",
+          "score": 0.62454456,
+          "topicality": 0.1213142
+        },
+        {
+          "description": "Gunny sack",
+          "mid": "/m/03ntdn",
+          "score": 0.59666187,
+          "topicality": 0.46782184
+        }
+      ]
+    }
+  ]
+}

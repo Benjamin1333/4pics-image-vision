@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Street name sign",
+          "mid": "/m/04jph85",
+          "score": 0.94587255,
+          "topicality": 0.40588003
+        },
+        {
+          "description": "Sign",
+          "mid": "/m/06zsq",
+          "score": 0.90513307,
+          "topicality": 0.36462727
+        },
+        {
+          "description": "Font",
+          "mid": "/m/03gq5hm",
+          "score": 0.8985067,
+          "topicality": 0.0009084633
+        },
+        {
+          "description": "Traffic sign",
+          "mid": "/m/01mqdt",
+          "score": 0.5275794,
+          "topicality": 0.25534225
+        },
+        {
+          "description": "Triangle",
+          "mid": "/m/07jx7",
+          "score": 0.5249556,
+          "topicality": 0.0003152718
+        }
+      ]
+    }
+  ]
+}

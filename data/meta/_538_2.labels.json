@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.97326684,
+          "topicality": 0.23136911
+        },
+        {
+          "description": "Meat",
+          "mid": "/m/04scj",
+          "score": 0.95792675,
+          "topicality": 0.16540226
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.938723,
+          "topicality": 0.007828363
+        },
+        {
+          "description": "Bird",
+          "mid": "/m/015p6",
+          "score": 0.9199889,
+          "topicality": 0.040314216
+        },
+        {
+          "description": "Turkey meat",
+          "mid": "/m/0gl3jh5",
+          "score": 0.8932899,
+          "topicality": 0.63782614
+        },
+        {
+          "description": "Chicken",
+          "mid": "/m/0f25w9",
+          "score": 0.8564054,
+          "topicality": 0.3315991
+        },
+        {
+          "description": "Food group",
+          "mid": "/m/08fw1g",
+          "score": 0.7788691,
+          "topicality": 0.0024761704
+        },
+        {
+          "description": "Vegetable",
+          "mid": "/m/0f4s2w",
+          "score": 0.7537776,
+          "topicality": 0.043388627
+        },
+        {
+          "description": "Recipe",
+          "mid": "/m/0p57p",
+          "score": 0.73321176,
+          "topicality": 0.0803325
+        },
+        {
+          "description": "Turducken",
+          "mid": "/m/01_g9d",
+          "score": 0.71092194,
+          "topicality": 0.010253076
+        }
+      ]
+    }
+  ]
+}

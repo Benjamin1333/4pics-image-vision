@@ -1,0 +1,56 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Winter",
+          "mid": "/m/086mh",
+          "score": 0.91512203,
+          "topicality": 0.14388257
+        },
+        {
+          "description": "Snow",
+          "mid": "/m/06_dn",
+          "score": 0.8786495,
+          "topicality": 0.43604696
+        },
+        {
+          "description": "Glacial landform",
+          "mid": "/m/055s40",
+          "score": 0.78560895,
+          "topicality": 0.00015763003
+        },
+        {
+          "description": "Freezing",
+          "mid": "/m/01c791",
+          "score": 0.73709214,
+          "topicality": 0.0046787816
+        },
+        {
+          "description": "Glacier",
+          "mid": "/m/038jz",
+          "score": 0.66248745,
+          "topicality": 0.0046789194
+        },
+        {
+          "description": "Ice cap",
+          "mid": "/m/04b966",
+          "score": 0.6175415,
+          "topicality": 0.0012476601
+        },
+        {
+          "description": "Alps",
+          "mid": "/m/0lcd",
+          "score": 0.59685886,
+          "topicality": 0.00040094298
+        },
+        {
+          "description": "Tundra",
+          "mid": "/m/07k3c",
+          "score": 0.52702004,
+          "topicality": 0.028415626
+        }
+      ]
+    }
+  ]
+}

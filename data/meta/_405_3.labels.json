@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Tableware",
+          "mid": "/m/04brg2",
+          "score": 0.9574473,
+          "topicality": 0.0028222823
+        },
+        {
+          "description": "Alcoholic drink",
+          "mid": "/m/012mj",
+          "score": 0.9563731,
+          "topicality": 0.1401159
+        },
+        {
+          "description": "Smile",
+          "mid": "/m/019nj4",
+          "score": 0.93744195,
+          "topicality": 0.008555225
+        },
+        {
+          "description": "Cocktail",
+          "mid": "/m/024g6",
+          "score": 0.906677,
+          "topicality": 0.6732574
+        },
+        {
+          "description": "Party",
+          "mid": "/m/05_4_",
+          "score": 0.8956703,
+          "topicality": 0.43997082
+        },
+        {
+          "description": "Drinking",
+          "mid": "/m/0hjbz",
+          "score": 0.88898104,
+          "topicality": 0.06761412
+        },
+        {
+          "description": "Liquor",
+          "mid": "/m/04shl0",
+          "score": 0.8722728,
+          "topicality": 0.008849686
+        },
+        {
+          "description": "Drinkware",
+          "mid": "/m/050h26",
+          "score": 0.8541151,
+          "topicality": 0.00027475026
+        },
+        {
+          "description": "Classic cocktail",
+          "mid": "/m/02879bl",
+          "score": 0.84235966,
+          "topicality": 0.0016249425
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.8060213,
+          "topicality": 0.005381828
+        }
+      ]
+    }
+  ]
+}

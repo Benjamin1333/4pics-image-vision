@@ -1,0 +1,50 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94484264,
+          "topicality": 0.0028183046
+        },
+        {
+          "description": "White-collar worker",
+          "mid": "/m/01kq3x",
+          "score": 0.888412,
+          "topicality": 0.028133214
+        },
+        {
+          "description": "Necktie",
+          "mid": "/m/01rkbr",
+          "score": 0.7375108,
+          "topicality": 0.0005257633
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.72824067,
+          "topicality": 0.006482825
+        },
+        {
+          "description": "Businessperson",
+          "mid": "/m/012t_z",
+          "score": 0.668954,
+          "topicality": 0.20374896
+        },
+        {
+          "description": "Animation",
+          "mid": "/m/0hcr",
+          "score": 0.617043,
+          "topicality": 0.0018914505
+        },
+        {
+          "description": "Worry",
+          "mid": "/m/0bg_x1",
+          "score": 0.501986,
+          "topicality": 0.016080221
+        }
+      ]
+    }
+  ]
+}

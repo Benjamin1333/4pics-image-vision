@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Collar",
+          "mid": "/m/091410",
+          "score": 0.96811295,
+          "topicality": 0.003347627
+        },
+        {
+          "description": "Facial expression",
+          "mid": "/m/01k74n",
+          "score": 0.94459146,
+          "topicality": 0.0025194038
+        },
+        {
+          "description": "Dress shirt",
+          "mid": "/m/06hwcd",
+          "score": 0.9038853,
+          "topicality": 0.0012159362
+        },
+        {
+          "description": "Necktie",
+          "mid": "/m/01rkbr",
+          "score": 0.86394614,
+          "topicality": 0.01715371
+        },
+        {
+          "description": "Mohawk hairstyle",
+          "mid": "/m/03nwjn",
+          "score": 0.81391937,
+          "topicality": 0.2029044
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.7481849,
+          "topicality": 0.0053767
+        }
+      ]
+    }
+  ]
+}

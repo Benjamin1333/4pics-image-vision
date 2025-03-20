@@ -1,0 +1,14 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Graphics",
+          "mid": "/m/021sdg",
+          "score": 0.58769226,
+          "topicality": 0.002011056
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Abdomen",
+          "mid": "/m/08y7p8",
+          "score": 0.71149004,
+          "topicality": 0.008269778
+        }
+      ]
+    }
+  ]
+}

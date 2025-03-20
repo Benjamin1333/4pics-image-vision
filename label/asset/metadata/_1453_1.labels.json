@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.9852542,
+          "topicality": 0.1262044
+        },
+        {
+          "description": "Sausage",
+          "mid": "/m/0kdzn",
+          "score": 0.95676243,
+          "topicality": 0.780733
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.95345414,
+          "topicality": 0.01541891
+        },
+        {
+          "description": "Chorizo",
+          "mid": "/m/01xg7s",
+          "score": 0.9503393,
+          "topicality": 0.17636788
+        },
+        {
+          "description": "Meat",
+          "mid": "/m/04scj",
+          "score": 0.94152814,
+          "topicality": 0.26227856
+        },
+        {
+          "description": "Cervelat",
+          "mid": "/m/04pfxj",
+          "score": 0.92518294,
+          "topicality": 0.01207438
+        },
+        {
+          "description": "Diot",
+          "mid": "/m/03gy109",
+          "score": 0.9199102,
+          "topicality": 0.015264625
+        },
+        {
+          "description": "Italian sausage",
+          "mid": "/m/09z27p",
+          "score": 0.9172678,
+          "topicality": 0.03355084
+        },
+        {
+          "description": "Longaniza",
+          "mid": "/m/03bxpdm",
+          "score": 0.9164938,
+          "topicality": 0.005219704
+        },
+        {
+          "description": "Mettwurst",
+          "mid": "/m/04n60n",
+          "score": 0.8983846,
+          "topicality": 0.031494327
+        }
+      ]
+    }
+  ]
+}

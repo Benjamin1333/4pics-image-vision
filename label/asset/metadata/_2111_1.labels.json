@@ -1,0 +1,38 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Fruit tree",
+          "mid": "/m/0p719",
+          "score": 0.74237245,
+          "topicality": 0.0016221445
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.6932986,
+          "topicality": 0.027786186
+        },
+        {
+          "description": "Produce",
+          "mid": "/m/036qh8",
+          "score": 0.63117325,
+          "topicality": 0.0004741485
+        },
+        {
+          "description": "Natural foods",
+          "mid": "/m/08tlbj",
+          "score": 0.59975797,
+          "topicality": 0.00024727057
+        },
+        {
+          "description": "Kona coffee",
+          "mid": "/m/067b2y",
+          "score": 0.579738,
+          "topicality": 0.09468196
+        }
+      ]
+    }
+  ]
+}

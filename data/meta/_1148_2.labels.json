@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Trophy",
+          "mid": "/m/02x94h",
+          "score": 0.9869884,
+          "topicality": 0.5184406
+        },
+        {
+          "description": "Award",
+          "mid": "/m/02w3hl",
+          "score": 0.95566374,
+          "topicality": 0.0071821003
+        },
+        {
+          "description": "Happiness",
+          "mid": "/m/016pp7",
+          "score": 0.9481361,
+          "topicality": 0.04061157
+        },
+        {
+          "description": "Gesture",
+          "mid": "/m/0244x1",
+          "score": 0.7562717,
+          "topicality": 0.0021886998
+        },
+        {
+          "description": "Celebrating",
+          "mid": "/j/6ckqtp",
+          "score": 0.703556,
+          "topicality": 0.009969208
+        },
+        {
+          "description": "Cheering",
+          "mid": "/m/053hz1",
+          "score": 0.61617917,
+          "topicality": 0.07001257
+        },
+        {
+          "description": "Ceremony",
+          "mid": "/m/016c4t",
+          "score": 0.568544,
+          "topicality": 0.014750385
+        },
+        {
+          "description": "Rejoicing",
+          "mid": "/j/6sm44l",
+          "score": 0.53258,
+          "topicality": 0.0010888365
+        },
+        {
+          "description": "Performance",
+          "mid": "/m/01gq53",
+          "score": 0.5311647,
+          "topicality": 0.002203707
+        }
+      ]
+    }
+  ]
+}

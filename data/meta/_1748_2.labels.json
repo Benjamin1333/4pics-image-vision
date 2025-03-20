@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.96930796,
+          "topicality": 0.26145497
+        },
+        {
+          "description": "Eating",
+          "mid": "/m/01f5gx",
+          "score": 0.9245018,
+          "topicality": 0.42023638
+        },
+        {
+          "description": "Taste",
+          "mid": "/m/0cp_p",
+          "score": 0.9143644,
+          "topicality": 0.027423473
+        },
+        {
+          "description": "Ingredient",
+          "mid": "/m/07xgrh",
+          "score": 0.8672396,
+          "topicality": 0.022783738
+        },
+        {
+          "description": "Child",
+          "mid": "/m/0ytgt",
+          "score": 0.84514904,
+          "topicality": 0.048240326
+        },
+        {
+          "description": "Baby playing with food",
+          "mid": "/j/4vzx5x",
+          "score": 0.82052284,
+          "topicality": 0.10767743
+        },
+        {
+          "description": "Baby food",
+          "mid": "/m/03kzmq",
+          "score": 0.8167041,
+          "topicality": 0.8330394
+        },
+        {
+          "description": "Bib",
+          "mid": "/m/02850ws",
+          "score": 0.8098562,
+          "topicality": 0.008383305
+        },
+        {
+          "description": "Toddler",
+          "mid": "/m/01bgsw",
+          "score": 0.80536205,
+          "topicality": 0.07824877
+        },
+        {
+          "description": "Dishware",
+          "mid": "/m/0h8nvk9",
+          "score": 0.73929286,
+          "topicality": 0.00017094774
+        }
+      ]
+    }
+  ]
+}

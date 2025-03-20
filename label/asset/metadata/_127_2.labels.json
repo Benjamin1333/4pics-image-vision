@@ -1,0 +1,26 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Crane",
+          "mid": "/m/01v50j",
+          "score": 0.86374426,
+          "topicality": 0.9435591
+        },
+        {
+          "description": "Heavy equipment",
+          "mid": "/m/02gx17",
+          "score": 0.842977,
+          "topicality": 0.0769649
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.79784685,
+          "topicality": 0.03404942
+        }
+      ]
+    }
+  ]
+}

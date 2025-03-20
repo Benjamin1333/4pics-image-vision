@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Beer",
+          "mid": "/m/01599",
+          "score": 0.9791482,
+          "topicality": 0.8881835
+        },
+        {
+          "description": "Alcoholic drink",
+          "mid": "/m/012mj",
+          "score": 0.97084737,
+          "topicality": 0.21541636
+        },
+        {
+          "description": "Barware",
+          "mid": "/m/0h8nvcj",
+          "score": 0.9698414,
+          "topicality": 0.0002793265
+        },
+        {
+          "description": "Tableware",
+          "mid": "/m/04brg2",
+          "score": 0.96784335,
+          "topicality": 0.00038789338
+        },
+        {
+          "description": "Drinkware",
+          "mid": "/m/050h26",
+          "score": 0.9659661,
+          "topicality": 0.0008912753
+        },
+        {
+          "description": "Alcohol",
+          "mid": "/m/0lqk",
+          "score": 0.96194935,
+          "topicality": 0.100370586
+        },
+        {
+          "description": "Beer glassware",
+          "mid": "/m/0bs7sg",
+          "score": 0.941843,
+          "topicality": 0.43199074
+        },
+        {
+          "description": "Wheat beer",
+          "mid": "/m/017blf",
+          "score": 0.93452114,
+          "topicality": 0.116585486
+        },
+        {
+          "description": "Liquid",
+          "mid": "/m/04k94",
+          "score": 0.92120266,
+          "topicality": 0.0015443513
+        },
+        {
+          "description": "Ale",
+          "mid": "/m/0m09",
+          "score": 0.9022444,
+          "topicality": 0.15752167
+        }
+      ]
+    }
+  ]
+}

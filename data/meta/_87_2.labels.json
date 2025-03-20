@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Footwear",
+          "mid": "/m/09j5n",
+          "score": 0.97751063,
+          "topicality": 0.20972596
+        },
+        {
+          "description": "Steel-toe boot",
+          "mid": "/m/01x101",
+          "score": 0.9591363,
+          "topicality": 0.5223013
+        },
+        {
+          "description": "Brown",
+          "mid": "/m/09q2t",
+          "score": 0.91353834,
+          "topicality": 0.06664686
+        },
+        {
+          "description": "Work boots",
+          "mid": "/m/03qkxs7",
+          "score": 0.90866405,
+          "topicality": 0.019075286
+        },
+        {
+          "description": "Hiking boot",
+          "mid": "/m/05bjcj",
+          "score": 0.792736,
+          "topicality": 0.09087687
+        },
+        {
+          "description": "Leather",
+          "mid": "/m/04lbp",
+          "score": 0.786477,
+          "topicality": 0.18581526
+        },
+        {
+          "description": "Suede",
+          "mid": "/m/016qdn",
+          "score": 0.76766247,
+          "topicality": 0.14351858
+        },
+        {
+          "description": "Boot",
+          "mid": "/m/01b638",
+          "score": 0.70862633,
+          "topicality": 0.67070615
+        },
+        {
+          "description": "Walking Shoe",
+          "mid": "/m/0hgs9bq",
+          "score": 0.63873595,
+          "topicality": 4.5080986e-05
+        },
+        {
+          "description": "Hiking Shoe",
+          "mid": "/m/0hgsbhn",
+          "score": 0.61705834,
+          "topicality": 0.00014918859
+        }
+      ]
+    }
+  ]
+}

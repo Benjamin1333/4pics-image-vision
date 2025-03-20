@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Seashell",
+          "mid": "/m/03bwz1j",
+          "score": 0.9636104,
+          "topicality": 0.69228864
+        },
+        {
+          "description": "Bivalvia",
+          "mid": "/m/01cqy9",
+          "score": 0.92665726,
+          "topicality": 0.33982614
+        },
+        {
+          "description": "Natural material",
+          "mid": "/m/07sx2n",
+          "score": 0.8504332,
+          "topicality": 0.0028282937
+        },
+        {
+          "description": "Clam",
+          "mid": "/m/0ffhy",
+          "score": 0.849186,
+          "topicality": 0.22383499
+        },
+        {
+          "description": "Mollusca",
+          "mid": "/m/0fbf8",
+          "score": 0.8359535,
+          "topicality": 0.09789156
+        },
+        {
+          "description": "Shellfish",
+          "mid": "/m/0fbdv",
+          "score": 0.815823,
+          "topicality": 0.30043402
+        },
+        {
+          "description": "Oyster",
+          "mid": "/m/0_cp5",
+          "score": 0.7459477,
+          "topicality": 0.55937034
+        },
+        {
+          "description": "Gastropods",
+          "mid": "/m/018g8j",
+          "score": 0.6702863,
+          "topicality": 0.01651069
+        },
+        {
+          "description": "Animal product",
+          "mid": "/m/0ckdlq",
+          "score": 0.62432265,
+          "topicality": 5.402525e-05
+        },
+        {
+          "description": "Pearl",
+          "mid": "/m/05_8m",
+          "score": 0.5509474,
+          "topicality": 0.14684036
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Money",
+          "mid": "/m/04_x4",
+          "score": 0.9862735,
+          "topicality": 0.7133253
+        },
+        {
+          "description": "Currency",
+          "mid": "/m/01q7l",
+          "score": 0.9820817,
+          "topicality": 0.26235604
+        },
+        {
+          "description": "Cash",
+          "mid": "/m/0fd6q",
+          "score": 0.98027074,
+          "topicality": 0.30821598
+        },
+        {
+          "description": "Coin",
+          "mid": "/m/0242l",
+          "score": 0.95395315,
+          "topicality": 0.47220123
+        },
+        {
+          "description": "Banknote",
+          "mid": "/m/01dl3j",
+          "score": 0.93686664,
+          "topicality": 0.06933232
+        },
+        {
+          "description": "Saving",
+          "mid": "/m/0hbm6",
+          "score": 0.9368452,
+          "topicality": 0.7355317
+        },
+        {
+          "description": "Money Handling",
+          "mid": "/m/0h8n2s1",
+          "score": 0.93647844,
+          "topicality": 0.02838677
+        },
+        {
+          "description": "Dollar",
+          "mid": "/m/0285v",
+          "score": 0.831777,
+          "topicality": 0.19510162
+        },
+        {
+          "description": "Nickel",
+          "mid": "/m/025s4r7",
+          "score": 0.7294179,
+          "topicality": 0.00093468867
+        }
+      ]
+    }
+  ]
+}

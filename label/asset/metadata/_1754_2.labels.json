@@ -1,0 +1,14 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Typesetting",
+          "mid": "/m/016nmn",
+          "score": 0.5473279,
+          "topicality": 0.6617379
+        }
+      ]
+    }
+  ]
+}

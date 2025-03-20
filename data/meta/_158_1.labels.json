@@ -1,0 +1,44 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Vacuum cleaner",
+          "mid": "/m/0d31p",
+          "score": 0.8878645,
+          "topicality": 0.84350324
+        },
+        {
+          "description": "Household Cleaning Supply",
+          "mid": "/m/0h8ntf7",
+          "score": 0.8776096,
+          "topicality": 0.00041593073
+        },
+        {
+          "description": "Machine",
+          "mid": "/m/0dkw5",
+          "score": 0.841558,
+          "topicality": 0.045507267
+        },
+        {
+          "description": "Plastic",
+          "mid": "/m/05z87",
+          "score": 0.654129,
+          "topicality": 0.03204314
+        },
+        {
+          "description": "Carpet sweeper",
+          "mid": "/m/0924z6",
+          "score": 0.6362043,
+          "topicality": 0.421628
+        },
+        {
+          "description": "Personal care",
+          "mid": "/m/02w3_ws",
+          "score": 0.6058741,
+          "topicality": 0.0018325638
+        }
+      ]
+    }
+  ]
+}

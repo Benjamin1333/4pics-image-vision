@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Bird",
+          "mid": "/m/015p6",
+          "score": 0.9942281,
+          "topicality": 0.45957693
+        },
+        {
+          "description": "Beak",
+          "mid": "/m/01c4rd",
+          "score": 0.9705795,
+          "topicality": 0.015774688
+        },
+        {
+          "description": "Vertebrate",
+          "mid": "/m/09686",
+          "score": 0.9618088,
+          "topicality": 0.0013092962
+        },
+        {
+          "description": "Wing",
+          "mid": "/m/083s2",
+          "score": 0.9460897,
+          "topicality": 0.036400124
+        },
+        {
+          "description": "Crane",
+          "mid": "/m/01c43w",
+          "score": 0.94506985,
+          "topicality": 0.9002881
+        },
+        {
+          "description": "Sandhill crane",
+          "mid": "/m/01_l28",
+          "score": 0.9141237,
+          "topicality": 0.91429204
+        },
+        {
+          "description": "Wildlife",
+          "mid": "/m/01280g",
+          "score": 0.9121869,
+          "topicality": 0.028860617
+        },
+        {
+          "description": "Gruiformes",
+          "mid": "/m/01c4kr",
+          "score": 0.9107393,
+          "topicality": 0.025995474
+        },
+        {
+          "description": "Feather",
+          "mid": "/m/0dfgf",
+          "score": 0.8427057,
+          "topicality": 0.00247767
+        },
+        {
+          "description": "Bird migration",
+          "mid": "/m/01cppc",
+          "score": 0.7888801,
+          "topicality": 0.046266433
+        }
+      ]
+    }
+  ]
+}

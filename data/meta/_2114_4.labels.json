@@ -1,0 +1,68 @@
+{
+  "responses": [
+    {
+      "labelAnnotations": [
+        {
+          "description": "Cake",
+          "mid": "/m/0fszt",
+          "score": 0.9728365,
+          "topicality": 0.6680411
+        },
+        {
+          "description": "White",
+          "mid": "/m/083jv",
+          "score": 0.9661679,
+          "topicality": 0.137158
+        },
+        {
+          "description": "Cake decorating",
+          "mid": "/m/02r_57s",
+          "score": 0.93396574,
+          "topicality": 0.27530473
+        },
+        {
+          "description": "Food",
+          "mid": "/m/02wbm",
+          "score": 0.92587906,
+          "topicality": 0.030825099
+        },
+        {
+          "description": "Wedding cake",
+          "mid": "/m/022p83",
+          "score": 0.8869729,
+          "topicality": 0.90738183
+        },
+        {
+          "description": "Wedding Ceremony Supply",
+          "mid": "/m/0hgq063",
+          "score": 0.8848918,
+          "topicality": 0.17666288
+        },
+        {
+          "description": "Dessert",
+          "mid": "/m/0270h",
+          "score": 0.8840423,
+          "topicality": 0.066661306
+        },
+        {
+          "description": "Bridal Clothing",
+          "mid": "/m/0hgs7v4",
+          "score": 0.8615075,
+          "topicality": 0.0008494042
+        },
+        {
+          "description": "Sugar paste",
+          "mid": "/m/02z04ty",
+          "score": 0.85838413,
+          "topicality": 0.07231084
+        },
+        {
+          "description": "Icing",
+          "mid": "/m/02qm2x",
+          "score": 0.8400556,
+          "topicality": 0.06435811
+        }
+      ]
+    }
+  ]
+}
